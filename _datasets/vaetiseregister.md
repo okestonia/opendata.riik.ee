@@ -1,13 +1,13 @@
 ---
 schema: default
 title: Väetiseregister
-notes: 'Väetiseregister on riigi infosüsteemi kuuluv Vabariigi Valitsuse asutatud andmekogu, mille pidamise eesmärk on turustamisotstarbeliste väetiste ning väetiste käitlejate ja nende tegevusvaldkondade kohta andmete kogumine ja süstematiseerimine, et võimaldada ettevõtjate ja nende majandustegevuse üle arvestuse pidamist ning järelevalve teostamist.'
+notes: 'Väetiseregisteri pidamise eesmärk on turustamisotstarbeliste väetiste ning väetiste käitlejate ja nende tegevusvaldkondade kohta andmete kogumine ja süstematiseerimine, et võimaldada ettevõtjate ja nende majandustegevuse üle arvestuse pidamist ning järelevalve teostamist. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet.'
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
 resources:
-  - name: PMA Koduleht
-    url: 'http://www.pma.agri.ee/index.php?id=104&sub=134&sub2=167'
+  - name: Väetiseregister
+    url: 'https://portaal.agri.ee/avalik/#/vaetised'
     format: HTML
   - name: Maaeluministeeriumi avaandmed
     url: 'https://www.agri.ee/et/avaandmed'
@@ -15,10 +15,10 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/07/12
-date_modified: 2017/07/12
-organization: Maaeluministeerium
-maintainer_name: Jüri Tali
-maintainer_email: jyri.tali@agri.ee
+date_modified: 2018/10/11
+organization: Põllumajandusamet
+maintainer_name: ''
+maintainer_email: kliendiportaal@agri.ee
 maintainer_phone: ''
 legacy_url: 'https://opendata.riik.ee/en/dataset/vaetiseregister'
 ---
