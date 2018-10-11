@@ -39,7 +39,7 @@ collections:
   applications:
     output: true
     permalink: /apps/:path/
-  news:
+  blogi:
     output: true
     permalink: /blogi/:path/
 
@@ -59,7 +59,7 @@ defaults:
       layout: organization
   - scope:
       path: ""
-      type: news
+      type: blogi
     values:
       layout: article
 #  - scope:
