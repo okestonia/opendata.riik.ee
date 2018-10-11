@@ -1,0 +1,13 @@
+---
+---
+[{% for news in site.blogi %}
+{
+  "title": {{ news.news_title | jsonify }},
+  "author": {{ news.author | jsonify }},
+  "date": {{ news.submitted | jsonify }},
+  "text_preview": {{ news.preview | jsonify }},
+  "main_text": {{ news.text | jsonify }}
+}
+{% endfor %}
+}
+]
