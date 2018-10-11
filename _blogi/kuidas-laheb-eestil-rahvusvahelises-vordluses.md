@@ -9,7 +9,7 @@ tags:
   - OKFN
   - ODB
   - Avaandmete kasutamise edendamine
-preview: Kuidas hinnata Eesti edusamme avaandmete vallas? Üks võimalus on vaadata, milline paistab Eesti välja võrdluses teiste riikidega. Osalemine (ja edenemine) rahvusvahelistes võrdlusuuringutes on ka üks sel kevadel alanud <a href=\"https://opendata.riik.ee/et/blog/algas-suurprojekt-avaandmete-edendamiseks\" rel=\"nofollow\">projekti “Avaandmete kasutamise edendamine”</a> olulistest tegevusliinidest.
+preview: Kuidas hinnata Eesti edusamme avaandmete vallas? Üks võimalus on vaadata, milline paistab Eesti välja võrdluses teiste riikidega. Osalemine (ja edenemine) rahvusvahelistes võrdlusuuringutes on ka üks sel kevadel alanud projekti “Avaandmete kasutamise edendamine”</a> olulistest tegevusliinidest.
 submitted: 2018/06/12
 author: Maarja Toots
 ---

@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Maaparandusalal tegutsevate ettevõtjate register
-notes: Maaparandusalal tegutsevate ettevõtjate registri pidamise eesmärk on anda avalikkusele teavet maaparandusalal tegutsevatest ettevõtjatest ning võimaldada nende ettevõtjate tegevuse üle arvestuse pidamist ja järelevalvet. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet maaparandussüsteemide registri kohta saab PMA kodulehelt. Andmestik sisaldab ettevõtete infot koos tegevusala infoga. 
+notes: Maaparandusalal tegutsevate ettevõtjate registri pidamise eesmärk on anda avalikkusele teavet maaparandusalal tegutsevatest ettevõtjatest ning võimaldada nende ettevõtjate tegevuse üle arvestuse pidamist ja järelevalvet. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet maaparandussüsteemide registri kohta saab PMA kodulehelt. Andmestik sisaldab ettevõtete infot koos tegevusala infoga.
 department: ''
 category:
   - Riigiteenused
@@ -16,7 +16,7 @@ resources:
     url: 'https://www.agri.ee/et/avaandmed'
     format: HTML
 license: 'http://creativecommons.org/licenses/by/3.0/'
-update_freq: 'igakuiselt'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2017/07/12
 date_modified: 2018/10/10
 organization: Maaeluministeerium
