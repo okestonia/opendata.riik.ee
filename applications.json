@@ -1,0 +1,14 @@
+---
+---
+[{% for app in site.applications %}
+{
+  "title": {{ app.app_name | jsonify}},
+  "creator": {{ app.developed_by | jsonify }},
+  "submitted": {{ app.submitted | jsonify }},
+  "description": {{ app.description | jsonify }},
+  "preview_image": {{ app.app_preview | jsonify }},
+  "url": {{ app.app_url | jsonify }}
+}
+{% endfor %}
+
+]
