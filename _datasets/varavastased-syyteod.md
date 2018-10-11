@@ -25,15 +25,15 @@ resources:
     url: 'https://opendata.smit.ee/ppa/csv/vara_1.csv'
     format: CSV
   - name: Selgitused avaldatavate andmete kohta
-    url: 'https://www.politsei.ee/et/organisatsioon/analuus-ja-statistika/avaandmed.dot'
+    url: 'https://www2.politsei.ee/et/organisatsioon/analuus-ja-statistika/avaandmed.dot'
     format: veebileht
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/11/15
-date_modified: 2017/11/15
+date_modified: 2018/10/11
 organization: Politsei- ja Piirivalveamet
-maintainer_name: Maarja Vesi
-maintainer_email: maarja.vesi@politsei.ee
-maintainer_phone: '6123348'
+maintainer_name:
+maintainer_email: avaandmed@list.politsei.ee
+maintainer_phone: ''
 legacy_url: 'https://opendata.riik.ee/en/dataset/varavastased-syyteod'
 ---
