@@ -37,7 +37,6 @@ layout: default
     {% endif %}
       <h1>
         <span property="dct:title">{{ page.title }}</span>
-      <!--  <a href="?view=edit" class="pull-right btn btn-default admin-only" data-hook="edit-dataset-btn">Edit</a> -->
       </h1>
       <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes }}</p>
 
@@ -114,13 +113,3 @@ layout: default
         </table>
     </div>
   </div>
-
-  <div class="row" data-hook="view" data-view="edit">
-    <div class="col-sm-8 col-sm-offset-2">
-      {% include dataset-form.html dataset=page %}
-    </div>
-    <div class="col-sm-2">
-      <a href="{{ site.baseurl }}{{ page.url }}" class="btn btn-default pull-right">Cancel</a>
-    </div>
-  </div>
-</div>

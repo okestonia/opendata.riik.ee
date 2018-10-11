@@ -48,7 +48,7 @@ tags:
   - andmeajakirjandus
   - Eesti
   - tervis
-preview:   <p><strong>Juba teine postitus sarjas „Avaandmed ja andmeajakirjandus“. See kord piilume Terviseameti veeproovide andmestikku ja uurime, milline on veekvaliteet Eesti ujulates ja veekeskustes.</strong></p>
+preview: Juba teine postitus sarjas „Avaandmed ja andmeajakirjandus“. See kord piilume Terviseameti veeproovide andmestikku ja uurime, milline on veekvaliteet Eesti ujulates ja veekeskustes.
 submitted: 2018/04/07
 author: Annegrete
 ---

@@ -8,7 +8,6 @@ permalink: /publishers/
 <h1>Teabevaldajad</h1>
 <br>
 
-<a href="{{ site.baseurl }}/add-organization/" class="btn btn-default pull-right admin-only" data-hook="add-organization-btn"><i class="fa fa-plus"></i> Add Organization</a>
 
 {% for organization in site.organizations %}
   {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}

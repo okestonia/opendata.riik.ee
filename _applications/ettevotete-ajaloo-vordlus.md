@@ -8,5 +8,5 @@ tags:
   - EMTA
   - ettevõtlus
   - ettevõtete võrldus
-submitted: 19.03.2018
+submitted: 2018/03/19
 ---
