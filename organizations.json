@@ -1,0 +1,9 @@
+---
+---
+[{% for organization in site.organizations %}
+  {
+   "organization": {{ organization.title | jsonify }},
+   "description": {{ organization.description | jsonify }}
+  }
+  {% endfor %}
+  }]
