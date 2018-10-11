@@ -16,5 +16,5 @@ tags:
   - istungid
   - koosolekud
   - tartu
-submitted: 16.01.2017
+submitted: 2017/01/16
 ---

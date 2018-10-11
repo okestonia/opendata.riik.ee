@@ -11,5 +11,5 @@ tags:
   - crowdsourcing
   - fotopärand
   - pildiline pärand
-submitted: 16.03.2017
+submitted: 2017/03/16
 ---

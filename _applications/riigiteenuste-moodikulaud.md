@@ -6,5 +6,5 @@ app_url: 'https://ristohinno.shinyapps.io/Riigiteenused_dashboard/'
 developed_by: Risto Hinno
 tags:
   - riigiteenused
-submitted: 30.03.2018
+submitted: 2018/03/30
 ---
