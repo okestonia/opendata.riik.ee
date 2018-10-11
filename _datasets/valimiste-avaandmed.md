@@ -1,21 +1,21 @@
 ---
 schema: default
-title: Valimiste avaandmed
+title: Valimiste avalikud andmed
 notes: Sisaldab valimistega seotud andmeid 1992 aastast kuni viimaste valimisteni.
 department: ''
 category:
   - Riigiteenused
 resources:
-  - name: 04.12.2015 Toimunud valimised
-    url: 'http://vvk.ee/arhiiv/'
+  - name: Toimunud valimised
+    url: 'https://www.valimised.ee/et/valimiste-arhiiv/toimunud-valimiste-arhiiv'
     format: HTML
 license: ''
 update_freq: ''
 date_issued: 2015/12/04
-date_modified: 2015/12/04
+date_modified: 2015/10/11
 organization: Vabariigi Valimiskomisjon
-maintainer_name: Leino Mandre
-maintainer_email: info@vvk.ee
+maintainer_name: 
+maintainer_email: info@valimised.ee
 maintainer_phone: ''
 legacy_url: 'https://opendata.riik.ee/en/dataset/valimiste-avaandmed'
 ---
