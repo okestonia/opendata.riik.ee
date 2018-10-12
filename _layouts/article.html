@@ -5,5 +5,13 @@ layout: default
 <h2>{{ page.news_title }}</h2>
 <div>
   <p class="text-muted">Lisanud {{ page.author }} {{ page.submitted }}</p>
-  <div class="text_control">{{ page.text }}</p></div>
+  <div class="text_control">{{ page.text }}</div>
+  <div>
+    <button type="button" class="btn btn-primary" onclick="goBack()">Tagasi</button>
+  </div>
 </div>
+<script>
+  function goBack() {
+    window.history.back();
+  }
+</script>

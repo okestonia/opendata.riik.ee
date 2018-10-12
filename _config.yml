@@ -26,6 +26,8 @@ navigation:
     url: /blogi/
   - title: Rakendused
     url: /apps/
+  - title: KKK
+    url: /kkk/
 
 
 # Collections

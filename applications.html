@@ -13,7 +13,7 @@ permalink: /apps/
     grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
     grid-gap: 20px;
 ">
-    
+
     {% assign sortapps = site.applications | sort:"submitted" | reverse %}
     {% for application in sortapps %}
 
@@ -37,7 +37,7 @@ permalink: /apps/
             <p style="text-align: justify; overflow-wrap: break-word;">{{ application.app_description }}</p>
         </div>
         <div class="panel-footer">
-            {{ application.developed_by }} / {{ application.submitted }}
+             {{ application.developed_by }} {{ application.submitted }}
         </div>
     </div>
 {% endfor %}
@@ -68,5 +68,3 @@ permalink: /apps/
     </tbody>
 </table>
 {% endcomment %}
-
-    
