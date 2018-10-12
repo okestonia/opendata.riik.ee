@@ -26,8 +26,19 @@ navigation:
     url: /blogi/
   - title: Rakendused
     url: /apps/
-  - title: KKK
-    url: /kkk/
+  - title: Lisainfo
+    url: /lisainfo/
+    sublinks:
+      - title: KKK
+        url: /kkk/
+      - title:  Avaandmete roheline raamat
+        url: /roheline-raamat/
+      - title: Kontaktid
+        url: /kontaktid/
+      - title: Ettevõttest
+        url: /about/
+      - title: Abi
+        url: /abi/
 
 
 # Collections

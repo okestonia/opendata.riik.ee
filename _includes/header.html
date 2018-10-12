@@ -13,14 +13,27 @@
         {% for link in site.navigation %}
         {% if page.url contains link.url %}
         <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
+        {% endif %}
+        {% if link.sublinks %}
+        <li class="dropdown {{ class }}">
+          <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            {% for sublink in link.sublinks %}
+            {% if sublink.title == 'separator' %}
+            <li role="separator" class="divider"></li>
+            {% else %}
+            <li>
+              <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
+            </li>
+            {% endif %}
+            {% endfor %}
+          </ul>
+        </li>
         {% else %}
         <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
-
-
     </div>
-
   </div>
 </nav>
