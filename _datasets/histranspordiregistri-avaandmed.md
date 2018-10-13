@@ -18,7 +18,7 @@ resources:
   - name: Andmehulk
     url: 'http://www.peatus.ee/gtfs/'
     format: ZIP/GTFS/TXT
-license: 'https://opendatacommons.org/licenses/by/'
+license: 'https://opendatacommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/05/29
 date_modified: 2018/05/29
