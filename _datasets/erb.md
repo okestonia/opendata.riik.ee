@@ -1,40 +1,39 @@
 ---
 schema: default
 title: Eesti Rahvusbibliograafia
-notes: >-
-  Eesti rahvusbibliograafia andmebaas ERB (http://erb.nlib.ee) registreerib andmed rahvusteavikute kohta. Rahvusteavikutena käsitletakse Eestis kõigis keeltes ning välismaal eesti keeles avaldatud väljaandeid, Eesti autorite teoseid ja nende tõlkeid sõltumata nende füüsilisest kandjast (paber, elektrooniline kandja). ERB koostamise põhimõtted on fikseeritud dokumendis Rahvusbibliograafia koostamise alused. Andmebaasi täiendatakse uute andmetega pidevalt, kuid mitte harvemini kui üks kord
+notes: Eesti rahvusbibliograafia andmebaas ERB (http://erb.nlib.ee) registreerib andmed rahvusteavikute kohta. Rahvusteavikutena käsitletakse Eestis kõigis keeltes ning välismaal eesti keeles avaldatud väljaandeid, Eesti autorite teoseid ja nende tõlkeid sõltumata nende füüsilisest kandjast (paber, elektrooniline kandja). ERB koostamise põhimõtted on fikseeritud dokumendis Rahvusbibliograafia koostamise alused. Andmebaasi täiendatakse uute andmetega pidevalt, kuid mitte harvemini kui üks kord
   nädalas.
 department: ''
 category:
   - Kultuur
 resources:
-  - name: 15.03.2017 Perioodika (marc21xml)
+  - name: Perioodika (marc21xml)
     url: 'http://data.digar.ee/erb/ERB_perioodika.zip'
     format: xml / zip
-  - name: 15.03.2017 Muukeelne raamat (marc21xml)
+  - name: Muukeelne raamat (marc21xml)
     url: 'http://data.digar.ee/erb/ERB_muukeelne_raamat.zip'
     format: xml / zip
-  - name: 15.03.2017 Eestikeelne raamat (marc21xml)
-    url: 'http://data.digar.ee/erb/ERB_eestikeelne_rmt.zip'
+  - name: Eestikeelne raamat (marc21xml)
+    url: 'http://data.digar.ee/erb/ERB_eestikeelne_raamat.zip'
     format: xml / zip
-  - name: 15.03.2017 Helisalvestised (marc21xml)
-    url: 'http://data.digar.ee/erb/ERB_helisalvestised.zip'
+  - name: Helisalvestised (marc21xml)
+    url: 'http://data.digar.ee/erb/ERB_helisalvestis.zip'
     format: xml / zip
-  - name: 15.03.2017 Noodid (marc21xml)
+  - name: Noodid (marc21xml)
     url: 'http://data.digar.ee/erb/ERB_noodid.zip'
     format: xml / zip
-  - name: 15.03.2017 Kaardid (marc21xml)
+  - name: Kaardid (marc21xml)
     url: 'http://data.digar.ee/erb/ERB_kaardid.zip'
     format: xml / zip
-  - name: 15.03.2017 Piltteavikud (marc21xml)
+  - name: Piltteavikud (marc21xml)
     url: 'http://data.digar.ee/erb/ERB_piltteavikud.zip'
     format: xml / zip
-  - name: 15.03.2017 Video (marc21xml)
-    url: 'http://data.digar.ee/erb/ERB_video.xml'
-    format: XML
-  - name: 15.03.2017 Multimeedia (marc21xml)
-    url: 'http://data.digar.ee/erb/ERB_multimeedia.xml'
-    format: XML
+  - name: Video (marc21xml)
+    url: 'http://data.digar.ee/erb/ERB_video.zip'
+    format: xml / zip
+  - name: Multimeedia (marc21xml)
+    url: 'http://data.digar.ee/erb/ERB_multimeedia.zip'
+    format: xml / zip
   - name: Eesti rahvusbibliograafia andmebaasi kodulehekülg
     url: 'http://erb.nlib.ee/'
     format: HTML

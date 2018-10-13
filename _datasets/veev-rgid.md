@@ -11,7 +11,7 @@ resources:
     format: XML
   - name: Kirjeldus
     url: 'http://vtiav.sm.ee/?active_tab_id=A'
-    format: HTML	
+    format: HTML
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/02/18
