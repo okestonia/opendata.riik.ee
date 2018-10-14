@@ -9,6 +9,9 @@ resources:
   - name: Ujulad
     url: 'http://vtiav.sm.ee/index.php/opendata/ujulad.xml'
     format: XML
+  - name: Ujulate valdajad
+    url: 'http://vtiav.sm.ee/index.php/opendata/ujula_valdajad.xml'
+    format: XML
   - name: Kirjeldus
     url: 'http://vtiav.sm.ee/?active_tab_id=A'
     format: HTML

@@ -1,12 +1,12 @@
 ---
 schema: default
 title: Toetuste saajad
-notes: 'Toetuse saajate otsingumootor võimaldabl leida infot eelmise finantsaasta jooksul toetuseid saanute kohta. Juhime tähelepanu, et finantsaasta kestvus hõlmab perioodi 16.10.2014 kuni 15.10.2016.'
+notes: Toetuse saajate otsingumootor võimaldab leida infot eelmise finantsaasta jooksul toetusi saanute kohta 
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
 resources:
-  - name: 30.01.2018 Toetuste saajad
+  - name: Toetuste saajad
     url: 'http://www.pria.ee/et/toetused/toetusesaajad/'
     format: HTML
   - name: Toetuste saajate veebikaart

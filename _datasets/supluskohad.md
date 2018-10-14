@@ -9,6 +9,12 @@ resources:
   - name: Supluskohad
     url: 'http://vtiav.sm.ee/index.php/opendata/supluskohad.xml'
     format: XML
+  - name: Supluskohtade valdajad
+    url: 'http://vtiav.sm.ee/index.php/opendata/supluskoha_valdajad.xml'
+    format: XML
+  - name: Supluskohtade veeproovid
+    url: 'http://vtiav.sm.ee/index.php/opendata/supluskoha_veeproovid.xml'
+    format: XML
   - name: Kirjeldus
     url: 'http://vtiav.sm.ee/?active_tab_id=A'
     format: HTML

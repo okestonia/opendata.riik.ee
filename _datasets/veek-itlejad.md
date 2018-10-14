@@ -1,13 +1,19 @@
 ---
 schema: default
 title: Veekäitlejad
-notes: Vee terviseohutuse infosüsteemi avaandmete komplekt. Veeproovide puhul esitatakse ainult avalikustamisele kuuluvad veeproovid. Veevärkide puhul esitatakse ainult järelevalve aluste veevärkide veeproovid. Veeallikate puhul esitatakse ainult kasutuses olevate veeallikate veeproovid.
+notes: Vee terviseohutuse infosüsteemi avaandmete komplekt. Veeproovide puhul esitatakse ainult avalikustamisele kuuluvad veeproovid. Veevärkide puhul esitatakse ainult järelevalve aluste veevärkide veeproovid. Veeallikate puhul esitatakse ainult kasutuses olevate veeallikate veeproovid. Info veekäitlejate, nende poolt käideldavate veevärkide ning neist võetud proovide kohta
 department: ''
 category:
   - Tervis
 resources:
   - name: Veekäitlejad
     url: 'http://vtiav.sm.ee/index.php/opendata/veekaitlejad.xml'
+    format: XML
+  - name: Veevärgid
+    url: 'http://vtiav.sm.ee/index.php/opendata/veevargid.xml'
+    format: XML
+  - name: Veevärkide veeproovid
+    url: 'http://vtiav.sm.ee/index.php/opendata/veevargi_veeproovid.xml'
     format: XML
   - name: Kirjeldus
     url: 'http://vtiav.sm.ee/?active_tab_id=A'
