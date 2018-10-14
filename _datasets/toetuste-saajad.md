@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Toetuste saajad
-notes: 'Toetuse saajate otsingumootor võimaldab leida infot eelmise finantsaasta jooksul toetusi saanute kohta 
+notes: Toetuse saajate otsingumootor võimaldab leida infot eelmise finantsaasta jooksul toetusi saanute kohta 
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
