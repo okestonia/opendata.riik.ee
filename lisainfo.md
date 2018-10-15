@@ -1,7 +1,7 @@
 ---
-title: Ettevõttest
+title: Lisainfo
 layout: default
-permalink: /about/
+permalink: /lisainfo/
 ---
 ## Miks on andmete avamine vajalik?
 
