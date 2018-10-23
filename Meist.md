@@ -1,7 +1,7 @@
 ---
-title: Meest
+title: Meist
 layout: default
-permalink: /meest/
+permalink: /meist/
 ---
 ## Miks on andmete avamine vajalik?
 
