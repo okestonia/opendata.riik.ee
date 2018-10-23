@@ -20,13 +20,15 @@
               <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
             </li>
             {% endfor %}
-            {% endif %}
-            {% if page.url contains link.url %}
-            <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
-            {% else %}
-            <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
-            {% endif %}
-            {% endfor %}
           </ul>
+            </li>
+        {% elsif page.url contains link.url %}
+        <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
+        {% else %}
+        <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+
     </div>
 </nav>
