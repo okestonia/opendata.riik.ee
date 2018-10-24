@@ -4,7 +4,7 @@
 
 .text_control {
   text-align: justify;
-  overflow-wrap: break-word;  
+  overflow-wrap: break-word;
 }
 
 dataset {
@@ -38,6 +38,23 @@ dataset {
 
 .add-dataset-btn {
   margin-top: 15px;
+}
+
+
+.fp-title {
+  color: #49667F;
+  font-size: 26px;
+  font-weight: bold;
+}
+
+.fp-text {
+  list-style: circle;
+  font-size: 16px;
+  color: #70787F;
+}
+
+.fp-welcome {
+  color: #49667F;
 }
 
 /* Hidden from guests */
