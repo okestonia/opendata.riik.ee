@@ -16,7 +16,7 @@ license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/07/12
 date_modified: 2018/10/11
-organization: Põllumajandusamet
+organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: ''
 maintainer_email: kliendiportaal@agri.ee
 maintainer_phone: ''

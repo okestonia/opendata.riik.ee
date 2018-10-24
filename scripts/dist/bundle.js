@@ -43530,9 +43530,11 @@
 	// Meant to mimic Jekyll's slugify function
 	// https://github.com/jekyll/jekyll/blob/master/lib/jekyll/utils.rb#L142
 	function slugify(text) {
-	  return text.toString().toLowerCase().trim().replace(/[^a-zA-Z0-9]/g, '-') // Replace non-alphanumeric chars with -
-	  .replace(/\-\-+/g, '-') // Replace multiple - with single -
+	  return text.toString().toLowerCase().trim()
+		.replace(/[^a-zA-Z0-9üõöä]/g, '-') // Replace non-alphanumeric chars with -
+    .replace(/\-\-+/g, '-') // Replace multiple - with single -
 	  .replace(/^\-|\-$/i, ''); // Remove leading/trailing hyphen
+
 	}
 
 	// Given an object of filters to use, returns a function to be used by _.filter()
