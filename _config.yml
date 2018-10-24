@@ -29,6 +29,8 @@ navigation:
   - title: Lisainfo
     url: /lisainfo/
     sublinks:
+      - title: Metaandmed
+        url: /metaandmed/
       - title: KKK
         url: /kkk/
       - title:  Avaandmete roheline raamat

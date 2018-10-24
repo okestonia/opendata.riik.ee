@@ -4,13 +4,12 @@ layout: default
 permalink: /meist/
 ---
 ## Miks on andmete avamine vajalik?
-
 Andmete avamine ning nende koondamise ja leidmise hõlbustamine teenib mitmeid olulisi eesmärke:
 - majanduse elavdamine;
 - läbipaistvuse suurendamine;
 - teabenõuete arvu vähendamine ja sellega avaliku sektori koormuse vähendamine;
 - avatud teenuste loomise ja haldamise võimaldamine era- ja vabasektorile;
--  õhutada üleminekut tuleviku tehnoloogiatele nagu [linkandmed](http://et.wikipedia.org/wiki/Linkandmed), ["asjade Internet"](http://https//et.wikipedia.org/wiki/V%C3%A4rkv%C3%B5rk) ja ["big data"](http://https//et.wikipedia.org/wiki/V%C3%A4rkv%C3%B5rk).
+-  õhutada üleminekut tuleviku tehnoloogiatele nagu [linkandmed](http://et.wikipedia.org/wiki/Linkandmed), ["asjade Internet"](https://et.wikipedia.org/wiki/Nutistu) ja ["suurandmed"](https://et.wikipedia.org/wiki/Suurandmed).
 
 ## Mis on avaandmed?
 Avaandmete all mõistame kõigile avalikult vabalt kasutamiseks antud, veebist kättesaadavaid, masinloetavas formaadis toorandmeid ilma kasutamis-, patentide- ja levitamispiiranguteta. Üldjuhul, kui seaduses ei ole andmete hankimise eest ette nähtud tasu, saab avaandmeid kätte tasuta ja ilma ligipääsupiiranguteta.

@@ -43531,7 +43531,7 @@
 	// https://github.com/jekyll/jekyll/blob/master/lib/jekyll/utils.rb#L142
 	function slugify(text) {
 	  return text.toString().toLowerCase().trim()
-		.replace(/[^a-zA-Z0-9üõöä]/g, '-') // Replace non-alphanumeric chars with -
+		.replace(/[^a-zA-Z0-9üõöäÜÕÖÄ]/g, '-') // Replace non-alphanumeric chars with -
     .replace(/\-\-+/g, '-') // Replace multiple - with single -
 	  .replace(/^\-|\-$/i, ''); // Remove leading/trailing hyphen
 

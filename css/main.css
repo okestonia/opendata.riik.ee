@@ -56,6 +56,17 @@ dataset {
   color: #49667F;
 }
 
+.fp-disclaimer {
+  padding-top: 30px;
+}
+
+.fp-disclaimer-text {
+  font-size: 17px;
+  color: #70787F;
+  text-align: justify;
+
+}
+
 /* Hidden from guests */
 .user-issue,
 .admin-only {
