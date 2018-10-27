@@ -22,7 +22,7 @@ resources:
     url: 'http://185.174.163.43/downloads/tingimuseliigidconditiontypes.csv'
     format: CSV
   - name: Riiklike meetmete veergude kirjeldused / Description of national measures columns
-      url: 'http://185.174.163.43/downloads/riiklikemeetmeteveergudekirjelduseddescriptionofnationalmeasurescolumns.csv'
+    url: 'http://185.174.163.43/downloads/riiklikemeetmeteveergudekirjelduseddescriptionofnationalmeasurescolumns.csv'
     format: CSV
   - name: Meetmeliigid /Measure types
     url: 'http://185.174.163.43/downloads/meetmeliigidmeasuretypes.csv'
