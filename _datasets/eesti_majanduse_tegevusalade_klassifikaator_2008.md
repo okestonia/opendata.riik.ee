@@ -4,7 +4,7 @@ title: Eesti majanduse tegevusalade klassifikaator EMTAK
 notes: 'EMTAK tegevusalade koodid, nimetused ja selgitused ning erinõuete teave. Andmed on reaalajas allalaetavad.'
 department: ''
 category:
-  - Rahavastiku andmed
+  - Majandus ja tööstus
 resources:
   - name: EMTAK
     url: 'https://emtak.rik.ee/EMTAK/pages/klassifikaatorOtsing.jspx'

@@ -1,0 +1,20 @@
+A;Kaubanduse suund: I-import, E-eksport;Trade movement code (I-import, E-export)
+B;TARICi kood impordil ja CN-kood ekspordil (vt TARIC Downloadable data);TARIC code on import and CN-code on export (see TARIC Downloadable data)
+C;Meetmeliik (vt. fail MeetmeLiigid_MeasureTypes.csv);Measure type (see file MeetmeLiigid_MeasureTypes.csv)
+D;Geograafiline piirkond (vt TARIC Downloadable data);Geographical area (see TARIC Downloadable data)
+E;Lisakoodid (vt. fail LisaKoodid_AdditionalCodes.csv);Additional codes (see file LisaKoodid_AdditionalCodes.csv)
+F;Meetme alguskuupäev (aaaakkpp);Measure start date
+G;Meetme kirje järjekorranumber;Measure record order number 
+H;Meetme lõpukuupäev (aaaakkpp);Measure end date
+I;Maksude väljendamise viis: 01 - % või kogus, 04 - pluss (+) % või kogus;Duty expression: 01 - % or amount, 04 - +% or amount
+J;Maksumäär;Duty rate
+K;Valuuta: kui tühi, siis väärtuseline tollimaks (%), muul juhul EUR;Monetary unit: if empty then ad valorem duty rate (%), in other cases EUR
+L;Mõõtühik (vt. fail Mõõtühikud_MeasurementUnits.csv);Measurement unit (see fail Mõõtühikud_MeasurementUnits.csv)
+M;Mõõtühiku täpsusti: E-net eda, X-hektoliiter;Measurement unit qualifier: E-net of drained weight, X - hectolitre
+N;Tingimuse tunnus: 1-meede on seotud tingimusega, 0 - tingimus puudub;Condition feature: 1-measure with condition, 0-no condition
+O;Tingimuse liik (vt. fail TingimuseLiigid_ConditionTypes.csv);Condition type (see file TingimuseLiigid_ConditionTypes.csv)
+P;Tingimuse järjekorra nr;Condition order number
+Q;Meetme tegevus (vt. fail TegevusKoodid_ActionCodes.csv);Measure action (see file TegevusKoodid_ActionCodes.csv)
+R;Sertifikaadi kood (vt. riiklikud sertifikaadid: fail LisaDokumendid_AdditionalDocuments.csv ja TARIC sertifikaadid: TARIC Downloadable data);Certificate code (see national certificates: file LisaDokumendid_AdditionalDocuments.csv  and  TARIC certificates: TARIC Downloadable data
+S;Väljaarvatud riik (vt TARIC Downloadable data);Excuded country (see TARIC Downloadable data)
+T;Allmärkus (vt. fail Allmärkused_Footnotes.csv);Footnote (see file Allmärkused_Footnotes.csv)
