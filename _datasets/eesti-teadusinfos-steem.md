@@ -10,7 +10,7 @@ category:
   - Haridus ja teadus
 resources:
   - name: ETIS avaandmete kasutamine API liidese vahendusel
-    url: 'https://opendata.riik.ee/et/dataset/7e4e201b-4bd0-467f-98c2-abe8c130cba2/resource/19ab6ae1-2f6f-4387-9d65-cf959daba087/download/etisavaandmetekasutamineapiliidesevahendusel.pdf'
+    url: 'http://185.174.163.43/downloads/etisavaandmetekasutamineapiliidesevahendusel.pdf'
     format: PDF
   - name: Tartu Ülikooli Teadusaparatuur
     url: 'https://www.etis.ee:7443/api/scientificequipment/getitems?Format=xml&SearchType=3&Take=5&Skip=0&InstitutionRegNo=74001073'

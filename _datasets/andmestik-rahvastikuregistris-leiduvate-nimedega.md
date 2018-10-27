@@ -7,7 +7,7 @@ category:
   - Rahvastiku andmed
 resources:
   - name: Andmestik rahvastikuregistri nimedest
-    url: 'https://opendata.riik.ee/et/dataset/d7234d39-8f5a-4061-beaf-fc066f92d4fe/resource/6c2d7599-9369-46d9-9b62-99ace0728b5f/download/koiknimedseisuga01.02.2018.xlsx'
+    url: 'http://185.174.163.43/downloads/koiknimedseisuga01.02.2018.xlsx'
     format: XML
 license: ''
 update_freq: ''
