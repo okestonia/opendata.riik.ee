@@ -19,7 +19,7 @@ license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/07/12
 date_modified: 2017/10/11
-organization: Maaeluministeerium
+organization: Maaeluministeerium (MEM)
 maintainer_name:
 maintainer_email: tuulekaer@pma.agri.ee
 maintainer_phone: ''

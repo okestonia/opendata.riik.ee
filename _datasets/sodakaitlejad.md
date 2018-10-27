@@ -19,7 +19,7 @@ license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/07/17
 date_modified: 2018/10/10
-organization: Maaeluministeerium
+organization: Maaeluministeerium (MEM)
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
 maintainer_phone: ''

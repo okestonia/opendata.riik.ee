@@ -19,7 +19,7 @@ license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/02/02
 date_modified: 2015/02/02
-organization: Majandus -ja Kommunikatsiooniministeerium
+organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Uuno Vallner
 maintainer_email: uuno.vallner@riso.ee
 maintainer_phone: ''

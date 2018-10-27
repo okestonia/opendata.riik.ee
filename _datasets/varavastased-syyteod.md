@@ -31,7 +31,7 @@ license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/11/15
 date_modified: 2018/10/11
-organization: Politsei- ja Piirivalveamet
+organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name:
 maintainer_email: avaandmed@list.politsei.ee
 maintainer_phone: ''

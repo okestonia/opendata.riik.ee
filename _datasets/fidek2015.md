@@ -19,7 +19,7 @@ license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/03/18
 date_modified: 2017/03/18
-organization: EMTA
+organization: Maksu- ja Tolliamet
 maintainer_name: EMTA
 maintainer_email: info@emta.ee
 maintainer_phone:
