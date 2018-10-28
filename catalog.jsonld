@@ -58,10 +58,10 @@
       "@type": "vcard:Contact",
         "fn": {{ contact_point_fn | jsonify }}{% if contact_point_has_email %},
         "hasEmail": {{ contact_point_has_email | jsonify }}{% endif %}
-      }{% endif %}{% if license != '' %},
-      "license": "{{ license }}"
+      }{% endif %}{% if license != '' %}
+      "license": "{{ license }}",
       "identifier": "opendata.riik.ee{{ site.baseurl }}{{ dataset.url }}",
-      {% endif %}{% if dataset.resources %},
+      {% endif %}{% if dataset.resources %}
       "distribution": [{% for distribution in dataset.resources %}{% capture temp %}
         {% assign dist_title = distribution[f_dist_title[field_name]] %}
         {% assign dist_download_url = distribution[f_dist_download_url[field_name]] %}
