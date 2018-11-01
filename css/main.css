@@ -62,9 +62,14 @@ dataset {
 
 .fp-general-text {
   font-size: 17px;
+  font-weight: bold;
   color: #70787F;
   text-align: justify;
 
+}
+
+.dataset_org {
+  word-wrap: break-word;
 }
 
 /* Hidden from guests */

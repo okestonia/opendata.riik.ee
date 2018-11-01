@@ -1,7 +1,7 @@
 ---
 app_name: Ajapaik
 app_description: ''
-app_preview: 'https://raw.githubusercontent.com/keeganmcbride/jkan/gh-pages/img/ajapaik.PNG'
+app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/gh-pages/img/ajapaik.PNG'
 app_url: 'https://ajapaik.ee'
 developed_by: MTÜ Eesti Fotopärand
 tags:
