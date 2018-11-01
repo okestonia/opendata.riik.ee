@@ -22,10 +22,10 @@ navigation:
     url: /datasets/
   - title: Teabevaldajad
     url: /publishers/
-  - title: Blogi
-    url: /blogi/
   - title: Rakendused
     url: /apps/
+  - title: Blogi
+    url: /blogi/
   - title: Lisainfo
     url: /lisainfo/
     sublinks:
