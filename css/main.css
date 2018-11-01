@@ -61,11 +61,10 @@ dataset {
 }
 
 .fp-general-text {
-  font-size: 17px;
   font-weight: bold;
+  font-size: 17px;
   color: #70787F;
   text-align: justify;
-
 }
 
 .dataset_org {
