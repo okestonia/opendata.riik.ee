@@ -43,8 +43,10 @@
 
     {% endcapture %}{% if title %}
     {
+      "@type": "dcat:Dataset",
       "title": {{ title | jsonify }},{% if publisher_name %}
       "publisher": {
+        "@type": "org:Organization",
         "name": {{ publisher_name | jsonify }}
       },{% endif %}
       "issued": {{ date_issued | jsonify }},
@@ -54,6 +56,7 @@
       "description": {{ description | jsonify }},{% endif %}{% if category %}
       "category": {{ category | jsonify }},{% endif %}{% if contact_point_fn or contact_point_has_email %}
       "contactPoint": {
+        "@type": "vcard:Contact",
         "fn": {{ contact_point_fn | jsonify }},{% if contact_point_has_email %}
         "hasEmail": {{ contact_point_has_email | jsonify }}{% endif %}
       },{% endif %}
@@ -61,11 +64,13 @@
       {% if license != '' %}
       "license": "{{ license }}",
       {% endif %}{% if dataset.resources %}
-      "distribution": [{% for distribution in dataset.resources %}{% capture temp %}
+      "distribution": [{% for distribution in dataset.resources %}
+        {% capture temp %}
         {% assign dist_title = distribution[f_dist_title[field_name]] %}
         {% assign dist_download_url = distribution[f_dist_download_url[field_name]] %}
         {% assign dist_format = distribution[f_dist_format[field_name]] %}{% endcapture %}
         {
+          "@type":"dcat:Distribution",
           "title": {{ dist_title | jsonify }},
           "downloadURL": {{ dist_download_url | jsonify }}{% if dist_format %},
           "format": {{ dist_format | jsonify }}{% endif %}
