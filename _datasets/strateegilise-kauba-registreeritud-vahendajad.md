@@ -4,7 +4,7 @@ title: Strateegilise kauba registreeritud vahendajad
 notes: Strateegilise kauba registreeritud vahendajad
 department: ''
 category:
-  - Majandus ja tööstus
+  - Majandus ja rahandus
 resources:
   - name: vahendajad.xml
     url: 'http://opendata.vm.ee/stratkom/vahendajad.xml'

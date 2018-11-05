@@ -4,7 +4,7 @@ title: Riigi Teatajas avaldatud õigusaktid alates 2010. aastast koos räsivää
 notes: Õigusaktid
 department: ''
 category:
-  - Riigiteenused
+  - Õigusemõistmine, õigussüsteem ja avalik turvalisus
 resources:
   - name: Õigusaktid
     url: 'http://avaandmed.rik.ee/andmed/ERT'

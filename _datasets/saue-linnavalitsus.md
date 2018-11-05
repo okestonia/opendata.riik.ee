@@ -4,7 +4,7 @@ title: Saue Linnavalitsus
 notes: Dokumendihaldussüsteem
 department: ''
 category:
-  - Riigiteenused
+  - Valitsus ja avalik sector
 resources:
   - name: Amphora dokumendihaldus
     url: 'http://avalik.amphora.ee/saue/index.aspx?org=33&unit=9642'

@@ -4,7 +4,7 @@ title: Haridus-ja Teadusministeeriumi avalik dokumendiregister
 notes: Haridus- ja Teadusministeeriumi dokumendiregistri avalikus vaates on võimalik tutvuda ministeeriumi tegevuse käigus loodud või saadud dokumentidega.
 department: ''
 category:
-  - Haridus ja teadus
+  - Haridus, kultuur ja sport
 resources:
   - name: Dokumendiregistri avaliku vaate otsing
     url: 'https://www.hm.ee/et/ministeerium/dokumendiregister'

@@ -4,7 +4,7 @@ title: Teenuste kirjeldused - avalik kord
 notes: Avaliku korra valdkonna teenuste kirjeldused
 department: ''
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=3'
     format: XML

@@ -4,7 +4,7 @@ title: Andmestik rahvastikuregistris leiduvate nimedega
 notes: 'Andmefailis on kuvatud kõik rahvastikuregistris esinevad nimed, eristamata ees- ja perekonnanimesid. Andmed on 01.02.2018 seisuga.'
 department: ''
 category:
-  - Rahvastiku andmed
+  - Elanikkond ja ühiskond
 resources:
   - name: Andmestik rahvastikuregistri nimedest
     url: 'http://185.174.163.43/downloads/koiknimedseisuga01.02.2018.xlsx'

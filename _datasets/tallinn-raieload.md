@@ -4,7 +4,7 @@ title: Raieload
 notes: Kehtivad raieload
 department: ''
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'http://raie.tallinn.ee/open_xml.php'
     format: XML

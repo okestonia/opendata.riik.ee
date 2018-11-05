@@ -6,7 +6,7 @@ notes: Eksamite infosüsteemi (EIS) eesmärgiks on ülesannete loomise ja haldam
      EIS on asutatud 2010. aastal.
 department: ''
 category:
-  - Haridus ja teadus
+  - Teadus ja tehnoloogia
 resources:
   - name: Avalikud ülesanded
     url: 'https://eis.ekk.edu.ee/eis/lahendamine'

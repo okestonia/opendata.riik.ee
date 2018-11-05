@@ -10,7 +10,7 @@ notes: 'Andmestik 2015. aasta füüsiliste isikute tuludeklaratsioonidega. Faili
 Andmestikust on tuvastamise välistamise huvides eemaldatud ekstreemsete väärtustega kirjetest (mahuliselt alla 0.003% kirjete koguarvust)'
 department: ''
 category:
-  - Majandus ja tööstus
+  - Majandus ja rahandus
 resources:
   - name: Deklaratsioonide andmestik
     url: 'http://185.174.163.43/downloads/puhasfidek2015utf8.txt'

@@ -4,7 +4,7 @@ title: Rahvusarhiivi arhiivikirjeldused
 notes: 'Rahvusarhiivi arhiivikirjeldused ehk informatsioon arhivaalide sisu kohta sõltumata nende füüsilisest kandjast (paber, elektrooniline kandja, filmilint vmt). Arhiivikirjeldustel baseeruvad kõik arhiiviainese otsivahendid.'
 department: ''
 category:
-  - Kultuur
+  - Haridus, kultuur ja sport
 resources:
   - name: Ajalooarhiiv (apeEAD XML vormingus)
     url: 'http://opendata.ra.ee/files/archives/EAA.zip'

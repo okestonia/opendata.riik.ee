@@ -4,7 +4,7 @@ title: Riigi teenused
 notes: Erinevate ministeeriumite haldusalade osutatavad teenused. Teenused on klassifitseeritud, seotud neid osutavate organisatsioonidega ning osutamise juriidilise alusega. Andmekseem sisaldab ka võimalust edastada teenuse osutamist puudutavat statistikat
 department: ''
 category:
-  - Riigiteenused
+  - Valitsus ja avalik sector
 resources:
   - name: Teenuste otsing
     url: 'https://www.mkm.ee/et/teenuste-otsing'

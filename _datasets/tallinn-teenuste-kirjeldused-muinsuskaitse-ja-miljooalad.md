@@ -4,7 +4,7 @@ title: Teenuste kirjeldused - Muinsuskaitse ja miljööalad
 notes: Muinsuskaitse ja miljööalade valdkonna teenuste kirjeldused
 department: ''
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=19'
     format: XML

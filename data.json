@@ -19,6 +19,9 @@
     {% assign f_date_modified = dataset_fields | where: "datajson", "modified" | first %}
     {% assign date_modified = dataset[f_date_modified[field_name]] %}
 
+    {% assign f_update_freq = dataset_fields | where: "datajson", "frequency" | first %}
+    {% assign update_freq = dataset[f_update_freq[field_name]] %}
+
     {% assign f_license = dataset_fields | where: "datajson", "license" | first %}
     {% assign license = dataset[f_license[field_name]] %}
 
@@ -40,21 +43,24 @@
 
     {% endcapture %}{% if title %}
     {
-      "title": {{ title | jsonify }}{% if publisher_name %},
-      "issued": {{ date_issued | jsonify }},
-      "modified": {{ date_modified | jsonify }},
+      "title": {{ title | jsonify }},{% if publisher_name %}
       "publisher": {
         "name": {{ publisher_name | jsonify }}
-      }{% endif %}{% if description %},
-      "description": {{ description | jsonify }}{% endif %}{% if category %},
-      "category": {{ category | jsonify }}{% endif %}{% if contact_point_fn or contact_point_has_email %},
+      },{% endif %}
+      "issued": {{ date_issued | jsonify }},
+      "modified": {{ date_modified | jsonify }},
+      "accrualPeriodicity": {{ update_freq | jsonify }},
+      {% if description %}
+      "description": {{ description | jsonify }},{% endif %}{% if category %}
+      "category": {{ category | jsonify }},{% endif %}{% if contact_point_fn or contact_point_has_email %}
       "contactPoint": {
-        "fn": {{ contact_point_fn | jsonify }}{% if contact_point_has_email %},
+        "fn": {{ contact_point_fn | jsonify }},{% if contact_point_has_email %}
         "hasEmail": {{ contact_point_has_email | jsonify }}{% endif %}
-      }{% endif %}{% if license != '' %},
+      },{% endif %}
       "identifier": "https://opendata.riik.ee{{ site.baseurl }}{{ dataset.url }}",
-      "license": "{{ license }}"
-      {% endif %}{% if dataset.resources %},
+      {% if license != '' %}
+      "license": "{{ license }}",
+      {% endif %}{% if dataset.resources %}
       "distribution": [{% for distribution in dataset.resources %}{% capture temp %}
         {% assign dist_title = distribution[f_dist_title[field_name]] %}
         {% assign dist_download_url = distribution[f_dist_download_url[field_name]] %}

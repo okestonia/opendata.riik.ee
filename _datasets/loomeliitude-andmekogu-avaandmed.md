@@ -4,7 +4,7 @@ title: Loomeliitude andmekogu avaandmed
 notes: Loomeliitude andmekogu avaandmed. Kõigi liitude registrikoodid, aadressid ja juhatuse liikmete nimed ning isikukoodid.
 department: ''
 category:
-  - Kultuur
+  - Haridus, kultuur ja sport
 resources:
   - name: 'Loomeliitude andmekogu avaandmed'
     url: 'http://avaandmed.rik.ee/andmed/LLA/'

@@ -4,7 +4,7 @@ title: Strateegilise kauba sertifikaadid EL
 notes: Strateegilise kauba sertifikaadid EL
 department: ''
 category:
-  - Majandus ja tööstus
+  - Majandus ja rahandus
 resources:
   - name: sertifikaadid_el.xml
     url: 'http://opendata.vm.ee/stratkom/sertifikaadid_el.xml'

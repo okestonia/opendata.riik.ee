@@ -4,7 +4,7 @@ title: Tartu linnavalitsuse dokumendihaldussüsteemis avaldatud õigusaktid
 notes: Tartu linnavalitsuse dokumendihaldussüsteemis avaldatud õigusaktid
 department: Linnavalitsemine
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'http://info.raad.tartu.ee/dhs.nsf/xml/tlv/oigusaktid'
     format: HTML

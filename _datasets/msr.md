@@ -7,7 +7,7 @@ Andmestik sisaldab infot maaparandusrajatiste asukoha, kasutuselevõtu aasta ja 
 '
 department: ''
 category:
-  - Riigiteenused
+  - Põllumajandus, kalandus, metsandus
 resources:
   - name: MSR
     url: 'https://www.agri.ee/sites/default/files/opendata/mahe/MSR.xml'

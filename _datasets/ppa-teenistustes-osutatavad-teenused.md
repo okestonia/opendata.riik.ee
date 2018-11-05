@@ -4,7 +4,7 @@ title: PPA teenindustes osutatavad teenused
 notes: PPA teenindustes osutatavad teenused. Andmed on genereeritud 02. nov. 2015 seisuga.
 department: ''
 category:
-  - Riigiteenused
+  - Õigusemõistmine, õigussüsteem ja avalik turvalisus
 resources:
   - name: Teenindustes osutatavad teenused
     url: 'https://www2.politsei.ee/dotAsset/495012.csv'

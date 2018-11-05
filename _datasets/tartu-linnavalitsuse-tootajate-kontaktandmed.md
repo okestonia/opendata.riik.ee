@@ -4,7 +4,7 @@ title: Tartu linnavalitsuse töötajate kontaktandmed
 notes: Tartu linnavalitsuse töötajate kontaktandmed
 department: Linnavalitsemine
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'http://info.raad.tartu.ee/tootajad.nsf/web/xml'
     format: XML

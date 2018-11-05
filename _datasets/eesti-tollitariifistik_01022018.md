@@ -4,7 +4,7 @@ title: Eesti tollitariifistik
 notes: 'Euroopa Liitu importimise ja liidust eksportimisega seotud meetmete kohaldamiseks kasutatakse integreeritud tollitariifistikku TARIC (Tarif Intégré Communautaire) http://ec.europa.eu/taxation_customs/dds2/taric/taric_consultation.jsp?Lang=en . TARICi rakendamiseks Eestis on välja töötatud Eesti Tollitariifistik (ETT) https://apps.emta.ee/arctictariff-public-web/ , mis sisaldab lisaks TARIC meetmetele ka Eesti riigisiseseid meetmeid (lisatud avaandmetena seisuga 01.02.2018).'
 department: ''
 category:
-  - Rahandus ja eelarvestamine
+  - Majandus ja rahandus
 resources:
   - name: Riiklikud meetmed / National measures
     url: 'http://185.174.163.43/downloads/meetmedmeasures.csv'

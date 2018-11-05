@@ -7,7 +7,7 @@ notes: |-
      Portaalist on võimalik andmeid ning otsingu tulemeid eksportida Excelisse ja CSV, XML formaati.
 department: ''
 category:
-  - Haridus ja teadus
+  - Teadus ja tehnoloogia
 resources:
   - name: ETIS avaandmete kasutamine API liidese vahendusel
     url: 'http://185.174.163.43/downloads/etisavaandmetekasutamineapiliidesevahendusel.pdf'

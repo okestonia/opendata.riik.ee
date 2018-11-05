@@ -4,7 +4,7 @@ title: Planeeritav Tartu linna kergliiklusteede võrgustik
 notes: Planeeritav Tartu linna kergliiklusteede võrgustik
 department: Transport ja liiklus
 category:
-  - Riigiteenused
+  - Transport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Kergliiklus/planeeritavad/MapServer?wsdl'
     format: XML

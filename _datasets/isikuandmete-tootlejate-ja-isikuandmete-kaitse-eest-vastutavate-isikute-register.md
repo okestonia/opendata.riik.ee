@@ -5,7 +5,7 @@ notes: Andmehulk sisaldab inspektsioonis registreeritud delikaatsete isikuandmet
      Töötlemine registreeritakse viieks aastaks.
 department: ''
 category:
-  - Riigiteenused
+  - Õigusemõistmine, õigussüsteem ja avalik turvalisus
 resources:
   - name: Isikuandmete kaitse eest vastutavate isikute määramised
     url: 'http://avaandmed.rik.ee/andmed/AKI/ISIKUANDMETE_EESTVASTUTAVATE_ISIKUTE_MAARAMISED.xml'
@@ -14,7 +14,7 @@ resources:
     url: 'http://avaandmed.rik.ee/andmed/AKI/DELIKAATSETE_ISIKUANDMETE_TOOTLEMISE_TAOTLUSED.xml'
     format: XML
 license: 'http://creativecommons.org/licenses/by/3.0/'
-
+update_freq: ''
 date_issued: 2015/07/24
 date_modified: 2015/07/24
 organization: Andmekaitse Inspektsioon

@@ -4,7 +4,7 @@ title: Patendiameti avalikud andmed
 notes: Avalike kaubamärkide andmebaasi sisu
 department: ''
 category:
-  - Majandus ja tööstus
+  - Majandus ja rahandus
 resources:
   - name: 01.07.2015 MYSQL
     url: 'http://avaandmed.rik.ee/andmed/PA/'

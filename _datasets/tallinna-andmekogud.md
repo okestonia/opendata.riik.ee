@@ -4,7 +4,7 @@ title: Tallinna andmekogud
 notes: 'Tallinna avaandmete veebilehele on kokku koondatud andmekogud, mis võimaldavad alla laadida avaandmeid XML kujul.'
 department: ''
 category:
-  - Rahvastiku andmed
+  - Piirkonnad ja linnad
 resources:
   - name: Tallinna andmekogud
     url: 'http://www.tallinn.ee/avaandmed/'

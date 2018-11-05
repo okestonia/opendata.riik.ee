@@ -5,7 +5,7 @@ notes: 'Ettevõtjate andmed, millel on MTR-is kehtivad tegevusload või majandus
 Eesti Majanduse Tegevusalade Klassifikaatori (EMTAK) koodidega. Sisaldab ka viidet loa detailsele andmestikule (HTML) '
 department: ''
 category:
-  - Majandus ja tööstus
+  - Majandus ja rahandus
 resources:
   - name: Majandustegevuse register
     url: 'http://opendata.mkm.ee/mtr/'

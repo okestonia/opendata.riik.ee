@@ -4,7 +4,7 @@ title: Maa-ameti avaandmete portaal
 notes: 'Perioodiliselt uuenevad ruumiandmekogud (näiteks: aadressiandmed, kohanimed, haldus- ja asustusjaotus, geoloogiline baaskaart, kaardiruudustikud).'
 department: ''
 category:
-  - Geograafia
+  - Piirkonnad ja linnad
 resources:
   - name: Maa-ameti avaandmete portaal
     url: 'http://geoportaal.maaamet.ee/est/Andmete-tellimine/Avaandmed-p487.html'

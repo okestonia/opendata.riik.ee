@@ -4,7 +4,7 @@ title: Tallinn arvudes
 notes: 'Tallinna statistika aastaraamatud "Tallinn arvudes", mis sisaldavad andmeid Tallinna rahvastiku, sotsiaalelu, majanduse ja keskkonna kohta'
 department: ''
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'http://www.tallinn.ee/est/Tallinn-arvudes'
     format: PDF

@@ -4,7 +4,7 @@ title: Tallinna teenused
 notes: Tallinna avalike teenuste kataloog
 department: ''
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed'
     format: XML

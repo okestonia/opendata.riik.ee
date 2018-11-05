@@ -4,7 +4,7 @@ title: Eesti Vabariigi aukonsulid
 notes: Eesti Vabariigi aukonsulite andmed. Nimed, kontaktandmed ja info puhkuse kohta
 department: ''
 category:
-  - Riigiteenused
+  - Rahvusvahelised küsimused
 resources:
   - name: est_aukonsulid.xml
     url: 'http://opendata.vm.ee/est_aukonsulid.xml'

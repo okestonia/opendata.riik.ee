@@ -4,7 +4,7 @@ title: Ilutulestike load
 notes: Jooksval nädalal toimuvad ilutulestikud koos asukohtadega
 department: ''
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'https://akis.tallinn.ee/kogunemised/xml/28cef206'
     format: XML

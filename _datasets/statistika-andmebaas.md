@@ -4,7 +4,7 @@ title: Statistika andmebaas
 notes: Statistikaameti poolt koostatav riiklik statistika PC-Axis platvormil.  Plaanis on lähiajal uuendada kogu süsteemi platvorm ja teha kõik andmestikud kättesaadavaks masinloetavalt.
 department: ''
 category:
-  - Majandus ja tööstus
+  - Majandus ja rahandus
 resources:
   - name: Statistikaameti statistika andmebaas
     url: 'http://www.stat.ee/andmebaas'

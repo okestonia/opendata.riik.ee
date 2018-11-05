@@ -4,7 +4,7 @@ title: Spordiürituste load
 notes: Jooksval nädalal toimuvad suured spordiüritused koos asukohtadega
 department: ''
 category:
-  - Riigiteenused
+  - Tervis
 resources:
   - url: 'https://akis.tallinn.ee/kogunemised/xml/32421f85'
     format: XML

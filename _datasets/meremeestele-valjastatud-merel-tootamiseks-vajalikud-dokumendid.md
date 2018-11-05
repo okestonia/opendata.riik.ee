@@ -4,7 +4,7 @@ title: Meremeestele väljastatud merel töötamiseks vajalikud dokumendid
 notes: Meremeestele väljastatud dokumendid seisuga 01.01.2017
 department: ''
 category:
-  - Riigiteenused
+  - Valitsus ja avalik sector
 resources:
   - name: meremehed
     url: 'http://185.174.163.43/downloads/meremehed.xml'

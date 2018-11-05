@@ -4,7 +4,7 @@ title: Kutseregistri avaandmed
 notes: 'Aastal 2001 asutatud register sisaldab andmeid kutsestandardite, kutsealade, kehtivate kutsetunnistuste, kutse andjate ja kutsenõukogude kohta. Kutseregistri väljavõtted on igapäevaselt uuendatud ja kättesaadavad Exceli formaadis.'
 department: ''
 category:
-  - Haridus ja teadus
+  - Haridus, kultuur ja sport
 resources:
   - name: Väljavõtted kutseregistrist
     url: 'https://www.kutsekoda.ee/et/kutseregister/statistika'

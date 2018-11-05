@@ -4,7 +4,7 @@ title: Tartu linnavolikogu liikmed
 notes: Tartu linnavolikogu liikmed
 department: Linnavalitsemine
 category:
-  - Riigiteenused
+  - Piirkonnad ja linnad
 resources:
   - url: 'http://info.raad.tartu.ee/tootajad.nsf/web/vol/xml'
     format: XML

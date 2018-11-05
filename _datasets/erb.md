@@ -5,7 +5,7 @@ notes: Eesti rahvusbibliograafia andmebaas ERB (http://erb.nlib.ee) registreerib
   nädalas.
 department: ''
 category:
-  - Kultuur
+  - Haridus, kultuur ja sport
 resources:
   - name: Perioodika (marc21xml)
     url: 'http://data.digar.ee/erb/ERB_perioodika.zip'

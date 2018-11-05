@@ -4,7 +4,7 @@ title: PPA kontaktandmed
 notes: 'Ära on toodud Politsei- ja Piirivalveameti struktuuriüksused, koos asukoha aadressi, postiindeksi, kontakttelefoni, faksi, äriregistri koodi, e-posti aadressi ja lahtiolekuaegadega.'
 department: ''
 category:
-  - Riigiteenused
+  - Õigusemõistmine, õigussüsteem ja avalik turvalisus
 resources:
   - name: PPA kontaktid.csv
     url: 'https://www2.politsei.ee/dotAsset/495376.csv'
