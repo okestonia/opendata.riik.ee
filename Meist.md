@@ -1,7 +1,7 @@
 ---
 title: Meist
 layout: default
-permalink: /meist/
+permalink: /about/
 ---
 ## Miks on andmete avamine vajalik?
 Andmete avamine ning nende koondamise ja leidmise hõlbustamine teenib mitmeid olulisi eesmärke:

@@ -25,20 +25,20 @@ navigation:
   - title: Rakendused
     url: /apps/
   - title: Blogi
-    url: /blogi/
+    url: /blog/
   - title: Lisainfo
     url: /lisainfo/
     sublinks:
       - title: Metaandmed
-        url: /metaandmed/
+        url: /metadata/
       - title: KKK
-        url: /kkk/
+        url: /faq/
       - title:  Avaandmete roheline raamat
         url: /roheline-raamat/
       - title: Kontaktid
-        url: /kontaktid/
+        url: /contacts/
       - title: Meist
-        url: /meist/
+        url: /about/
 
 
 # Collections
