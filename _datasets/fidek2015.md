@@ -13,7 +13,7 @@ category:
   - Majandus ja rahandus
 resources:
   - name: Deklaratsioonide andmestik
-    url: 'http://185.174.163.43/downloads/puhasfidek2015utf8.txt'
+    url: 'https://opendata.riik.ee/downloads/puhasfidek2015utf8.txt'
     format: TXT
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''

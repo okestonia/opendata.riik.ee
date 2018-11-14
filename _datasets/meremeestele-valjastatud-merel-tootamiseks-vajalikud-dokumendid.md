@@ -7,7 +7,7 @@ category:
   - Valitsus ja avalik sector
 resources:
   - name: meremehed
-    url: 'http://185.174.163.43/downloads/meremehed.xml'
+    url: 'https://opendata.riik.ee/downloads/meremehed.xml'
     format: XML
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''

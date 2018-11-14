@@ -7,31 +7,31 @@ category:
   - Majandus ja rahandus
 resources:
   - name: Riiklikud meetmed / National measures
-    url: 'http://185.174.163.43/downloads/meetmedmeasures.csv'
+    url: 'https://opendata.riik.ee/downloads/meetmedmeasures.csv'
     format: CSV
   - name: Allmärkused / Footnotes
-    url: 'http://185.174.163.43/downloads/allmarkusedfootnotes.csv'
+    url: 'https://opendata.riik.ee/downloads/allmarkusedfootnotes.csv'
     format: CSV
   - name: Lisadokumendid / Additional documents
-    url: 'http://185.174.163.43/downloads/lisadokumendidadditionaldocuments.csv'
+    url: 'https://opendata.riik.ee/downloads/lisadokumendidadditionaldocuments.csv'
     format: CSV
   - name: Mõõtühikud / Measurement units
-    url: 'http://185.174.163.43/downloads/mootuhikudmeasurementunits.csv'
+    url: 'https://opendata.riik.ee/downloads/mootuhikudmeasurementunits.csv'
     format: CSV
   - name: Tingimuse liigid / Condition types
-    url: 'http://185.174.163.43/downloads/tingimuseliigidconditiontypes.csv'
+    url: 'https://opendata.riik.ee/downloads/tingimuseliigidconditiontypes.csv'
     format: CSV
   - name: Riiklike meetmete veergude kirjeldused / Description of national measures columns
-    url: 'http://185.174.163.43/downloads/riiklikemeetmeteveergudekirjelduseddescriptionofnationalmeasurescolumns.csv'
+    url: 'https://opendata.riik.ee/downloads/riiklikemeetmeteveergudekirjelduseddescriptionofnationalmeasurescolumns.csv'
     format: CSV
   - name: Meetmeliigid /Measure types
-    url: 'http://185.174.163.43/downloads/meetmeliigidmeasuretypes.csv'
+    url: 'https://opendata.riik.ee/downloads/meetmeliigidmeasuretypes.csv'
     format: CSV
   - name: Lisakoodid / Additional codes
-    url: 'http://185.174.163.43/downloads/lisakoodidadditionalcodes.csv'
+    url: 'https://opendata.riik.ee/downloads/lisakoodidadditionalcodes.csv'
     format: CSV
   - name: Tegevuskoodid /Action codes
-    url: 'http://185.174.163.43/downloads/tegevuskoodidactioncodes.csv'
+    url: 'https://opendata.riik.ee/downloads/tegevuskoodidactioncodes.csv'
     format: CSV
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''

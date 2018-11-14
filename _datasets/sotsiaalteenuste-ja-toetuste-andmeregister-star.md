@@ -7,10 +7,10 @@ category:
   - Elanikkond ja ühiskond
 resources:
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
-    url: 'http://185.174.163.43/downloads/parameeterexcel.xlsx'
+    url: 'https://opendata.riik.ee/downloads/parameeterexcel.xlsx'
     format: excel
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
-    url: 'http://185.174.163.43/downloads/parameeter.csv'
+    url: 'https://opendata.riik.ee/downloads/parameeter.csv'
     format: CSV
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''

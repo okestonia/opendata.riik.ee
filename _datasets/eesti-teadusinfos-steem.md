@@ -10,7 +10,7 @@ category:
   - Teadus ja tehnoloogia
 resources:
   - name: ETIS avaandmete kasutamine API liidese vahendusel
-    url: 'http://185.174.163.43/downloads/etisavaandmetekasutamineapiliidesevahendusel.pdf'
+    url: 'https://opendata.riik.ee/downloads/etisavaandmetekasutamineapiliidesevahendusel.pdf'
     format: PDF
   - name: Tartu Ülikooli Teadusaparatuur
     url: 'https://www.etis.ee:7443/api/scientificequipment/getitems?Format=xml&SearchType=3&Take=5&Skip=0&InstitutionRegNo=74001073'

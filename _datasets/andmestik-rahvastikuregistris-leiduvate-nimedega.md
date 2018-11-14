@@ -7,7 +7,7 @@ category:
   - Elanikkond ja ühiskond
 resources:
   - name: Andmestik rahvastikuregistri nimedest
-    url: 'http://185.174.163.43/downloads/koiknimedseisuga01.02.2018.xlsx'
+    url: 'https://opendata.riik.ee/downloads/koiknimedseisuga01.02.2018.xlsx'
     format: XML
 license: ''
 update_freq: ''
