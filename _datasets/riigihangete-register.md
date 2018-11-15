@@ -9,7 +9,7 @@ category:
 resources:
   - name: Riigihangete register seisuga 18.05.2015
     url: 'https://opendata.riik.ee/downloads/rhravaandmed.xlsx'
-    format: CSV
+    format: XLSX
   - name: Riigihangete register
     url: https://riigihanked.riik.ee/rhr-web/
     format: HTML
