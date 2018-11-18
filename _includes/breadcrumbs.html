@@ -6,11 +6,10 @@
   font-size: 1.3rem;
   font-weight: 500;
 ">
-<META HTTP-EQUIV="CACHE-CONTROL" CONTENT="NO-CACHE">
   {% if page.title == site.title %}
-    <li class="active">Kodu</li>
+    <li class="active">Home</li>
   {% else %}
-    <li><a href="{{ site.baseurl }}/">Kodu</a></li>
+    <li><a href="{{ site.baseurl }}/">Home</a></li>
     {% if include.parent %}
       {% assign parent = site.pages | where:"title",include.parent | first %}
       {% if parent %}
