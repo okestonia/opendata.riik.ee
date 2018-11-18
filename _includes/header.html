@@ -1,6 +1,5 @@
 <nav class="navbar navbar-default" data-component="navigation">
   <div class="container">
-
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
@@ -8,12 +7,18 @@
 <span class="icon-bar"></span>
 <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title[page.lang] }}</a>
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        {% for link in site.navigation %}
+        {% if page.lang == "et" %}
+        {% assign nav = site.navigation_et %}
+        {% else %}
+        {% assign nav = site.navigation_english %}
+        {% endif %}
+
+        {% for link in nav %}
         {% if link.sublinks %}
         <li class="dropdown {{ class }}">
           <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
@@ -32,7 +37,11 @@
         {% endif %}
         {% endfor %}
       </ul>
+      <div class="wrapper" style="text-align: right; line-height: 4em">
 
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+      </div>
     </div>
         </div>
 </nav>

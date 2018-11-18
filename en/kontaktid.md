@@ -1,9 +1,9 @@
 ---
-title: Kontaktid
+title: Contacts
 layout: default
-permalink: /kontaktid/
+permalink: /en/contacts/
 ref: Contact
-lang: et
+lang: en
 ---
 # Kontaktid
 

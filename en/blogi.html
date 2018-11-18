@@ -1,13 +1,13 @@
 ---
-title: Blogi
+title: Blog
 layout: default
-permalink: /blogi/
+permalink: /en/blog/
 ref: blog
-lang: et
+lang: en
 ---
 {% include breadcrumbs.html %}
 
-<h1>Blogi</h1>
+<h1>Blog</h1>
 <div>
     {% assign sortnews = site.blogi | sort:"submitted" | reverse %}
     {% for blogi in sortnews %}

@@ -1,9 +1,9 @@
 ---
-title: Meist
+title: About
 layout: default
-permalink: /meist/
+permalink: /en/about/
 ref: about
-lang: et
+lang: en
 ---
 ## Miks on andmete avamine vajalik?
 Andmete avamine ning nende koondamise ja leidmise hõlbustamine teenib mitmeid olulisi eesmärke:
