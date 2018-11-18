@@ -20,6 +20,7 @@ export default class {
     const elements = {
       datasetsItems: queryByHook('datasets-items', opts.el),
       datasetsCount: queryByHook('datasets-count', opts.el),
+      datasetsEnglishCount: queryByHook('datasets-english-count', opts.el),
       searchQuery: queryByHook('search-query', opts.el)
     }
 
@@ -37,6 +38,12 @@ export default class {
     // + datasetSuffix;
     setContent(elements.datasetsCount, datasetsCountMarkup)
 
+    // // Dataset count English
+    const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
+    const datasetsEnglish = filteredDatasets.length + ' Dataset' + datasetSuffix;
+
+    setContent(elements.datasetsEnglishCount, datasetsEnglish)
+
     // Search datasets listener
     const searchFunction = this._createSearchFunction(filteredDatasets)
     elements.searchQuery.on('keyup', (e) => {
@@ -50,6 +57,12 @@ export default class {
       // Dataset count
       const resultsCountMarkup = results.length + ' Andmehulgad'
       setContent(elements.datasetsCount, resultsCountMarkup)
+
+      //Dataset Count english
+      const resultid = results.length + ' Datasets'
+      setContent(elements.datasetsEnglishCount, resultid)
+
+
     })
   }
 
