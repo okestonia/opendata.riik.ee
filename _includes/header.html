@@ -9,17 +9,19 @@
       </button>
       {% if page.lang == "et" %}
       <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title[page.lang] }}</a>
-      {% else %}
+      {% elsif page.lang == "en" %}
       <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title[page.lang] }}</a>
+      {% else %}
+      <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title['et'] }}</a>
       {% endif %}
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        {% if page.lang == "et" %}
-        {% assign nav = site.navigation_et %}
-        {% else %}
+        {% if page.lang == "en" %}
         {% assign nav = site.navigation_english %}
+        {% else %}
+        {% assign nav = site.navigation_et %}
         {% endif %}
 
         {% for link in nav %}
