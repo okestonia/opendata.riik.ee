@@ -74,36 +74,33 @@ navigation_english:
           url: /en/about/
 #Translations
 t:
-  resources:
-    en: Resources
-    et: Andmefailid
-  more:
-    en: More information
-    et: Lisainformatsioon
-  license:
-    en: LICENSE
-    et: Kasutuslitsents
-  update:
-    en: Update Frequency
-    et: Uuendussagedus
-  dateissued:
-    en: Added to Portal (YYYY-MM-DD)
-    et: Lisatud Portaali (YYYY-MM-DD)
-  datechanged:
-    en: Last Modified (YYYY-MM-DD)
-    et: Viimati muudetud (YYYY-MM-DD)
-  contactname:
-    en: Contact name
-    et: Kontakt nimi
-  contactemail:
-    en: Contact email
-    et: Kontakt email
+  en:
+    resources: "Resources"
+    more: "More Information"
+    license: "LICENSE"
+    update: "Update Frequency"
+    dateissued: "Added to Portal (YYYY-MM-DD)"
+    datechanged: "Last Modified (YYYY-MM-DD)"
+    contactname: "Contact name"
+    contactemail: "Contact email"
+  et:
+    resources: "Andmefailid"
+    more: "Lisainformatsioon"
+    license: "Kasutuslitsents"
+    update: "Uuendussagedus"
+    dateissued: "Lisatud Portaali (YYYY-MM-DD)"
+    datechanged: "Viimati muudetud (YYYY-MM-DD)"
+    contactname: "Kontakt nimi"
+    contactemail: "Kontakt email"
 
 # Collections
 collections:
   datasets:
     output: true
-    permalink: /datasets/:path/
+    permalink: /andmehulgad/:path/
+  datasetsen:
+    output: true
+    permalink: /en/datasets/:path/
   organizations:
     output: true
     permalink: /publishers/:path/
@@ -121,6 +118,13 @@ defaults:
       type: datasets
     values:
       layout: dataset
+      category: Uncategorized
+      organization: N/A
+  - scope:
+      path: ""
+      type: datasetsen
+    values:
+      layout: datasetsen
       category: Uncategorized
       organization: N/A
   - scope:

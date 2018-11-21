@@ -6,8 +6,11 @@ ref: Green
 lang: en
 ---
 ### GREEN PAPER ON OPEN DATA
-Avaandmete roheline raamat on avaandmete valdkonna poliitika esimene süstemaatiline käsitlus, mis avab selle valdkonna põhimõtted, koosvõime arhitektuuri, olulisemad poliitikavalikud ning tegevuskava. See on soovitatav lugemismaterjal kõigile, kes soovivad avaandmete valdkonna ja selle mõistetega lähemat tutvust teha. Teabevaldajatele sisaldab see konkreetseid vastuseid paljudele andmete avalikistamisega seotud küsimustele.
+The Green Paper on Open Data is the first systematic government report on the open data policy in Estonia, setting out its guiding principles, interoperability architecture, central policy choices and an activity plan. It is a must read for anyone who plans to explore the concept of open data and related terminology. The holders of information can find here answers to many questions they encounter in relation to opening up data.
 
-Raamatu koostas Majandus-ja Kommunikatsiooniministeeriumi riigi infosüsteemide osakond (RISO) koostöös Andmekaitse Inspektsiooni ja Riigikantselei strateegiabürooga. Rohelise raamatu esimene versioon1 avati konsultatsioonideks novembris 2013 portaalis osale.ee, korraldati neli teemakohast arutelu, muudatusettepanekuid küsiti kõikidelt ministeeriumitelt, põhiseaduslikelt institutsioonidelt, ITLlt, Eesti Linnade Liidult ja Kohalike Omavalitsuste Liidult, lisaks e-posti teel enam kui 50 eksperdilt.
+The Green Paper was prepared by the Department of State Information Systems of the Estonian Ministry of Economic Affairs and Communications in cooperation with the Estonian Data Protection Inspectorate and the Strategy Unit of the Government Office. The preliminary version of the Green Paper was made available for consultations in November 2013 on the portal osale.ee. Four rounds of discussions were held, recommendations for amendments were asked from all ministries, constitutional institutions, Estonian Association of Information Technology, Association of Estonian Cities and the Association of Estonian Municipalities, and more than 50 experts were consulted with via e-mail.
 
-Avaandmete rohelist raamatut on võimalik alla laadida [siit](https://www.mkm.ee/sites/default/files/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt).
+
+
+The Green Paper on Open Data (in Estonian) can be downloaded from the following
+[link:](https://www.mkm.ee/sites/default/files/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt).

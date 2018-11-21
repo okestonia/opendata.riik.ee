@@ -7,10 +7,8 @@ layout: default
 {% assign dataset_system_fields = "title|organization|notes|license|update_freq|date_issued|date_modified" | split: "|" %}
 {% assign resource_fields = site.data.schemas[schema].resource_fields %}
 {% assign resource_system_fields = "name|url|format|description" | split: "|" %}
-
 {% assign organization = site.organizations | where:"title",page.organization | first %}
 {% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
-
 <div data-component="view-switcher">
   <div class="row" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}" style="display:block">
     {% if organization %}

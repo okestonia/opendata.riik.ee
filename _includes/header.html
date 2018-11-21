@@ -41,14 +41,18 @@
         {% endif %}
         {% endfor %}
       </ul>
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% if pages.size < 3 %}
       <div class="wrapper" style="text-align: right; line-height: 4em">
       {% if page.lang == "et" %}
       Keel:
       {% else %}
       Language:
       {% endif %}
-      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-      {% for page in pages %} <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
+      {% for page in pages %}
+      <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
+      {% endfor %}
+      {% endif %}
       </div>
     </div>
         </div>
