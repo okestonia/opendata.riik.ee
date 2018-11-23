@@ -36,10 +36,10 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/07/12
-date_modified: 2017/07/12
+date_modified: 2018/11/23
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/mahe'
+legacy_url: 'https://opendata.riik.ee/en/dataset/mem-mahe'
 ---

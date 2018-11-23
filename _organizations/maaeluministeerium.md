@@ -1,6 +1,6 @@
 ---
-title: Maaeluministeerium (MEM)
+title: Maaeluministeerium
 description: Ministeeriumi ülesanded ja eesmärgid tulenevad Maaeluministeeriumi põhimäärusest.
-maintainer_name: Enno Veikesaar
-maintainer_email: enno.veikesaar@agri.ee
+maintainer_name: Jüri Tali
+maintainer_email: jyri.tali@agri.ee
 ---
