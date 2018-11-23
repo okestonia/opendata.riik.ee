@@ -8,6 +8,7 @@ layout: default
 {% assign resource_fields = site.data.schemas[schema].resource_fields %}
 {% assign resource_system_fields = "name|url|format|description" | split: "|" %}
 {% assign organization = site.organizations | where:"title",page.organization | first %}
+{% assign filename = page.url | remove: "/andmehulgad/" | remove: "/" | replace: ' ', '-' %}
 {% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
 <div data-component="view-switcher">
   <div class="row" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}" style="display:block">
@@ -33,9 +34,14 @@ layout: default
       {% else %}
       <div class="col-sm-12">
         {% endif %}
+        <div class="row">
         <h1>
-          <span property="dct:title">{{ page.title }}</span>
+            <span property="dct:title">{{ page.title }}</span>
         </h1>
+      <p style="font-weight: bold;"><a href="https://github.com/okestonia/jkan/commits/master/_datasets/{{filename}}.md" target="_blank" rel="noopener">Muudatuste ajalugu</a></p>
+    </div>
+
+
         <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes }}</p>
 
         <h2>Andmefailid</h2>
@@ -109,7 +115,14 @@ layout: default
           {% endunless %}
           {% endfor %}
         </table>
-        </div>
-    </div>
+      </div>
+      <button type="button" class="btn btn-outline-primary pull-right" style="
+                        margin-left: 30px;
+        ">
+        <a href="https://github.com/okestonia/jkan/edit/master/_datasets/{{filename}}.md" target="_blank" rel="noopener">Muuda Githubis</a></button>
+      <button type="button" class="btn btn-outline-primary pull-right">
+        <a href="https://github.com/okestonia/jkan/issues/new?title={{filename}}" target="_blank" rel="noopener">Alusta arutelu</a></button></div>
+
   </div>
+</div>
 </div>
