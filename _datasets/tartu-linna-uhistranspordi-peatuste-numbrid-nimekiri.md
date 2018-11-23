@@ -10,7 +10,7 @@ resources:
     format: GTFS
     name: 'Tartu linna ühistranspordi peatuste numbrid ja nimekiri, asukohad ja sõiduplaanid'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: ''
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: ''
 date_modified: ''
 organization: Tartu Linnavalitsus
