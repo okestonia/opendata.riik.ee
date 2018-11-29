@@ -9,11 +9,11 @@ lang: en
 
 <h1>Blog</h1>
 <div>
-    {% assign sortnews = site.blogi | sort:"submitted" | reverse %}
+    {% assign sortnews = site.blogi | where: "lang", page.lang | sort:"submitted" | reverse %}
     {% for blogi in sortnews %}
   <div>
         <h3>{{ blogi.news_title }}</h3>
-        <p class="text-muted">Lisanud {{ blogi.author }} {{ blogi.submitted }}</p>
+        <p class="text-muted">Added {{ blogi.author }} {{ blogi.submitted }}</p>
         <div class="text_control">{{ blogi.preview }}</div>
         <p><a href="{{ site.baseurl }}{{ blogi.url }}"> Read more </a></p>
       </div>

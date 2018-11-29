@@ -6,10 +6,9 @@ ref: blog
 lang: et
 ---
 {% include breadcrumbs.html %}
-
 <h1>Blogi</h1>
 <div>
-    {% assign sortnews = site.blogi | sort:"submitted" | reverse %}
+    {% assign sortnews = site.blogi | where: "lang", page.lang | sort:"submitted" | reverse %}
     {% for blogi in sortnews %}
   <div>
         <h3>{{ blogi.news_title }}</h3>

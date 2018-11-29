@@ -109,7 +109,7 @@ collections:
     permalink: /apps/:path/
   blogi:
     output: true
-    permalink: /blogi/:path/
+  #  permalink: /blogi/:path/
 
 # Collections (cont'd)
 defaults:
@@ -133,10 +133,17 @@ defaults:
     values:
       layout: organization
   - scope:
-      path: ""
-      type: blogi
+      path: "_blogi/et"
     values:
+      permalink: "/et/blogi/:title"
       layout: article
+      lang: "et"
+  - scope:
+      path: "_blogi/en"
+    values:
+      permalink: "/en/blogi/:title"
+      layout: article
+      lang: "en" 
 #  - scope:
 #      path: ""
 #      type: applications
