@@ -1,6 +1,6 @@
 ---
 news_title: Algas suurprojekt avaandmete edendamiseks
-text: >
+text:
   <p>Tänavu veebruaris käivitus projekt „Avaandmete kasutamise edendamine“, mille eesmärk on anda järgneva kolme aasta jooksul arengutõuge avaandmete pakkumisele ja kasutamisele Eestis. Projekti viib koostöös Majandus- ja Kommunikatsiooniministeeriumiga ellu MTÜ Open Knowledge Estonia.</p>
 
   <p>Projekti eesmärkideks on toetada avaandmete valdkonna süstemaatilist arengut, kasvatada ühiskonna teadlikkust avaandmetest ja andmete kasutusvõimalustest, tugevdada avaandmete pakkujate ja kasutajate koostöövõrgustikke, arendada ja kasvatada avaandmete teabeväravat, luua soodsad võimalused uute innovaatiliste andmepõhiste teenuste tekkeks ning osaleda rahvusvahelises koostöös, vahendades Eesti kogemust ja tuues siia infot teiste riikide parimatest praktikatest. Projekti rahastatakse EL
