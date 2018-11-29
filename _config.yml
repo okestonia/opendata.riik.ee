@@ -135,15 +135,15 @@ defaults:
   - scope:
       path: "_blogi/et"
     values:
-      permalink: "/et/blogi/:title"
+      permalink: "/et/blogi/:title/"
       layout: article
       lang: "et"
   - scope:
       path: "_blogi/en"
     values:
-      permalink: "/en/blogi/:title"
+      permalink: "/en/blogi/:title/"
       layout: article
-      lang: "en" 
+      lang: "en"
 #  - scope:
 #      path: ""
 #      type: applications
