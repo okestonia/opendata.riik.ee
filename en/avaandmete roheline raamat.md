@@ -12,5 +12,4 @@ The Green Paper was prepared by the Department of State Information Systems of t
 
 
 
-The Green Paper on Open Data (in Estonian) can be downloaded from the following
-[link:](https://www.mkm.ee/sites/default/files/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt).
+The Green Paper on Open Data (in Estonian) can be downloaded [here](https://www.mkm.ee/sites/default/files/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt).

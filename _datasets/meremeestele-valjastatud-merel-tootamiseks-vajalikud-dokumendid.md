@@ -4,7 +4,7 @@ title: Meremeestele väljastatud merel töötamiseks vajalikud dokumendid
 notes: Meremeestele väljastatud dokumendid seisuga 01.01.2017
 department: ''
 category:
-  - Valitsus ja avalik sector
+  - Valitsus ja avalik sektor
 resources:
   - name: meremehed
     url: 'https://opendata.riik.ee/downloads/meremehed.xml'

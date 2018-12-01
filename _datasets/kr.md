@@ -4,7 +4,7 @@ title: Kinnistusraamatu avalikud tasuta andmed
 notes: Kinnistusraamatu avalikud tasuta andmed
 department: ''
 category:
-  - Valitsus ja avalik sector
+  - Valitsus ja avalik sektor
 resources:
   - name: Kinnistusraamatu avalikud tasuta andmed
     url: 'http://avaandmed.rik.ee/andmed/KR/'

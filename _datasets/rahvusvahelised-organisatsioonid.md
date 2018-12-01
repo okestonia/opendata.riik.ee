@@ -4,7 +4,7 @@ title: Rahvusvahelised organisatsioonid
 notes: 'Eestis asuvad valitsustevahelised rahvusvahelised organisatsioonid või muude rahvusvaheliste kokkulepetega loodud institutsioonid, nende juhid ja kontaktandmed.'
 department: ''
 category:
-  - Valitsus ja avalik sector
+  - Valitsus ja avalik sektor
 resources:
   - name: organisatsioonid.xml
     url: 'http://opendata.vm.ee/organisatsioonid.xml'
