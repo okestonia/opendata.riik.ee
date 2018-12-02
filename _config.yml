@@ -49,6 +49,8 @@ navigation_et:
         url: /kontaktid/
       - title: Meist
         url: /meist/
+      - title: Juhend
+        url: /juhend/
 
 navigation_english:
     - title: Datasets
