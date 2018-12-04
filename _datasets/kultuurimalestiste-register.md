@@ -14,8 +14,8 @@ update_freq: ''
 date_issued: 2015/02/10
 date_modified: 2015/02/10
 organization: Muinsuskaitseamet
-maintainer_name: Urve Russow
-maintainer_email: urve.russow@muinas.ee
-maintainer_phone: '6403012'
+maintainer_name: Karin Merilo
+maintainer_email: karin.merilo@muinsuskaitseamet.ee
+maintainer_phone: '6403043'
 legacy_url: 'https://opendata.riik.ee/en/dataset/kultuurimalestiste-register'
 ---
