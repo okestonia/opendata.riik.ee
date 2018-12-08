@@ -99,10 +99,7 @@ t:
 collections:
   datasets:
     output: true
-    permalink: /andmehulgad/:path/
-  datasetsen:
-    output: true
-    permalink: /en/datasets/:path/
+#    permalink: /andmehulgad/:path/
   organizations:
     output: true
     permalink: /publishers/:path/
@@ -116,19 +113,18 @@ collections:
 # Collections (cont'd)
 defaults:
   - scope:
-      path: ""
+      path: "_datasets/et"
       type: datasets
     values:
+      permalink: /et/andmehulgad/:title/
       layout: dataset
-      category: Uncategorized
-      organization: N/A
+      lang: et
   - scope:
-      path: ""
-      type: datasetsen
+      path: "_datasets/en"
     values:
-      layout: datasetsen
-      category: Uncategorized
-      organization: N/A
+      permalink: /en/datasets/:title/
+      layout: dataset
+      lang: en
   - scope:
       path: ""
       type: organizations
@@ -181,6 +177,16 @@ twittercard:
 # Open Graph
 opengraph:
   enabled: true
+
+plugins:
+  - jekyll-feed
+
+feed:
+  collections:
+    - datasets
+    - applications
+    - blogi
+    - organizations
 
 # Exclude these files from the build
 exclude:
