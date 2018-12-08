@@ -13,7 +13,7 @@ lang: en
     {% for blogi in sortnews %}
   <div>
         <h3>{{ blogi.news_title }}</h3>
-        <p class="text-muted">Added by {{ blogi.author }} {{ blogi.submitted }}</p>
+        <p class="text-muted">Added by {{ blogi.author }} {{ blogi.submitted | date: "%d/%m/%Y" }}</p>
         <div class="text_control">{{ blogi.preview }}</div>
         <p><a href="{{ site.baseurl }}{{ blogi.url }}"> Read more </a></p>
       </div>
