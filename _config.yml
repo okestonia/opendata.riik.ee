@@ -99,7 +99,10 @@ t:
 collections:
   datasets:
     output: true
-#    permalink: /andmehulgad/:path/
+    permalink: /andmehulgad/:path/
+  datasetsen:
+    output: true
+    permalink: /en/datasets/:path/
   organizations:
     output: true
     permalink: /publishers/:path/
@@ -113,18 +116,19 @@ collections:
 # Collections (cont'd)
 defaults:
   - scope:
-      path: "_datasets/et"
+      path: ""
       type: datasets
     values:
-      permalink: /et/andmehulgad/:title/
       layout: dataset
-      lang: et
+      category: Uncategorized
+      organization: N/A
   - scope:
-      path: "_datasets/en"
+      path: ""
+      type: datasetsen
     values:
-      permalink: /en/datasets/:title/
-      layout: dataset
-      lang: en
+      layout: datasetsen
+      category: Uncategorized
+      organization: N/A
   - scope:
       path: ""
       type: organizations
