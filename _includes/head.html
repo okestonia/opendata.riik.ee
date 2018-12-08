@@ -44,4 +44,11 @@
     <!-- Twittercard -->
     {% include addons/twittercard.html %}
   {% endif %}
+  
+    <script>
+  var settings = {
+    BASE_URL: {{ site.baseurl | jsonify }},
+    PAGE_URL: {{ page.url | jsonify }},
+  }
+  </script>
 </head>
