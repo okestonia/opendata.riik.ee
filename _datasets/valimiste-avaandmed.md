@@ -14,7 +14,7 @@ update_freq: ''
 date_issued: 2015/12/04
 date_modified: 2015/10/11
 organization: Vabariigi Valimiskomisjon
-maintainer_name:
+maintainer_name: Vabariigi Valimiskomisjon
 maintainer_email: info@valimised.ee
 maintainer_phone: ''
 

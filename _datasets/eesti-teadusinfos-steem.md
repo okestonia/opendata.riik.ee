@@ -34,7 +34,8 @@ resources:
     url: 'https://www.etis.ee/Portal/Mentorships/Index'
     format: HTML
   - name: Teadus- ja arendustegevusega seotud tööstusomand
-
+    url: 'https://www.etis.ee/Portal/IndustrialProperties/Index'
+    format: HTML
   - name: Teadus- ja arendustegevusega seotud kollektsioonid ja kogud
     url: 'https://www.etis.ee/Portal/Collections/Index'
     format: HTML
