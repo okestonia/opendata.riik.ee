@@ -39,6 +39,7 @@ text: >
   <p><a href="https://github.com/okestonia/Data-Viz-Protos/tree/master/basseinivesi" target="_blank">https://github.com/okestonia/Data-Viz-Protos/tree/master/basseinivesi</a></p>
 
   </blockquote>
+preview_img: vesi.PNG
 tags:
   - Terviseamet
   - vesi

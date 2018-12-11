@@ -114,7 +114,6 @@ news_fields:
     label: Text
   - field_name: preview
     label: Preview
-   # form_template: form/textarea.html
   - field_name: preview_image
     label: Image URL
   - field_name: submitted
