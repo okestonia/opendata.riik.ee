@@ -17,5 +17,5 @@ organization: Veeteede Amet
 maintainer_name: Alar Siht
 maintainer_email: alar.siht@vta.ee
 maintainer_phone: '6205580'
-legacy_url: 'https://opendata.riik.ee/en/dataset/meremeestele-valjastatud-merel-tootamiseks-vajalikud-dokumendid'
+
 ---

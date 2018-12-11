@@ -17,5 +17,5 @@ organization: Registrite ja Infosüsteemide Keskus
 maintainer_name: Jaanus Laane
 maintainer_email: jaanus.laane@just.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eesti_majanduse_tegevusalade_klassifikaator_2008'
+
 ---

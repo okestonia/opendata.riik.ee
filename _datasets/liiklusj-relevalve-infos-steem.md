@@ -20,5 +20,5 @@ organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Kristjan Kaiklem
 maintainer_email: kristjan.kaiklem@mkm.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/liiklusj-relevalve-infos-steem'
+
 ---

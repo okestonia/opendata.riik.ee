@@ -20,5 +20,5 @@ organization: Haridus- ja Teadusministeerium
 maintainer_name: Sihtasutus Kutsekoda
 maintainer_email: kutsekoda@kutsekoda.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/kutseregister'
+
 ---

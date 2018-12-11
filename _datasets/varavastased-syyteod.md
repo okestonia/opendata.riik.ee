@@ -35,5 +35,5 @@ organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name:
 maintainer_email: avaandmed@list.politsei.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/varavastased-syyteod'
+
 ---

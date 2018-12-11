@@ -17,5 +17,5 @@ organization: Patendiamet
 maintainer_name: Robin Lõo
 maintainer_email: robin.loo@just.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eesti-patendiameti-kaubam-rkide-avalikud-andmed'
+
 ---

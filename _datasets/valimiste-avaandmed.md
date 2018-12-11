@@ -17,5 +17,5 @@ organization: Vabariigi Valimiskomisjon
 maintainer_name:
 maintainer_email: info@valimised.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/valimiste-avaandmed'
+
 ---

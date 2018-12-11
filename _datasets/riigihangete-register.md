@@ -21,5 +21,5 @@ organization: Rahandusministeerium
 maintainer_name: Rahandusministeerium
 maintainer_email: info@rahandusministeerium.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/riigihangete-register'
+
 ---

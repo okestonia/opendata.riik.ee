@@ -20,5 +20,5 @@ organization: Välisministeerium
 maintainer_name: Tiina Tapupere
 maintainer_email: Tiina.Tapupere@mfa.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/strateegilise-kauba-registreeritud-vahendajad'
+
 ---

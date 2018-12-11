@@ -41,5 +41,5 @@ organization: Maksu- ja Tolliamet
 maintainer_name: Kati Liik.
 maintainer_email: kati.liik@emta.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eesti-tollitariifistik_01022018'
+
 ---

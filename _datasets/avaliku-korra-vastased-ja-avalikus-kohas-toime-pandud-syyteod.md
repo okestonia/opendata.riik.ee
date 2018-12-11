@@ -35,5 +35,5 @@ organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: Maarja Vesi
 maintainer_email: maarja.vesi@politsei.ee
 maintainer_phone: '6123348'
-legacy_url: 'https://opendata.riik.ee/en/dataset/avaliku-korra-vastased-ja-avalikus-kohas-toime-pandud-syyteod'
+
 ---

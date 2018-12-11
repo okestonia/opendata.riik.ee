@@ -58,5 +58,5 @@ organization: Haridus- ja Teadusministeerium
 maintainer_name: ETIS kasutajatugi
 maintainer_email: etis@etag.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eesti-teadusinfos-steem'
+
 ---

@@ -14,5 +14,5 @@ update_freq: ''
 date_issued: 2015/07/06
 date_modified: 2015/07/06
 organization: Justiitsministeerium
-legacy_url: 'https://opendata.riik.ee/en/dataset/http-avaandmed-rik-ee-andmed-ariregister'
+
 ---

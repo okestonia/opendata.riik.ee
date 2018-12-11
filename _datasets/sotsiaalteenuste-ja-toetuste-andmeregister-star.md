@@ -20,5 +20,5 @@ organization: Sotsiaalministeerium
 maintainer_name: STAR teenusetugi
 maintainer_email: STARteenusetugi@tehik.ee
 maintainer_phone: '7943903'
-legacy_url: 'https://opendata.riik.ee/en/dataset/sotsiaalteenuste-ja-toetuste-andmeregister-star'
+
 ---

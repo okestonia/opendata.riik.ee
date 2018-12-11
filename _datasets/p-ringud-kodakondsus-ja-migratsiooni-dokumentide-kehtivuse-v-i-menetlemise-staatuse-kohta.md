@@ -17,5 +17,5 @@ organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: PPA
 maintainer_email: ppa@politsei.ee
 maintainer_phone: '6123098'
-legacy_url: 'https://opendata.riik.ee/en/dataset/p-ringud-kodakondsus-ja-migratsiooni-dokumentide-kehtivuse-v-i-menetlemise-staatuse-kohta'
+
 ---

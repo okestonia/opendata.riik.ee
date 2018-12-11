@@ -25,5 +25,5 @@ organization: Haridus- ja Teadusministeerium
 maintainer_name: EIS kasutajatugi
 maintainer_email: eis.tugi@innove.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eksamite-infos-steemi-avaandmed'
+
 ---

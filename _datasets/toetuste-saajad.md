@@ -20,5 +20,5 @@ organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: Kadri Koel
 maintainer_email: kadri.koel@pria.ee
 maintainer_phone: '7371211'
-legacy_url: 'https://opendata.riik.ee/en/dataset/toetuste-saajad'
+
 ---

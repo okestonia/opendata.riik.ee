@@ -17,5 +17,5 @@ organization: Muinsuskaitseamet
 maintainer_name: Karin Merilo
 maintainer_email: karin.merilo@muinsuskaitseamet.ee
 maintainer_phone: '6403043'
-legacy_url: 'https://opendata.riik.ee/en/dataset/kultuurimalestiste-register'
+
 ---

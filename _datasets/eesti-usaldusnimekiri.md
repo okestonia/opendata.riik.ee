@@ -23,5 +23,5 @@ organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Uuno Vallner
 maintainer_email: uuno.vallner@riso.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eesti-usaldusnimekiri'
+
 ---

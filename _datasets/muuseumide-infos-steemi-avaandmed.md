@@ -17,5 +17,5 @@ organization: Kultuuriministeerium
 maintainer_name: Kadri Nigulas
 maintainer_email: kadri.nigulas@kul.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/muuseumide-infos-steemi-avaandmed'
+
 ---

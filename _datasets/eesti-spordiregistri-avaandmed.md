@@ -41,5 +41,5 @@ organization: Kultuuriministeerium
 maintainer_name: Spordikoolituse ja -Teabe SA
 maintainer_email: ' esr@spordiinfo.ee'
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eesti-spordiregistri-avaandmed'
+
 ---

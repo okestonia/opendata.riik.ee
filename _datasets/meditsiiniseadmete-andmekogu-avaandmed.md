@@ -26,5 +26,5 @@ organization: Terviseamet
 maintainer_name: Kadri Tõnnisson
 maintainer_email: kadri.tonnisson@terviseamet.ee
 maintainer_phone: '7447421'
-legacy_url: 'https://opendata.riik.ee/en/dataset/meditsiiniseadmete-andmekogu-avaandmed'
+
 ---

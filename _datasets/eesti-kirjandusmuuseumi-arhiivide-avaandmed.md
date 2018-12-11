@@ -17,5 +17,5 @@ organization: Eesti Kirjandusmuuseum
 maintainer_name: Kaisa Kulasalu
 maintainer_email: kaisakulasalu@folklore.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eesti-kirjandusmuuseumi-arhiivide-avaandmed'
+
 ---

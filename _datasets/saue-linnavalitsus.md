@@ -17,5 +17,5 @@ organization: Saue Linnavalitsus
 maintainer_name: Merle Kerm
 maintainer_email: merle.kerm@saue.ee
 maintainer_phone: '6790188'
-legacy_url: 'https://opendata.riik.ee/en/dataset/saue-linnavalitsus'
+
 ---

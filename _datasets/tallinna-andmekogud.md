@@ -17,5 +17,5 @@ organization: Tallinna Linnavalitsus
 maintainer_name: Liina Karjane
 maintainer_email: liina.karjane@tallinnlv.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/tallinna-andmekogud'
+
 ---
