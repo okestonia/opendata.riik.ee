@@ -3,6 +3,7 @@ author: Annegrete Peek
 news_title: 10 most popular addresses for Estonian companies
 preview: This is another post in "Open Data and Data Journalism" series. What addresses are the most popular ones for companies? In the Business Register the comapny address is provided as a open data.
 submitted: 2018/11/29
+preview_img: top10.PNG
 tags:
   - Äriregister
   - aadress

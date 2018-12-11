@@ -11,6 +11,7 @@ text:
   <p>MTÜ <a href="https://ee.okfn.org/et/" rel="nofollow">Open Knowledge Estonia</a> (OK-EE) on avalikes huvides tegutsev vabatahtlik ühendus, mis seisab info ja andmete vaba kättesaadavuse ja teadmusühiskonna arengu eest, koondades avatud teadmuse edendamisest huvitatud kogukondi ning viies ellu teemakohaseid algatusi ja projekte. OK-EE kuulub rahvusvahelisse Open Knowledge võrgustikku.</p>
 
 preview: Tänavu veebruaris käivitus projekt „Avaandmete kasutamise edendamine“, mille eesmärk on anda järgneva kolme aasta jooksul arengutõuge avaandmete pakkumisele ja kasutamisele Eestis. Projekti viib koostöös Majandus- ja Kommunikatsiooniministeeriumiga ellu MTÜ Open Knowledge Estonia.
+preview_img: default.PNG
 tags: []
 submitted: 2018/06/07
 author: admin

@@ -3,6 +3,7 @@ author: "Maarja Toots"
 news_title: "Topograafia andmekogu ruumiandmed said avaandmeteks"
 preview: "ETAK-i andmeid on 284 500 faili, pakitud kujul mahus 6 terabaiti, millest 4,24 terabaiti moodustavad ortofotod, 1,7 terabaiti kõrgusandmed ja 60 gigabaiti Eesti põhikaart ning ETAK-i tuumandmed. Vektorgraafikas ETAK-i tuumandmed on allalaaditavad nii teemade kaupa kihtidena kui ka kogu andmestik terve Eesti ulatuses ühes failis."
 submitted: 2018/08/01
+preview_img: default.PNG
 tags:
   - geography
   - "topograafia andmekogu"

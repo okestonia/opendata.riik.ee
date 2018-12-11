@@ -9,7 +9,12 @@
   {% if page.title == site.title %}
     <li class="active">Home</li>
   {% else %}
+  {% if page.lang == "en" %}
     <li><a href="{{ site.baseurl }}/">Home</a></li>
+    {% else %}
+    <li><a href="{{ site.baseurl }}/">Kodu</a></li>
+  {% endif %}
+
     {% if include.parent %}
       {% assign parent = site.pages | where:"title",include.parent | first %}
       {% if parent %}
