@@ -7,7 +7,7 @@ category:
   - Riigiteenused
 resources:
   - name: Lipupäevad
-    url: 'downloads/lipupaevs.ics'
+    url: '/downloads/lipupaevad.ics'
     format: ICS
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
