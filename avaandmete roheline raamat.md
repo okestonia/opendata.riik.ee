@@ -2,6 +2,8 @@
 title: Avaandmete roheline raamat
 layout: default
 permalink: /roheline-raamat/
+ref: Green
+lang: et
 ---
 ### AVAANDMETE ROHELINE RAAMAT
 Avaandmete roheline raamat on avaandmete valdkonna poliitika esimene süstemaatiline käsitlus, mis avab selle valdkonna põhimõtted, koosvõime arhitektuuri, olulisemad poliitikavalikud ning tegevuskava. See on soovitatav lugemismaterjal kõigile, kes soovivad avaandmete valdkonna ja selle mõistetega lähemat tutvust teha. Teabevaldajatele sisaldab see konkreetseid vastuseid paljudele andmete avalikistamisega seotud küsimustele.

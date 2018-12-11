@@ -4,7 +4,7 @@ title: Harku Vallavalitsus
 notes: Dokumendihaldussüsteem
 department: ''
 category:
-  - Riigiteenused
+  - Valitsus ja avalik sektor
 resources:
   - name: Avalik dokumendiregister
     url: 'https://atp.amphora.ee/harkuvv/index.aspx?hdr=hp&o=903&tbs=all&o2=-1'

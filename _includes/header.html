@@ -1,39 +1,61 @@
 <nav class="navbar navbar-default" data-component="navigation">
   <div class="container">
-
     <div class="navbar-header">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
         <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      {% if page.lang == "et" %}
+      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title[page.lang] }}</a>
+      {% elsif page.lang == "en" %}
+      <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title[page.lang] }}</a>
+      {% else %}
+      <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title['et'] }}</a>
+      {% endif %}
     </div>
 
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        {% for link in site.navigation %}
-        {% if page.url contains link.url %}
-        <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
+        {% if page.lang == "en" %}
+        {% assign nav = site.navigation_english %}
+        {% else %}
+        {% assign nav = site.navigation_et %}
         {% endif %}
+
+        {% for link in nav %}
         {% if link.sublinks %}
         <li class="dropdown {{ class }}">
           <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
           <ul class="dropdown-menu">
             {% for sublink in link.sublinks %}
-            {% if sublink.title == 'separator' %}
-            <li role="separator" class="divider"></li>
-            {% else %}
             <li>
               <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
             </li>
-            {% endif %}
             {% endfor %}
           </ul>
-        </li>
+            </li>
+        {% elsif page.url contains link.url %}
+        <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
         {% else %}
         <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% if pages.size < 3 %}
+      <div class="wrapper" style="text-align: right; line-height: 4em">
+      {% if page.lang == "et" %}
+      Keel:
+      {% else %}
+      Language:
+      {% endif %}
+      {% for page in pages %}
+      <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
+      {% endfor %}
+      {% endif %}
+      </div>
     </div>
-  </div>
+        </div>
 </nav>

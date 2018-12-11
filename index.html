@@ -1,62 +1,38 @@
 ---
 layout: default
+ref: index
+lang: et
 ---
 
 <div class="jumbotron">
-  <h1>{{ site.greeting }}</h1>
+  <h1 style="color: #49667F;">{{ site.greeting[page.lang] }}</h1>
   <p>
-    {{ site.description }}
+    {{ site.description[page.lang] }}
   </p>
   <p><a class="btn btn-primary btn-lg" href="{{ site.baseurl }}/datasets" role="button">Alusta otsingut</a></p>
 </div>
 
-<div class="jumptron">
-
-                    <div class="col-md-6">
-                        <div class="fp_list_box">
-                              <div class="region region-fp-left-list">
-    <section id="block-block-3" class="block block-block contextual-links-region boxed clearfix">
-
-        <h2 class="block-title">Andmete avamise olulisemad eesmärgid</h2>
-    
-  <ul><li>Elavdab majandust</li>
-<li>Suurendab läbipaistvust</li>
-<li>Pakub informatsiooni</li>
-<li>Vähendab teabenõuete arvu ja sellega avaliku sektori koormust</li>
-<li>Pakub avatud teenuste loomist ja haldamist era- ja vabasektorile</li>
-<li>Õhutab üleminekut tuleviku teholoogiatele nagu <em>linkandmed</em>, <em>suurandmed</em> ja <em>asjade internet</em></li>
-</ul>
-</section> 
+<div class="row">
+  <div class="col-md-6">
+    <h3 class="fp-title">Andmete avamise olulisemad eesmärgid</h3>
+    <ul class="fp-text">
+      <li>Elavdab majandust</li>
+      <li>Suurendab läbipaistvust</li>
+      <li>Pakub informatsiooni</li>
+      <li>Vähendab teabenõuete arvu ja sellega avaliku sektori koormust</li>
+      <li>Pakub avatud teenuste loomist ja haldamist era- ja vabasektorile</li>
+      <li>Õhutab üleminekut tuleviku teholoogiatele nagu <em>linkandmed</em>, <em>suurandmed</em> ja <em>asjade internet</em></li>
+    </ul>
   </div>
-                        </div>
-                    </div>
-                    <div class="col-md-6">
-                        <div class="fp_right_video">
-                              <div class="region region-fp-right-video">
-    <section id="block-block-4" class="block block-block contextual-links-region boxed clearfix">
-
-
-</ul></div>
-  <iframe width="100%" height="294" src="//www.youtube.com/embed/OM6XIICm_qo" allowfullscreen="" style="border:none;"></iframe>
-</section> 
+  <div class="col-md-6">
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/c42QNa-rccw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
-                       
-      </div>
 </div>
-
-
-<!-- <h3>Browse by Category</h3>
-
-<div class="homepage-categories">
-{% for category in site.data.categories %}
-  {% if category.featured == true %}
-    {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-    <a href="{{ site.baseurl }}/datasets/?category={{ category.name | slugify }}" class="thumbnail" title="{{ logo_alt }}">
-      {% if category.logo and category.logo != empty %}
-        <img src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
-      {% endif %}
-      {{ category.name }}
-    </a>
-  {% endif %}
-{% endfor %} 
-</div> -->
+<div class="row fp-disclaimer">
+  <div class="fp-general-text">
+<p>Hea kasutaja, avaandmete portaal on uuenemas.
+  Palun aita meil portaali paremaks muuta ja vigu avastada,
+  jagades oma tagasisidet, tähelepanekuid ja ettepanekuid
+  <a href="https://goo.gl/forms/NNYqspxwcsUC9lPq1" target="_blank"  rel="noopener"> SIIN</a>. Täname!</p>
+  </div>
+</div>

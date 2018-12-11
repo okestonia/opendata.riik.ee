@@ -1,7 +1,9 @@
 ---
 title: Rakendused
 layout: default
-permalink: /apps/
+permalink: /rakendused/
+ref: apps
+lang: et
 ---
 {% include breadcrumbs.html %}
 
@@ -59,7 +61,7 @@ permalink: /apps/
     {% for application in site.applications %}
     <tr>
         <td>{{ application.app_name }}</td>
-        <td>{{ application.developed_by }}  </td>
+        <td>{{ application.developed_by }}</td>
         <td>{{ application.app_description }}</td>
         <td>{{ application.submitted }}</td>
         <td> <img src="{{ application.app_preview }}" height="150" width="450"></a></td>
