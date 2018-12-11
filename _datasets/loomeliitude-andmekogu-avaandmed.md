@@ -17,5 +17,5 @@ organization: Kultuuriministeerium
 maintainer_name: Indrek Reimand
 maintainer_email: indrek.reimand@kul.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/loomeliitude-andmekogu-avaandmed'
+
 ---

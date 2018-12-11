@@ -23,5 +23,5 @@ organization: Maksu- ja Tolliamet
 maintainer_name: EMTA
 maintainer_email: info@emta.ee
 maintainer_phone:
-legacy_url: 'https://opendata.riik.ee/en/dataset/fidek2015'
+
 ---

@@ -20,5 +20,5 @@ organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Ehitisregister
 maintainer_email: ehr@mkm.ee
 maintainer_phone: '6256352, 625 6445'
-legacy_url: 'https://opendata.riik.ee/en/dataset/ehitisregister'
+
 ---

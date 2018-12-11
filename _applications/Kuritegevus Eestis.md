@@ -20,6 +20,7 @@ Diana Sokurova ja Linnet Puskar"
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/preview.PNG'
 app_url: 'https://andmeteadus2018.shinyapps.io/KuritegevusEestis/'
 developed_by: Diana Sokurova ja Linnet Puskar
+img: preview.PNG
 tags:
   - PPA
 submitted: 2018/10/04

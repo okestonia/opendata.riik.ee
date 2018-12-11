@@ -4,6 +4,7 @@ app_description: "<p>Visualiseerib riigiteenuste <a href=\"https://www.riigiteen
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/riigitenused.PNG'
 app_url: 'https://ristohinno.shinyapps.io/Riigiteenused_dashboard/'
 developed_by: Risto Hinno
+img: riigiteenused.PNG
 tags:
   - riigiteenused
 submitted: 2018/03/30

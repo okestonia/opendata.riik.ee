@@ -17,5 +17,4 @@ organization: Aegviidu Vallavalitsus
 maintainer_name: Lilja Piibeleht-Tarassov
 maintainer_email: lilja@aegviidu.ee
 maintainer_phone: '6051770'
-legacy_url: 'https://opendata.riik.ee/en/dataset/aegviiduvallavalitsus'
 ---

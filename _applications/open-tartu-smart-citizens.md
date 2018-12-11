@@ -6,6 +6,7 @@ app_description:
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/opentartu.PNG'
 app_url: 'https://github.com/infoaed/opentartu'
 developed_by: Open Tartu kollektiiv
+img: opentartu.PNG
 tags:
   - eelnõud
   - otsused

@@ -20,5 +20,5 @@ organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: MKM
 maintainer_email: info@mkm.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/majandus-ja-kommunikatsiooniministeeriumi-teenuste-otsing'
+
 ---

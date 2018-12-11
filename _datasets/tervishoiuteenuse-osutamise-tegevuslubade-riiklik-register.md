@@ -29,5 +29,5 @@ organization: Terviseamet
 maintainer_name: Maie Otsmann
 maintainer_email: maie.otsmann@terviseamet.ee
 maintainer_phone: '6943540'
-legacy_url: 'https://opendata.riik.ee/en/dataset/tervishoiuteenuse-osutamise-tegevuslubade-riiklik-register'
+
 ---

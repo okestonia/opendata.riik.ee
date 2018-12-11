@@ -49,5 +49,5 @@ organization: Sotsiaalministeerium
 maintainer_name: Liina Kaldmäe
 maintainer_email: liina.kaldmae@sm.ee
 maintainer_phone: '6269726'
-legacy_url: 'https://opendata.riik.ee/en/dataset/kollektiivlepingute-andmekogu'
+
 ---

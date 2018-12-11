@@ -20,5 +20,5 @@ organization: Välisministeerium
 maintainer_name: Riina Talts
 maintainer_email: Riina.Talts@mfa.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/rahvusvahelised-organisatsioonid'
+
 ---

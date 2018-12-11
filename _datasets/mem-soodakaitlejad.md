@@ -23,5 +23,5 @@ organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/mem-soodakaitlejad'
+
 ---

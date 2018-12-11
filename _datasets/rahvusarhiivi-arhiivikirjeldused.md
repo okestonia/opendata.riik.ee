@@ -32,5 +32,5 @@ organization: Rahvusarhiiv
 maintainer_name: Koit Saarevet
 maintainer_email: koit.saarevet@ra.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/rahvusarhiivi-arhiivikirjeldused'
+
 ---

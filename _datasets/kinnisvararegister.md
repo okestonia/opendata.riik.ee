@@ -17,5 +17,5 @@ organization: Rahandusministeerium
 maintainer_name: Katrin Solvak
 maintainer_email: katrin.solvak@fin.ee
 maintainer_phone: '+3726113046'
-legacy_url: 'https://opendata.riik.ee/en/dataset/kinnisvararegister'
+
 ---

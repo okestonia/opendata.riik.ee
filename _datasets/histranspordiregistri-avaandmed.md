@@ -26,5 +26,5 @@ organization: Maanteeamet
 maintainer_name: Thomas Lepik
 maintainer_email: opendata@mnt.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/histranspordiregistri-avaandmed'
+
 ---

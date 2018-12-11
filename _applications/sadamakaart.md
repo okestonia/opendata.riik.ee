@@ -4,6 +4,7 @@ app_description: 'Eestis on üle 180 erineva sadama ja info nende kohta on olema
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/sadamad.PNG'
 app_url: 'https://gis.ee/sadamad/'
 developed_by: gis.ee
+img: sadamad.PNG
 tags:
 submitted: 2018/11/01
 ---

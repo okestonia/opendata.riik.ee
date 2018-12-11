@@ -35,5 +35,5 @@ organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: Kiido Levin
 maintainer_email: kiido.levin@pria.ee
 maintainer_phone: '7377625'
-legacy_url: 'https://opendata.riik.ee/en/dataset/p-llumajandusloomade-register'
+
 ---

@@ -23,5 +23,5 @@ organization: Maaeluministeerium
 maintainer_name: Põllumajandusamet
 maintainer_email: tuulekaer@pma.agri.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/mem-tuulekaer'
+
 ---

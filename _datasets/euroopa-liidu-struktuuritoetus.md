@@ -19,5 +19,5 @@ organization: Rahandusministeerium
 maintainer_name: Margus Lehesaar
 maintainer_email: margus.lehesaar@fin.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/euroopa-liidu-struktuuritoetus'
+
 ---

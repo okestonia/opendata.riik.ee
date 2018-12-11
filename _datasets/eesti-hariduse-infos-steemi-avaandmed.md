@@ -44,5 +44,5 @@ organization: Haridus- ja Teadusministeerium
 maintainer_name: Haridus- ja Teadusministeerium
 maintainer_email: hm@hm.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eesti-hariduse-infos-steemi-avaandmed'
+
 ---

@@ -20,5 +20,5 @@ organization: Maa-amet
 maintainer_name: Tanel Hurt
 maintainer_email: Tanel.Hurt@maaamet.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/posti-sihtnumbrid-postiindeksid'
+
 ---

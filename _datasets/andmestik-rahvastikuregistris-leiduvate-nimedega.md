@@ -17,5 +17,5 @@ organization: Siseministeerium
 maintainer_name: Maarja-Eliisabet Mäe
 maintainer_email: maarja-eliisabet.mae@siseministeerium.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/andmestik-rahvastikuregistris-leiduvate-nimedega'
+
 ---

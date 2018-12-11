@@ -17,5 +17,5 @@ organization: Maa-amet
 maintainer_name: Andre Kaptein
 maintainer_email: Andre.Kaptein@maaamet.ee
 maintainer_phone: '6750894'
-legacy_url: 'https://opendata.riik.ee/en/dataset/aadressiandmed'
+
 ---

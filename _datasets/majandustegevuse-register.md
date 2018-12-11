@@ -21,5 +21,5 @@ organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Majandustegevuse register
 maintainer_email: mtr@mkm.ee
 maintainer_phone: '6687080'
-legacy_url: 'https://opendata.riik.ee/en/dataset/majandustegevuse-register'
+
 ---

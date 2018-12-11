@@ -17,5 +17,5 @@ organization: Justiitsministeerium
 maintainer_name: Justiitsministeerium
 maintainer_email: info@just.ee
 maintainer_phone: '6208100'
-legacy_url: 'https://opendata.riik.ee/en/dataset/https-www-ametlikudteadaanded-ee-avalik-uriotsing'
+
 ---

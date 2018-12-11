@@ -26,5 +26,5 @@ organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: Kadri Pärnpuu
 maintainer_email: Kadri.Parnpuu@pria.ee
 maintainer_phone: '7371319'
-legacy_url: 'https://opendata.riik.ee/en/dataset/p-llumassiivide-register'
+
 ---

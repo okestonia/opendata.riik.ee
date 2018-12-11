@@ -17,5 +17,5 @@ organization: Haridus- ja Teadusministeerium
 maintainer_name: EKIS kasutajatugi
 maintainer_email: kis@eenet.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/koolide-infos-steemi-avaandmed'
+
 ---

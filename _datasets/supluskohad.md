@@ -26,5 +26,5 @@ organization: Terviseamet
 maintainer_name: ''
 maintainer_email: kesk@terviseamet.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/vee-terviseohutuse-infos-steemi-avalikud-andmed'
+
 ---

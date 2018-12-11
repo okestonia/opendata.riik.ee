@@ -17,5 +17,5 @@ organization: Tartu Linnavalitsus
 maintainer_name: Hüite Bergmann
 maintainer_email: Hyite.Bergmann@raad.tartu.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/tartu-linna-avaandmed'
+
 ---

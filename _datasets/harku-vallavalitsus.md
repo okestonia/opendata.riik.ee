@@ -17,5 +17,5 @@ organization: Harku Vallavalitsus
 maintainer_name: Harku Vallavalitsus
 maintainer_email: harku@harku.ee
 maintainer_phone: '6003848'
-legacy_url: 'https://opendata.riik.ee/en/dataset/harku-vallavalitsus'
+
 ---

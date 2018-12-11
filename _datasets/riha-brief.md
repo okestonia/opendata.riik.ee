@@ -20,5 +20,5 @@ organization: Riigi Infosüsteemi Amet
 maintainer_name: RIA
 maintainer_email: ria@ria.ee
 maintainer_phone:
-legacy_url: 'https://opendata.riik.ee/en/dataset/riha-brief'
+
 ---

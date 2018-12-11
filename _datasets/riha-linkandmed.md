@@ -17,5 +17,5 @@ organization: Tartu Ülikool
 maintainer_name: Peep Küngas
 maintainer_email: peep.kungas@ut.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/riha-linkandmed'
+
 ---

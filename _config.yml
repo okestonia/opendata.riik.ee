@@ -182,8 +182,8 @@ twittercard:
 opengraph:
   enabled: true
 
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 
 feed:
   collections:
