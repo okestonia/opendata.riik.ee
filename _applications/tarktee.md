@@ -4,6 +4,7 @@ app_description: 'Maanteeameti liiklusinfo rakendus Tark Tee annab infot liiklus
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/tarktee.PNG'
 app_url: 'https://tarktee.mnt.ee/'
 developed_by: Maantee amet
+img: tarktee.PNG
 tags:
 submitted: 2018/11/01
 ---

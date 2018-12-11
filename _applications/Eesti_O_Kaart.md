@@ -5,6 +5,7 @@ Orieneerumiskaardi (ISOMi) sarnased leppemärgid ja kaardi on genereerinud Ospor
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/okaart.PNG'
 app_url: 'https://okaart.osport.ee/'
 developed_by: Tarmo Klaar
+img: okaart.PNG
 tags:
 submitted: 2018/12/04
 ---

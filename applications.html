@@ -31,7 +31,7 @@ lang: et
             <a href="{{ application.app_url }}">
                 <div style="
                     height: 180px;
-                    background-image: url({{ application.app_preview }});
+                    background-image: url(/img/{{application.img}});
                     background-size: cover;
                 "></div>
                 <h3>{{ application.app_name }}</h3>
@@ -45,28 +45,3 @@ lang: et
 {% endfor %}
 
 </div>
-
-{% comment %}
-<table class="table table-hover">
-    <thead>
-        <tr>
-            <th>Application</th>
-            <th>Developer</th>
-            <th>Description</th>
-            <th>Submitted Date</th>
-            <th>Preview Image</th> <!-- This needs to be done better -->
-        </tr>
-    </thead>
-    <tbody>
-    {% for application in site.applications %}
-    <tr>
-        <td>{{ application.app_name }}</td>
-        <td>{{ application.developed_by }}</td>
-        <td>{{ application.app_description }}</td>
-        <td>{{ application.submitted }}</td>
-        <td> <img src="{{ application.app_preview }}" height="150" width="450"></a></td>
-    </tr>
-    {% endfor %}
-    </tbody>
-</table>
-{% endcomment %}

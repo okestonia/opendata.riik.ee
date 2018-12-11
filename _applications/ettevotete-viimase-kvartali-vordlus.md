@@ -4,6 +4,7 @@ app_description: "<p>Siin rakenduses saab vaadata\_kuni kolme Eesti ettevõtte t
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/company_compare.PNG'
 app_url: 'https://annegrete.ee/shiny/company_compare_EMTA/'
 developed_by: Annegrete Peek
+img: company_compare.PNG
 tags:
   - EMTA
   - ettevõtlus

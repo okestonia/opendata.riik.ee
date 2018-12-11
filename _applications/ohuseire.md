@@ -4,6 +4,7 @@ app_description: 'Õhukvaliteedi juhtimine tähendab läbi õhukvaliteedi seire 
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/ohuseire.PNG'
 app_url: 'http://www.ohuseire.ee/'
 developed_by: Eesti keskkonnauuringute keskus
+img: ohuseire.PNG
 tags:
 submitted: 2018/11/01
 ---

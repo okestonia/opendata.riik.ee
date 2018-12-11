@@ -4,6 +4,7 @@ app_description: Sellel lehel on avalikustatud valitsussektorisse kuuluvate üks
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/riigiraha.PNG'
 app_url: 'http://riigiraha.fin.ee'
 developed_by: Rahandusministeerium
+img: riigiraha.PNG
 tags:
 submitted: 2018/11/15
 ---

@@ -6,6 +6,7 @@ Rakendus loodi Tartu Ülikooli 2018. aasta kursuse Statistiline visualiseerimine
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/alkohol.PNG'
 app_url: 'https://andmeteadus2018.shinyapps.io/alkoholiregister/'
 developed_by: Ingel-Brit Parmas
+img: alkohol.PNG
 tags:
 submitted: 2018/11/01
 ---
