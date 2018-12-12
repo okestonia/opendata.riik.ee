@@ -15,8 +15,7 @@ dataset_fields:
     datajson: modified
   - field_name: organization
     label: Teabevaldaja
-    form_template: form/organization.html
-    datajson: publisher.name
+    datajson: publisher
   - field_name: notes
     label: Kirjeldus
     form_template: form/textarea.html
