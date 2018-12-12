@@ -2,6 +2,10 @@
 ---
 {
   "conformsTo": "https://project-open-data.cio.gov/v1.1/schema",
+  "@context": "https://project-open-data.cio.gov/v1.1/schema/catalog.jsonld",
+  "@id": "https://opendata.riik.ee/data.json",
+  "@type": "dcat:Catalog",
+  "describedBy": "https://project-open-data.cio.gov/v1.1/schema/catalog.json",
   "dataset": [{% for dataset in site.datasets %}{% capture temp %}
     {% assign schema = dataset.schema | default: site.schema %}
     {% assign dataset_fields = site.data.schemas[schema].dataset_fields %}
@@ -10,8 +14,8 @@
     {% assign f_title = dataset_fields | where: "datajson", "title" | first %}
     {% assign title = dataset[f_title[field_name]] %}
 
-    {% assign f_publisher_name = dataset_fields | where: "datajson", "publisher.name" | first %}
-    {% assign publisher_name = dataset[f_publisherName[field_name]] %}
+    {% assign f_organization = dataset_fields | where: "datajson", "publisher" | first %}
+    {% assign organization = dataset[f_organization[field_name]] %}
 
     {% assign f_date_issued = dataset_fields | where: "datajson", "issued" | first %}
     {% assign date_issued = dataset[f_date_issued[field_name]] %}
@@ -44,10 +48,10 @@
     {% endcapture %}{% if title %}
     {
       "@type": "dcat:Dataset",
-      "title": {{ title | jsonify }},{% if publisher_name %}
+      "title": {{ title | jsonify }},{% if organization %}
       "publisher": {
         "@type": "org:Organization",
-        "name": {{ publisher_name | jsonify }}
+        "name": {{ organization | jsonify }}
       },{% endif %}
       "issued": {{ date_issued | jsonify }},
       "modified": {{ date_modified | jsonify }},
