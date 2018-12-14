@@ -9,4 +9,5 @@ description: |-
      säilitamine, teaduslik uurimine ja avalikkusele kättesaadavaks tegemine.
 maintainer_name: Kaisa Kulasalu
 maintainer_email: kaisakulasalu@folklore.ee
+logo: kirmus.png
 ---
