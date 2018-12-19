@@ -11,7 +11,7 @@ resources:
     format: JSON
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
-date_issued: ''
+date_issued: '2018/12/19'
 date_modified: '2018/12/19'
 organization: MTÜ Eesti Fotopärand
 maintainer_name: Vahur Puik
