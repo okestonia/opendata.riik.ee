@@ -8,7 +8,7 @@ category:
 resources:
   - name: Ajapaik.ee avaandmete liides
     url: 'http://opendata.ajapaik.ee'
-    format: HTML
+    format: JSON
 license: 'CC0'
 update_freq: ''
 date_issued: ''
