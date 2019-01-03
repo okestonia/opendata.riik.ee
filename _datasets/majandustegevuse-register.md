@@ -10,9 +10,11 @@ resources:
   - name: Majandustegevuse register
     url: 'http://opendata.mkm.ee/mtr/'
     format: XML
+    interactive: 'False'
   - name: MTR andmete xml schema
     url: 'http://opendata.mkm.ee/mtr/avaandmed_schema.xml'
     format: XML
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2018/05/07

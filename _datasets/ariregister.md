@@ -9,6 +9,7 @@ resources:
   - name: 'Äriregistri avalikud tasuta andmed [ettevõtja (ühingu) nimi, registrikood, käibemaksukohustuslase number, staatus, aadress, link ettevõtja andmetele]'
     url: 'http://avaandmed.rik.ee/andmed/ARIREGISTER/'
     format: 'xml, csv'
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by-sa/3.0/'
 update_freq: ''
 date_issued: 2015/07/06

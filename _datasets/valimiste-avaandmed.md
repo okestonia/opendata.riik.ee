@@ -9,6 +9,7 @@ resources:
   - name: Toimunud valimised
     url: 'https://www.valimised.ee/et/valimiste-arhiiv/toimunud-valimiste-arhiiv'
     format: HTML
+    interactive: 'True'
 license: ''
 update_freq: ''
 date_issued: 2015/12/04

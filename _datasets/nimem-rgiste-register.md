@@ -9,9 +9,11 @@ resources:
   - name: 28.05.2018 Nimemärgised ja ettevõtted
     url: 'http://opendata.mkm.ee/nmrr/'
     format: XML
+    interactive: 'False'
   - name: XML schema kirjeldus
     url: 'http://opendata.mkm.ee/nmrr/ettevotted_schema.xml'
     format: XML
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2018/05/28

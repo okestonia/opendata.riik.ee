@@ -9,6 +9,7 @@ resources:
   - name: 25.03.2015 MuIS püsiviited ja avaandmete liides
     url: 'http://opendata.muis.ee'
     format: HTML
+    interactive: 'True'
 license: ''
 update_freq: ''
 date_issued: 2015/03/25

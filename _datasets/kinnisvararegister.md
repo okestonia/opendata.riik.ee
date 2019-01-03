@@ -9,33 +9,43 @@ resources:
   - name: Riigi kinnisvararegister
     url: 'https://riigivara.fin.ee/kvr/'
     format: HTML
+    interactive: 'True'
   - name: Riigi kinnisvararegistri otsingutulemused
     url: 'https://riigivara.fin.ee/kvr/'
     format: csv
+    interactive: 'False'
   - name: Riigi kinnisvararegistri avaandmete schema
     url: 'https://riigivara.fin.ee/kvr/avaandmed/schema'
     format: xsd
+    interactive: 'False'
   - name: Kinnisvarade aruanne
     url: 'https://riigivara.fin.ee/kvr/avaandmed/kinnisvarad'
     format: xml
+    interactive: 'False'
   - name: Maade aruanne
     url: 'https://riigivara.fin.ee/kvr/avaandmed/maad'
     format: xml
+    interactive: 'False'
   - name: Hoonete aruanne
     url: 'https://riigivara.fin.ee/kvr/avaandmed/hooned'
     format: xml
+    interactive: 'False'
   - name: Rajatiste aruanne
     url: 'https://riigivara.fin.ee/kvr/avaandmed/rajatised'
     format: xml
+    interactive: 'False'
   - name: Menetluste aruanne
     url: 'https://riigivara.fin.ee/kvr/avaandmed/menetlused'
     format: xml
+    interactive: 'False'
   - name: Kõigi registris registreeritud lepingute aruanne
     url: 'https://riigivara.fin.ee/kvr/avaandmed/lepingud'
     format: xml
+    interactive: 'False'
   - name: Kinnisvara kasutuslepingute aruanne
     url: 'https://riigivara.fin.ee/kvr/avaandmed/kasutuslepingud'
     format: xml
+    interactive: 'False'
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
 date_issued: 2015/05/08

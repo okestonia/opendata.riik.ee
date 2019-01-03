@@ -9,9 +9,11 @@ resources:
   - name: 10.04.2017 Eesti artiklid (marc21xml)
     url: 'http://dea.digar.ee/cgi-bin/dea-oaiserver?verb=ListRecords&metadataPrefix=marc21'
     format: XML
+    interactive: 'False'
   - name: Digitaalarhiivi DIGAR Eesti artiklid kodulehekülg
     url: 'http://dea.digar.ee'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
 date_issued: 2017/04/10

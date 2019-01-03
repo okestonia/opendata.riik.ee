@@ -9,6 +9,7 @@ resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed'
     format: XML
     name: Tallinna teenused
+    interactive: 'False'
 license: ''
 update_freq: ''
 date_issued: ''

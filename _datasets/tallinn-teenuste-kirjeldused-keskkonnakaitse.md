@@ -9,6 +9,7 @@ resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=14'
     format: XML
     name: Teenuste kirjeldused - keskkonnakaitse
+    interactive: 'False'
 license: ''
 update_freq: ''
 date_issued: ''

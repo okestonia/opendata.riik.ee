@@ -9,9 +9,11 @@ resources:
   - name: 07.05.2018 Ehitisregistri avaandmed
     url: 'https://avaandmed.ehr.ee'
     format: HTML
+    interactive: 'True'
   - name: 07.05.2018 Ehitisregistri avaandmete ligipääsu juhend
     url: 'https://avaandmed.ehr.ee/avaandmed_abi.pdf'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by-sa/3.0/'
 update_freq: ''
 date_issued: 2018/05/07

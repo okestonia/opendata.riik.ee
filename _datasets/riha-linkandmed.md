@@ -9,6 +9,7 @@ resources:
   - name: X-tee teenuste linkandmed
     url: 'http://deepweb.ut.ee/services/api-network-x-road.rdf'
     format: RDF
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/05/21

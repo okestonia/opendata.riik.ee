@@ -9,6 +9,7 @@ resources:
   - name: Tartu linna avaandmed
     url: 'http://www.tartu.ee/et/avaandmed'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/02/28

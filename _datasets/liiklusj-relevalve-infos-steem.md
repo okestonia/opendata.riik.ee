@@ -9,9 +9,11 @@ resources:
   - name: 07.05.2018 LJVIS XML
     url: 'http://opendata.mkm.ee/ljvis/'
     format: XML
+    interactive: 'False'
   - name: Liiklusjärelevalve infosüsteemi avaandmete kirjeldus
     url: 'http://opendata.mkm.ee/ljvis/struktuur.pdf'
     format: PDF
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 07/05/2018

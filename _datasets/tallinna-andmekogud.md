@@ -9,6 +9,7 @@ resources:
   - name: Tallinna andmekogud
     url: 'http://www.tallinn.ee/avaandmed/'
     format: HTML
+    interactive: 'True'
 license: ''
 update_freq: ''
 date_issued: 2015/04/27

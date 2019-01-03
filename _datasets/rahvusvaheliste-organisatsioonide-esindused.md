@@ -9,9 +9,11 @@ resources:
   - name: esindused.xml
     url: 'http://opendata.vm.ee/esindused.xml'
     format: XML
+    interactive: 'False'
   - name: esindused_schema.xml
     url: 'http://opendata.vm.ee/esindused_schema.xml'
     format: XML
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/03/26

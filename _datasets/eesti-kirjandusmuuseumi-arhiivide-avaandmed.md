@@ -9,6 +9,7 @@ resources:
   - name: Eesti Kirjandusmuuseumi arhiivide avaandmed
     url: 'http://kivike.kirmus.ee/index.php?dok_id=38&module=2&op='
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/03/16

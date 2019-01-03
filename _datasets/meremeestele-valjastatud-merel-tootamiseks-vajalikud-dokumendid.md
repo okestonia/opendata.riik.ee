@@ -9,6 +9,7 @@ resources:
   - name: meremehed
     url: 'https://opendata.riik.ee/downloads/meremehed.xml'
     format: XML
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/09/27

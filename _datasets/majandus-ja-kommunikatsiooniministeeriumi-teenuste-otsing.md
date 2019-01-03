@@ -9,9 +9,11 @@ resources:
   - name: Teenuste otsing
     url: 'https://www.mkm.ee/et/teenuste-otsing'
     format: HTML
+    interactive: 'True'
   - name: API
     url: 'https://www.riigiteenused.ee/api/et/all'
     format: JSON
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/08/27

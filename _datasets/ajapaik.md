@@ -9,6 +9,7 @@ resources:
   - name: Ajapaik.ee avaandmete liides
     url: 'http://opendata.ajapaik.ee'
     format: JSON
+    interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
 date_issued: '2018/12/19'

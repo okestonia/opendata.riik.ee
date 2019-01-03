@@ -9,15 +9,19 @@ resources:
   - name: Meditsiiniseadmed
     url: 'https://msa.sm.ee/avaandmed/ms_seadmed.php'
     format: XML
+    interactive: 'False'
   - name: Ohujuhtumid
     url: 'https://msa.sm.ee/avaandmed/ms_juhtumid.php'
     format: XML
+    interactive: 'False'
   - name: Kliinilised uuringud
     url: 'https://msa.sm.ee/avaandmed/ms_uuringud.php'
     format: XML
+    interactive: 'False'
   - name: MSA avaandmete metadata kirjeldus
     url: 'https://msa.sm.ee/img/image/MSA_avaandmete_metadata_kirjeldus.xls'
     format: XLS
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/02/26

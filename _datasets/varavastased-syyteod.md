@@ -9,24 +9,31 @@ resources:
   - name: 11.01.2018 Süüteod üle-eelmise viie aasta kohta
     url: 'https://opendata.smit.ee/ppa/files/vara_3.zip'
     format: ZIP
+    interactive: 'False'
   - name: 11.01.2018 Süüteod üle-eelmise viie aasta kohta
     url: 'https://opendata.smit.ee/ppa/csv/vara_3.csv'
     format: CSV
+    interactive: 'False'
   - name: 16.11.2017 Süüteod eelmisele aastale eelneval 5 aastal ZIP
     url: 'https://opendata.smit.ee/ppa/files/vara_2.zip'
     format: csv / zip
+    interactive: 'False'
   - name: 16.11.2017 Süüteod eelmisele aastale eelneval 5 aastal
     url: 'https://opendata.smit.ee/ppa/csv/vara_2.csv'
     format: CSV
+    interactive: 'False'
   - name: 16.11.2017 Süüteod sellel ja eelmisel aastal ZIP
     url: 'https://opendata.smit.ee/ppa/files/vara_1.zip'
     format: csv / zip
+    interactive: 'False'
   - name: 16.11.2017 Süüteod sellel ja eelmisel aastal
     url: 'https://opendata.smit.ee/ppa/csv/vara_1.csv'
     format: CSV
+    interactive: 'False'
   - name: Selgitused avaldatavate andmete kohta
     url: 'https://www2.politsei.ee/et/organisatsioon/analuus-ja-statistika/avaandmed.dot'
-    format: veebileht
+    format: HTML
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/11/15

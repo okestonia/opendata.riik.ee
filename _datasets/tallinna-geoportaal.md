@@ -7,8 +7,9 @@ category:
   - Piirkonnad ja linnad
 resources:
   - url: 'https://www.tallinn.ee/geoportaal/'
-    format: Veebileht
+    format: HTML
     name: Tallinna geoportaal
+    interactive: 'True'
 license: ''
 update_freq: ''
 date_issued: 01.04.2018

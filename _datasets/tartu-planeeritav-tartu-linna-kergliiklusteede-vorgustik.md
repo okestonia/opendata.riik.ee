@@ -9,6 +9,7 @@ resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Kergliiklus/planeeritavad/MapServer?wsdl'
     format: XML
     name: Planeeritav Tartu linna kergliiklusteede võrgustik
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''

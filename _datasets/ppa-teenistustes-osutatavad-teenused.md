@@ -9,6 +9,7 @@ resources:
   - name: Teenindustes osutatavad teenused
     url: 'https://www2.politsei.ee/dotAsset/495012.csv'
     format: CSV
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/11/11

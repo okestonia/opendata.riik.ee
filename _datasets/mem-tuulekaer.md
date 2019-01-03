@@ -9,12 +9,15 @@ resources:
   - name: Tuulekaera leviku kaart 2016
     url: 'http://www.pma.agri.ee/download.php?getfile2=8518'
     format: docx
+    interactive: 'False'
   - name: Põllumajanduse Registrite ja Informatsiooni Ameti veebikaart
     url: 'https://kls.pria.ee/kaart/'
-    format: www
+    format: HTML
+    interactive: 'True'
   - name: Põllumajandusameti veebileht
     url: 'http://www.pma.agri.ee/index.php?id=104&sub=331&sub2=479'
-    format: www
+    format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/07/12

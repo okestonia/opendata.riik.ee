@@ -12,45 +12,59 @@ resources:
   - name: ETIS avaandmete kasutamine API liidese vahendusel
     url: 'https://opendata.riik.ee/downloads/etisavaandmetekasutamineapiliidesevahendusel.pdf'
     format: PDF
+    interactive: 'True'
   - name: Tartu Ülikooli Teadusaparatuur
     url: 'https://www.etis.ee:7443/api/scientificequipment/getitems?Format=xml&SearchType=3&Take=5&Skip=0&InstitutionRegNo=74001073'
     format: XML
+    interactive: 'False'
   - name: Käimasolevad sihtfinantseerimisega projektid
     url: 'https://www.etis.ee:7443/api/project/getitems?Format=json&SearchType=3&Take=5&Skip=0&ProgrammeName=Sihtfinantseerimine&ProjectStatus=2'
     format: JSON
+    interactive: 'False'
   - name: Teadus- ja arendustegevusega seotud isikud
     url: 'https://www.etis.ee/Portal/Persons/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud asutused
     url: 'https://www.etis.ee/Portal/Institutions/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud projektid
     url: 'https://www.etis.ee/Portal/Projects/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud publikatsioonid
     url: 'https://www.etis.ee/Portal/Publications/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud juhendamised
     url: 'https://www.etis.ee/Portal/Mentorships/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud tööstusomand
     url: 'https://www.etis.ee/Portal/IndustrialProperties/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud kollektsioonid ja kogud
     url: 'https://www.etis.ee/Portal/Collections/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud teadusaparatuur
     url: 'https://www.etis.ee/Portal/ScientificEquipments/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud tooted ja teenused
     url: 'https://www.etis.ee/Portal/ProductServices/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud koostööpakkumised
     url: 'https://www.etis.ee/Portal/CooperationOffers/Index'
     format: HTML
+    interactive: 'True'
   - name: Teadus- ja arendustegevusega seotud klassifikaatorid
     url: 'https://www.etis.ee/Portal/Classifiers/Index'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by-sa/3.0/'
 update_freq: ''
 date_issued: 2018/04/16
