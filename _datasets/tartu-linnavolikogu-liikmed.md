@@ -9,6 +9,7 @@ resources:
   - url: 'http://info.raad.tartu.ee/tootajad.nsf/web/vol/xml'
     format: XML
     name: Tartu linnavolikogu liikmed
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''

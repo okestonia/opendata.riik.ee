@@ -9,6 +9,7 @@ resources:
   - name: Andmestik rahvastikuregistri nimedest
     url: 'https://opendata.riik.ee/downloads/koiknimedseisuga01.02.2018.xlsx'
     format: XML
+    interactive: 'False'
 license: ''
 update_freq: ''
 date_issued: 2018/02/01

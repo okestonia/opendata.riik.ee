@@ -9,6 +9,7 @@ resources:
   - url: 'http://www.tallinn.ee/est/Tallinn-arvudes'
     format: PDF
     name: Tallinn arvudes
+    interactive: 'True'
 license: ''
 update_freq: ''
 date_issued: 09.01.2015

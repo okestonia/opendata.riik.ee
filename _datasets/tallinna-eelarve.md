@@ -9,6 +9,7 @@ resources:
   - url: 'http://www.tallinn.ee/eelarve'
     format: PDF
     name: Tallinna eelarve
+    interactive: 'True'
 license: ''
 update_freq: ''
 date_issued: 11.06.2015

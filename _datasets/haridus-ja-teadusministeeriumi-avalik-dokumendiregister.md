@@ -9,6 +9,7 @@ resources:
   - name: Dokumendiregistri avaliku vaate otsing
     url: 'https://www.hm.ee/et/ministeerium/dokumendiregister'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/05/09

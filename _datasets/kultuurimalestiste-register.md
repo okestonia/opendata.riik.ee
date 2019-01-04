@@ -9,6 +9,7 @@ resources:
   - name: Rest API
     url: 'http://register.muinas.ee/rest/v1/monuments?'
     format: JSON
+    interactive: 'True'
 license: 'http://opendatacommons.org/licenses/pddl/'
 update_freq: ''
 date_issued: 2015/02/10

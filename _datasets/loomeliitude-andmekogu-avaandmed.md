@@ -9,6 +9,7 @@ resources:
   - name: 'Loomeliitude andmekogu avaandmed'
     url: 'http://avaandmed.rik.ee/andmed/LLA/'
     format: XML
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2015/04/20

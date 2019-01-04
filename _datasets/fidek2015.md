@@ -15,6 +15,7 @@ resources:
   - name: Deklaratsioonide andmestik
     url: 'https://opendata.riik.ee/downloads/puhasfidek2015utf8.txt'
     format: TXT
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/03/18

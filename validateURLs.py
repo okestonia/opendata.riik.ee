@@ -2,7 +2,7 @@ import yaml
 import requests
 import sys
 import json
-
+import sys
 
 # Recursively parse the URLs out of a YAML structure
 def get_urls(tree):
@@ -22,18 +22,19 @@ def get_urls(tree):
 def validate_urls(urls, source):
     ret = []
     for url in urls:
-        # The default values in case we don't end up getting a response
-        status = -1
-        content_type = ""
-        try:
-            r = requests.get(url, stream=True, timeout=21)
-            status = r.status_code
-            print(r.headers)
-            content_type = r.headers["content-type"]
-            r.close()
-        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectTimeout):
-            print(url + " timed out")
-        ret.append({"url": url, "http_status": status, "content-type": content_type, "source": source})
+        # We might encounter relative URLs, ignore those
+        if url[0] != "/":
+            # The default values in case we don't end up getting a response
+            status = -1
+            content_type = ""
+            try:
+                r = requests.get(url, stream=True, timeout=21)
+                status = r.status_code
+                content_type = r.headers.get("content-type", "")
+                r.close()
+            except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectTimeout):
+                print(url + " timed out")
+            ret.append({"url": url, "http_status": status, "content-type": content_type, "source": source})
 
     return ret
 
@@ -47,16 +48,17 @@ if __name__ == "__main__":
         o = {}
         line_rstrip = line.rstrip()
         file = open(line_rstrip, "r")
-        for d in yaml.load_all(file):
-            if d is not None:
-                if "organization" in d.keys():
-                    print(d["organization"])
-                    o["organization"] = d["organization"]
-                else:
-                    o["organization"] = line_rstrip
-                o["urls"] = validate_urls(get_urls(d), line_rstrip)
+        try:
+            for d in yaml.load_all(file):
+                if isinstance(d, dict):
+                    if "organization" in d.keys():
+                        o["organization"] = d["organization"]
+                    else:
+                        o["organization"] = line_rstrip
+                    o["urls"] = validate_urls(get_urls(d), line_rstrip)
+        except yaml.YAMLError as e:
+            sys.stderr.write("Encountered an YAML error while processing file " + line_rstrip)
         file.close()
         orgs.append(o)
 
-    with open(sys.argv[1], 'w') as output:
-        json.dump(orgs, output)
+    print(json.dumps(orgs, indent=4, sort_keys=True))

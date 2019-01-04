@@ -9,6 +9,7 @@ resources:
   - url: 'http://raie.tallinn.ee/open_xml.php'
     format: XML
     name: Raieload
+    interactive: 'False'
 license: ''
 update_freq: ''
 date_issued: ''

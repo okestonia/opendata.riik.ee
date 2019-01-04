@@ -9,12 +9,15 @@ resources:
   - name: MATER
     url: 'https://www.agri.ee/sites/default/files/opendata/mahe/MATER.xml'
     format: XML
+    interactive: 'False'
   - name: Registri avalik vaade
     url: 'https://portaal.agri.ee/avalik/#/maaparandus/mater'
     format: HTML
+    interactive: 'True'
   - name: Maaeluministeeriumi avaandmed
     url: 'https://www.agri.ee/et/avaandmed'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/07/12

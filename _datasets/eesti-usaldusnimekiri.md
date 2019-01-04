@@ -9,12 +9,15 @@ resources:
   - name: 09.10.2014 Usaldusnimekirja räsi
     url: 'http://sr.riik.ee/tsl/estonian-tsl.sha2'
     format: sha2
+    interactive: 'True'
   - name: 09.10.2014 Eesti usaldusnimekiri (PDF)
-    url: 'http://sr.riik.ee/tsl/estonian-tsl.sha2'
+    url: 'http://sr.riik.ee/tsl/estonian-tsl.pdf'
     format: PDF
+    interactive: 'True'
   - name: 09.10.2014 Eesti usaldusnimekiri (XML)
     url: 'http://sr.riik.ee/tsl/estonian-tsl.xml'
     format: XML
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/02/02

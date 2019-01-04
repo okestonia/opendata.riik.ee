@@ -9,6 +9,7 @@ resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=1'
     format: XML
     name: Teenuste kirjeldused - linnajuhtimine
+    interactive: 'False'
 license: ''
 update_freq: ''
 date_issued: ''

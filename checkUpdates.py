@@ -55,7 +55,7 @@ def change_date(in_file, what_date):
 
 
 if __name__ == "__main__":
-    filename = 'datasets.json'
+    filename = 'datachanges.json'
     hashes = load_hashes(filename)
     for line in sys.stdin:
         line_rstrip = line.rstrip()

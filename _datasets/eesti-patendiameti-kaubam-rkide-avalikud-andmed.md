@@ -9,6 +9,7 @@ resources:
   - name: 01.07.2015 MYSQL
     url: 'http://avaandmed.rik.ee/andmed/PA/'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by-sa/3.0/'
 update_freq: ''
 date_issued: 2015/08/03

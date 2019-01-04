@@ -9,6 +9,7 @@ resources:
   - url: 'http://www.tallinn.ee/teenused#valdkond_12'
     format: XML
     name: 'Teenuste kirjeldused - ettevõtlus, kaubandus ja reklaam'
+    interactive: 'False'
 license: ''
 update_freq: ''
 date_issued: ''

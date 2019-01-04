@@ -9,6 +9,7 @@ resources:
   - name: PPA kordonid ver.1
     url: 'https://www2.politsei.ee/dotAsset/528870.csv'
     format: CSV
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2016/01/21

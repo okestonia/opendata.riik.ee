@@ -9,15 +9,19 @@ resources:
   - name: 13.05.2015 Põllumassiivid
     url: 'http://www.pria.ee/avaandmed/'
     format: HTML
+    interactive: 'True'
   - name: Avalik veebikaart
     url: 'https://kls.pria.ee/kaart/'
-    format: veebileht
+    format: HTML
+    interactive: 'True'
   - name: Põllumassiivid ja loomakasvatushooned (vaatamisteenus) WMS
     url: 'http://kls.pria.ee/geoserver/pria_avalik/wms?version=1.1.1'
-    format: wms
+    format: WMS
+    interactive: 'True'
   - name: Põllumassiivid ja loomakasvatushooned (allalaadimisteenus) WFS
     url: 'http://kls.pria.ee/geoserver/pria_avalik/ows'
-    format: wfs
+    format: WFS
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/05/13

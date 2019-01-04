@@ -9,9 +9,11 @@ resources:
   - name: est_aukonsulid.xml
     url: 'http://opendata.vm.ee/est_aukonsulid.xml'
     format: XML
+    interactive: 'False'
   - name: est_aukonsulid_schema.xml
     url: 'http://opendata.vm.ee/est_aukonsulid_schema.xml'
     format: XML
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/03/26

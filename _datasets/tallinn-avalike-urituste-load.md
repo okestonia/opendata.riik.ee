@@ -9,9 +9,11 @@ resources:
   - url: 'https://akis.tallinn.ee/kogunemised/xml/23d381ce'
     format: XML
     name: Avalike ürituste load
+    interactive: 'False'
   - url: 'https://akis.tallinn.ee/kogunemised/kml/23d381ce'
     format: KML
     name: Avalike ürituste load
+    interactive: 'True'
 license: ''
 update_freq: ''
 date_issued: ''

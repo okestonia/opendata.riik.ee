@@ -9,6 +9,7 @@ resources:
   - name: Ametlikud Teadaanded
     url: 'https://www.ametlikudteadaanded.ee/avalik/uriotsing'
     format: 'xml, rtf, txt'
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by-sa/3.0/'
 update_freq: ''
 date_issued: 2015/07/06

@@ -9,6 +9,7 @@ resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=19'
     format: XML
     name: Teenuste kirjeldused - Muinsuskaitse ja miljööalad
+    interactive: 'False'
 license: ''
 update_freq: ''
 date_issued: ''

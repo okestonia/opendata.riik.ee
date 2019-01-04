@@ -9,6 +9,7 @@ resources:
   - url: 'http://info.raad.tartu.ee/tootajad.nsf/web/org/xml'
     format: XML
     name: Tartu linnavalitsuse struktuuriüksuste andmed
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''

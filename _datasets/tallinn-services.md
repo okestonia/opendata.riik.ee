@@ -9,6 +9,7 @@ resources:
   - url: 'http://www.tallinn.ee/eng/teenused?action=avaandmed'
     format: XML
     name: Services
+    interactive: 'False'
 license: ''
 update_freq: ''
 date_issued: ''
