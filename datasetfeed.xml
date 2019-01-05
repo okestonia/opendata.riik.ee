@@ -7,7 +7,7 @@ layout: null
 	<channel>
 		<title>{{ site.title.et | xml_escape }}</title>
 		<description>{% if site.description %}{{ site.description.et | xml_escape }}{% endif %}</description>
-		<link>{{ site.url }}</link>
+		<link>{{ site.url }}{{ site.baseurl }}</link>
 		<atom:link href="{{ site.url }}/{{ page.path }}" rel="self" type="application/rss+xml" />
     {% assign sortdata = site.datasets| sort:"date_modified" | reverse %}
     {% for set in sortdata %}
@@ -24,8 +24,8 @@ layout: null
         {% endif %}
         <dct:modified>{{ set.date_modified | date_to_rfc822 }}</dct:modified>
         <dct:created>{{ set.date_issued | date_to_rfc822 }}</dct:created>
-				<link>{{ site.url }}{{ set.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ set.url }}</guid>
+				<link>{{ site.url }}{{ site.baseurl }}{{ set.url }}</link>
+				<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ set.url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>

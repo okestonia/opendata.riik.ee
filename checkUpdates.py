@@ -33,7 +33,7 @@ def load_hashes(fn):
 def dump_hashes(contents, filename):
     """Persist the new version of the hash-URL dataset to a file."""
     with open(filename, 'w') as h_file:
-        json.dump(contents, h_file)
+        json.dump(contents, h_file, indent=4, sort_keys=True)
 
 
 def change_date(in_file, what_date):
