@@ -148,3 +148,7 @@ dataset {
 .text img {
   width: 100%;
 }
+
+.en:lang(en), .et:lang(et){
+    font-weight: bold;
+}

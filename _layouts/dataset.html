@@ -47,7 +47,7 @@ layout: default
         <h2>Andmefailid</h2>
         <table class="table table-striped table-condensed el-margin">
             <tr>
-                <th>Resource</th>
+                <th>Fail nimi</th>
                 <th class="table-content-centered">Vormingud</th>
                 <th class="table-content-centered">Laadi</th>
                 <th class="table-content-centered">Preview</th>
@@ -70,7 +70,7 @@ layout: default
         </td>
         <td class="table-content-centered">
         {% if resource.format == "CSV" or resource.format == "csv" %}
-            <a href="http://datapipes.okfnlabs.org/csv -d -t/head 50/html/?url={{ resource.url }}" target="_blank" rel="noopener" title="Preview {{ resource.name }}"><property='dcat:accessURL'>
+            <a href="http://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ resource.url }}" target="_blank" rel="noopener" title="Preview {{ resource.name }}"><property='dcat:accessURL'>
                 <i class="fa fa-check-circle-o"></i>
             </a>
         {% endif %}

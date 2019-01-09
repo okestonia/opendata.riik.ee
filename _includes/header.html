@@ -19,6 +19,7 @@
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
         {% if page.lang == "en" %}
+        <html lang="en">
         {% assign nav = site.navigation_english %}
         {% else %}
         {% assign nav = site.navigation_et %}
@@ -47,6 +48,7 @@
       {% if pages.size < 3 %}
       <div class="wrapper" style="text-align: right; line-height: 4em">
       {% if page.lang == "et" %}
+      <html lang="et">
       Keel:
       {% else %}
       Language:
