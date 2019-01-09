@@ -17,7 +17,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/12/08
-date_modified: 2018/10/05
+date_modified: 2019/01/09
 organization: Maa-amet
 maintainer_name: Tanel Hurt
 maintainer_email: Tanel.Hurt@maaamet.ee

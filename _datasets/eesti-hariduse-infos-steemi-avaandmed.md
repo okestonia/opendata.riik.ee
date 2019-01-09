@@ -49,7 +49,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/04/19
-date_modified: 2018/04/19
+date_modified: 2019/01/09
 organization: Haridus- ja Teadusministeerium
 maintainer_name: Haridus- ja Teadusministeerium
 maintainer_email: hm@hm.ee

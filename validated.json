@@ -297,19 +297,19 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "url": "https://www.haridussilm.ee/"
             },
             {
-                "content-type": "application/x-download",
+                "content-type": "text/html",
                 "http_status": 200,
                 "source": "eesti-hariduse-infos-steemi-avaandmed.md",
                 "url": "https://www.hm.ee/ehis/statistilised_tabelid/download.php?file=koolide_kontaktid.xls"
             },
             {
-                "content-type": "application/x-download",
+                "content-type": "text/html",
                 "http_status": 200,
                 "source": "eesti-hariduse-infos-steemi-avaandmed.md",
                 "url": "https://www.hm.ee/ehis/statistilised_tabelid/download.php?file=oppekavad.xlsx"
             },
             {
-                "content-type": "application/x-download",
+                "content-type": "text/html",
                 "http_status": 200,
                 "source": "eesti-hariduse-infos-steemi-avaandmed.md",
                 "url": "https://www.hm.ee/ehis/statistilised_tabelid/download.php?file=alus_yld_oppeasutused_oppurid.xlsx"
@@ -1023,13 +1023,13 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "urls": [
             {
                 "content-type": "text/html; charset=UTF-8",
-                "http_status": 200,
+                "http_status": 404,
                 "source": "kutseregister.md",
                 "url": "https://www.kutsekoda.ee/et/kutseregister/statistika"
             },
             {
                 "content-type": "text/html; charset=UTF-8",
-                "http_status": 200,
+                "http_status": 404,
                 "source": "kutseregister.md",
                 "url": "https://www.kutsekoda.ee/et/kutseregister/tutvustus"
             }

@@ -17,7 +17,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2016/11/28
-date_modified: 2016/11/28
+date_modified: 2019/01/09
 organization: Riigi Infosüsteemi Amet
 maintainer_name: RIA
 maintainer_email: ria@ria.ee
