@@ -1,7 +1,9 @@
 /* global settings */
 import $ from 'jquery'
 import 'jquery-deparam'
-import 'bootstrap/js/tab'
+// import 'bootstrap'
+import 'bootstrap/js/dist/tab'
+import 'popper.js'
 import {omit} from 'lodash'
 
 import UserModel from './models/user'
