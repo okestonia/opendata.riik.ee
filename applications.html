@@ -18,29 +18,20 @@ lang: et
 
     {% assign sortapps = site.applications | sort:"submitted" | reverse %}
     {% for application in sortapps %}
-
-    <div
-        class="panel panel-default"
-        style="
-            display: flex;
-            flex-direction: column;
-            justify-content: space-between;
-        "
-    >
-        <div class="panel-body">
-            <a href="{{ application.app_url }}">
-                <div style="
-                    height: 180px;
-                    background-image: url(/img/apps/{{application.img}});
-                    background-size: cover;
-                "></div>
-                <h3>{{ application.app_name }}</h3>
-            </a>
-            <p style="text-align: justify; overflow-wrap: break-word;">{{ application.app_description }}</p>
-        </div>
-        <div class="panel-footer">
-             {{ application.developed_by }} {{ application.submitted }}
-        </div>
+    <div class="card" style="
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+    ">
+     <a href="{{ application.app_url }}">
+          <img class="card-img-top" src="/img/apps/{{application.img}}" alt="Card image cap" >
+      <h3 class="card-title">{{ application.app_name }}</h3></a>
+      <div class="card-body">
+        <p class="card-text" style="text-align: justify; overflow-wrap: break-word;">{{ application.app_description }}</p>
+      </div>
+      <div class="card-footer text-muted">
+        {{ application.developed_by }} {{ application.submitted }}
+</div>
     </div>
 {% endfor %}
 

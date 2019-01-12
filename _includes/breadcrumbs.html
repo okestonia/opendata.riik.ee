@@ -1,26 +1,22 @@
 <ol class="breadcrumb" style="
   padding: 0;
   background: none;
-  border: none;
-  margin-bottom: 40px;
-  font-size: 1.3rem;
-  font-weight: 500;
 ">
   {% if page.title == site.title %}
-    <li class="active">Home</li>
+    <li class="breadcrumb-item active">Home</li>
   {% else %}
   {% if page.lang == "en" %}
-    <li><a href="{{ site.baseurl }}/">Home</a></li>
+    <li class="breadcrumb-item"><a href="{{ site.baseurl }}/">Home</a></li>
     {% else %}
-    <li><a href="{{ site.baseurl }}/">Kodu</a></li>
+    <li class="breadcrumb-item"><a href="{{ site.baseurl }}/">Kodu</a></li>
   {% endif %}
 
     {% if include.parent %}
       {% assign parent = site.pages | where:"title",include.parent | first %}
       {% if parent %}
-        <li><a href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a></li>
+        <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a></li>
       {% endif %}
     {% endif %}
-    <li class="active">{{ page.title }}</li>
+    <li class="breadcrumb-item active">{{ page.title }}</li>
   {% endif %}
 </ol>

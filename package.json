@@ -31,7 +31,7 @@
   },
   "dependencies": {
     "ampersand-state": "^5.0.0",
-    "bootstrap": "^3.3.6",
+    "bootstrap": "^4.2.1",
     "github-api": "^3.0.0",
     "jquery": "^3.3.1",
     "jquery-deparam": "^0.5.2",
@@ -41,6 +41,7 @@
     "lodash": "^4.17.11",
     "notie": "github:timwis/notie#string-types",
     "parcel-bundler": "^1.10.3",
-    "select2": "^4.0.6-rc.1"
+    "select2": "^4.0.6-rc.1",
+    "popper.js": "^1.14.6"
   }
 }
