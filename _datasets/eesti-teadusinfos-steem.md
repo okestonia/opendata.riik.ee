@@ -68,7 +68,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by-sa/3.0/'
 update_freq: ''
 date_issued: 2018/04/16
-date_modified: 2018/04/16
+date_modified: 2019/01/12
 organization: Haridus- ja Teadusministeerium
 maintainer_name: ETIS kasutajatugi
 maintainer_email: etis@etag.ee
