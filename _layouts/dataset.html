@@ -28,7 +28,21 @@ layout: default
           </h3>
           {{ organization.description }}
         </div>
+        <div class="panel-heading">
+        <h4>
       </div>
+
+      <div class="panel-body">
+          <h3>Sotsiaalmeedia</h3>
+          <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.domain }}{{ page.url }}">
+  <i class="fa fa-facebook-square fa-lg"></i>
+</a>
+<a href="https://twitter.com/home?status={{ site.domain }}{{ page.url }}">
+  <i class="fa fa-twitter fa-lg"></i>
+  </a>
+
+      </div>
+  </div>
     </div>
     <div class="col-sm-9">
       {% else %}
