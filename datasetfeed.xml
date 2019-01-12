@@ -24,8 +24,8 @@ layout: null
         {% endif %}
         <dct:modified>{{ set.date_modified | date_to_rfc822 }}</dct:modified>
         <dct:created>{{ set.date_issued | date_to_rfc822 }}</dct:created>
-				<link>{{ site.url }}{{ site.baseurl }}{{ set.url }}</link>
-				<guid isPermaLink="true">{{ site.url }}{{ site.baseurl }}{{ set.url }}</guid>
+				<link>{{ site.domain }}{{ set.url }}</link>
+				<guid isPermaLink="true">{{ site.domain }}{{ set.url }}</guid>
 			</item>
 		{% endfor %}
 	</channel>
