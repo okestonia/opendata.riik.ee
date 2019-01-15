@@ -87,7 +87,7 @@ layout: default
             </td>
             <td class="table-content-centered">
               {% if resource.format == "CSV" or resource.format == "csv" %}
-              <a href="http://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ resource.url }}" target="iframe_preview" rel="noopener" title="Preview {{ resource.name }}">
+              <a href="https://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ resource.url }}" target="iframe_preview" rel="noopener" title="Preview {{ resource.name }}">
                 <property='dcat:accessURL'>
                   <i class="fa fa-check-circle-o"></i>
               </a>
@@ -102,7 +102,7 @@ layout: default
       {% if first_resource_url != '' %}
       <h2>Preview</h2>
       <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="http://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ first_resource_url }}" width="100%" height="100%" name="iframe_preview"></iframe>
+      <iframe class="embed-responsive-item" src="https://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ first_resource_url }}" width="100%" height="100%" name="iframe_preview"></iframe>
       </div>
       {% endif %}
 
