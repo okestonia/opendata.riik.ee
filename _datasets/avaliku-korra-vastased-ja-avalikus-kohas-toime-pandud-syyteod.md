@@ -37,7 +37,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by-sa/3.0/'
 update_freq: ''
 date_issued: 2017/11/15
-date_modified: 2019/01/14
+date_modified: 2019/01/17
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: Maarja Vesi
 maintainer_email: maarja.vesi@politsei.ee
