@@ -53,7 +53,7 @@ resources:
 license: ''
 update_freq: ''
 date_issued: 2017/03/13
-date_modified: 2019/01/17
+date_modified: 2019/01/18
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
