@@ -65,6 +65,10 @@ layout: default
           </tr>
           {% assign first_resource_url = '' %}
           {% for resource in page.resources %}
+          {% if first_resource_url == '' and resource.url contains '.csv' %}
+          {% capture first_resource_url %}{{ resource.url }}{% endcapture %}
+          {% endif %}
+
           <tr>
             <td>
               <div class="" data-hook="resource-item" property='dcat:distribution' typeof='dcat:Distribution'>
@@ -82,17 +86,25 @@ layout: default
             </td>
             <td class="table-content-centered">
               {% if resource.format == "CSV" or resource.format == "csv" %}
-              <a href="http://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ resource.url }}" target="_blank" rel="noopener" title="Preview {{ resource.name }}">
+              <a href="https://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ resource.url }}" target="iframe_preview" rel="noopener" title="Preview {{ resource.name }}">
                 <property='dcat:accessURL'>
                   <i class="fa fa-check-circle-o"></i>
               </a>
               {% endif %}
-
             </td>
+
+
       </div>
       </tr>
       {% endfor %}
       </table>
+      {% if first_resource_url != '' %}
+      <h2>Preview</h2>
+      <div class="embed-responsive embed-responsive-16by9">
+      <iframe class="embed-responsive-item" src="https://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ first_resource_url }}" width="100%" height="100%" name="iframe_preview"></iframe>
+      </div>
+      {% endif %}
+
       <h2>Lisainformatsioon</h2>
       <table class="table table-striped dataset-details">
         <tr>
