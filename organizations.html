@@ -15,7 +15,7 @@ lang: et
   {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
       {% if dataset_count > 0 %}
   <div class="media">
-    <div class="media-left">
+    <div class="mr-3">
       {% if organization.logo and organization.logo != empty %}
         <a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
           <img class="media-object" src="/img/organizations/{{organization.logo}}" alt="{{ organization.title }}">
@@ -26,7 +26,7 @@ lang: et
       <h3 class="media-heading"><a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a></h3>
 
       <p style="text-align: justify;">{{ organization.description }}</p>
-      <p><a href="{{ site.baseurl }}/andmehulgad/?organization={{ organization.title | slugify }}"><span class="badge">{{ dataset_count }}</span> andmehulgad</a></p>
+      <p><a href="{{ site.baseurl }}/andmehulgad/?organization={{ organization.title | slugify }}"><span class="badge badge-primary badge-pill">{{ dataset_count }}</span> andmehulgad</a></p>
       {% endif %}
     </div>
   </div>

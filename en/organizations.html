@@ -15,7 +15,7 @@ lang: en
   {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
       {% if dataset_count > 0 %}
   <div class="media">
-    <div class="media-left">
+    <div class="mr-3">
       {% if organization.logo and organization.logo != empty %}
         <a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
           <img class="media-object" src="/img/organizations/{{organization.logo}}" alt="{{ organization.title }}">

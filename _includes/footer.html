@@ -2,16 +2,24 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
 <script src="{{ site.baseurl }}/scripts/dist/bundle.js"></script>
 
-<footer style="
+<!-- <footer style="
     padding: 25px 25px 75px 25px;
     color: #888;
     margin-top: 50px;
-">
-  <div class="container" style="display: flex; align-items: flex-start;">
-    <img src="{{ site.baseurl }}/img/erf_logo.jpg" width="150" />
-    <div style="margin-left: 25px">
-      <p style="width: 50%">{{ site.footer_description[page.lang] }}</p>
+"> -->
+  <div class="container-fluid mt-5" style="display: flex; align-items: flex-start;">
+    <div class="row">
+      <div class="col-2">
+    <img src="{{ site.baseurl }}/img/erf_logo.jpg" width="150"/>
     </div>
+    <div class="col-sm">
+      {% if page.lang %}
+      <p style="width: 100%">{{ site.footer_description[page.lang] }}</p>
+      {% else %}
+      <p style="width: 100%">{{ site.footer_description.et }}</p>
+      {% endif %}
+    </div>
+    <div class="col-2">
       <a href="https://github.com/okestonia/jkan" style="padding: inherit;" target="_blank" rel="noopener" title="OKEE GitHub">
         <i class="fa fa-github fa-3x"></i>
       </a>
@@ -21,7 +29,8 @@
       <a href="https://www.facebook.com/groups/1792458637715167" style="padding: inherit;" target="_blank" rel="noopener" title="OKEE Facebook">
         <i class="fa fa-facebook fa-3x"></i>
       </a>
-
+    </div>
+  </div>
   </div>
 
 </footer>

@@ -11,28 +11,28 @@ layout: default
 {% assign filename = page.url | remove: "/andmehulgad/" | remove: "/" | replace: ' ', '-' %}
 {% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
 <div data-component="view-switcher">
-  <div class="row" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}" style="display:block">
+  <div class="row-fluid d-flex" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}">
     {% if organization %}
-    <div class="col-sm-3" property="dct:publisher" resource="{{ organization_url }}">
-      <div class="panel panel-default">
-        <div class="panel-heading">
+    <div class="col-3" property="dct:publisher" resource="{{ organization_url }}">
+      <div class="card mb-3">
+        <div class="card-img-top">
           {% if organization.logo and organization.logo != empty %}
-          <a href="{{ site.baseurl }}/andmehulgad/?organization={{ organization.title | slugify }}" class="thumbnail"><img src="/img/organizations/{{organization.logo}}" alt="{{ organization.title }} logo"></a>
+          <a href="{{ site.baseurl }}/andmehulgad/?organization={{ organization.title | slugify }}"><img src="/img/organizations/{{organization.logo}}" alt="{{ organization.title }} logo" class="img-thumbnail rounded mx-auto d-block"></a>
           {% endif %}
         </div>
-        <div class="panel-body">
+        <div class="card-header">
           <h3 style="word-wrap: break-word">
             <a href="{{ organization_url }}" about="{{ organization_url }}" property="foaf:homepage">
               <span property="foaf:name">{{ organization.title }}</span>
             </a>
           </h3>
+            </div>
+            <div class="card-body">
           {{ organization.description }}
         </div>
       </div>
-      <div class="panel panel-default">
-
-
-        <div class="panel-body">
+      <div class="card">
+        <div class="card-body">
           <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.domain }}{{ page.url }}" target="_blank" rel="noopener">
             <i class="fa fa-facebook-square fa-3x"></i>
           </a>
@@ -42,15 +42,14 @@ layout: default
         </div>
       </div>
     </div>
-    <div class="col-sm-9">
+    <div class="col-9">
       {% else %}
-      <div class="col-sm-12">
+      <div class="col-12">
         {% endif %}
-        <div class="row">
+          <div class="row">
           <h1>
             <span property="dct:title">{{ page.title }}</span>
           </h1>
-          <p style="font-weight: bold;"><a href="https://github.com/okestonia/jkan/commits/master/_datasets/{{filename}}.md" target="_blank" rel="noopener">Muudatuste ajalugu</a></p>
         </div>
 
 
@@ -136,15 +135,22 @@ layout: default
         {% endunless %}
         {% endfor %}
       </table>
+      <div class="row">
+        <div class="col-6"
+      <p style="font-weight: bold;"><a href="https://github.com/okestonia/jkan/commits/master/_datasets/{{filename}}.md" target="_blank" rel="noopener">Muudatuste ajalugu</a></p>
+        </div>
+        <div class="col-6">
+      <button type="button" class="btn btn-outline-primary float-right" style="
+                          margin-left: 30px;
+          ">
+        <a href="https://github.com/okestonia/jkan/edit/master/_datasets/{{filename}}.md" target="_blank" rel="noopener">Muuda Githubis</a></button>
+      <button type="button" class="btn btn-outline-primary float-right">
+        <a href="https://github.com/okestonia/jkan/issues/new?title={{filename}}" target="_blank" rel="noopener">Alusta arutelu</a></button>
     </div>
-    <button type="button" class="btn btn-outline-primary pull-right" style="
-                        margin-left: 30px;
-        ">
-      <a href="https://github.com/okestonia/jkan/edit/master/_datasets/{{filename}}.md" target="_blank" rel="noopener">Muuda Githubis</a></button>
-    <button type="button" class="btn btn-outline-primary pull-right">
-      <a href="https://github.com/okestonia/jkan/issues/new?title={{filename}}" target="_blank" rel="noopener">Alusta arutelu</a></button>
+      </div>
+      </div>
+    </div>
   </div>
-
 </div>
 </div>
 </div>
