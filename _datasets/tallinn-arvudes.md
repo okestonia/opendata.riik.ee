@@ -10,7 +10,7 @@ resources:
     format: PDF
     name: Tallinn arvudes
     interactive: 'True'
-license: ''
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 09.01.2015
 date_modified: 10.01.2018

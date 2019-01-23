@@ -10,7 +10,7 @@ resources:
     url: 'https://atp.amphora.ee/harkuvv/index.aspx?hdr=hp&o=903&tbs=all&o2=-1'
     format: HTML
     interactive: 'True'
-license: ''
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/05/31
 date_modified: 2018/05/31

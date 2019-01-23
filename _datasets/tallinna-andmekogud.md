@@ -10,7 +10,7 @@ resources:
     url: 'http://www.tallinn.ee/avaandmed/'
     format: HTML
     interactive: 'True'
-license: ''
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/04/27
 date_modified: 2015/04/27

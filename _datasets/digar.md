@@ -50,7 +50,7 @@ resources:
     url: 'http://data.digar.ee'
     format: HTML
     interactive: 'True'
-license: ''
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/03/13
 date_modified: 2019/01/23
