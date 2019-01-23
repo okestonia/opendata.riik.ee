@@ -16,29 +16,27 @@ lang: et
 {% assign sortnews = site.blogi | where: "lang", page.lang | sort:"submitted" | reverse %}
 {% for blogi in sortnews %}
     <div
-        class="panel panel-default"
+        class="card p-4"
         style="
             display: flex;
             flex-direction: column;
             justify-content: space-between;
         "
     >
-        <div class="panel-body">
-            <a href="{{ site.baseurl }}{{ blogi.url }}">
-                <div style="
-                    height: 180px;
-                    background-image: url('/img/blogi/{{blogi.preview_img}}');
-                    background-size: cover;
-                "></div>
-            </a>
+        <div class="card-img-top">
+            <a href="{{ site.baseurl }}{{ blogi.url }}"><img class="img-thumbnail rounded mx-auto d-block" src="/img/blogi/{{blogi.preview_img}}" alt="blog_preview" ></a>
+          <div class="card-title">
             <h4>{{blogi.news_title}}</h4>
+          </div>
+          <div class="card-body">
+          <div class="card-text">
             <p class="text_control">{{ blogi.preview }}<a href="{{ site.baseurl }}{{ blogi.url }}"> Loe lisa... </a></p>
-
+          </div>
+          </div>
         </div>
-        <div class="panel-footer">
+        <div class="card-footer text-muted">
              Lisanud {{ blogi.author }} {{ blogi.submitted | date: "%d/%m/%Y" }}
         </div>
     </div>
 {% endfor %}
-
 </div>

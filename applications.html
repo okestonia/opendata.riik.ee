@@ -18,14 +18,11 @@ lang: et
 
     {% assign sortapps = site.applications | sort:"submitted" | reverse %}
     {% for application in sortapps %}
-    <div class="card" style="
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-    ">
-     <a href="{{ application.app_url }}">
-          <img class="card-img-top" src="/img/apps/{{application.img}}" alt="Card image cap" >
-      <h3 class="card-title">{{ application.app_name }}</h3></a>
+    <div class="card d-flex flex-column justify-content-between">
+      <div class="card-img-top">
+     <a href="{{ application.app_url }}"><img class="img-thumbnail rounded mx-auto d-block" src="/img/apps/{{application.img}}" alt="Card image cap" ></a>
+      </div>
+      <h3 class="card-title">{{ application.app_name }}</h3>
       <div class="card-body">
         <p class="card-text" style="text-align: justify; overflow-wrap: break-word;">{{ application.app_description }}</p>
       </div>
