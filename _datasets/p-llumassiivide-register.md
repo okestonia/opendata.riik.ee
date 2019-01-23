@@ -14,11 +14,11 @@ resources:
     url: 'https://kls.pria.ee/kaart/'
     format: HTML
     interactive: 'True'
-  - name: Põllumassiivid ja loomakasvatushooned (vaatamisteenus) WMS
+  - name: Põllumassiivid, loomakasvatushooned ja maastikuelemendid (vaatamisteenus) WMS
     url: 'http://kls.pria.ee/geoserver/pria_avalik/wms?version=1.1.1'
     format: WMS
     interactive: 'True'
-  - name: Põllumassiivid ja loomakasvatushooned (allalaadimisteenus) WFS
+  - name: Põllumassiivid, loomakasvatushooned ja maastikuelemendid (allalaadimisteenus) WFS
     url: 'http://kls.pria.ee/geoserver/pria_avalik/ows'
     format: WFS
     interactive: 'True'
