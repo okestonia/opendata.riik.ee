@@ -883,8 +883,8 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "url": "https://riigivara.fin.ee/kvr/avaandmed/maad"
             },
             {
-                "content-type": "text/plain; charset=UTF-8",
-                "http_status": 500,
+                "content-type": "application/xml",
+                "http_status": 200,
                 "source": "kinnisvararegister.md",
                 "url": "https://riigivara.fin.ee/kvr/avaandmed/hooned"
             },
@@ -1687,8 +1687,8 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "P\u00f5llumajanduse Registrite ja Informatsiooni Amet (PRIA)",
         "urls": [
             {
-                "content-type": "text/html;charset=UTF-8",
-                "http_status": 200,
+                "content-type": "text/html;charset=utf-8",
+                "http_status": 500,
                 "source": "p-llumajandusloomade-register.md",
                 "url": "https://ariel.pria.ee/vesiviljelus/"
             },
