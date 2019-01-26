@@ -4,7 +4,7 @@ layout: default
 {% include breadcrumbs.html parent="Organizations" %}
 
 <div data-component="view-switcher">
-  <div class="row-fluid d-flex" data-hook="view" data-view="display">
+  <div class="row d-flex" data-hook="view" data-view="display">
     {% if page.logo and page.logo != empty %}
     <div class="col-sm-3">
       <a href="/img/organizations/{{page.logo}}"><img src="/img/organizations/{{page.logo}}" alt="{{ page.title }} logo" class="img-thumbnail"></a>
@@ -25,12 +25,6 @@ layout: default
         <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
         <div data-hook="datasets-items"></div>
       </div>
-    </div>
-  </div>
-
-  <div class="row" data-hook="view" data-view="edit">
-    <div class="col-sm-8 col-sm-offset-2">
-      {% include organization-form.html organization=page %}
     </div>
   </div>
 </div>

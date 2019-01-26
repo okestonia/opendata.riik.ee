@@ -11,9 +11,9 @@ layout: default
 {% assign filename = page.url | remove: "/andmehulgad/" | remove: "/" | replace: ' ', '-' %}
 {% capture organization_url %}{{ site.baseurl }}/datasets/?organization={{ organization.title | slugify }}{% endcapture %}
 <div data-component="view-switcher">
-  <div class="row-fluid d-flex" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}">
+  <div class="row d-flex" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}">
     {% if organization %}
-    <div class="col-3" property="dct:publisher" resource="{{ organization_url }}">
+    <div class="col-sm-3" property="dct:publisher" resource="{{ organization_url }}">
       <div class="card mb-3">
         <div class="card-img-top">
           {% if organization.logo and organization.logo != empty %}
@@ -42,9 +42,9 @@ layout: default
         </div>
       </div>
     </div>
-    <div class="col-9">
+    <div class="col-sm-9">
       {% else %}
-      <div class="col-12">
+      <div class="col-sm-12">
         {% endif %}
           <div class="row">
           <h1>
@@ -148,10 +148,10 @@ layout: default
         {% endfor %}
       </table>
       <div class="row">
-        <div class="col-6"
+        <div class="col-sm-6"
       <p style="font-weight: bold;"><a href="https://github.com/okestonia/jkan/commits/master/_datasets/{{filename}}.md" target="_blank" rel="noopener">Muudatuste ajalugu</a></p>
         </div>
-        <div class="col-6">
+        <div class="col-sm-6">
       <button type="button" class="btn btn-outline-primary float-right" style="
                           margin-left: 30px;
           ">

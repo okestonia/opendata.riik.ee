@@ -5,6 +5,8 @@ permalink: /juhend/
 ref: Howto
 lang: et
 ---
+{% include breadcrumbs.html %}
+
 # Andmete uuendamise juhend
 ## Kui käsurida on natuke hirmutav
  * Mine aadressile https://github.com/okestonia/jkan/tree/master/_datasets

@@ -5,6 +5,8 @@ permalink: /kontaktid/
 ref: Contact
 lang: et
 ---
+{% include breadcrumbs.html %}
+
 # Kontaktid
 
 Avaandmete üles laadimise või registreerimisega seotud küsimuste korral palume pöörduda aadressile opendatasupport@mkm.ee.
