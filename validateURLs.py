@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import yaml
 import requests
 import sys
