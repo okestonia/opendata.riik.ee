@@ -10,10 +10,10 @@ resources:
     format: XML
     name: Teenuste kirjeldused - heakord ja haljastus
     interactive: 'False'
-license: ''
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: ''
-date_modified: 2019/01/15
+date_modified: 2019/01/22
 organization: Tallinna Linnavalitsus
 maintainer_name: Liina Karjane
 maintainer_email: liina.karjane@tallinnlv.ee

@@ -10,7 +10,7 @@ resources:
     format: XML
     name: Teenuste kirjeldused - avalik kord
     interactive: 'False'
-license: ''
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: ''
 date_modified: ''

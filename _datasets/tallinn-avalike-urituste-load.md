@@ -14,10 +14,10 @@ resources:
     format: KML
     name: Avalike ürituste load
     interactive: 'True'
-license: ''
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: ''
-date_modified: 2019/01/14
+date_modified: 2019/01/22
 organization: Tallinna Linnavalitsus
 maintainer_name: Liina Karjane
 maintainer_email: liina.karjane@tallinnlv.ee

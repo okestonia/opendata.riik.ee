@@ -10,7 +10,7 @@ resources:
     format: PDF
     name: Linnaosade trükikaardid
     interactive: 'True'
-license: ''
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 01.09.2015
 date_modified: ''
