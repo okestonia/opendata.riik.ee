@@ -37,7 +37,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/11/15
-date_modified: 2019/01/26
+date_modified: 2019/01/27
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: PPA
 maintainer_email: avaandmed@list.politsei.ee
