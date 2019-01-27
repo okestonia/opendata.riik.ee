@@ -17,26 +17,28 @@ lang: en
 {% assign sortnews = site.blogi | where: "lang", page.lang | sort:"submitted" | reverse %}
 {% for blogi in sortnews %}
     <div
-        class="panel panel-default"
+        class="card"
         style="
             display: flex;
             flex-direction: column;
             justify-content: space-between;
         "
     >
-        <div class="panel-body">
+        <div class="card-body">
             <a href="{{ site.baseurl }}{{ blogi.url }}">
                 <div style="
                     height: 180px;
                     background-image: url('/img/blogi/{{blogi.preview_img}}');
                     background-size: cover;
+                    border-radius: .25rm;
+                    border: 2px solid #dee2e6;
                 "></div>
             </a>
             <h4>{{blogi.news_title}}</h4>
             <p class="text_control">{{ blogi.preview }}<a href="{{ site.baseurl }}{{ blogi.url }}"> Read more... </a></p>
 
         </div>
-        <div class="panel-footer">
+        <div class="card-footer text-muted">
              Added by {{ blogi.author }} on {{ blogi.submitted | date: "%d/%m/%Y" }}
         </div>
     </div>

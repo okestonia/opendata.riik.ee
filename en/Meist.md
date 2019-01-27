@@ -5,6 +5,8 @@ permalink: /en/about/
 ref: about
 lang: en
 ---
+{% include breadcrumbs.html %}
+
 ## Miks on andmete avamine vajalik?
 Andmete avamine ning nende koondamise ja leidmise hõlbustamine teenib mitmeid olulisi eesmärke:
 - majanduse elavdamine;

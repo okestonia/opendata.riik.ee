@@ -18,27 +18,29 @@ lang: et
     {% assign sortapps = site.applications | sort:"submitted" | reverse %}
     {% for application in sortapps %}
 <div
-    class="card p-4"
+    class="card"
     style="
         display: flex;
         flex-direction: column;
         justify-content: space-between;
     "
 >
-    <div class="card-img-top">
-        <a href="{{ application.app_url }}"><img class="img-thumbnail rounded mx-auto d-block" src="/img/apps/{{application.img}}" alt="app_preview" ></a>
-      <div class="card-title">
-        <h3>{{ application.app_name}}</h3>
-      </div>
-      <div class="card-body">
-      <div class="card-text">
+        <div class="card-body">
+        <a href="{{ application.app_url }}">
+                       <div style="
+                           height: 180px;
+                           background-image: url(/img/apps/{{application.img}});
+                           background-size: cover;
+                           border-radius: .25rm;
+                           border: 2px solid #dee2e6;
+                       "></div>
+                       <h3>{{ application.app_name }}</h3></a>
         <p class="text_control">{{ application.app_description }}</p>
       </div>
-      </div>
-    </div>
+
     <div class="card-footer text-muted">
           {{ application.developed_by }} {{ application.submitted }}
     </div>
-</div>
+  </div>
 {% endfor %}
-</div>
+  </div>

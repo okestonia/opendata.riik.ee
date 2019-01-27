@@ -7,16 +7,18 @@ lang: en
 ---
 {% include breadcrumbs.html %}
 
-<div class="panel-group" id="accordion">
-  <h1>Frequently Asked Questions</h1>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="according-toggle" data-toggle="collapse" data-parent="#accordion" href="#q1">What is the government open data portal?</a>
-      </h4>
+<h1>Frequently Asked Questions</h1>
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="h1">
+      <h5 class="mb-0">
+        <button class="btn btn-link" data-toggle="collapse" data-target="#q1" aria-expanded="true" aria-controls="q1">
+          What is the government open data portal?
+        </button>
+      </h5>
     </div>
-    <div id="q1" class="panel-collapse collapse in">
-      <div class="panel-body">
+    <div id="q1" class="collapse show" aria-labelledby="h1" data-parent="#accordion">
+      <div class="card-body">
         <p>The open data portal is intended to serve as a platform for the dissemination of data by public bodies and for searching and retrieving such datasets by open data users.</p>
         <p>On the open data portal, it is possible:</p>
         <ul>
@@ -29,54 +31,67 @@ lang: en
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q2">Why open up data?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h2">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q2" aria-expanded="false" aria-controls="q2">
+          Why open up data?
+        </button>
+      </h5>
     </div>
-    <div id="q2" class="panel-collapse collapse">
-      <div class="panel-body">
-        <p>Opening up data and their collection, storage and dissemination serves the following important goals:>
-        <ul>
-          <li>to stimulate economy by the re-use of data;<li>
-          <li>to increase the transparency of the public sector;</li>
-          <li>to decrease the number of information requests and, consequently, also reduce the workload of public sector workers;</li>
-          <li>to facilitate creation and management of open services for private and community sectors;</li>
-          <li> encourage migration to future technologies such as <a href="http://et.wikipedia.org/wiki/Linkandmed" class="ext">linked data</a><span class="ext"></span>, "<a href="https://et.wikipedia.org/wiki/Värkvõrk" class="ext">Internet of Things</a><span
-              class="ext"></span>" and "<a href="http://en.wikipedia.org/wiki/Big_data" class="ext">big data</a><span class="ext"></span>".</li>
-        </ul>
+    <div id="q2" class="collapse" aria-labelledby="h2" data-parent="#accordion">
+      <div class="card-body">
+        <p>Opening up data and their collection, storage and dissemination serves the following important goals:</p>
+          <ul>
+            <li>to stimulate economy by the re-use of data;</li>
+            <li>to increase the transparency of the public sector;</li>
+            <li>to decrease the number of information requests and, consequently, also reduce the workload of public sector workers;</li>
+            <li>to facilitate creation and management of open services for private and community sectors;</li>
+            <li> encourage migration to future technologies such as <a href="http://et.wikipedia.org/wiki/Linkandmed" class="ext">linked data</a><span class="ext"></span>, "<a href="https://et.wikipedia.org/wiki/Värkvõrk" class="ext">Internet of
+                Things</a><span class="ext"></span>" and "<a href="http://en.wikipedia.org/wiki/Big_data" class="ext">big data</a><span class="ext"></span>".</li>
+          </ul>
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q3">What to publish?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h3">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q3" aria-expanded="false" aria-controls="q3">
+          What to publish?
+        </button>
+      </h5>
     </div>
-    <div id="q3" class="panel-collapse collapse">
-      <div class="panel-body">
-        <p>The publication of data created by public sector bodies serves many purposes, most importantly allowing private individuals, companies and third sector bodies simply to examine the existing data or to use it in their software applications to create value added.</p>
-        <p>All datasets which are created by government agencies and local authorities, whose public use is not directly forbidden and which contain other data than personal data are to be made public. If the datasets contain both personal and non-personal data, only the non-personal parts of the data will be made public.</p>
-        <p>In particular, the data in the datasets to be published should in general be created, collected or administered by a government agency or local authority. A government agency or a local authority may, with the consent of a third party, also publish the data of that third party if it considers it to be of sufficient interest to the public.</p>
+    <div id="q3" class="collapse" aria-labelledby="h3" data-parent="#accordion">
+      <div class="card-body">
+        <p>The publication of data created by public sector bodies serves many purposes, most importantly allowing private individuals, companies and third sector bodies simply to examine the existing data or to use it in their software applications
+          to create value added.</p>
+        <p>All datasets which are created by government agencies and local authorities, whose public use is not directly forbidden and which contain other data than personal data are to be made public. If the datasets contain both personal and
+          non-personal data, only the non-personal parts of the data will be made public.</p>
+        <p>In particular, the data in the datasets to be published should in general be created, collected or administered by a government agency or local authority. A government agency or a local authority may, with the consent of a third party,
+          also publish the data of that third party if it considers it to be of sufficient interest to the public.</p>
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q4">Which principles need to be followed when publishing datasets?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h4">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q4" aria-expanded="false" aria-controls="q4">
+
+          Which principles need to be followed when publishing datasets?
+        </button>
+      </h5>
     </div>
-    <div id="q4" class="panel-collapse collapse">
-      <div class="panel-body">
+    <div id="q4" class="collapse" aria-labelledby="h4" data-parent="#accordion">
+      <div class="card-body">
         <p>Two goals must be balanced while publishing datasets:</p>
         <ul>
           <li>the data presentation should be convenient and understandable for the users;</li>
           <li>the data publisher should be able to publish data with ease and minimal effort.</li>
         </ul>
-        <p>Public sector data shall be considered open if it is made public in a way that complies with the principles below: <a href="https://opengovdata.org/" title="The Annotated 8 Principles of Open Government Data" class="ext">https://opengovdata.org/</a><span class="ext"></span>
+        <p>Public sector data shall be considered open if it is made public in a way that complies with the principles below: <a href="https://opengovdata.org/" title="The Annotated 8 Principles of Open Government Data" class="ext">https://opengovdata.org/</a><span
+            class="ext"></span>
           ):</p>
         <p style="margin-left:40px">1. Complete<br>
           All public data is made available. Public data is data that is not subject to valid privacy, security or privilege limitations.
@@ -91,91 +106,116 @@ lang: en
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q6">Will personal information be at risk?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h5">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q5" aria-expanded="false" aria-controls="q5">
+          Will personal information be at risk?
+        </button>
+      </h5>
     </div>
-    <div id="q6" class="panel-collapse collapse">
-      <div class="panel-body">
+    <div id="q5" class="collapse" aria-labelledby="h5" data-parent="#accordion">
+      <div class="card-body">
         <p>The published data will not identify or provide ways to identify individuals, unless that information is already published (such as the names of the civil servants working at the ministries).</p>
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q7">What are the licence requirements for the published data?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h6">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q6" aria-expanded="false" aria-controls="q6">
+
+          What are the licence requirements for the published data?
+        </button>
+      </h5>
     </div>
-    <div id="q7" class="panel-collapse collapse">
-      <div class="panel-body">
-        <p>The open data must published under a licence which permits its free and unlimited use, processing and distribution. Under the licence, it must be possible to distribute the data at the discretion of the user either without charge or for a fee.</p>
+    <div id="q6" class="collapse" aria-labelledby="h6" data-parent="#accordion">
+      <div class="card-body">
+        <p>The open data must published under a licence which permits its free and unlimited use, processing and distribution. Under the licence, it must be possible to distribute the data at the discretion of the user either without charge or for a
+          fee.</p>
         <p>We recommend that you pick a Creative Commons licence, see <a href="http://creativecommons.org/" title="When we share, everyone wins — Creative Commons" class="ext">https://creativecommons.org/</a><span class="ext"></span>.
           From among the licences listed on the site, we recommend the CC by 3.0 licence: <a href="https://creativecommons.org/licenses/by/3.0/deed.et" title="Creative Commons — Autorile viitamine 3.0 Jurisdiktsiooniga sidumata— CC BY 3.0" class="ext">https://creativecommons.org/licenses/by/3.0/</a><span
             class="ext"></span></p>
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q8">Can the published data be used for commercial purposes (such as for the creation of paid services)??</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h7">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q7" aria-expanded="false" aria-controls="q7">
+          Can the published data be used for commercial purposes (such as for the creation of paid services)?
+        </button>
+      </h5>
     </div>
-    <div id="q8" class="panel-collapse collapse">
-      <div class="panel-body">
+    <div id="q7" class="collapse" aria-labelledby="h7" data-parent="#accordion">
+      <div class="card-body">
         <p>Reuse of data for commercial purposes is permitted. We will be more than delighted if profitable services are created using our data.</p>
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q9">What format and encoding types are recommended for datasets?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h8">
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q8" aria-expanded="false" aria-controls="q8">
+          What format and encoding types are recommended for datasets?
+        </button>
+      </h5>
     </div>
-    <div id="q9" class="panel-collapse collapse">
-      <div class="panel-body">
-        <p>As a principle, it is better to publish the data in an inconvenient format than to leave it unpublished at first and wait for a planned improvement in its encoding in the future. A published dataset can always be republished in a new and better encoding. We recommend that you publish your open data <strong>at least in a 3-star format</strong>.</p>
-        <p>The system of the Five Stars of Openness was developed in the UK by Tim Berners-Lee and we follow exactly the same scoring and goals: more stars means better format/encoding for the user. For examples and further information: <a href="http://5stardata.info/en/" title="5-star Open Data" class="ext">http://5stardata.info/en/</a><span class="ext"></span></p>
+    <div id="q8" class="collapse" aria-labelledby="h8" data-parent="#accordion">
+      <div class="card-body">
+        <p>As a principle, it is better to publish the data in an inconvenient format than to leave it unpublished at first and wait for a planned improvement in its encoding in the future. A published dataset can always be republished in a new and
+          better encoding. We recommend that you publish your open data <strong>at least in a 3-star format</strong>.</p>
+        <p>The system of the Five Stars of Openness was developed in the UK by Tim Berners-Lee and we follow exactly the same scoring and goals: more stars means better format/encoding for the user. For examples and further information: <a href="http://5stardata.info/en/"
+            title="5-star Open Data" class="ext">http://5stardata.info/en/</a><span class="ext"></span></p>
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q10">How can people use opendata.riik.ee?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h9">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q9" aria-expanded="false" aria-controls="q9">
+          How can people use opendata.riik.ee?
+        </button>
+      </h5>
     </div>
-    <div id="q10" class="panel-collapse collapse">
-      <div class="panel-body">
+    <div id="q9" class="collapse" aria-labelledby="h9" data-parent="#accordion">
+      <div class="card-body">
         <p>If you want to understand how to use open data, then please look here: <a href="http://www.hri.fi/en/open-data/use-data/" class="ext">Helsinki Region
             Infoshare</a><span class="ext"></span></p>
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q12">Is there a place where it is possible to discuss ideas, applications and using of the data?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h10">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q10" aria-expanded="false" aria-controls="q10">
+          Is there a place where it is possible to discuss ideas, applications and using of the data?
+        </button>
+      </h5>
     </div>
-    <div id="q12" class="panel-collapse collapse">
-      <div class="panel-body">
-        <p>We use GitHub.com for discussing open data in Estonia <a href="https://github.com/okestonia/opendata-issue-tracker/issues" class="ext">opendata tracker</a><span class="ext"></span>. Here you are able to add comments, applications, blog posts, and provide suggestions/requests for new datasets.</p>
+    <div id="q10" class="collapse" aria-labelledby="h10" data-parent="#accordion">
+      <div class="card-body">
+        <p>We use GitHub.com for discussing open data in Estonia <a href="https://github.com/okestonia/opendata-issue-tracker/issues" class="ext">opendata tracker</a><span class="ext"></span>. Here you are able to add comments, applications, blog
+          posts, and provide suggestions/requests for new datasets.</p>
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q13">Where can I find further information on open data? (Links in Estonian)</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h11">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q11" aria-expanded="false" aria-controls="q11">
+          Where can I find further information on open data? (Links in Estonian)
+        </button>
+      </h5>
     </div>
-    <div id="q13" class="panel-collapse collapse">
-      <div class="panel-body">
+    <div id="q11" class="collapse" aria-labelledby="h11" data-parent="#accordion">
+      <div class="card-body">
         <ul>
           <li><a href="https://www.mkm.ee/sites/default/files/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt">Green paper on open data</a>.</li>
           <li><a href="https://riigikantselei.ee/sites/default/files/content-editors/TOF/TOF_uuringud/lingitud_eesti_lopparuanne_2.0.pdf">"Linked Estonia"</a>.</li>
@@ -184,14 +224,17 @@ lang: en
       </div>
     </div>
   </div>
-  <div class="panel panel-default">
-    <div class="panel-heading">
-      <h4 class="panel-title">
-        <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion" href="#q14">Will more public data become available in the future?</a>
-      </h4>
+  <div class="card">
+    <div class="card-header" id="h12">
+
+      <h5 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" data-target="#q12" aria-expanded="false" aria-controls="q12">
+          Will more public data become available in the future?
+        </button>
+      </h5>
     </div>
-    <div id="q14" class="panel-collapse collapse">
-      <div class="panel-body">
+    <div id="q12" class="collapse" aria-labelledby="h12" data-parent="#accordion">
+      <div class="card-body">
         <p>Certainly! As the work on the project progresses, new open data will be added to the portal and the portal will also be linked to the open data portals of other countries.</p>
       </div>
     </div>

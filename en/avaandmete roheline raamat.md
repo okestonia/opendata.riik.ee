@@ -5,6 +5,8 @@ permalink: /en/green-paper/
 ref: Green
 lang: en
 ---
+{% include breadcrumbs.html %}
+
 ### GREEN PAPER ON OPEN DATA
 The Green Paper on Open Data is the first systematic government report on the open data policy in Estonia, setting out its guiding principles, interoperability architecture, central policy choices and an activity plan. It is a must read for anyone who plans to explore the concept of open data and related terminology. The holders of information can find here answers to many questions they encounter in relation to opening up data.
 

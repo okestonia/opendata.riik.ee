@@ -5,6 +5,8 @@ permalink: /en/contacts/
 ref: Contact
 lang: en
 ---
+{% include breadcrumbs.html %}
+
 # Contact Information
 
 For questions concerning downloading or registering new open datasets, please contact opendatasupport@mkm.ee
