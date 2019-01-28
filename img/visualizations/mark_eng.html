@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style> /* set the CSS */
+.label {
+    font-size: 10px;
+    font-family: sans-serif;
+	fill: #808080;
+}
+.axis path, line{
+    stroke: #808080;
+}
+.axis text{
+    fill: #808080;
+}
+div.tooltip {	
+    position: absolute;			
+    text-align: center;			
+    width: 120px;					
+    height: 46px;					
+    padding: 2px;				
+    font: 12px sans-serif;		
+    background: #D3D3D3;	
+    border: 0px;
+    border-radius: 8px;			
+    pointer-events: none;			
+}
+
+</style>
+<body>
+<!-- load the d3.js library -->    	
+<script src="https://d3js.org/d3.v4.min.js"></script>
+<script>
+
+var margin = {top: 20, right: 20, bottom: 30, left: 50},
+    width = 960 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var x = d3.scaleLinear().range([0, width]).domain([0,100000]);
+var y = d3.scaleLinear().range([height, 0]).domain([0,3500]);
+
+var div = d3.select("body").append("div")	
+    .attr("class", "tooltip")				
+    .style("opacity", 0);
+	
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform","translate(" + margin.left + "," + margin.top + ")");
+	
+d3.csv("https://raw.githubusercontent.com/okestonia/Data-Viz-Protos/master/kiiruseyletamine/margid17.csv", function(error, data) {
+  if (error) throw error;
+
+  svg.append("line")
+	.attr("class", "trend")
+	.attr("x1", x(0))
+	.attr("y1", y(0))
+	.attr("x2", x(94000))
+	.attr("y2", y(3478))
+	.style("stroke", "#D3D3D3");
+	
+  svg.append("g")
+	.attr("class", "y axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(d3.axisBottom(x)
+		.tickFormat(d3.format("d")));
+  
+  svg.append("g")
+    .append("text")
+		.attr("class", "label")
+		.attr("x", width)
+		.attr("y", height-6)
+		.style("text-anchor", "end")
+		.style("color", "#808080")
+		.text("Number of registered cars");
+
+  svg.append("g")
+	.attr("class", "y axis")
+    .call(d3.axisLeft(y)
+		.tickFormat(d3.format("d")));
+	
+  svg.append("g")
+	.append("text")
+        .attr("class", "label")
+        .attr("transform", "rotate(-90)")
+        .attr("y", 6)
+        .attr("dy", ".71em")
+        .style("text-anchor", "end")
+        .text("Number of registered speedings");
+	
+  svg.selectAll("dots")
+    .data(data)
+    .enter().append("circle")
+	  .attr("class", "dot")
+	  .attr("cx", function (d) { return x(d.arv); } )
+	  .attr("cy", function (d) { return y(d.rikkumisi); } )
+	  .attr("r", 5)
+	  .on("mouseover", function(d) {		
+            div.transition()		
+                .duration(200)		
+                .style("opacity", 1);		
+            div	.html(d.Mark_eng + "<br/>" + d.osakaal + " speedings for 1000 cars")	
+                .style("left", (d3.event.pageX) + "px")		
+                .style("top", (d3.event.pageY - 28) + "px");	
+            })					
+        .on("mouseout", function(d) {		
+            div.transition()		
+                .duration(500)		
+                .style("opacity", 0);	
+        });;
+
+  svg.append("g")
+	.append("text")
+        .attr("class", "label")
+		.attr("x", x(45172))
+		.attr("y", y(3240))
+        .style("text-anchor", "middle")
+		.style("fill", "black")
+        .text("BMW");
+  svg.append("g")
+	.append("text")
+        .attr("class", "label")
+		.attr("x", x(93968))
+		.attr("y", y(2950))
+        .style("text-anchor", "middle")
+		.style("fill", "black")
+        .text("VOLKSWAGEN");
+});
+</script>
+</body>
