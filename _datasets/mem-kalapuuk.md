@@ -9,12 +9,15 @@ resources:
   - name: Kalalaevaregister
     url: 'https://www.agri.ee/et/eesmargid-tegevused/kalamajandus-ja-kutseline-kalapuuk/kalalaevaregister'
     format: HTML
+    interactive: 'True'
   - name: Kalapüügiandmed
     url: 'https://www.agri.ee/et/eesmargid-tegevused/kalamajandus-ja-kutseline-kalapuuk/puugiandmed'
     format: HTML
+    interactive: 'True'
   - name: Maaeluministeeriumi avaandmed
     url: 'https://www.agri.ee/et/avaandmed'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/05/04
@@ -23,5 +26,5 @@ organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/mem-kalapuuk'
+
 ---

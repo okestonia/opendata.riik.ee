@@ -12,19 +12,22 @@ resources:
   - name: MSR
     url: 'https://www.agri.ee/sites/default/files/opendata/mahe/MSR.xml'
     format: XML
+    interactive: 'False'
   - name: Registri avalik vaade
     url: 'https://portaal.agri.ee/avalik/#/maaparandus/msr'
     format: HTML
+    interactive: 'True'
   - name: Maaeluministeeriumi avaandmed
     url: 'https://www.agri.ee/et/avaandmed'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/07/12
-date_modified: 2018/11/23
+date_modified: 2019/01/29
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/mem-msr'
+
 ---

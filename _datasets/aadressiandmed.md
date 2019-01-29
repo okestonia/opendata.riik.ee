@@ -9,6 +9,7 @@ resources:
   - name: Aadressid
     url: 'http://xgis.maaamet.ee/adsavalik/ads?xBTN.newvalja'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 date_issued: 2015/04/27
@@ -17,5 +18,5 @@ organization: Maa-amet
 maintainer_name: Andre Kaptein
 maintainer_email: Andre.Kaptein@maaamet.ee
 maintainer_phone: '6750894'
-legacy_url: 'https://opendata.riik.ee/en/dataset/aadressiandmed'
+
 ---

@@ -7,7 +7,7 @@
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
 
   <!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"-->
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/3.3.7/spacelab/bootstrap.min.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.2.1/spacelab/bootstrap.min.css">
   {% assign theme_name = site.jkan_theme | default: 'Default' %}
   {% assign theme = site.data.themes | where:'name', theme_name | first %}
   {% if theme and theme.src and theme.src != empty %}
@@ -45,15 +45,10 @@
     {% include addons/twittercard.html %}
   {% endif %}
 
-  <script>
+    <script>
   var settings = {
     BASE_URL: {{ site.baseurl | jsonify }},
     PAGE_URL: {{ page.url | jsonify }},
-    REPO_BRANCH: {% if site.github.is_user_page %}"master"{% else %}"gh-pages"{% endif %},
-    REPO_OWNER: {{ site.github.owner_name | jsonify }},
-    REPO_NAME: {{ site.github.project_title | jsonify }},
-    GITHUB_CLIENT_ID: {{ site.github_client_id | jsonify }},
-    GATEKEEPER_HOST: {{ site.gatekeeper_host | jsonify }}
   }
   </script>
 </head>

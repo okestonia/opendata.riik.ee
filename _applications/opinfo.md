@@ -9,6 +9,7 @@ Siin saate teha järgmisi toiminguid:
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/opinfo.PNG'
 app_url: 'https://opinfo.tallinn.ee/kaart'
 developed_by: Tallinna linnavalitsus
+img: opinfo.PNG
 tags:
 submitted: 2018/11/01
 ---

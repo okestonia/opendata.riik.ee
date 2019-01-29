@@ -9,9 +9,11 @@ resources:
   - name: Toetuste saajad
     url: 'http://www.pria.ee/et/toetused/toetusesaajad/'
     format: HTML
+    interactive: 'True'
   - name: Toetuste saajate veebikaart
     url: 'https://kls.pria.ee/toetuste-veebikaart/'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/01/30
@@ -20,5 +22,5 @@ organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: Kadri Koel
 maintainer_email: kadri.koel@pria.ee
 maintainer_phone: '7371211'
-legacy_url: 'https://opendata.riik.ee/en/dataset/toetuste-saajad'
+
 ---

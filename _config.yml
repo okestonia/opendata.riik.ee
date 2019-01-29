@@ -12,10 +12,11 @@ footer_title:
   en: Estonian Open Government Data Portal
 footer_description:
   et: Avaandmete portaali sisustatakse Euroopa Liidu struktuuritoetuse toetusskeemist "Infoühiskonna teadlikkuse tõstmine", mida rahastab Euroopa Regionaalarengu Fond.
-  en: The Open Data Portal's content is created as part of the EU structural funds' programme "Raising Awareness of Information Society" financed through the EU Regional Development Fund.
+  en: The Open Data Portal's content is created as part of the EU structural funds' programme "Raising Public Awareness about the Information Society" financed through the EU Regional Development Fund.
 baseurl:
 logo: /img/jkan.png
 
+domain: https://opendata.riik.ee
 # Site theme
 jkan_theme: Default
 
@@ -49,6 +50,8 @@ navigation_et:
         url: /kontaktid/
       - title: Meist
         url: /meist/
+      - title: Juhend
+        url: /juhend/
 
 navigation_english:
     - title: Datasets
@@ -109,7 +112,7 @@ collections:
     permalink: /apps/:path/
   blogi:
     output: true
-    permalink: /blogi/:path/
+  #  permalink: /blogi/:path/
 
 # Collections (cont'd)
 defaults:
@@ -133,10 +136,17 @@ defaults:
     values:
       layout: organization
   - scope:
-      path: ""
-      type: blogi
+      path: "_blogi/et"
     values:
+      permalink: "/et/blogi/:title/"
       layout: article
+      lang: "et"
+  - scope:
+      path: "_blogi/en"
+    values:
+      permalink: "/en/blogi/:title/"
+      layout: article
+      lang: "en"
 #  - scope:
 #      path: ""
 #      type: applications
@@ -151,8 +161,8 @@ kramdown:
 
 # Google Analytics
 google_analytics:
-  enabled: false
-  code: "UA-XXXXXX-1"
+  enabled: true
+  code: "UA-59533100-1"
 
 # US Digital Analytics Program - https://analytics.usa.gov
 digital_analytics_program:
@@ -172,6 +182,16 @@ twittercard:
 # Open Graph
 opengraph:
   enabled: true
+
+#plugins:
+#  - jekyll-feed
+
+feed:
+  collections:
+    - datasets
+    - applications
+    - blogi
+    - organizations
 
 # Exclude these files from the build
 exclude:

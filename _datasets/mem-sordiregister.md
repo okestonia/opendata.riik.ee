@@ -9,28 +9,34 @@ resources:
   - name: Sordiregister
     url: 'http://www.agri.ee/sites/default/files/opendata/sordiregister/Sordiregister.xml'
     format: XML
+    interactive: 'False'
   - name: XSD
     url: 'http://www.agri.ee/sites/default/files/opendata/sordiregister/Sordiregister.xsd'
     format: xsd
+    interactive: 'False'
   - name: Meta
     url: 'http://www.agri.ee/sites/default/files/opendata/sordiregister/Sordiregister.csvmeta.txt'
     format: CSV
+    interactive: 'False'
   - name: Sordiregister
     url: 'http://www.agri.ee/sites/default/files/opendata/sordiregister/Sordiregister.csv'
     format: CSV
+    interactive: 'False'
   - name: Registri avalik vaade
     url: 'http://jis.agri.ee:22008/Default.aspx?lang=et'
     format: HTML
+    interactive: 'True'
   - name: Maaeluministeeriumi avaandmed
     url: 'https://www.agri.ee/et/avaandmed'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/07/12
-date_modified: 2018/11/23
+date_modified: 2019/01/29
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/mem-sordiregister'
+
 ---

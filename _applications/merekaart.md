@@ -4,6 +4,7 @@ app_description: 'Kaardil on ühendatud merekaart ja ilmaandmed. Tasuta merekaar
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/merekaart.PNG'
 app_url: 'https://gis.ee/meri'
 developed_by: gis.ee
+img: merekaart.PNG
 tags:
 submitted: 2018/11/01
 ---

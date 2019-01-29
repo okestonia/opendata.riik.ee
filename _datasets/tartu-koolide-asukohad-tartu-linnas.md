@@ -9,6 +9,7 @@ resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Koolid/MapServer?wsdl'
     format: XML
     name: Koolide asukohad Tartu linnas
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''

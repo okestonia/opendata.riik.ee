@@ -9,7 +9,8 @@ resources:
   - url: 'http://www.tallinn.ee/est/ehitus/Linnaosade-trukikaardid'
     format: PDF
     name: Linnaosade trükikaardid
-license: ''
+    interactive: 'True'
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 01.09.2015
 date_modified: ''

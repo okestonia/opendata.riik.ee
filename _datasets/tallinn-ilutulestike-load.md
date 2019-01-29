@@ -6,13 +6,11 @@ department: ''
 category:
   - Piirkonnad ja linnad
 resources:
-  - url: 'https://akis.tallinn.ee/kogunemised/xml/28cef206'
-    format: XML
-    name: Ilutulestike load
   - url: 'https://akis.tallinn.ee/kogunemised/kml/28cef206'
     format: KML
     name: Ilutulestike load
-license: ''
+    interactive: 'False'
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: ''
 date_modified: ''

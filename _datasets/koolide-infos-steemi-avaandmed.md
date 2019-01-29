@@ -9,6 +9,7 @@ resources:
   - name: EKIS avalik dokumendiregister
     url: 'https://ekis.ee/'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/05/09
@@ -17,5 +18,5 @@ organization: Haridus- ja Teadusministeerium
 maintainer_name: EKIS kasutajatugi
 maintainer_email: kis@eenet.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/koolide-infos-steemi-avaandmed'
+
 ---

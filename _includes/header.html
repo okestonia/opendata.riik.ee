@@ -1,52 +1,55 @@
-<nav class="navbar navbar-default" data-component="navigation">
+<nav class="navbar navbar-expand-md mb-4 navbar-light bg-light" data-component="navigation">
   <div class="container">
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-<span class="icon-bar"></span>
-<span class="icon-bar"></span>
-      </button>
-      {% if page.lang == "et" %}
-      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title[page.lang] }}</a>
-      {% elsif page.lang == "en" %}
-      <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title[page.lang] }}</a>
-      {% else %}
-      <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title['et'] }}</a>
-      {% endif %}
-    </div>
-
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
+  {% if page.lang == "et" %}
+  <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title[page.lang] }}</a>
+  {% elsif page.lang == "en" %}
+  <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title[page.lang] }}</a>
+  {% else %}
+  <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title['et'] }}</a>
+  {% endif %}
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
         {% if page.lang == "en" %}
+        <html lang="en">
         {% assign nav = site.navigation_english %}
         {% else %}
         {% assign nav = site.navigation_et %}
         {% endif %}
-
         {% for link in nav %}
         {% if link.sublinks %}
-        <li class="dropdown {{ class }}">
-          <a href="{{ site.baseurl }}{{ link.url }}" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">{{ link.title }} <span class="caret"></span></a>
-          <ul class="dropdown-menu">
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="{{ site.baseurl }}{{ link.url }}" data-target="#menudropdown1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ link.title }}</a>
+          <div class="dropdown-menu" aria-labelledby="menudropdown1">
             {% for sublink in link.sublinks %}
-            <li>
-              <a href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
-            </li>
+            <a class="dropdown-item" href="{{ site.baseurl }}{{ sublink.url }}">{{ sublink.title }}</a>
             {% endfor %}
-          </ul>
-            </li>
+            </div>
+        </li>
         {% elsif page.url contains link.url %}
-        <li class="active"><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
+        <li class="nav-item active"><a class="nav-link" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }} <span class="sr-only">(current)</span></a></li>
         {% else %}
-        <li><a href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
         {% endif %}
         {% endfor %}
       </ul>
+    </div>
       {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
       {% if pages.size < 3 %}
       <div class="wrapper" style="text-align: right; line-height: 4em">
+        <a href="https://github.com/okestonia/jkan" style="padding-right: 20px;" target="_blank" rel="noopener" title="OKEE GitHub">
+          <i class="fa fa-github fa-lg"></i>
+        </a>
+        <a href="https://www.facebook.com/groups/1792458637715167" style="padding-right: 20px;" target="_blank" rel="noopener" title="OKEE Facebook">
+          <i class="fa fa-facebook-square fa-lg"></i>
+        </a>
+        <a href="https://opendata.riik.ee/datasetfeed.xml" style="padding-right: 20px;" target="_blank" rel="noopener" title="RSS Feed">
+          <i class="fa fa-rss fa-lg"></i>
+        </a>
       {% if page.lang == "et" %}
+      <html lang="et">
       Keel:
       {% else %}
       Language:
@@ -55,7 +58,7 @@
       <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
       {% endfor %}
       {% endif %}
-      </div>
     </div>
-        </div>
+  </div>
+
 </nav>

@@ -9,6 +9,7 @@ resources:
   - url: 'https://www.tartu.ee/sites/default/files/uploads/Avaandmed/Tartu_asum.7z'
     format: SHP
     name: Tartu asumid (mitteametlikud)
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''

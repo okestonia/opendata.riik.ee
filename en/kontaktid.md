@@ -5,9 +5,11 @@ permalink: /en/contacts/
 ref: Contact
 lang: en
 ---
-# Kontaktid
+{% include breadcrumbs.html %}
 
-For questions concerning downloading or registering new open datasets, please contact openatasupport@mkm.ee
+# Contact Information
+
+For questions concerning downloading or registering new open datasets, please contact opendatasupport@mkm.ee
 
 For questions relating to the use of open data, please contact opendatahelp@mkm.ee or provide feedback on the  [tracker](https://github.com/okestonia/opendata-issue-tracker/issues).
 

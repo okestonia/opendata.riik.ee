@@ -9,7 +9,8 @@ resources:
   - name: Andmestik rahvastikuregistri nimedest
     url: 'https://opendata.riik.ee/downloads/koiknimedseisuga01.02.2018.xlsx'
     format: XML
-license: ''
+    interactive: 'False'
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/02/01
 date_modified: 2018/02/01
@@ -17,5 +18,5 @@ organization: Siseministeerium
 maintainer_name: Maarja-Eliisabet Mäe
 maintainer_email: maarja-eliisabet.mae@siseministeerium.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/andmestik-rahvastikuregistris-leiduvate-nimedega'
+
 ---

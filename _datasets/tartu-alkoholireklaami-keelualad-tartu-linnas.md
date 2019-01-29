@@ -9,6 +9,7 @@ resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Alkoholireklaami_keelualad/MapServer?wsdl'
     format: XML
     name: Alkoholireklaami keelualad Tartu linnas
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''

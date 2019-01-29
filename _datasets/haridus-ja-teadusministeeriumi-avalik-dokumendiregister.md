@@ -9,6 +9,7 @@ resources:
   - name: Dokumendiregistri avaliku vaate otsing
     url: 'https://www.hm.ee/et/ministeerium/dokumendiregister'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/05/09
@@ -17,5 +18,5 @@ organization: Haridus- ja Teadusministeerium
 maintainer_name: Haridus- ja Teadusministeerium
 maintainer_email: info@hm.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/haridus-ja-teadusministeeriumi-avalik-dokumendiregister'
+
 ---

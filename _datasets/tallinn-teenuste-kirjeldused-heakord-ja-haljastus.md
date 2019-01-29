@@ -9,10 +9,11 @@ resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=13'
     format: XML
     name: Teenuste kirjeldused - heakord ja haljastus
-license: ''
+    interactive: 'False'
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: ''
-date_modified: ''
+date_modified: 2019/01/22
 organization: Tallinna Linnavalitsus
 maintainer_name: Liina Karjane
 maintainer_email: liina.karjane@tallinnlv.ee

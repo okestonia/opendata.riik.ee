@@ -4,6 +4,7 @@ app_description: 'Kaardile kuvatakse ühistranspordi peatused ja ühissõidukite
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/publictransport.PNG'
 app_url: 'https://gis.ee/tallinn/'
 developed_by: gis.ee
+img: publictransport.PNG
 tags:
 submitted: 2018/11/01
 ---

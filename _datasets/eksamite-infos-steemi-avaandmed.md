@@ -11,12 +11,15 @@ resources:
   - name: Avalikud ülesanded
     url: 'https://eis.ekk.edu.ee/eis/lahendamine'
     format: HTML
+    interactive: 'True'
   - name: Eksamitunnistused
     url: 'https://eis.ekk.edu.ee/eis/tunnistused'
     format: HTML
+    interactive: 'True'
   - name: Testide tulemuste statistika
     url: 'https://eis.ekk.edu.ee/eis/eksamistatistika'
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/05/23
@@ -25,5 +28,5 @@ organization: Haridus- ja Teadusministeerium
 maintainer_name: EIS kasutajatugi
 maintainer_email: eis.tugi@innove.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/eksamite-infos-steemi-avaandmed'
+
 ---

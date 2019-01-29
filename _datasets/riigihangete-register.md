@@ -10,9 +10,11 @@ resources:
   - name: Riigihangete register seisuga 18.05.2015
     url: 'https://opendata.riik.ee/downloads/rhravaandmed.xlsx'
     format: XLSX
+    interactive: 'False'
   - name: Riigihangete register
     url: https://riigihanked.riik.ee/rhr-web/
     format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/05/25
@@ -21,5 +23,5 @@ organization: Rahandusministeerium
 maintainer_name: Rahandusministeerium
 maintainer_email: info@rahandusministeerium.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/riigihangete-register'
+
 ---

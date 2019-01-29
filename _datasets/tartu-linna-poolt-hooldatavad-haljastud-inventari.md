@@ -9,6 +9,7 @@ resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Haljastus/HALGIS_avaandmed/MapServer?wsdl'
     format: XML
     name: Tartu linna poolt hooldatavad haljastud ja inventari paiknemine. Teenus sisaldab
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''

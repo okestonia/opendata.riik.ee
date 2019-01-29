@@ -6,16 +6,39 @@ ref: blog
 lang: et
 ---
 {% include breadcrumbs.html %}
-
 <h1>Blogi</h1>
-<div>
-    {% assign sortnews = site.blogi | sort:"submitted" | reverse %}
-    {% for blogi in sortnews %}
-  <div>
-        <h3>{{ blogi.news_title }}</h3>
-        <p class="text-muted">Lisanud {{ blogi.author }} {{ blogi.submitted }}</p>
-        <div class="text_control">{{ blogi.preview }}</div>
-        <p><a href="{{ site.baseurl }}{{ blogi.url }}"> Loe lisa </a></p>
-      </div>
+<br>
+<div style="
+    display: grid;
+    grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
+    grid-gap: 20px;
+">
+{% assign sortnews = site.blogi | where: "lang", page.lang | sort:"submitted" | reverse %}
+{% for blogi in sortnews %}
+    <div
+        class="card"
+        style="
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        "
+    >
+
+    <div class="card-body">
+    <a href="{{ site.baseurl }}{{ blogi.url }}">
+                   <div style="
+                       height: 180px;
+                       background-image: url(/img/blogi/{{blogi.preview_img}});
+                       background-size: cover;
+                       border-radius: .25rm;
+                       border: 2px solid #dee2e6;
+                   "></div>
+                   <h3>{{ blogi.news_title }}</h3></a>
+    <p class="text_control">{{ blogi.preview }}<a href="{{ site.baseurl }}{{ blogi.url }}"> Loe lisa... </a></p>
+  </div>
+        <div class="card-footer text-muted">
+             Lisanud {{ blogi.author }} {{ blogi.submitted | date: "%d/%m/%Y" }}
+        </div>
+    </div>
 {% endfor %}
 </div>

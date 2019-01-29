@@ -8,10 +8,12 @@ category:
 resources:
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
     url: 'https://opendata.riik.ee/downloads/parameeterexcel.xlsx'
-    format: excel
+    format: XLSX
+    interactive: 'False'
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
     url: 'https://opendata.riik.ee/downloads/parameeter.csv'
     format: CSV
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/02/10
@@ -20,5 +22,5 @@ organization: Sotsiaalministeerium
 maintainer_name: STAR teenusetugi
 maintainer_email: STARteenusetugi@tehik.ee
 maintainer_phone: '7943903'
-legacy_url: 'https://opendata.riik.ee/en/dataset/sotsiaalteenuste-ja-toetuste-andmeregister-star'
+
 ---

@@ -9,10 +9,12 @@ resources:
   - url: 'https://akis.tallinn.ee/kogunemised/xml/32421f85'
     format: XML
     name: Spordiürituste load
+    interactive: 'False'
   - url: 'https://akis.tallinn.ee/kogunemised/kml/32421f85'
     format: KML
     name: Spordiürituste load
-license: ''
+    interactive: 'False'
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: ''
 date_modified: ''

@@ -15,6 +15,7 @@ resources:
   - name: Deklaratsioonide andmestik
     url: 'https://opendata.riik.ee/downloads/puhasfidek2015utf8.txt'
     format: TXT
+    interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/03/18
@@ -23,5 +24,5 @@ organization: Maksu- ja Tolliamet
 maintainer_name: EMTA
 maintainer_email: info@emta.ee
 maintainer_phone:
-legacy_url: 'https://opendata.riik.ee/en/dataset/fidek2015'
+
 ---

@@ -4,6 +4,7 @@ app_description: "<p>Selles rakenduses saab vaadata Eesti ettevõtete ajalugu. P
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/benchmarking.PNG'
 app_url: 'https://annegrete.ee/shiny/benchmarking_EMTA/'
 developed_by: Annegrete Peek
+img: benchmarking.PNG
 tags:
   - EMTA
   - ettevõtlus

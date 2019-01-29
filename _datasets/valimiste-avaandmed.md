@@ -9,13 +9,14 @@ resources:
   - name: Toimunud valimised
     url: 'https://www.valimised.ee/et/valimiste-arhiiv/toimunud-valimiste-arhiiv'
     format: HTML
-license: ''
+    interactive: 'True'
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/12/04
 date_modified: 2015/10/11
 organization: Vabariigi Valimiskomisjon
-maintainer_name:
+maintainer_name: Vabariigi Valimiskomisjon
 maintainer_email: info@valimised.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/valimiste-avaandmed'
+
 ---

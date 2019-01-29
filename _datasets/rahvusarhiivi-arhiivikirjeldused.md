@@ -9,21 +9,27 @@ resources:
   - name: Ajalooarhiiv (apeEAD XML vormingus)
     url: 'http://opendata.ra.ee/files/archives/EAA.zip'
     format: xml / zip
+    interactive: 'False'
   - name: Riigiarhiiv (apeEAD XML vormingus)
     url: 'http://opendata.ra.ee/files/archives/ERA.zip'
     format: xml / zip
+    interactive: 'False'
   - name: Filmiarhiiv (apeEAD XML vormingus)
     url: 'http://opendata.ra.ee/files/archives/EFA.zip'
     format: xml / zip
+    interactive: 'False'
   - name: Maa-arhiivid  (apeEAD XML vormingus)
     url: 'http://opendata.ra.ee/files/archives/MA.zip'
     format: xml / zip
+    interactive: 'False'
   - name: Tallinna Linnaarhiiv (apeEAD XML vormingus)
     url: 'http://opendata.ra.ee/files/archives/TLA.zip'
     format: xml / zip
+    interactive: 'False'
   - name: Rahvusarhiivi avaandmete portaal
     url: 'http://opendata.ra.ee'
-    format: veebileht
+    format: HTML
+    interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
 date_issued: 2015/02/12
@@ -32,5 +38,5 @@ organization: Rahvusarhiiv
 maintainer_name: Koit Saarevet
 maintainer_email: koit.saarevet@ra.ee
 maintainer_phone: ''
-legacy_url: 'https://opendata.riik.ee/en/dataset/rahvusarhiivi-arhiivikirjeldused'
+
 ---

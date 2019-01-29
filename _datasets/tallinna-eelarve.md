@@ -9,7 +9,8 @@ resources:
   - url: 'http://www.tallinn.ee/eelarve'
     format: PDF
     name: Tallinna eelarve
-license: ''
+    interactive: 'True'
+license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 11.06.2015
 date_modified: 10.01.2018
