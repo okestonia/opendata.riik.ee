@@ -41,6 +41,9 @@ resources:
   - name: Maaeluministeeriumi avaandmed
     url: 'https://www.agri.ee/et/avaandmed'
     format: HTML
+  - name: Mahealade kaart
+    url: 'https://xgis.maaamet.ee/maps/XGis?app_id=MA32H5'
+    format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
