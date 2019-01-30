@@ -1,15 +1,11 @@
 ---
 schema: default
 title: Riigi teenused
-notes: Erinevate ministeeriumite haldusalade osutatavad teenused. Teenused on klassifitseeritud, seotud neid osutavate organisatsioonidega ning osutamise juriidilise alusega. Andmekseem sisaldab ka võimalust edastada teenuse osutamist puudutavat statistikat
+notes: Erinevate ministeeriumite haldusalade osutatavad teenused. Teenused on klassifitseeritud, seotud neid osutavate organisatsioonidega ning osutamise juriidilise alusega. Andmeskeem sisaldab ka võimalust edastada teenuse osutamist puudutavat statistikat.Teenuste otsing, https://www.riigiteenused.ee/et/teenuste-otsing
 department: ''
 category:
   - Valitsus ja avalik sektor
 resources:
-  - name: Teenuste otsing
-    url: 'https://www.mkm.ee/et/teenuste-otsing'
-    format: HTML
-    interactive: 'True'
   - name: API
     url: 'https://www.riigiteenused.ee/api/et/all'
     format: JSON
