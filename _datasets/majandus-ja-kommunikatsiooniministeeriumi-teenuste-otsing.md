@@ -1,9 +1,7 @@
 ---
 schema: default
 title: Riigi teenused
-notes: Erinevate ministeeriumite haldusalade osutatavad teenused. Teenused on klassifitseeritud, seotud neid osutavate organisatsioonidega ning osutamise juriidilise alusega. Andmeskeem sisaldab ka võimalust edastada teenuse osutamist puudutavat statistikat.
-Teenuste otsing: https://www.riigiteenused.ee/et/teenuste-otsing
-
+notes: Erinevate ministeeriumite haldusalade osutatavad teenused. Teenused on klassifitseeritud, seotud neid osutavate organisatsioonidega ning osutamise juriidilise alusega. Andmeskeem sisaldab ka võimalust edastada teenuse osutamist puudutavat statistikat.Teenuste otsing, https://www.riigiteenused.ee/et/teenuste-otsing
 department: ''
 category:
   - Valitsus ja avalik sektor
