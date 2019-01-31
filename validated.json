@@ -1219,12 +1219,6 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "Majandus -ja Kommunikatsiooniministeerium (MKM)",
         "urls": [
             {
-                "content-type": "text/html; charset=utf-8",
-                "http_status": 404,
-                "source": "majandus-ja-kommunikatsiooniministeeriumi-teenuste-otsing.md",
-                "url": "https://www.mkm.ee/et/teenuste-otsing"
-            },
-            {
                 "content-type": "application/json",
                 "http_status": 200,
                 "source": "majandus-ja-kommunikatsiooniministeeriumi-teenuste-otsing.md",
