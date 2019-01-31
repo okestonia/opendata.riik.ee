@@ -10,6 +10,10 @@ resources:
     url: 'https://lois.ecaa.ee/avaandmed/aa.xml'
     format: XML
     interactive: ''
+  - name: XML schema
+    url: 'http://opendata.mkm.ee/lois/avaandmed.xsd'
+    format: XSD
+    interactive: ''
   - name: LOIS avaandmete kirjeldus
     url: 'http://opendata.mkm.ee/lois/LOIS%20avaandmete%20selgitus.pdf'
     format: PDF
@@ -22,5 +26,4 @@ organization: Lennuamet
 maintainer_name: James Herne
 maintainer_email: james.herne@mkm.ee
 maintainer_phone: ''
-
 ---
