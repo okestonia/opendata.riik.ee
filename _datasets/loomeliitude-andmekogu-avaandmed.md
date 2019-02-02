@@ -13,7 +13,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2015/04/20
-date_modified: 2018/10/01
+date_modified: 2019/02/02
 organization: Kultuuriministeerium
 maintainer_name: Indrek Reimand
 maintainer_email: indrek.reimand@kul.ee
