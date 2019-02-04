@@ -15,7 +15,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/05/06
-date_modified: 2019/02/03
+date_modified: 2019/02/04
 organization: Rahandusministeerium
 maintainer_name: Margus Lehesaar
 maintainer_email: margus.lehesaar@fin.ee
