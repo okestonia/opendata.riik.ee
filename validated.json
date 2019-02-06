@@ -1,3 +1,4 @@
+http://opendata.ajapaik.ee timed out
 http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 timed out
 [
     {
@@ -26,8 +27,8 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "MT\u00dc Eesti Fotop\u00e4rand",
         "urls": [
             {
-                "content-type": "application/json",
-                "http_status": 200,
+                "content-type": "",
+                "http_status": -1,
                 "source": "ajapaik.md",
                 "url": "http://opendata.ajapaik.ee"
             }
@@ -70,14 +71,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "aukonsulaadid.md",
                 "url": "http://opendata.vm.ee/asutused_avaandmed.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "aukonsulaadid.md",
                 "url": "http://opendata.vm.ee/asutused_avaandmed_schema.xml"
             }
@@ -87,14 +88,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "aukonsulid.md",
                 "url": "http://opendata.vm.ee/aukonsulid.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "aukonsulid.md",
                 "url": "http://opendata.vm.ee/aukonsulid_schema.xml"
             }
@@ -601,14 +602,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "eesti-vabariigi-aukonsulid.md",
                 "url": "http://opendata.vm.ee/est_aukonsulid.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "eesti-vabariigi-aukonsulid.md",
                 "url": "http://opendata.vm.ee/est_aukonsulid_schema.xml"
             }
@@ -1838,14 +1839,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "rahvusp-had.md",
                 "url": "http://opendata.vm.ee/rahvuspyhad.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "rahvusp-had.md",
                 "url": "http://opendata.vm.ee/rahvuspyhad_schema.xml"
             }
@@ -1855,14 +1856,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "rahvusvahelised-organisatsioonid.md",
                 "url": "http://opendata.vm.ee/organisatsioonid.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "rahvusvahelised-organisatsioonid.md",
                 "url": "http://opendata.vm.ee/esindused_schema.xml"
             }
@@ -1872,14 +1873,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "rahvusvaheliste-organisatsioonide-esindused.md",
                 "url": "http://opendata.vm.ee/esindused.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "rahvusvaheliste-organisatsioonide-esindused.md",
                 "url": "http://opendata.vm.ee/esindused_schema.xml"
             }
@@ -1934,14 +1935,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "saatkonnad.md",
                 "url": "http://opendata.vm.ee/saatkonnad.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "saatkonnad.md",
                 "url": "http://opendata.vm.ee/saatkonnad_schema.xml"
             }
@@ -1990,14 +1991,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "strateegilise-kauba-registreeritud-vahendajad.md",
                 "url": "http://opendata.vm.ee/stratkom/vahendajad.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "strateegilise-kauba-registreeritud-vahendajad.md",
                 "url": "http://opendata.vm.ee/stratkom/vahendajad.xsd"
             }
@@ -2007,14 +2008,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "strateegilise-kauba-sertifikaadid-eesti.md",
                 "url": "http://opendata.vm.ee/stratkom/sertifikaadid_eesti.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "strateegilise-kauba-sertifikaadid-eesti.md",
                 "url": "http://opendata.vm.ee/stratkom/sertifikaadid_eesti.xsd"
             }
@@ -2024,14 +2025,14 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "V\u00e4lisministeerium",
         "urls": [
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "strateegilise-kauba-sertifikaadid-el.md",
                 "url": "http://opendata.vm.ee/stratkom/sertifikaadid_el.xml"
             },
             {
-                "content-type": "text/xml",
-                "http_status": 200,
+                "content-type": "text/html; charset=iso-8859-1",
+                "http_status": 404,
                 "source": "strateegilise-kauba-sertifikaadid-el.md",
                 "url": "http://opendata.vm.ee/stratkom/sertifikaadid_el.xsd"
             }
