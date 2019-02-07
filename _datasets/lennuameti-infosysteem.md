@@ -9,15 +9,15 @@ resources:
   - name: LOIS avaandmed
     url: 'https://lois.ecaa.ee/avaandmed/aa.xml'
     format: XML
-    interactive: 'FALSE'
+    interactive: 'False'
   - name: XML schema
     url: 'http://opendata.mkm.ee/lois/avaandmed.xsd'
     format: XSD
-    interactive: 'FALSE'
+    interactive: 'False'
   - name: LOIS avaandmete kirjeldus
     url: 'http://opendata.mkm.ee/lois/LOIS%20avaandmete%20selgitus.pdf'
     format: PDF
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 31/01/2019
