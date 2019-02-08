@@ -371,49 +371,49 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "Kultuuriministeerium",
         "urls": [
             {
-                "content-type": "application/octet-stream",
+                "content-type": "text/html; charset=ISO-8859-1",
                 "http_status": 200,
                 "source": "eesti-spordiregistri-avaandmed.md",
                 "url": "https://www.spordiregister.ee/opendata/files/treenerid.json"
             },
             {
-                "content-type": "application/octet-stream",
+                "content-type": "text/html; charset=ISO-8859-1",
                 "http_status": 200,
                 "source": "eesti-spordiregistri-avaandmed.md",
                 "url": "https://www.spordiregister.ee/opendata/files/treenerid.xml"
             },
             {
-                "content-type": "application/octet-stream",
+                "content-type": "text/html; charset=ISO-8859-1",
                 "http_status": 200,
                 "source": "eesti-spordiregistri-avaandmed.md",
                 "url": "https://www.spordiregister.ee/opendata/files/spordiehitised.json"
             },
             {
-                "content-type": "application/octet-stream",
+                "content-type": "text/html; charset=ISO-8859-1",
                 "http_status": 200,
                 "source": "eesti-spordiregistri-avaandmed.md",
                 "url": "https://www.spordiregister.ee/opendata/files/spordiehitised.xml"
             },
             {
-                "content-type": "application/octet-stream",
+                "content-type": "text/html; charset=ISO-8859-1",
                 "http_status": 200,
                 "source": "eesti-spordiregistri-avaandmed.md",
                 "url": "https://www.spordiregister.ee/opendata/files/spordikoolid.json"
             },
             {
-                "content-type": "application/octet-stream",
+                "content-type": "text/html; charset=ISO-8859-1",
                 "http_status": 200,
                 "source": "eesti-spordiregistri-avaandmed.md",
                 "url": "https://www.spordiregister.ee/opendata/files/spordikoolid.xml"
             },
             {
-                "content-type": "application/octet-stream",
+                "content-type": "text/html; charset=ISO-8859-1",
                 "http_status": 200,
                 "source": "eesti-spordiregistri-avaandmed.md",
                 "url": "https://www.spordiregister.ee/opendata/files/spordiorganisatsioonid.json"
             },
             {
-                "content-type": "application/octet-stream",
+                "content-type": "text/html; charset=ISO-8859-1",
                 "http_status": 200,
                 "source": "eesti-spordiregistri-avaandmed.md",
                 "url": "https://www.spordiregister.ee/opendata/files/spordiorganisatsioonid.xml"
@@ -1043,6 +1043,29 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "http_status": 200,
                 "source": "laev.md",
                 "url": "http://avaandmed.rik.ee/andmed/LAEV/"
+            }
+        ]
+    },
+    {
+        "organization": "Lennuamet",
+        "urls": [
+            {
+                "content-type": "text/xml",
+                "http_status": 200,
+                "source": "lennuameti-infosysteem.md",
+                "url": "https://lois.ecaa.ee/avaandmed/aa.xml"
+            },
+            {
+                "content-type": "application/xml",
+                "http_status": 200,
+                "source": "lennuameti-infosysteem.md",
+                "url": "http://opendata.mkm.ee/lois/avaandmed.xsd"
+            },
+            {
+                "content-type": "application/pdf",
+                "http_status": 200,
+                "source": "lennuameti-infosysteem.md",
+                "url": "http://opendata.mkm.ee/lois/LOIS%20avaandmete%20selgitus.pdf"
             }
         ]
     },
@@ -1927,6 +1950,17 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "http_status": 200,
                 "source": "riigihangete-register.md",
                 "url": "https://riigihanked.riik.ee/rhr-web/"
+            }
+        ]
+    },
+    {
+        "organization": "Riigikogu Kantselei",
+        "urls": [
+            {
+                "content-type": "text/html",
+                "http_status": 200,
+                "source": "Riigikogu-veebi-avaandmed.md",
+                "url": "https://api.riigikogu.ee/swagger-ui.html"
             }
         ]
     },
