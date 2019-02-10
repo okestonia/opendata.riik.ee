@@ -17,7 +17,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/03/19
-date_modified: 2019/02/09
+date_modified: 2019/02/10
 organization: Terviseamet
 maintainer_name: Maie Otsmann
 maintainer_email: maie.otsmann@terviseamet.ee
