@@ -8,15 +8,15 @@ category:
 resources:
   - name: Paigaldised 
     url: 'https://jvis.tja.ee/modules/paigaldis/avaandmed/?offset=0'
-    format: 
+    format: JSON
     interactive: 'False'
   - name: Juhend (paigaldised)
     url: 'http://opendata.mkm.ee/jvis/avaandmed_2017_paigaldised.pdf'
     format: PDF
-    interactive: 'False'
+    interactive: 'True'
   - name: Load ja tunnistused 
     url: 'https://jvis.tja.ee/modules/load-ja-tunnistused/avaandmed/?offset=0'
-    format: 
+    format: JSON
     interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
