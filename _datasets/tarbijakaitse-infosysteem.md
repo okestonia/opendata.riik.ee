@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Tarbijakaitse teeninduskeskkonna infosüsteem TAKIS
-notes: TAKIS võimaldab sisestada ja menetleda tarbijate pöördumisi: teabenõudeid, selgitustaotlusi, kaebusi, tähelepanujuhtimisi ja väärteoteateid.
+notes: "TAKIS võimaldab sisestada ja menetleda tarbijate pöördumisi: teabenõudeid, selgitustaotlusi, kaebusi, tähelepanujuhtimisi ja väärteoteateid."
 department: ''
 category:
   - Majandus ja rahandus

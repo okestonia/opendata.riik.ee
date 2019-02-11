@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Elektrooniline mereinfosüsteem EMDE 
+title: Elektrooniline mereinfosüsteem EMDE
 notes: EMDE (algselt Eesti MerendusDokumentide Edastus) rakendus on loodud merendusega seotud teadete ja dokumentide koostamise, esitamise ja kontrolli lihtsustamiseks. Dokumente koostavad laevade opereerimisega tegelevad firmad või nende esindajad (agendid, kaptenid), kaupade logistikaga tegelevad firmad (kauba omanikud, ekspediitorid, stividorid), sadama operaatorid ja neid kontrollivad riigiametite esindajad. EMDE on süsteem, millele rahvusvaheliselt viidatakse ka kui "National Maritime Single Window".
 department: ''
 category:
@@ -18,7 +18,7 @@ license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 11/02/2019
 date_modified: 11/02/2019
-organization: Veeteede Amet
+organization: Veeteede Amet (VA)
 maintainer_name: James Herne
 maintainer_email: james.herne@mkm.ee
 maintainer_phone: ''
