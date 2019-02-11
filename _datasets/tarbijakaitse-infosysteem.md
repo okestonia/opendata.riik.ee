@@ -17,7 +17,7 @@ resources:
   - name: Andmete struktuuri kirjeldus
     url: 'http://opendata.mkm.ee/takis/struktuur.pdf'
     format: PDF
-    interactive: 'False'
+    interactive: 'TRUE'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 01/06/2017
