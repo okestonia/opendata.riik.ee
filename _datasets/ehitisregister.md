@@ -15,7 +15,7 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/licenses/by-sa/3.0/'
-update_freq: ''
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2018/05/07
 date_modified: 2018/05/07
 organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
