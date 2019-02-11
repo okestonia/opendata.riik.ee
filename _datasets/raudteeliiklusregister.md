@@ -8,12 +8,12 @@ category:
 resources:
   - name: Raudteeliiklusregistri avaandmed
     url: 'https://jvis.tja.ee/modules/paigaldis/raudtee-avaandmed/'
-    format: 
+    format: JSON
     interactive: 'False'
   - name: Kirjeldus
     url: 'http://opendata.mkm.ee/rrr/avaandmed_2017_raudtee.pdf'
     format: PDF
-    interactive: 'False'
+    interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 11/02/2019
