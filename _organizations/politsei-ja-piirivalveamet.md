@@ -4,4 +4,5 @@ description: 'Politsei- ja Piirivalveamet on Siseministeeriumi valitsemisalas te
 maintainer_name: Priit Kleemann
 maintainer_email: priit.kleemann@politsei.ee
 logo: ppa.PNG
+twitter: ''
 ---

@@ -6,4 +6,5 @@ description: |-
 maintainer_name: Maie Otsmann
 maintainer_email: maie.otsmann@terviseamet.ee
 logo: tervis.PNG
+twitter: ''
 ---

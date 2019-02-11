@@ -4,4 +4,5 @@ description: 'Majandus- ja Kommunikat-siooniministeeriumi eesmärk on riigi maja
 maintainer_name: Kristjan Kaiklem
 maintainer_email: kristjan.kaiklem@mkm.ee
 logo: mkm.PNG
+twitter: ''
 ---

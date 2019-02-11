@@ -10,4 +10,6 @@ description: |-
 maintainer_name: Kaisa Kulasalu
 maintainer_email: kaisakulasalu@folklore.ee
 logo: kirmus.png
+twitter: ''
+
 ---
