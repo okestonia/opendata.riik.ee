@@ -7,7 +7,7 @@ category:
   - Transport
 resources:
   - name: LJVIS avaandmed
-    url: 'http://opendata.mkm.ee/ljvis/'
+    url: 'https://www.liiklusvalve.ee/report/cvs'
     format: XML
     interactive: 'False'
   - name: Liiklusjärelevalve infosüsteemi avaandmete kirjeldus
