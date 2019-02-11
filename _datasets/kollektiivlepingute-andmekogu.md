@@ -55,7 +55,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2015/06/10
-date_modified: 2019/02/10
+date_modified: 2019/02/11
 organization: Sotsiaalministeerium
 maintainer_name: Liina Kaldmäe
 maintainer_email: liina.kaldmae@sm.ee
