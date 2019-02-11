@@ -12,7 +12,7 @@ resources:
     format: XML
     interactive: 'False'
   - name: MTR andmete xml schema
-    url: 'http://opendata.mkm.ee/mtr/avaandmed_schema.xml'
+    url: 'https://mtr.mkm.ee/avaandmed/schema'
     format: XML
     interactive: 'False'
 license: 'http://creativecommons.org/licenses/by/3.0/'
