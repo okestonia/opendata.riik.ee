@@ -655,6 +655,23 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         ]
     },
     {
+        "organization": "Veeteede Amet (VA)",
+        "urls": [
+            {
+                "content-type": "text/html;charset=UTF-8",
+                "http_status": 200,
+                "source": "elektrooniline-mereinfosysteem.md",
+                "url": "http://opendata.mkm.ee/emde/"
+            },
+            {
+                "content-type": "application/xml",
+                "http_status": 200,
+                "source": "elektrooniline-mereinfosysteem.md",
+                "url": "http://opendata.mkm.ee/emde/EPNVesselCall.xsd"
+            }
+        ]
+    },
+    {
         "organization": "Eesti Rahvusraamatukogu",
         "urls": [
             {
@@ -1056,16 +1073,16 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "url": "https://lois.ecaa.ee/avaandmed/aa.xml"
             },
             {
-                "content-type": "application/xml",
+                "content-type": "text/xml",
                 "http_status": 200,
                 "source": "lennuameti-infosysteem.md",
-                "url": "http://opendata.mkm.ee/lois/avaandmed.xsd"
+                "url": "https://lois.ecaa.ee/avaandmed/avaandmed.xsd"
             },
             {
                 "content-type": "application/pdf",
                 "http_status": 200,
                 "source": "lennuameti-infosysteem.md",
-                "url": "http://opendata.mkm.ee/lois/LOIS%20avaandmete%20selgitus.pdf"
+                "url": "https://lois.ecaa.ee/avaandmed/LOIS_avaandmete_selgitus.pdf"
             }
         ]
     },
@@ -1259,10 +1276,10 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "url": "http://opendata.mkm.ee/mtr/"
             },
             {
-                "content-type": "application/xml",
+                "content-type": "application/xml; charset=utf-8",
                 "http_status": 200,
                 "source": "majandustegevuse-register.md",
-                "url": "http://opendata.mkm.ee/mtr/avaandmed_schema.xml"
+                "url": "https://mtr.mkm.ee/avaandmed/schema"
             }
         ]
     },
@@ -1909,6 +1926,23 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         ]
     },
     {
+        "organization": "Tarbijakaitse ja Tehnilise J\u00e4relevalve Amet",
+        "urls": [
+            {
+                "content-type": "text/json; charset=utf-8",
+                "http_status": 200,
+                "source": "raudteeliiklusregister.md",
+                "url": "https://jvis.tja.ee/modules/paigaldis/raudtee-avaandmed/"
+            },
+            {
+                "content-type": "application/pdf",
+                "http_status": 200,
+                "source": "raudteeliiklusregister.md",
+                "url": "http://opendata.mkm.ee/rrr/avaandmed_2017_raudtee.pdf"
+            }
+        ]
+    },
+    {
         "organization": "Riigi Infos\u00fcsteemi Amet",
         "urls": [
             {
@@ -2344,6 +2378,29 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         ]
     },
     {
+        "organization": "Tarbijakaitse ja Tehnilise J\u00e4relevalve Amet",
+        "urls": [
+            {
+                "content-type": "text/html;charset=UTF-8",
+                "http_status": 200,
+                "source": "tarbijakaitse-infosysteem.md",
+                "url": "http://opendata.mkm.ee/takis/"
+            },
+            {
+                "content-type": "application/xml",
+                "http_status": 200,
+                "source": "tarbijakaitse-infosysteem.md",
+                "url": "http://opendata.mkm.ee/takis/opendata_v1.xsd"
+            },
+            {
+                "content-type": "application/pdf",
+                "http_status": 200,
+                "source": "tarbijakaitse-infosysteem.md",
+                "url": "http://opendata.mkm.ee/takis/struktuur.pdf"
+            }
+        ]
+    },
+    {
         "organization": "Tartu Linnavalitsus",
         "urls": [
             {
@@ -2627,6 +2684,29 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "http_status": 200,
                 "source": "tartu-valimisjaoskondade-asukohad-tartu-linnas.md",
                 "url": "https://gis.tartulv.ee/arcgis/services/Proov/Valimisjaoskonnad/MapServer?wsdl"
+            }
+        ]
+    },
+    {
+        "organization": "Tarbijakaitse ja Tehnilise J\u00e4relevalve Amet",
+        "urls": [
+            {
+                "content-type": "text/json; charset=utf-8",
+                "http_status": 200,
+                "source": "tehnilise-jarelevalve-infosysteem.md",
+                "url": "https://jvis.tja.ee/modules/paigaldis/avaandmed/?offset=0"
+            },
+            {
+                "content-type": "application/pdf",
+                "http_status": 200,
+                "source": "tehnilise-jarelevalve-infosysteem.md",
+                "url": "http://opendata.mkm.ee/jvis/avaandmed_2017_paigaldised.pdf"
+            },
+            {
+                "content-type": "text/json; charset=utf-8",
+                "http_status": 200,
+                "source": "tehnilise-jarelevalve-infosysteem.md",
+                "url": "https://jvis.tja.ee/modules/load-ja-tunnistused/avaandmed/?offset=0"
             }
         ]
     },

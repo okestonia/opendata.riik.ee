@@ -17,7 +17,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Q'
 date_issued: 07/05/2018
-date_modified: 11/02/2019
+date_modified: 2019/02/11
 organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Kristjan Kaiklem
 maintainer_email: kristjan.kaiklem@mkm.ee
