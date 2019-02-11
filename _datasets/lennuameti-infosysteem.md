@@ -11,11 +11,11 @@ resources:
     format: XML
     interactive: 'False'
   - name: XML schema
-    url: 'http://opendata.mkm.ee/lois/avaandmed.xsd'
+    url: 'https://lois.ecaa.ee/avaandmed/avaandmed.xsd'
     format: XSD
     interactive: 'False'
   - name: LOIS avaandmete kirjeldus
-    url: 'http://opendata.mkm.ee/lois/LOIS%20avaandmete%20selgitus.pdf'
+    url: 'https://lois.ecaa.ee/avaandmed/LOIS_avaandmete_selgitus.pdf'
     format: PDF
     interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
