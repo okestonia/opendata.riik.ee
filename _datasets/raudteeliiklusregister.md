@@ -11,7 +11,7 @@ resources:
     format: JSON
     interactive: 'False'
   - name: Kirjeldus
-    url: 'http://opendata.mkm.ee/rrr/avaandmed_2017_raudtee.pdf'
+    url: 'https://jvis.tja.ee/avaandmed/avaandmed_2017_raudtee.pdf'
     format: PDF
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
