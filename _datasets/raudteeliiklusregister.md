@@ -14,7 +14,7 @@ resources:
     url: 'http://opendata.mkm.ee/rrr/avaandmed_2017_raudtee.pdf'
     format: PDF
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 11/02/2019
 date_modified: 11/02/2019

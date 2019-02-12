@@ -15,7 +15,7 @@ resources:
     url: https://riigihanked.riik.ee/rhr-web/
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/05/25
 date_modified: 2015/05/25

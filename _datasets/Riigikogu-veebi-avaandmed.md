@@ -10,7 +10,7 @@ resources:
     url: 'https://api.riigikogu.ee/swagger-ui.html'
     format: JSON
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/07
 date_modified: 2019/02/07

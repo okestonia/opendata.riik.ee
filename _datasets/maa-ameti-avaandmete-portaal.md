@@ -10,7 +10,7 @@ resources:
     url: 'http://geoportaal.maaamet.ee/est/Andmete-tellimine/Avaandmed-p487.html'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/26
 date_modified: 2015/02/26

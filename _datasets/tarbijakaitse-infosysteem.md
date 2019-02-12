@@ -18,7 +18,7 @@ resources:
     url: 'https://takis.ttja.ee/opendata/struktuur.pdf'
     format: PDF
     interactive: 'TRUE'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Y'
 date_issued: 01/02/2019
 date_modified: 01/02/2019

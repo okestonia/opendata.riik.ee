@@ -14,7 +14,7 @@ resources:
     url: 'http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Aadressiandmed/Aadressid-ja-posti-sihtnumbrid-e-indeksid-p582.html'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/12/08
 date_modified: 2019/02/06

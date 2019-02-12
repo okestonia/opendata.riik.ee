@@ -14,7 +14,7 @@ resources:
     url: 'http://opendata.mkm.ee/nmrr/ettevotted_schema.xml'
     format: XML
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2018/05/28
 date_modified: 2019/02/01

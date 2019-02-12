@@ -14,7 +14,7 @@ resources:
     url: 'https://github.com/e-gov/RIHA-API/blob/master/RIHA-API.yaml'
     format: yaml
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2016/11/28
 date_modified: 2019/02/12

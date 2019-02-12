@@ -10,7 +10,7 @@ resources:
     format: HTML
     name: Tallinna geoportaal
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 01.04.2018
 date_modified: ''

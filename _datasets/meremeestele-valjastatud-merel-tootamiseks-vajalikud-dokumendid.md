@@ -10,7 +10,7 @@ resources:
     url: 'https://opendata.riik.ee/downloads/meremehed.xml'
     format: XML
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/09/27
 date_modified: 2017/09/27

@@ -12,7 +12,7 @@ resources:
     url: 'http://www.struktuurifondid.ee/et/toetatud-projektid/toetatud-projektid'
     format: CSV
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/05/06
 date_modified: 2019/02/12

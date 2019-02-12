@@ -22,7 +22,7 @@ resources:
     url: 'http://kls.pria.ee/geoserver/pria_avalik/ows'
     format: WFS
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/05/13
 date_modified: 2015/05/13

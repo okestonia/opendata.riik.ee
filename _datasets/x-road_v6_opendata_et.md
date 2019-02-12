@@ -18,7 +18,7 @@ resources:
     url: 'https://logs.x-tee.ee/ee-dev/gui/'
     format: json, gzip
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/12/01
 date_modified: 2019/02/11

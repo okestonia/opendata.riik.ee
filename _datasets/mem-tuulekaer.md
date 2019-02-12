@@ -18,7 +18,7 @@ resources:
     url: 'http://www.pma.agri.ee/index.php?id=104&sub=331&sub2=479'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/07/12
 date_modified: 2018/11/23

@@ -16,7 +16,7 @@ resources:
     url: 'https://opendata.riik.ee/downloads/puhasfidek2015utf8.txt'
     format: TXT
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/03/18
 date_modified: 2017/03/18

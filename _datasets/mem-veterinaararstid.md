@@ -14,7 +14,7 @@ resources:
     url: 'https://www.agri.ee/et/avaandmed'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/07/17
 date_modified: 2018/11/23
