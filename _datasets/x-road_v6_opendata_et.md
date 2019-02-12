@@ -1,10 +1,7 @@
 ---
 schema: default
 title: X-tee v6 teenuste monitooringu avaandmed
-notes: X-tee teenuste monitooringu andmed kogutakse X-tee keskuse (Riigi Infosüsteemi Amet, RIA) poolt kättesaadavatest Eesti X-tee liikmete turvaserveritest ja avaldatakse avaandmetena 10-päevase viitega päringu toimumise tegelikust ajast. Päringute toimumise kellaajad (requestInTs) on ümardatud tunni täpsusega, esitatud Unix-ajana (epoch-aeg). Andmetest on eemaldatud vaid asutusesiseseks kasutamiseks mõeldud ning Julgeolekuasutuste seaduses (JAS) nimetatud asutuste andmed.
-Kasutusjuhend https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/ug_opendata_interface.md
-API juhend https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/ug_opendata_api.md
-Andmeväljad https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/cfg_lists/field_data.yaml
+notes: X-tee teenuste monitooringu andmed kogutakse X-tee keskuse (Riigi Infosüsteemi Amet, RIA) poolt kättesaadavatest Eesti X-tee liikmete turvaserveritest ja avaldatakse avaandmetena 10-päevase viitega päringu toimumise tegelikust ajast. Päringute toimumise kellaajad (requestInTs) on ümardatud tunni täpsusega, esitatud Unix-ajana (epoch-aeg). Andmetest on eemaldatud vaid asutusesiseseks kasutamiseks mõeldud ning Julgeolekuasutuste seaduses (JAS) nimetatud asutuste andmed.<p><a href="https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/ug_opendata_interface.md" target="_blank"  rel="noopener"> Kasutusjuhend</a></p><p><a href="https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/ug_opendata_api.md" target="_blank"  rel="noopener"> API juhend </a></p><p><a href= "https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/cfg_lists/field_data.yaml" target="_blank" rel="noopener">Andmeväljad</a></p>
 department: ''
 category:
   - Valitsus ja avalik sektor
