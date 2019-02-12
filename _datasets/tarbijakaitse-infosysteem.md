@@ -19,7 +19,7 @@ resources:
     format: PDF
     interactive: 'TRUE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Y'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 01/02/2019
 date_modified: 01/02/2019
 organization: Tarbijakaitse ja Tehnilise Järelevalve Amet
