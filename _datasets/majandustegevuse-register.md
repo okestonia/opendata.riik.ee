@@ -18,7 +18,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2018/05/07
-date_modified: 2019/02/11
+date_modified: 2019/02/12
 organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Majandustegevuse register
 maintainer_email: mtr@mkm.ee
