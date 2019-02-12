@@ -1040,13 +1040,13 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "urls": [
             {
                 "content-type": "text/html; charset=UTF-8",
-                "http_status": 200,
+                "http_status": 404,
                 "source": "kutseregister.md",
                 "url": "https://www.kutsekoda.ee/et/kutseregister/statistika"
             },
             {
                 "content-type": "text/html; charset=UTF-8",
-                "http_status": 200,
+                "http_status": 404,
                 "source": "kutseregister.md",
                 "url": "https://www.kutsekoda.ee/et/kutseregister/tutvustus"
             }
@@ -1131,10 +1131,10 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "organization": "Majandus -ja Kommunikatsiooniministeerium (MKM)",
         "urls": [
             {
-                "content-type": "text/html;charset=UTF-8",
+                "content-type": "text/html; charset=utf-8",
                 "http_status": 200,
                 "source": "liiklusj-relevalve-infos-steem.md",
-                "url": "http://opendata.mkm.ee/ljvis/"
+                "url": "https://www.liiklusvalve.ee/report/cvs"
             },
             {
                 "content-type": "application/pdf",
@@ -2384,19 +2384,19 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "content-type": "text/html;charset=UTF-8",
                 "http_status": 200,
                 "source": "tarbijakaitse-infosysteem.md",
-                "url": "http://opendata.mkm.ee/takis/"
+                "url": "https://takis.ttja.ee/opendata/"
             },
             {
                 "content-type": "application/xml",
                 "http_status": 200,
                 "source": "tarbijakaitse-infosysteem.md",
-                "url": "http://opendata.mkm.ee/takis/opendata_v1.xsd"
+                "url": "https://takis.ttja.ee/opendata/opendata_v1.xsd"
             },
             {
                 "content-type": "application/pdf",
                 "http_status": 200,
                 "source": "tarbijakaitse-infosysteem.md",
-                "url": "http://opendata.mkm.ee/takis/struktuur.pdf"
+                "url": "https://takis.ttja.ee/opendata/struktuur.pdf"
             }
         ]
     },

@@ -21,7 +21,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 11/02/2019
-date_modified: 11/02/2019
+date_modified: 2019/02/12
 organization: Tarbijakaitse ja Tehnilise Järelevalve Amet
 maintainer_name: James Herne
 maintainer_email: james.herne@mkm.ee
