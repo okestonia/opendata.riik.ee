@@ -34,7 +34,7 @@ resources:
     url: 'https://www.politsei.ee/et/avaandmed'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by-sa/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/11/15
 date_modified: 2019/02/08

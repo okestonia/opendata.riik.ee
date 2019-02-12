@@ -65,7 +65,7 @@ resources:
     url: 'https://www.etis.ee/Portal/Classifiers/Index'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by-sa/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/04/16
 date_modified: 2019/01/22

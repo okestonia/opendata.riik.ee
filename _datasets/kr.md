@@ -10,7 +10,7 @@ resources:
     url: 'http://avaandmed.rik.ee/andmed/KR/'
     format: XML
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by-sa/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/07/06
 date_modified: 2019/02/10
