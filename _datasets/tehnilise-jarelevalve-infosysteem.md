@@ -11,7 +11,7 @@ resources:
     format: JSON
     interactive: 'False'
   - name: Juhend (paigaldised)
-    url: 'http://opendata.mkm.ee/jvis/avaandmed_2017_paigaldised.pdf'
+    url: 'https://jvis.tja.ee/avaandmed/avaandmed_2017_paigaldised.pdf'
     format: PDF
     interactive: 'True'
   - name: Load ja tunnistused 
