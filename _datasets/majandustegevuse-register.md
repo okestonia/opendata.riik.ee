@@ -7,18 +7,18 @@ department: ''
 category:
   - Majandus ja rahandus
 resources:
-  - name: Majandustegevuse register
-    url: 'http://opendata.mkm.ee/mtr/'
+  - name: Avaandmed ettevõtjad
+    url: 'https://mtr.mkm.ee/opendata/avaandmed_ettevotjad.xml'
     format: XML
     interactive: 'False'
-  - name: MTR andmete xml schema
+  - name: Schema
     url: 'https://mtr.mkm.ee/avaandmed/schema'
     format: XML
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2018/05/07
-date_modified: 2019/02/12
+date_modified: 2019/02/13
 organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Majandustegevuse register
 maintainer_email: mtr@mkm.ee
