@@ -1040,13 +1040,13 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
         "urls": [
             {
                 "content-type": "text/html; charset=UTF-8",
-                "http_status": 404,
+                "http_status": 200,
                 "source": "kutseregister.md",
                 "url": "https://www.kutsekoda.ee/et/kutseregister/statistika"
             },
             {
                 "content-type": "text/html; charset=UTF-8",
-                "http_status": 404,
+                "http_status": 200,
                 "source": "kutseregister.md",
                 "url": "https://www.kutsekoda.ee/et/kutseregister/tutvustus"
             }
@@ -1938,7 +1938,7 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "content-type": "application/pdf",
                 "http_status": 200,
                 "source": "raudteeliiklusregister.md",
-                "url": "http://opendata.mkm.ee/rrr/avaandmed_2017_raudtee.pdf"
+                "url": "https://jvis.tja.ee/avaandmed/avaandmed_2017_raudtee.pdf"
             }
         ]
     },
@@ -2700,7 +2700,7 @@ http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1 tim
                 "content-type": "application/pdf",
                 "http_status": 200,
                 "source": "tehnilise-jarelevalve-infosysteem.md",
-                "url": "http://opendata.mkm.ee/jvis/avaandmed_2017_paigaldised.pdf"
+                "url": "https://jvis.tja.ee/avaandmed/avaandmed_2017_paigaldised.pdf"
             },
             {
                 "content-type": "text/json; charset=utf-8",
