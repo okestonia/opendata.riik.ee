@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Veterinaararstid
-notes: Riiklik veterinaararstide register. Tegu on registri avaandmetega.
+notes: Riikliku veterinaararstide registri eesmärk on tagada tarbijale veterinaarpraksise raames veterinaarteenuse osutamine nõutud kvalifikatsiooniga isiku poolt, veterinaarpraksise veterinaarjärelevalve ja veterinaarkontroll ning vajalikud andmed veterinaaria valdkonna korraldamist võimaldava statistika tegemiseks.
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
