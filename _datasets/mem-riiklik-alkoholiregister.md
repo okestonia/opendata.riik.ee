@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Riilklik alkoholiregister
+title: Riiklik alkoholiregister
 notes: Riikliku alkoholiregistri eesmärgiks on tagada käideldava alkoholi üle arvestuse pidamine vastavalt alkoholiseadusele. Alkoholiregistri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Veterinaar-ja Toiduamet (VTA). Täpsemat teavet alkoholiregistri kohta saab VTA kodulehelt.
 department: ''
 category:
