@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Veterinaararstid
-notes: Riiklik veterinaararstide register. Tegu on registri avaandmetega. Andmed saab alla laadida CSV-formaadis pärast soovitud parameetritega otsingu teostamist. Allalaaditavates failides sisalduvad avalikus päringus valitud andmed.
+notes: Riiklik veterinaararstide register. Tegu on registri avaandmetega.
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
@@ -17,7 +17,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2017/07/17
-date_modified: 2018/11/23
+date_modified: 2019/02/13
 organization: Maaeluministeerium
 maintainer_name: 'Jüri Tali'
 maintainer_email: jyri.tali@agri.ee
