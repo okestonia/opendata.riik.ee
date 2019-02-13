@@ -30,6 +30,14 @@ resources:
     url: 'https://ariel.pria.ee/lr-avalik/LoomaAndmedXml'
     format: XML
     interactive: 'False'
+  - name: Põllumajandus- ja vesiviljelusettevõtted (vaatamisteenus) WMS
+    url: 'https://inspire.pria.ee/services/services/wms?version=1.1.1'
+    format: WMS
+    interactive: 'True'
+  - name: Põllumajandus- ja vesiviljelusettevõtted (allalaadimisteenus) WFS
+    url: 'https://inspire.pria.ee/services/services/wfs'
+    format: WFS
+    interactive: 'True'
   - name: Täiendav info PRIA kodulehel
     url: 'http://www.pria.ee/et/Registrid/Loomade_register'
     format: HTML
