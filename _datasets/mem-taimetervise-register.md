@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Taimetervise register
-notes: 'Taimetervise registri pidamise eesmärk on järgmiste isikute ja nende tegevuse kohta andmete kogumine ja süstematiseerimine, et võimaldada isikute ja nende tegevuse üle arvestuse pidamist ning järelevalve teostamist.Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet taimetervise registri kohta saab PMA kodulehelt.'
+notes: 'Taimetervise registri pidamise eesmärk on järgmiste isikute ja nende tegevuse kohta andmete kogumine ja süstematiseerimine, et võimaldada isikute ja nende tegevuse üle arvestuse pidamist ning järelevalve teostamist. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet taimetervise registri kohta saab PMA kodulehelt.'
 department: ''
 category:
   - Põllumajandus
