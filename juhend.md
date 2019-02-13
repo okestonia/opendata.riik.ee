@@ -16,8 +16,10 @@ Enne kui hakkad lisama infot oma organisatsiooni avaandmete kohta, veendu, et or
 
 Kui Sinu organisatsiooni ei ole avaandmete portaali teabevaldajate nimekirjas, pead selle lisama enne kui hakkad avaandmeid lisama. Selleks mine <https://github.com/okestonia/jkan/tree/master/_organizations>
 
-Nagu näed, on organisatsioonid siin .md failidena kirjas. Pead tekitama samasuguse faili vajutades „Create new file".\
-„Name your file" asemele kirjuta **organisatsiooninimi.md** (näiteks veeteedeamet.md)\
+Nagu näed, on organisatsioonid siin .md failidena kirjas. Pead tekitama samasuguse faili vajutades „Create new file".
+
+„Name your file" asemele kirjuta **organisatsiooninimi.md** (näiteks veeteedeamet.md)
+
 Seejärel kopeeri „Edit new file" kasti järgnev tekst (koos kolme kriipsuga alguses ja lõpus)
 
 ---
@@ -46,7 +48,8 @@ Nüüd läheb organisatsiooni lisamine ülevaatamiseks portaali administraatoril
 
 **Avaandmete lisamise juhend**
 
-Enne kui hakkad avaandmeid lisama, veendu, et vastavat andmekogu pole juba lisatud (näiteks mõne Su kolleegi poolt): <https://opendata.riik.ee/andmehulgad/>\
+Enne kui hakkad avaandmeid lisama, veendu, et vastavat andmekogu pole juba lisatud (näiteks mõne Su kolleegi poolt): <https://opendata.riik.ee/andmehulgad/>
+
 Uue andmekogu lisamiseks ole kõigepealt <https://github.com> sisselogitud ning siis mine <https://github.com/okestonia/jkan/tree/master/_datasets>
 
 Nagu näed, on andmekogud siin .md failidena kirjas. Pead tekitama samasuguse faili vajutades „Create new file".
@@ -61,7 +64,8 @@ schema: default
 
 title: infosüsteemi nimi (näiteks Lennuohutuse järelevalve infosüsteem LOIS)
 
-notes: infosüsteemi kirjeldus (kirjuta paari lausega, mida see infosüsteem teeb, mis infot on avaandmete näol oodata)\
+notes: infosüsteemi kirjeldus (kirjuta paari lausega, mida see infosüsteem teeb, mis infot on avaandmete näol oodata)
+
 department: ''
 
 category:
