@@ -1,6 +1,6 @@
 ---
 title: Statistikaamet
-title_en:
+title_en: Statistics Estonia
 maintainer_name: Alan Vask
 maintainer_email: alan.vask@stat.ee
 description: ''

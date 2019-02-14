@@ -1,6 +1,6 @@
 ---
 title: Eesti Kirjandusmuuseum
-title_en:
+title_en: Estonian Literary Museum
 description: |-
   Eesti Kirjandusmuuseum on Haridus- ja Teadusministeeriumi hallatav riigi
      teadus- ja arendusasutus, mis täidab ühtlasi rahvusteaduste keskarhiivi

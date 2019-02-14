@@ -1,6 +1,6 @@
 ---
 title: Tallinna Linnavalitsus
-title_en:
+title_en: Tallinn City Government
 maintainer_name: Liina Karjane
 maintainer_email: liina.karjane@tallinnlv.ee
 description: ''

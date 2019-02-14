@@ -1,6 +1,6 @@
 ---
 title: Eesti Rahvusraamatukogu
-title_en:
+title_en: Estonian National Library
 description: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
