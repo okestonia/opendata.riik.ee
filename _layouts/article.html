@@ -7,7 +7,11 @@ layout: default
   <p class="text-muted">Lisanud {{ page.author }} {{ page.submitted }}</p>
   <div class="text_control">{{ page.text }}</div>
   <div>
+    {% if page.lang == "en" %}
+    <button type="button" class="btn btn-primary" onclick="goBack()">Back</button>
+    {% else %}
     <button type="button" class="btn btn-primary" onclick="goBack()">Tagasi</button>
+    {% endif %}
   </div>
 </div>
 <script>
