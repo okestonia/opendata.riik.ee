@@ -1,8 +1,9 @@
 ---
 title: Kultuuriministeerium
+title_en:
 maintainer_name: Indrek Reimand
 maintainer_email: indrek.reimand@kul.ee
-description: '' 
+description: ''
 twitter: ''
 logo: kultuur.PNG
 ---

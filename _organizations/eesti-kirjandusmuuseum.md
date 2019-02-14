@@ -1,5 +1,6 @@
 ---
 title: Eesti Kirjandusmuuseum
+title_en:
 description: |-
   Eesti Kirjandusmuuseum on Haridus- ja Teadusministeeriumi hallatav riigi
      teadus- ja arendusasutus, mis täidab ühtlasi rahvusteaduste keskarhiivi
@@ -11,5 +12,4 @@ maintainer_name: Kaisa Kulasalu
 maintainer_email: kaisakulasalu@folklore.ee
 logo: kirmus.png
 twitter: ''
-
 ---

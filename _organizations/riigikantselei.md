@@ -1,7 +1,8 @@
 ---
 title: Riigikantselei
+title_en:
 maintainer_name: Urmas Aavasalu
 maintainer_email: urmas.aavasalu@riigikantselei.ee
-description: '' 
+description: ''
 twitter: ''
 ---
