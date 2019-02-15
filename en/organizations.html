@@ -23,10 +23,9 @@ lang: en
       {% endif %}
     </div>
     <div class="media-body">
-      <h3 class="media-heading"><a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title }}</a></h3>
-
-      <p style="text-align: justify;">{{ organization.description }}</p>
-      <p><a href="{{ site.baseurl }}/en/datasets/?organization={{ organization.title | slugify }}"><span class="badge badge-primary badge-pill">{{ dataset_count }}</span> Datasets</a></p>
+      <h3 class="media-heading"><a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title_en }}</a></h3>
+      <p style="text-align: justify;">{{ organization.description_en }}</p>
+      <p><a href="{{ site.baseurl }}/en/datasets/?organization={{ organization.title | slugify }}"><span class="badge badge-primary badge-pill">{{ dataset_count }}</span> datasets</a></p>
       {% endif %}
     </div>
   </div>

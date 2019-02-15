@@ -4,10 +4,19 @@ layout: default
 {% include breadcrumbs.html parent="Blogi" %}
 <h2>{{ page.news_title }}</h2>
 <div>
-  <p class="text-muted">Lisanud {{ page.author }} {{ page.submitted }}</p>
+  {% if page.lang == "en" %}
+  <p class="text-muted">Added by {{ page.author }} {{ page.submitted }}</p>
+    {% else %}
+    <p class="text-muted">Lisanud {{ page.author }} {{ page.submitted }}</p>
+    {% endif %}
+
   <div class="text_control">{{ page.text }}</div>
   <div>
+    {% if page.lang == "en" %}
+    <button type="button" class="btn btn-primary" onclick="goBack()">Back</button>
+    {% else %}
     <button type="button" class="btn btn-primary" onclick="goBack()">Tagasi</button>
+    {% endif %}
   </div>
 </div>
 <script>
