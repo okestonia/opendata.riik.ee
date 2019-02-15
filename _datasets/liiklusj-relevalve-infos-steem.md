@@ -11,13 +11,13 @@ resources:
     format: XML
     interactive: 'False'
   - name: Liiklusjärelevalve infosüsteemi avaandmete kirjeldus
-    url: 'http://opendata.mkm.ee/ljvis/struktuur.pdf'
+    url: 'https://www.liiklusvalve.ee/avaandmed/struktuur.pdf'
     format: PDF
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Q'
 date_issued: 07/05/2018
-date_modified: 2019/02/11
+date_modified: 2019/02/15
 organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Kristjan Kaiklem
 maintainer_email: kristjan.kaiklem@mkm.ee
