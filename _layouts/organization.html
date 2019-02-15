@@ -13,18 +13,34 @@ layout: default
     {% else %}
     <div class="col-sm-12">
     {% endif %}
+    {% if page.url contains "/et/" %}
       <h1>
         {{ page.title }}
       </h1>
       <p>{{ page.description }}</p>
       <p>kontakt nimi (name): {{ page.maintainer_name }}</p>
       <p>kontakt email (email): {{ page.maintainer_email }}</p>
-
       <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
         <h3 class="datasets-count" data-hook="datasets-count"></h3>
         <input type="text" data-hook="search-query" placeholder="Otsi..." class="form-control">
         <div data-hook="datasets-items"></div>
       </div>
+    {% else %}
+    <h1>
+      {{ page.title }}
+    </h1>
+    <p>{{ page.description }}</p>
+    <p>Contact Name: {{ page.maintainer_name }}</p>
+    <p>Contact Email: {{ page.maintainer_email }}</p>
+    <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
+      <h3 class="datasets-count" data-hook="datasets-english-count"></h3>
+      <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
+      <div data-hook="datasets-items"></div>
+    </div>
+
+    {% endif %}
+
+
     </div>
   </div>
 </div>

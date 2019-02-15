@@ -1,7 +1,7 @@
 ---
 title: Teabevaldajad
 layout: default
-permalink: /teabevaldajad/
+permalink: /orgs/
 ref: publishers
 lang: et
 ---
@@ -10,15 +10,15 @@ lang: et
 <h1>Teabevaldajad</h1>
 <br>
 
-
-{% for organization in site.organizations %}
+{% assign organizationsort = site.organizations | where: "lang", page.lang %}
+{% for organization in organizationsort %}
   {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
       {% if dataset_count > 0 %}
   <div class="media">
     <div class="mr-3">
       {% if organization.logo and organization.logo != empty %}
         <a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-          <img class="media-object" src="/img/organizations/{{organization.logo}}" alt="{{ organization.title }}">
+          <img class="media-object" src="/img/organizations/{{ organization.logo }}" alt="{{ organization.title }}">
         </a>
       {% endif %}
     </div>
