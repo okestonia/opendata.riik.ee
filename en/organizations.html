@@ -1,7 +1,7 @@
 ---
 title: Publishers
 layout: default
-permalink: /en/publishers/
+permalink: /en/orgs/
 ref: publishers
 lang: en
 ---
@@ -9,22 +9,21 @@ lang: en
 
 <h1>Organizations</h1>
 <br>
-
-
-{% for organization in site.organizations %}
+{% assign organizationsort = site.organizations | where: "lang", page.lang %}
+{% for organization in organizationsort %}
   {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
       {% if dataset_count > 0 %}
   <div class="media">
     <div class="mr-3">
       {% if organization.logo and organization.logo != empty %}
         <a href="{{ site.baseurl }}{{ organization.url }}" class="organization-thumbnail">
-          <img class="media-object" src="/img/organizations/{{organization.logo}}" alt="{{ organization.title }}">
+          <img class="media-object" src="/img/organizations/{{ organization.logo }}" alt="{{ organization.title }}">
         </a>
       {% endif %}
     </div>
     <div class="media-body">
       <h3 class="media-heading"><a href="{{ site.baseurl }}{{ organization.url }}">{{ organization.title_en }}</a></h3>
-      <p style="text-align: justify;">{{ organization.description_en }}</p>
+      <p style="text-align: justify;">{{ organization.description }}</p>
       <p><a href="{{ site.baseurl }}/en/datasets/?organization={{ organization.title | slugify }}"><span class="badge badge-primary badge-pill">{{ dataset_count }}</span> datasets</a></p>
       {% endif %}
     </div>
