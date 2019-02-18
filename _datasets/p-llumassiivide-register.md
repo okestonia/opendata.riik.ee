@@ -6,7 +6,7 @@ department: Põllumajanduse Registrite ja Informatsiooni Amet'
 category:
   - Põllumajandus, kalandus, metsandus
 resources:
-  - name: 13.05.2015 Põllumassiivid
+  - name: PRIA avaandmed
     url: 'http://www.pria.ee/avaandmed/'
     format: HTML
     interactive: 'True'
@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/05/13
-date_modified: 2015/05/13
+date_modified: 2019/02/18
 organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: Kadri Pärnpuu
 maintainer_email: Kadri.Parnpuu@pria.ee
