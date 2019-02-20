@@ -9,7 +9,7 @@ resources:
   - name: Eesti usaldusnimekiri (XML)
     url: 'http://sr.riik.ee/tsl/estonian-tsl.xml'
     format: XML
-    interactive: 'True'
+    interactive: 'False'
   - name: Eesti usaldusnimekiri (PDF)
     url: 'http://sr.riik.ee/tsl/estonian-tsl.pdf'
     format: PDF
@@ -17,9 +17,9 @@ resources:
   - name: Usaldusnimekirja räsi
     url: 'http://sr.riik.ee/tsl/estonian-tsl.sha2'
     format: sha2
-    interactive: 'True'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: '<= 6 kuud'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-S'
 date_issued: 2015/02/02
 date_modified: 2015/02/02
 organization: Riigi Infosüsteemi Amet
