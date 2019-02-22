@@ -9,10 +9,14 @@ resources:
     url: 'http://ravimiregister.ravimiamet.ee/?pv=HumRavimid.Otsing'
     format: CSV
     interactive: 'True'
+  - name: Ravimiregistri andmed failidena
+    url: 'http://ravimiregister.ravimiamet.ee/default.aspx?pv=Andmed.Ravimid'
+    format: CSV
+    interactive: 'FALSE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/15
-date_modified: 2019/02/15
+date_modified: 2019/02/22
 organization: Ravimiamet
 maintainer_name: Ravimiamet
 maintainer_email: info@ravimiamet.ee
