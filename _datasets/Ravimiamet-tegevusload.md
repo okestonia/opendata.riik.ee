@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Ravimite käitlemise ja vahendamise tegevuslubade register
-notes: 'Ravimiamet väljastab tegevuslubasid ravimite käitlemiseks ja vahendamiseks. Nende lubade alusel saab teha järgmisi tegevusi: toota ravimeid, teha ravimite hulgimüüki, osutada apteegiteenust ja vahendada ravimeid. Need load on koondatud ravimite käitlemise ja vahendamise tegevuslubade registrisse. Samasse registrisse kantakse nii humaan- kui veterinaarravimid. Käesolev link viitab ravimite käitlemise ja vahendamise tegevuslubade registri päringu leheküljele.'
+title: Ravimiameti tegevuslubade register
+notes: 'Ravimiamet väljastab tegevuslubasid ravimite käitlemiseks ja vahendamiseks ning  rakkude, kudede ja elundite hankimiseks ja käitlemiseks. Nende lubade alusel saab teha järgmisi tegevusi: toota ravimeid, teha ravimite hulgimüüki, osutada apteegiteenust, vahendada ravimeid ja hankida ning  käidelda rakke, kudesid ja elundeid. Need load on koondatud Ravimiameti tegevuslubade registrisse. Käesolev link viitab ravimiameti tegevuslubade registri päringu leheküljele.'
 department: ''
 category:
   - Tervis
