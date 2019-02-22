@@ -7,11 +7,11 @@ category:
   - Transport
 resources:
   - name: EMDE avaandmed
-    url: 'http://opendata.mkm.ee/emde/'
+    url: 'https://www.emde.ee/avaandmed/'
     format: XML
     interactive: 'False'
   - name: Schema
-    url: 'http://opendata.mkm.ee/emde/EPNVesselCall.xsd'
+    url: 'https://www.emde.ee/avaandmed/EPNVesselCall.xsd'
     format: XSD
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
