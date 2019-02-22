@@ -1,6 +1,6 @@
 ---
 schema: default
-TItle: Sotsiaalkindlustusameti statistika ja aruandlus
+Title: Sotsiaalkindlustusameti statistika ja aruandlus
 notes: 'Sotsiaalkindlustusameti poolt avaldatud statistilised andmekogumid ja aruanded, mis hõlmavad järgmisi teemasid:
 - riikliku sotsiaalkindlustuse statistika ja aruanded,
 - tõendi A1 väljastamise statistika,
