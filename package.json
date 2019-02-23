@@ -20,18 +20,18 @@
   },
   "homepage": "https://github.com/timwis/es6-boilerplate#readme",
   "devDependencies": {
-    "@babel/core": "^7.1.7",
-    "@babel/preset-env": "^7.2.3",
+    "@babel/core": "^7.3.3",
+    "@babel/preset-env": "^7.3.1",
     "@babel/preset-react": "^7.0.0",
     "babel-loader": "^8.0.5",
     "babel-polyfill": "^6.7.4",
-    "webpack": "^4.29.0",
-    "webpack-cli": "^3.2.1",
-    "webpack-dev-server": "^3.1.14"
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3",
+    "webpack-dev-server": "^3.2.0"
   },
   "dependencies": {
     "ampersand-state": "^5.0.0",
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^4.3.1",
     "github-api": "^3.0.0",
     "jquery": "^3.3.1",
     "jquery-deparam": "^0.5.2",
@@ -41,7 +41,7 @@
     "lodash": "^4.17.11",
     "notie": "github:timwis/notie#string-types",
     "parcel-bundler": "^1.11.0",
-    "select2": "^4.0.6-rc.1",
-    "popper.js": "^1.14.6"
+    "popper.js": "^1.14.7",
+    "select2": "^4.0.6-rc.1"
   }
 }
