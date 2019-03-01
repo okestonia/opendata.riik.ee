@@ -6,15 +6,15 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 resources:
-  - name: 09.10.2014 Usaldusnimekirja räsi
+  - name: Usaldusnimekirja räsi
     url: 'http://sr.riik.ee/tsl/estonian-tsl.sha2'
     format: sha2
     interactive: 'True'
-  - name: 09.10.2014 Eesti usaldusnimekiri (PDF)
+  - name: Eesti usaldusnimekiri (PDF)
     url: 'http://sr.riik.ee/tsl/estonian-tsl.pdf'
     format: PDF
     interactive: 'True'
-  - name: 09.10.2014 Eesti usaldusnimekiri (XML)
+  - name: Eesti usaldusnimekiri (XML)
     url: 'http://sr.riik.ee/tsl/estonian-tsl.xml'
     format: XML
     interactive: 'False'
