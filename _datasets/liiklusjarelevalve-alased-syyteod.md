@@ -30,10 +30,10 @@ resources:
     url: 'https://opendata.smit.ee/ppa/csv/liiklusjarelevalve_1.csv'
     format: CSV
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by-sa/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/11/09
-date_modified: 2019/01/26
+date_modified: 2019/03/01
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: Maarja Vesi
 maintainer_email: maarja.vesi@politsei.ee

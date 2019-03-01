@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Haridus-ja Teadusministeeriumi avalik dokumendiregister
-notes: Haridus- ja Teadusministeeriumi dokumendiregistri avalikus vaates on võimalik tutvuda ministeeriumi tegevuse käigus loodud või saadud dokumentidega.
+notes: Haridus- ja Teadusministeeriumi dokumendiregistri avalikus vaates on võimalik tutvuda ministeeriumi tegevuse käigus loodud või saadud dokumentidega. Lisaks saab tutvuda Eesti Noorsootöö Keskuse, Eesti Teadusagentuuri, Keeleinspektsiooni ning Rahvusarhiivi dokumentidega.
 department: ''
 category:
   - Haridus, kultuur ja sport
@@ -10,7 +10,7 @@ resources:
     url: 'https://www.hm.ee/et/ministeerium/dokumendiregister'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/05/09
 date_modified: 2018/05/09

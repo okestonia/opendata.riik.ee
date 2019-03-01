@@ -50,10 +50,10 @@ resources:
     url: 'http://data.digar.ee'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/03/13
-date_modified: 2019/01/29
+date_modified: 2019/03/01
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee

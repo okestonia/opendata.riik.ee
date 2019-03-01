@@ -10,7 +10,7 @@ resources:
     url: 'http://avalik.amphora.ee/aegviiduvv/index.aspx?org=363&unit=-1'
     format: html
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 date_issued: 2015/03/26
 date_modified: 2015/03/26

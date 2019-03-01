@@ -6,7 +6,7 @@ department: Põllumajanduse Registrite ja Informatsiooni Amet'
 category:
   - Põllumajandus, kalandus, metsandus
 resources:
-  - name: 13.05.2015 Põllumassiivid
+  - name: PRIA avaandmed
     url: 'http://www.pria.ee/avaandmed/'
     format: HTML
     interactive: 'True'
@@ -15,17 +15,17 @@ resources:
     format: HTML
     interactive: 'True'
   - name: Põllumassiivid, loomakasvatushooned ja maastikuelemendid (vaatamisteenus) WMS
-    url: 'http://kls.pria.ee/geoserver/pria_avalik/wms?version=1.1.1'
+    url: 'https://kls.pria.ee/geoserver/pria_avalik/wms?version=1.1.1'
     format: WMS
     interactive: 'True'
   - name: Põllumassiivid, loomakasvatushooned ja maastikuelemendid (allalaadimisteenus) WFS
-    url: 'http://kls.pria.ee/geoserver/pria_avalik/ows'
+    url: 'https://kls.pria.ee/geoserver/pria_avalik/ows'
     format: WFS
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/05/13
-date_modified: 2015/05/13
+date_modified: 2019/02/18
 organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: Kadri Pärnpuu
 maintainer_email: Kadri.Parnpuu@pria.ee

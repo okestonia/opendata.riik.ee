@@ -14,10 +14,10 @@ resources:
     url: 'http://opendata.vm.ee/est_aukonsulid_schema.xml'
     format: XML
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/03/26
-date_modified: 2019/01/28
+date_modified: 2019/03/01
 organization: Välisministeerium
 maintainer_name: Riina Talts
 maintainer_email: Riina.Talts@mfa.ee

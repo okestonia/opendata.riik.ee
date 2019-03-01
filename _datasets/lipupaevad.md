@@ -10,7 +10,7 @@ resources:
     url: '/downloads/lipupaevad.ics'
     format: ICS
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/12/11
 date_modified: 2018/12/11

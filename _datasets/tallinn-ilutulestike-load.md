@@ -10,10 +10,10 @@ resources:
     format: KML
     name: Ilutulestike load
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''
-date_modified: ''
+date_modified: 2019/02/25
 organization: Tallinna Linnavalitsus
 maintainer_name: Liina Karjane
 maintainer_email: liina.karjane@tallinnlv.ee

@@ -52,10 +52,10 @@ resources:
     url: 'http://klak.sm.ee/'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/06/10
-date_modified: 2019/01/29
+date_modified: 2019/03/01
 organization: Sotsiaalministeerium
 maintainer_name: Liina Kaldmäe
 maintainer_email: liina.kaldmae@sm.ee

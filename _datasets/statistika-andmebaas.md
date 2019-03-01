@@ -10,7 +10,7 @@ resources:
     url: 'http://www.stat.ee/andmebaas'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/04/11
 date_modified: 2017/04/11

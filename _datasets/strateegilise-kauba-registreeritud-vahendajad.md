@@ -14,10 +14,10 @@ resources:
     url: 'http://opendata.vm.ee/stratkom/vahendajad.xsd'
     format: XSD
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2016/01/07
-date_modified: 2019/01/20
+date_modified: 2019/02/25
 organization: Välisministeerium
 maintainer_name: Tiina Tapupere
 maintainer_email: Tiina.Tapupere@mfa.ee

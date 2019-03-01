@@ -10,7 +10,7 @@ resources:
     url: 'http://deepweb.ut.ee/services/api-network-x-road.rdf'
     format: RDF
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/05/21
 date_modified: 2015/05/21

@@ -45,7 +45,7 @@ resources:
     url: 'https://xgis.maaamet.ee/maps/XGis?app_id=MA32H5'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/07/12
 date_modified: 2019/03/01

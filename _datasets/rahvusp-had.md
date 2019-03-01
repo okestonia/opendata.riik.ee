@@ -14,10 +14,10 @@ resources:
     url: 'http://opendata.vm.ee/rahvuspyhad_schema.xml'
     format: XML
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/03/26
-date_modified: 2018/01/30
+date_modified: 2019/02/25
 organization: Välisministeerium
 maintainer_name: Riina Talts
 maintainer_email: Riina.Talts@mfa.ee

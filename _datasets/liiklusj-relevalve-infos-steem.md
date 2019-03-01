@@ -6,18 +6,18 @@ department: ''
 category:
   - Transport
 resources:
-  - name: 07.05.2018 LJVIS XML
-    url: 'http://opendata.mkm.ee/ljvis/'
+  - name: LJVIS avaandmed
+    url: 'https://www.liiklusvalve.ee/report/cvs'
     format: XML
     interactive: 'False'
   - name: Liiklusjärelevalve infosüsteemi avaandmete kirjeldus
-    url: 'http://opendata.mkm.ee/ljvis/struktuur.pdf'
+    url: 'https://www.liiklusvalve.ee/avaandmed/struktuur.pdf'
     format: PDF
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
-update_freq: ''
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Q'
 date_issued: 07/05/2018
-date_modified: 07/05/2018
+date_modified: 2019/02/15
 organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: Kristjan Kaiklem
 maintainer_email: kristjan.kaiklem@mkm.ee

@@ -5,7 +5,7 @@ greeting:
   et: Eesti Avaandmete Portaal
   en: Estonian Open Government Data Portal
 description:
-  et: Portaali kaudu on igaühel juurdepääs avaliku sektori juurdepääsupiiranguteta andmetele koos nende taaskasutamise ja edasijagamise õigusega ärilistel ja mitteärilistel eesmärkidel.
+  et: Eesti riigi avaandmete portaali kaudu on igaühel ligipääs avaliku sektori juurdepääsupiiranguteta andmetele koos nende taaskasutamise ja edasijagamise õigusega nii ärilistel kui ka mitteärilistel eesmärkidel.
   en: The Open Data Portal provides a single point of access for general public to unrestricted public sector data with the permission to re-use and redistribute such data for both commercial and non-commercial purposes.
 footer_title:
   et: Eesti Avaandmete Portaal
@@ -32,7 +32,7 @@ navigation_et:
   - title: Andmehulgad
     url: /andmehulgad/
   - title: Teabevaldajad
-    url: /teabevaldajad/
+    url: /orgs/
   - title: Rakendused
     url: /rakendused/
   - title: Blogi
@@ -57,7 +57,7 @@ navigation_english:
     - title: Datasets
       url: /en/datasets/
     - title: Publishers
-      url: /en/publishers/
+      url: /en/orgs/
     - title: Applications
       url: /en/apps/
     - title: Blog
@@ -106,7 +106,7 @@ collections:
     permalink: /en/datasets/:path/
   organizations:
     output: true
-    permalink: /publishers/:path/
+  #  permalink: /publishers/:path/
   applications:
     output: true
     permalink: /apps/:path/
@@ -130,11 +130,11 @@ defaults:
       layout: datasetsen
       category: Uncategorized
       organization: N/A
-  - scope:
-      path: ""
-      type: organizations
-    values:
-      layout: organization
+  # - scope:
+  #     path: ""
+  #     type: organizations
+  #   values:
+  #     layout: organization
   - scope:
       path: "_blogi/et"
     values:
@@ -147,7 +147,19 @@ defaults:
       permalink: "/en/blogi/:title/"
       layout: article
       lang: "en"
-#  - scope:
+  - scope:
+      path: "_organizations/et"
+    values:
+      permalink: "/et/orgs/:title/"
+      layout: organization
+      lang: "et"
+  - scope:
+      path: "_organizations/en"
+    values:
+        permalink: "/en/orgs/:title/"
+        layout: organization
+        lang: "en"
+        #  - scope:
 #      path: ""
 #      type: applications
 #      values:

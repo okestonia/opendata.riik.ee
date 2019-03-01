@@ -18,7 +18,7 @@ resources:
     url: 'http://sr.riik.ee/tsl/estonian-tsl.xml'
     format: XML
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/02
 date_modified: 2015/02/02

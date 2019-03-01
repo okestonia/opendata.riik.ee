@@ -14,10 +14,10 @@ resources:
     url: 'http://mveeb.sm.ee/img/meta_apteekrid.pdf'
     format: PDF
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/03/19
-date_modified: 2019/01/29
+date_modified: 2019/03/01
 organization: Terviseamet
 maintainer_name: Maie Otsmann
 maintainer_email: maie.otsmann@terviseamet.ee

@@ -30,14 +30,22 @@ resources:
     url: 'https://ariel.pria.ee/lr-avalik/LoomaAndmedXml'
     format: XML
     interactive: 'False'
+  - name: Põllumajandus- ja vesiviljelusettevõtted (vaatamisteenus) WMS
+    url: 'https://inspire.pria.ee/services/services/wms?version=1.1.1'
+    format: WMS
+    interactive: 'True'
+  - name: Põllumajandus- ja vesiviljelusettevõtted (allalaadimisteenus) WFS
+    url: 'https://inspire.pria.ee/services/services/wfs'
+    format: WFS
+    interactive: 'True'
   - name: Täiendav info PRIA kodulehel
     url: 'http://www.pria.ee/et/Registrid/Loomade_register'
     format: HTML
     interactive: True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/01/30
-date_modified: 2019/01/29
+date_modified: 2019/03/01
 organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: Kiido Levin
 maintainer_email: kiido.levin@pria.ee

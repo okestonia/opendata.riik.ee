@@ -41,10 +41,10 @@ resources:
     url: 'https://www.spordiregister.ee/opendata/'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/26
-date_modified: 2019/01/26
+date_modified: 2019/02/27
 organization: Kultuuriministeerium
 maintainer_name: Spordikoolituse ja -Teabe SA
 maintainer_email: ' esr@spordiinfo.ee'

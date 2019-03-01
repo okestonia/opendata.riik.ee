@@ -10,10 +10,10 @@ resources:
     url: 'http://avaandmed.rik.ee/andmed/KR/'
     format: XML
     interactive: 'False'
-license: 'http://creativecommons.org/licenses/by-sa/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/07/06
-date_modified: 2019/01/26
+date_modified: 2019/03/01
 organization: Justiitsministeerium
 maintainer_name: Justiitsministeerium
 maintainer_email: info@just.ee

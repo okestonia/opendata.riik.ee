@@ -22,7 +22,7 @@ resources:
     url: 'https://alkoreg.agri.ee/#querRegisteredAlcoForm'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-N'
 date_issued: 2017/06/07
 date_modified: 2019/03/01

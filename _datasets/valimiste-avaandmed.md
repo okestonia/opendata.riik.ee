@@ -10,7 +10,7 @@ resources:
     url: 'https://www.valimised.ee/et/valimiste-arhiiv/toimunud-valimiste-arhiiv'
     format: HTML
     interactive: 'True'
-license: 'http://creativecommons.org/licenses/by/3.0/'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/12/04
 date_modified: 2015/10/11
