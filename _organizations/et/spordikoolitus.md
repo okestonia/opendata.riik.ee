@@ -5,5 +5,5 @@ description: Spordikoolituse ja -Teabe Sihtasutuse on Eesti Olümpiakomitee ja H
 maintainer_name: Veiko Ulp
 maintainer_email: veiko@server.ee
 logo:
-twitter: ‘’
+twitter: ''
 ---
