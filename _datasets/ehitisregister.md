@@ -6,11 +6,11 @@ department: ''
 category:
   - Keskkond
 resources:
-  - name: 07.05.2018 Ehitisregistri avaandmed
+  - name: Ehitisregistri avaandmed
     url: 'https://avaandmed.ehr.ee'
     format: HTML
     interactive: 'True'
-  - name: 07.05.2018 Ehitisregistri avaandmete ligipääsu juhend
+  - name: Ehitisregistri avaandmete ligipääsu juhend
     url: 'https://avaandmed.ehr.ee/avaandmed_abi.pdf'
     format: HTML
     interactive: 'True'
