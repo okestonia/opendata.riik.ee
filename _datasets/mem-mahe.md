@@ -46,9 +46,9 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/licenses/by/3.0/'
-update_freq: ''
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/07/12
-date_modified: 2019/01/29
+date_modified: 2019/03/01
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
