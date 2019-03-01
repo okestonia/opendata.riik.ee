@@ -18,7 +18,7 @@ resources:
     url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/puugiandmed.xml'
     format: XML
     interactive: 'False'
-  - name:Püügiandmed XSD
+  - name: Püügiandmed XSD
     url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/puugiandmed.xsd'
     format: xsd
     interactive: 'False'
