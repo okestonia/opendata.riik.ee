@@ -6,6 +6,14 @@ department: ''
 category:
   - Põllumajandus, kalandus, metsandus
 resources:
+  - name: Taimetervise register
+    url: 'https://www.agri.ee/sites/default/files/opendata/taimetervis/taimetervis.xml'
+    format: XML
+    interactive: 'False'
+  - name: XSD
+    url: 'https://www.agri.ee/sites/default/files/opendata/taimetervis/taimetervis.xsd'
+    format: xsd
+    interactive: 'False'
   - name: Taimetervise registri avalik vaade
     url: 'https://portaal.agri.ee/avalik/#/taimetervis'
     format: HTML
@@ -17,7 +25,7 @@ resources:
 license: 'http://creativecommons.org/licenses/by/3.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2019/02/13
-date_modified: 2019/02/13
+date_modified: 2019/03/01
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee

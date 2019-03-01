@@ -19,9 +19,9 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: ''
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 date_issued: 2017/07/12
-date_modified: 2018/11/23
+date_modified: 2019/03/01
 organization: Maaeluministeerium
 maintainer_name: Põllumajandusamet
 maintainer_email: tuulekaer@pma.agri.ee

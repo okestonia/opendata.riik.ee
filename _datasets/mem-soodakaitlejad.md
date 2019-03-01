@@ -10,6 +10,10 @@ resources:
     url: 'https://agri.ee/sites/default/files/opendata/soot/Soodakaitlejad.xml'
     format: XML
     interactive: 'False'
+  - name: XSD
+    url: 'https://www.agri.ee/sites/default/files/opendata/soot/soodakaitlejad.xsd'
+    format: xsd
+    interactive: 'False'
   - name: Registri avalik vaade
     url: 'https://jvis.agri.ee/jvis/avalik.html#/kaitlemisettevotedparing'
     format: HTML

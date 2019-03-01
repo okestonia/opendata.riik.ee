@@ -10,6 +10,10 @@ resources:
     url: 'https://alkoreg.agri.ee/avaandmed'
     format: XML
     interactive: 'False'
+  - name: XSD
+    url: 'https://www.agri.ee/sites/default/files/opendata/alkoreg/alkoreg.xsd'
+    format: xsd
+    interactive: 'False'
   - name: Maaeluministeeriumi avaandmed
     url: 'https://www.agri.ee/et/avaandmed'
     format: HTML

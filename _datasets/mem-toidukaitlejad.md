@@ -10,6 +10,10 @@ resources:
     url: 'https://agri.ee/sites/default/files/opendata/toit/Toidukaitlejad.xml'
     format: XML
     interactive: 'False'
+  - name: XSD
+    url: 'https://www.agri.ee/sites/default/files/opendata/toit/toidukaitlejad.xsd'
+    format: xsd
+    interactive: 'False'
   - name: Registri avalik vaade
     url: 'https://jvis.agri.ee/jvis/avalik.html#/toitKaitlemisettevotedparing'
     format: HTML
