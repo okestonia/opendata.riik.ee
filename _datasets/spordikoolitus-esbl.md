@@ -10,7 +10,7 @@ category:
 resources:
 
   - name: ESBL avaandmete portaal
-    url: ‘http://www.esbl.ee/live/opendata/‘
+    url: 'http://www.esbl.ee/opendata/'
     format: HTML
     interactive: ‘True’
 
