@@ -1,7 +1,8 @@
 ---
 schema: default
 title: Eesti Hariduse Infosüsteemi avaandmed
-notes: 'Eesti Hariduse Infosüsteem (EHIS) koondab haridussüsteemi puudutavaid andmeid. Register sisaldab andmeid õppeasutuse, õpilaste, õpetajate/õppejõudude, lõpudokumentide, õpikute ja õppekavade kohta. Kõige vanemad andmed on aastast 2004.'
+notes: 'Eesti Hariduse Infosüsteem (EHIS) koondab haridussüsteemi puudutavaid andmeid. Register sisaldab andmeid õppeasutuse, õpilaste, õpetajate/õppejõudude, lõpudokumentide, õpikute ja õppekavade kohta. Kõige vanemad andmed on aastast 2004. Kõik EHISe avalikud andmed on kättesaadavad portaalist ja API kaudu (väljundformaadid CSV, XML, JSON). API kasutamise juhend on lisatud täiendava failina (EHIS avaandmete CSV, XML ja JSON päringute koostamise juhend).
+Haridusstatistika visuaalses keskkonnas Haridussilm.ee on kättesaadavad erinevate haridus-, teadus- ja noortevaldkonna andmed umbisikustatud statistilisel kujul. Keskkond võimaldab koostada statistilisi aruandeid ning võrrelda haridusnäitajaid vajalikes lõigetes, võrrelda koole erinevate näitajate lõikes (taustaandmed, õppekeskkond, tulemused jne), mis omakorda aitavad paremini mõista koolide töö ulatust ja mitmekesisust. Päring koostatakse dünaamiliselt isiku enda poolt.'
 department: ''
 category:
   - Teadus ja tehnoloogia
@@ -14,7 +15,7 @@ resources:
     url: 'http://enda.ehis.ee/avaandmed/rest/tegevusload/-/-/-/-/-/-/-/-/1/XML'
     format: XML
     interactive: 'False'
-  - name: EHIS avaandmete CSV ja XML päringute koostamise juhend
+  - name: EHIS avaandmete CSV, XML ja JSON päringute koostamise juhend
     url: 'http://enda.ehis.ee/avaandmed/EHIS_avaandmed.pdf'
     format: PDF
     interactive: 'True'
