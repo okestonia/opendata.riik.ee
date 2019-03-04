@@ -2,7 +2,7 @@
 schema: default
 title: Eksamite infosüsteemi avaandmed
 notes: Eksamite infosüsteemi (EIS) eesmärgiks on ülesannete loomise ja haldamise, lõpueksamite tööde koostamise ja kättesaadavaks tegemise ning lõpueksamite sooritamise ja standardiseeritud hindamise tagamine.
-     Infosüsteem sisaldab andmeid avalike ülesannete, eksamitunnistuste ja testide tulemuste statistika kohta.
+     Infosüsteem sisaldab andmeid avalike ülesannete, eksamitunnistuste, testide ja eksamite tulemuste statistika kohta.
      EIS on asutatud 2010. aastal.
 department: ''
 category:
@@ -16,7 +16,7 @@ resources:
     url: 'https://eis.ekk.edu.ee/eis/tunnistused'
     format: HTML
     interactive: 'True'
-  - name: Testide tulemuste statistika
+  - name: Testide ja eksamite tulemuste statistika
     url: 'https://eis.ekk.edu.ee/eis/eksamistatistika'
     format: HTML
     interactive: 'True'
