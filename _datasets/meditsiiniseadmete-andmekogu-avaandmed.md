@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/26
-date_modified: 2019/03/05
+date_modified: 2019/03/06
 organization: Terviseamet
 maintainer_name: Kadri Tõnnisson
 maintainer_email: kadri.tonnisson@terviseamet.ee
