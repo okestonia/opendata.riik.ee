@@ -17,7 +17,7 @@ resources:
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
 date_issued: 2017/04/10
-date_modified: 2019/03/08
+date_modified: 2019/03/09
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
