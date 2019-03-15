@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Teenuste kirjeldused - linnajuhtimine
+title: Tallinna teenuste kirjeldused - linnajuhtimine
 notes: Linnajuhtimise valdkonna teenuste kirjeldused
 department: ''
 category:
