@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Tartu linnavalitsuse dokumendihaldussüsteemis avaldatud õigusaktid
+title: Tartu linnavalitsuse õigusaktid
 notes: Tartu linnavalitsuse dokumendihaldussüsteemis avaldatud õigusaktid
 department: Linnavalitsemine
 category:
