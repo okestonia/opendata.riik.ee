@@ -1,7 +1,7 @@
 ---
 schema: default
-title: 'Reaalajaline peatuse info'
-notes: 'Reaalajaline peatuse info peatuste kaupa, kus "stop_id=" pärineb Sõiduplaanide gtfs-failist'
+title: 'Tartu bussipeatuste info reaalajas'
+notes: 'Reaalajaline info peatuste kaupa, kus "stop_id=" pärineb Sõiduplaanide gtfs-failist'
 department: Transport ja liiklus
 category:
   - Transport
