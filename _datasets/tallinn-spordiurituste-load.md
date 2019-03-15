@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Spordiürituste load
+title: Tallinna spordiürituste load
 notes: Jooksval nädalal toimuvad suured spordiüritused koos asukohtadega
 department: ''
 category:
