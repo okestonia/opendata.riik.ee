@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Toetuste saajad
+title: PRIA toetuste saajad
 notes: Toetuse saajate otsingumootor võimaldab leida infot eelmise finantsaasta jooksul toetusi saanute kohta
 department: Põllumajanduse Registrite ja Informatsiooni Amet
 category:
