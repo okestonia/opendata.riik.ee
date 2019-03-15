@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Teenuste kirjeldused - keskkonnakaitse
+title: Tallinna teenuste kirjeldused - keskkonnakaitse
 notes: Keskkonnakaitse valdkonna teenuste kirjeldused
 department: ''
 category:
