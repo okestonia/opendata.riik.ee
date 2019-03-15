@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Raieload
+title: Tallinna raieload
 notes: Kehtivad raieload
 department: ''
 category:
