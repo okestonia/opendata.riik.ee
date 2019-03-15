@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Teenuste kirjeldused - avalik kord
+title: Tallinna teenuste kirjeldused - avalik kord
 notes: Avaliku korra valdkonna teenuste kirjeldused
 department: ''
 category:
