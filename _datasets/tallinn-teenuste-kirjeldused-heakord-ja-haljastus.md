@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Teenuste kirjeldused - heakord ja haljastus
+title: Tallinna teenuste kirjeldused - heakord ja haljastus
 notes: Heakorra ja haljastuse valdkonna teenuste kirjeldused
 department: ''
 category:
