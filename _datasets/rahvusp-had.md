@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Rahvuspühad
-notes: Rahvuspühad - Eestis akrediteeritud välisesindust omavate riikide rahvuspühade andmed.
+title: Välisriikide rahvuspühad
+notes: Eestis akrediteeritud välisesindust omavate riikide rahvuspühade andmed
 department: ''
 category:
   - Elanikkond ja ühiskond
