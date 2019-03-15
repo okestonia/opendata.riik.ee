@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Ilutulestike load
+title: Tallinna ilutulestike load
 notes: Jooksval nädalal toimuvad ilutulestikud koos asukohtadega
 department: ''
 category:
