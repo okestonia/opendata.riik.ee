@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Avalike ürituste load
+title: Tallinna avalike ürituste load
 notes: Jooksval nädalal toimuvad avalikud üritused Tallinnas koos asukohtadega
 department: ''
 category:
