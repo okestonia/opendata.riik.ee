@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Teenuste kirjeldused - haridus
+title: Tallinna teenuste kirjeldused - haridus
 notes: Hariduse valdkonna teenuste kirjeldused
 department: ''
 category:
