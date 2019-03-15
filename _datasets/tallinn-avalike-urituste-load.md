@@ -15,7 +15,7 @@ resources:
     name: Avalike ürituste load
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: ''
+update_freq: Reaalajas
 date_issued: ''
 date_modified: 2019/03/15
 organization: Tallinna Linnavalitsus
