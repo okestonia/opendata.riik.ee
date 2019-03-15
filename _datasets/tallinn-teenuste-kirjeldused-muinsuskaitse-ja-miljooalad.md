@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Teenuste kirjeldused - Muinsuskaitse ja miljööalad
+title: Tallinna teenuste kirjeldused - Muinsuskaitse ja miljööalad
 notes: Muinsuskaitse ja miljööalade valdkonna teenuste kirjeldused
 department: ''
 category:
