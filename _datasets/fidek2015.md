@@ -1,12 +1,12 @@
 ---
 schema: default
-title: FIDEK2015
-notes: 'Andmestik 2015. aasta füüsiliste isikute tuludeklaratsioonidega. Failis on järgmised veerud:
- * yhisdeklar (T/F). Kas tegu on ühisdeklaratsiooniga
- * tulud_kokku. Kõik deklaratsiooni tulud kokku
- * mahaarvamised. Kõik mahaarvamised summeerituna
- * tagastus. Mis summas tulumaksu kas tagastati (positiivne number) või juurde tuli maksta (negatiivne)
-
+title: Füüsiliste isikute tuludeklaratsioonid (FIDEK) 2015
+notes: 'Andmestik 2015. aasta füüsiliste isikute tuludeklaratsioonidega. Failis on järgmised veerud:<br>
+ * yhisdeklar (T/F) - kas tegu on ühisdeklaratsiooniga<br>
+ * tulud_kokku - kõik deklaratsiooni tulud kokku<br>
+ * mahaarvamised - kõik mahaarvamised summeerituna<br>
+ * tagastus - mis summas tulumaksu kas tagastati (positiivne number) või juurde tuli maksta (negatiivne)<br>
+<br>
 Andmestikust on tuvastamise välistamise huvides eemaldatud ekstreemsete väärtustega kirjetest (mahuliselt alla 0.003% kirjete koguarvust)'
 department: ''
 category:
