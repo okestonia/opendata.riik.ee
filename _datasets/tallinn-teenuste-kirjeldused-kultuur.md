@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Teenuste kirjeldused - kultuur
+title: Tallinna teenuste kirjeldused - kultuur
 notes: Kultuuri valdkonna teenuste kirjeldused
 department: ''
 category:
