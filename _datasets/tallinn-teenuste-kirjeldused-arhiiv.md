@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Teenuste kirjeldused - arhiiv
+title: Tallinna teenuste kirjeldused - arhiiv
 notes: Arhiivi valdkonna teenuste kirjeldused
 department: ''
 category:
