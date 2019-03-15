@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Loomeliitude andmekogu avaandmed
-notes: Loomeliitude andmekogu avaandmed. Kõigi liitude registrikoodid, aadressid ja juhatuse liikmete nimed ning isikukoodid.
+notes: Kõigi liitude registrikoodid, aadressid ja juhatuse liikmete nimed ning isikukoodid.
 department: ''
 category:
   - Haridus, kultuur ja sport
