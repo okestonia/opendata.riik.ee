@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Üldplaneeringuga määratud maakasutus
+title: Üldplaneeringuga määratud maakasutus Tartus
 notes: Üldplaneeringuga määratud maakasutus
 department: 'Maad, ehitus ja planeerimine'
 category:
