@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Tartu linna poolt hooldatavad haljastud ja inventari paiknemine. Teenus sisaldab
-notes: 'Tartu linna poolt hooldatavad haljastud ja inventari paiknemine. Teenus sisaldab järgmiste nähtuste asukohainfot: lilled, pingid, truubid, riietuskabiinid, purskkaev, käimlad, trepid, piirded, metsa- ja terviserajad, haljasalad.'
+title: Tartu linna poolt hooldatavad haljastud ja inventari paiknemine
+notes: 'Teenus sisaldab järgmiste nähtuste asukohainfot: lilled, pingid, truubid, riietuskabiinid, purskkaev, käimlad, trepid, piirded, metsa- ja terviserajad, haljasalad.'
 department: Heakord ja keskkond
 category:
   - Keskkond
