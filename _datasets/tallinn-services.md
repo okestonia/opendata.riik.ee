@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Services
-notes: Tallinn Public Service Database. Tallinna teenuste kataloog inglise keeles
+title: Tallinn City Service Database
+notes: Tallinna teenuste kataloog inglise keeles
 department: ''
 category:
   - Piirkonnad ja linnad
