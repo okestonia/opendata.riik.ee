@@ -1,6 +1,6 @@
 ---
 schema: default
-title: 'Teenuste kirjeldused - ettevõtlus, kaubandus ja reklaam'
+title: 'Tallinna teenuste kirjeldused - ettevõtlus, kaubandus ja reklaam'
 notes: 'Ettevõtluse, kaubanduse ja reklaami valdkonna teenuste kirjeldused'
 department: ''
 category:
