@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Eesti Spordiregistri avaandmed
-notes: Eesti Spordiregistri avaandmed.
+notes: Treenerid, spordiehitised, spordikoolid, spordiorganisatsioonid
 department: ''
 category:
   - Haridus, kultuur ja sport
