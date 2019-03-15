@@ -15,12 +15,11 @@ resources:
     name: Avalike ürituste load
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: Reaalajas
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-N'
 date_issued: ''
 date_modified: 2019/03/15
 organization: Tallinna Linnavalitsus
 maintainer_name: Liina Karjane
 maintainer_email: liina.karjane@tallinnlv.ee
 maintainer_phone: ''
-update_rate: Reaalajas
 ---
