@@ -1,7 +1,7 @@
 ---
 schema: default
-title: Riigi Teatajas avaldatud õigusaktid alates 2010. aastast koos räsiväärtustega
-notes: Õigusaktid
+title: Riigi Teatajas avaldatud õigusaktid 
+notes: Avaldatud õigusaktid alates 2010. aastast koos räsiväärtustega
 department: ''
 category:
   - Õigusemõistmine, õigussüsteem ja avalik turvalisus
