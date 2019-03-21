@@ -1,0 +1,52 @@
+schema: default
+
+title: Külastuste statistika 
+
+notes: Ülevaada SA Narva Muuseum külastajatest statistiliselt
+
+department: ‘’
+
+category:
+
+  - Külastajad 
+
+resources:
+
+  - name: Avaandmed
+
+    url: ‘https://… ‘ 
+
+    format: XML 
+
+    interactive: ‘False’
+
+  - name: Schema
+
+    url: ‘https://…’ 
+
+    format: XSD
+
+    interactive: ‘False’
+
+  - name: 
+
+    url: ‘https://…’ 
+
+    format: PDF 
+
+    interactive: ‘False’
+
+license: ‘https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode’  
+
+update_freq: ‘http://purl.org/linked-data/sdmx/2009/code#freq-Q’ 
+date_issued: 31/01/2019 
+
+date_modified: 30/04/2019 
+
+organization: SA Narva Muuseum
+
+maintainer_name: Marika Mäekivi
+
+maintainer_email: kantselei@narvamuuseum.ee
+
+maintainer_phone: ‘359 9241’ 
