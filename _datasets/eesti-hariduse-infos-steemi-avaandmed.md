@@ -50,7 +50,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/04/19
-date_modified: 2019/03/23
+date_modified: 2019/03/24
 organization: Haridus- ja Teadusministeerium
 maintainer_name: Haridus- ja Teadusministeerium
 maintainer_email: hm@hm.ee
