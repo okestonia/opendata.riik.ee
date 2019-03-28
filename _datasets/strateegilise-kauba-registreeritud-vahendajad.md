@@ -17,7 +17,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2016/01/07
-date_modified: 2019/03/28
+date_modified: 2019/03/29
 organization: Välisministeerium
 maintainer_name: Tiina Tapupere
 maintainer_email: Tiina.Tapupere@mfa.ee
