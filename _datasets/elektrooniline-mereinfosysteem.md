@@ -17,7 +17,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 11/02/2019
-date_modified: 2019/03/29
+date_modified: 2019/03/30
 organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: James Herne
 maintainer_email: james.herne@mkm.ee
