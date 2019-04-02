@@ -2,7 +2,7 @@
 schema: default
 title: Sporditulemuste andmebaas
 notes: Sporditulemuste andmebaasis sisalduvad Eesti meistrivõistluste ja Eesti karikavõistluste esikolmikud ning Eesti sportlaste tulemused rahvusvahelistel tiitlivõistlustel.
-department: ‘’
+department: ""
 category:
 
   - Haridus, kultuur ja sport
