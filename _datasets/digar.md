@@ -53,7 +53,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/03/13
-date_modified: 2019/04/03
+date_modified: 2019/04/04
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
