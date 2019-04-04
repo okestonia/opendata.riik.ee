@@ -1,6 +1,6 @@
 ---
 author: "Annegrete Peek"
-news_title: "Geenius: Miks Eestis avaandmeid peaks vaja olema?"
+news_title: "Kuku raadio: Mis on avaandmed?"
 preview: "Saates Kukkuv Õun arutab Andres Kütt Open Knowledge Estoniast avaandmete olemusest."
 preview_img: default.PNG
 submitted: 2018/11/18
