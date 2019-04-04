@@ -15,7 +15,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/14
-date_modified: 2019/04/04
+date_modified: 2019/04/05
 organization: Tervise ja Heaolu Infosüsteemide Keskus
 maintainer_name: Priit Raspel
 maintainer_email: info@tehik.ee
