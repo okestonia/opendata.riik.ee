@@ -12,15 +12,15 @@ resources:
   - name: Sporditulemused
     url: 'http://www.sport24.ee/opendata/files/tulemused.xml'
     format: XML
-    interactive: ‘False’
+    interactive: 'False'
 
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 
-date_issued: 02/04/2019
+date_issued: 2019/04/02
 
-date_modified: 02/04/2019
+date_modified: 2019/04/02
 
 organization: Spordikoolituse ja -Teabe SA
 
