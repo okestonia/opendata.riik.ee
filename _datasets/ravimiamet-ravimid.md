@@ -16,7 +16,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/15
-date_modified: 2019/04/14
+date_modified: 2019/04/15
 organization: Ravimiamet
 maintainer_name: Ravimiamet
 maintainer_email: info@ravimiamet.ee
