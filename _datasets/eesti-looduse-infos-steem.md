@@ -1,0 +1,20 @@
+---
+schema: default
+title: Eesti Looduse Infosüsteem EELIS infoleht
+notes: 'Eesti Looduse Infosüsteem EELIS infoleht leht koondab laiemale avalikkusele teabe EELIS programmis hoitavate loodusandmete kohta. Siin on võimalik teha otsinguid teatud objektide andmete kohta otse EELIS-e andmebaasist. Siia ei kuvata siiski kogu infot, mida EELIS sisaldab, vaid ainult teatud osa sellest. Lisaks andmetele on siin lehel võimalik lugeda ja vaadata EELIS-e andmestikul põhinevaid statistilisi analüüse ning erinevaid objektitüüpe kirjeldavaid ja seletavaid artikleid.'
+department: ''
+category: Keskkond
+resources:
+  - name: Avaandmed
+    url: 'https://infoleht.keskkonnainfo.ee/default.aspx?id=-1534945782&state=6;-1158249072;est;eelisand;;'
+    format: HTML
+    interactive: 'True'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
+date_issued: 12/04/2019
+date_modified: 12/04/2019
+organization: Keskkonnaagentuur
+maintainer_name: Innar Kaldlaur
+maintainer_email: innar.kaldlaur@envir.ee
+maintainer_phone: ''
+---
