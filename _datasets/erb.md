@@ -56,12 +56,12 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
-update_freq: ''
+update_freq: '1x nädalas'
 date_issued: 2017/03/13
 date_modified: 2019/04/16
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
-maintainer_phone: ''
+maintainer_phone: '6307222'
 
 ---
