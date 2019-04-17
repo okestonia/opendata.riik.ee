@@ -56,7 +56,7 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
-update_freq: '1x nädalas'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2017/03/13
 date_modified: 2019/04/16
 organization: Eesti Rahvusraamatukogu
