@@ -6,7 +6,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 resources:
-  - name: 10.04.2017 Eesti artiklid (marc21xml)
+  - name: Eesti artiklid (marc21xml)
     url: 'http://dea.digar.ee/cgi-bin/dea-oaiserver?verb=ListRecords&metadataPrefix=marc21'
     format: XML
     interactive: 'False'
@@ -15,12 +15,12 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
-update_freq: ''
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/04/10
 date_modified: 2019/04/17
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
-maintainer_phone: ''
+maintainer_phone: '6307222'
 
 ---
