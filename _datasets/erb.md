@@ -56,12 +56,12 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
-update_freq: ''
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2017/03/13
 date_modified: 2019/04/17
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
-maintainer_phone: ''
+maintainer_phone: '6307222'
 
 ---
