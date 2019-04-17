@@ -22,7 +22,7 @@ update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 12/04/2019
 date_modified: 12/04/2019
 organization: Keskkonnaagentuur
-maintainer_name: Innar Kaldlaur
-maintainer_email: innar.kaldlaur@envir.ee
+maintainer_name: Miina Krabbi
+maintainer_email: miina.krabbi@envir.ee
 maintainer_phone: ''
 ---
