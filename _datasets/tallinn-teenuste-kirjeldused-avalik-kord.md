@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Teenuste kirjeldused - avalik kord
-title_en: Services: Public Order
+title_en: Services- Public Order
 notes: Avaliku korra valdkonna teenuste kirjeldused
 notes_en: ''
 department: ''

@@ -1,7 +1,7 @@
 ---
 schema: default
 title: 'Teenuste kirjeldused - ettevõtlus, kaubandus ja reklaam'
-title_en: Services: Entrepreneurship, Business, Advertising
+title_en: Services -  Entrepreneurship, Business, Advertising
 notes: 'Ettevõtluse, kaubanduse ja reklaami valdkonna teenuste kirjeldused'
 notes_en: ''
 department: ''

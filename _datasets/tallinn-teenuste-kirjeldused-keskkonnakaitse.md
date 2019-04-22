@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Teenuste kirjeldused - keskkonnakaitse
-title_en: Services: Environmental Protection
+title_en: Services -  Environmental Protection
 notes: Keskkonnakaitse valdkonna teenuste kirjeldused
 notes_en: ''
 department: ''

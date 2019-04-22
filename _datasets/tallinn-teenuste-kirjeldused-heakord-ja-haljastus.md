@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Teenuste kirjeldused - heakord ja haljastus
-title_en: Services: Maintenance and Landscaping
+title_en: Services -  Maintenance and Landscaping
 notes: Heakorra ja haljastuse valdkonna teenuste kirjeldused
 notes_en: ''
 department: ''

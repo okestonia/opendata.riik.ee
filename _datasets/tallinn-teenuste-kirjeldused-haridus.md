@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Teenuste kirjeldused - haridus
-title_en: Services: Education
+title_en: Services -  Education
 notes: Hariduse valdkonna teenuste kirjeldused
 notes_en: ''
 department: ''

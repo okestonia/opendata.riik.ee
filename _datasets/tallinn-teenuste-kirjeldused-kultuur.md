@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Teenuste kirjeldused - kultuur
-title_en: Services: Culture
+title_en: Services -  Culture
 notes: Kultuuri valdkonna teenuste kirjeldused
 notes_en: ''
 department: ''

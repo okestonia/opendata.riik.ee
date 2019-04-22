@@ -7,8 +7,8 @@ notes_en: ''
 department: ""
 category:
   - Haridus, kultuur ja sport
-  category_en:
-  - Educaiton, Culture and Sport
+category_en:
+  - Education, Culture and Sport
 resources:
 
   - name: Sporditulemused

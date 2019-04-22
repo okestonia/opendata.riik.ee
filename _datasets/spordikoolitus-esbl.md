@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Educaiton, Culture and Sport
+  - Education, Culture and Sport
 resources:
   - name: ESBL avaandmete portaal
     url: 'http://www.esbl.ee/opendata/'

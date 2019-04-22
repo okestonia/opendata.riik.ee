@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Teenuste kirjeldused - arhiiv
-title_en: Services: Archives
+title_en: Services- Archives
 notes: Arhiivi valdkonna teenuste kirjeldused
 notes_en:
 department: ''

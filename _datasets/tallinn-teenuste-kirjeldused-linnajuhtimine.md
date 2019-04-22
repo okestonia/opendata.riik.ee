@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Teenuste kirjeldused - linnajuhtimine
-title_en: Services: City Management
+title_en: Services -  City Management
 notes: Linnajuhtimise valdkonna teenuste kirjeldused
 notes_en: ''
 department: ''

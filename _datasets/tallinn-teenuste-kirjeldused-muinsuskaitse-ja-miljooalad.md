@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Teenuste kirjeldused - Muinsuskaitse ja miljööalad
-title_en: Services: Heritage Protection and Built-up Areas of Cultural and Environmental Value
+title_en: Services -  Heritage Protection and Built-up Areas of Cultural and Environmental Value
 notes: Muinsuskaitse ja miljööalade valdkonna teenuste kirjeldused
 notes_en: ''
 department: ''
