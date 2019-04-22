@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Teenuste kirjeldused - arhiiv
+title_en: Services: Archives
 notes: Arhiivi valdkonna teenuste kirjeldused
+notes_en:
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=11'
     format: XML

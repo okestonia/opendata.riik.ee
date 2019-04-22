@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Basseinide veeproovid
+title_en: Water Quality of Swimming Pools - Water Samples
 notes: Vee terviseohutuse infosüsteemi avaandmete komplekt. Veeproovide puhul esitatakse ainult avalikustamisele kuuluvad veeproovid. Veevärkide puhul esitatakse ainult järelevalve aluste veevärkide veeproovid. Veeallikate puhul esitatakse ainult kasutuses olevate veeallikate veeproovid.
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Basseinide veeproovid
     url: 'http://vtiav.sm.ee/index.php/opendata/basseini_veeproovid.xml'

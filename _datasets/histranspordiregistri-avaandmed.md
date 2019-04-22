@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Ühistranspordiregistri avaandmed
+title_en: Public Transport Register Open Data
 notes: 'Ühistranspordiregistri avaandmed sisaldavad lihtsustatud struktuuri andmekoosseisuga väljavõtet Riiklikku Ühistranspordiregistrisse kantud andmetest, mis hõlmavad siseriiklikult käigus olevate ühistranspordiliinide kirjeldusi, sõidugraafikuid ja peatuste asukohtasid.'
+notes_en: ''
 department: ''
 category:
   - Transport
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Andmete kasutuslitsents
     url: 'https://opendatacommons.org/licenses/by/summary/'

@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Söödakäitlejad
+title_en: Feed Business Operators
 notes: Teavitatud ja tegevusloaga söödakäitlejad
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Söödakäitlejad
     url: 'https://agri.ee/sites/default/files/opendata/soot/Soodakaitlejad.xml'

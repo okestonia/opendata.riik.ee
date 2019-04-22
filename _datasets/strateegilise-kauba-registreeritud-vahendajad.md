@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Strateegilise kauba registreeritud vahendajad
+title_en: Registerd Brokers of Strategic Goods
 notes: Strateegilise kauba registreeritud vahendajad
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: vahendajad.xml
     url: 'http://opendata.vm.ee/stratkom/vahendajad.xml'

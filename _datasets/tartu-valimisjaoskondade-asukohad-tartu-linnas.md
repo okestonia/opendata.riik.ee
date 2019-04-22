@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Valimisjaoskondade asukohad Tartu linnas
+title_en: Polling Stations in Tartu
 notes: Valimisjaoskondade asukohad Tartu linnas
+notes_en: ''
 department: Linnavalitsemine
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Valimisjaoskonnad/MapServer?wsdl'
     format: XML

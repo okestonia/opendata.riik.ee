@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Rahvusvahelised organisatsioonid
+title_en: International Organizations in Estonia
 notes: 'Eestis asuvad valitsustevahelised rahvusvahelised organisatsioonid või muude rahvusvaheliste kokkulepetega loodud institutsioonid, nende juhid ja kontaktandmed.'
+notes_en: ''
 department: ''
 category:
+  - Valitsus ja avalik sektor
+category_en:
   - Valitsus ja avalik sektor
 resources:
   - name: organisatsioonid.xml

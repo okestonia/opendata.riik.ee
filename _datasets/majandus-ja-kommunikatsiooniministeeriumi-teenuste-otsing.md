@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Riigi teenused
+title_en: Government Services in Estonia
 notes: Erinevate ministeeriumite haldusalade osutatavad teenused. Teenused on klassifitseeritud, seotud neid osutavate organisatsioonidega ning osutamise juriidilise alusega. Andmeskeem sisaldab ka võimalust edastada teenuse osutamist puudutavat statistikat.Teenuste otsing, https://www.riigiteenused.ee/et/teenuste-otsing
+notes_en: ''
 department: ''
 category:
+  - Valitsus ja avalik sektor
+category_en:
   - Valitsus ja avalik sektor
 resources:
   - name: API

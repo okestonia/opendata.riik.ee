@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Riigi kinnisvararegister
+title_en: State Real Estate Property Register
 notes: 'Riigi kinnisvararegistris peetakse arvestust keskvalitsusele kuuluva või tema poolt kasutatava kinnisvara üle. Õiguslik tähendus on riigivara valitseja ja volitatud asutuse määramise andmetel. Põhimäärus: https://www.riigiteataja.ee/akt/128122010002. Lisaks XML andmeteenustele on masinloetaval kujul andmed allalaetavad vajutades rakenduse https://riigivara.fin.ee/kvr/ otsingutulemuste lehel nupule CSV.'
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Riigi kinnisvararegister
     url: 'https://riigivara.fin.ee/kvr/'

@@ -1,13 +1,17 @@
 ---
 schema: default
 title: Eesti Teadusinfosüsteemi avaandmed
+title_en: Estonian Research Information System Open Data
 notes: |-
   Eesti Teadusinfosüsteem (ETIS) koondab Eesti teadus- ja arendustegevusega seotud andmeid. Kõige vanemad andmed on aastast 2006. Kõik ETISe avalikud andmed on kättesaadavad portaalist ja API kaudu (väljundformaadid XML, JSON).
      API kasutamise juhend on lisatud täiendava failina. Allpool on  näitena lisatud API kasutamise juhendi abil  koostatud Tartu Ülikooli teadusaparatuuri ja käimasolevate sihtfinatseeringuga projektide andmehulgad.
      Portaalist on võimalik andmeid ning otsingu tulemeid eksportida Excelisse ja CSV, XML formaati.
+notes_en: ''
 department: ''
 category:
   - Teadus ja tehnoloogia
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: ETIS avaandmete kasutamine API liidese vahendusel
     url: 'https://opendata.riik.ee/downloads/etisavaandmetekasutamineapiliidesevahendusel.pdf'

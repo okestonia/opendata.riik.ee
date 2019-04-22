@@ -1,10 +1,14 @@
 ---
 schema: default
 title: 'Tartu linna ühistranspordi peatuste numbrid ja nimekiri, asukohad ja sõiduplaanid'
+title_en: Public Transport in Tartu
 notes: 'Tartu linna ühistranspordi peatuste numbrid ja nimekiri, asukohad ja sõiduplaanid Maanteameti halduses olevas ÜTRIS serveris'
+notes_en: ''
 department: Transport ja liiklus
 category:
   - Transport
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.peatus.ee/gtfs/'
     format: GTFS

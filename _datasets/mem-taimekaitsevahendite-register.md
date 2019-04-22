@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Taimekaitsevahendite register
+title_en: Register of Plant Protection Products
 notes: 'Taimekaitsevahendite registri pidamise eesmärk on koguda, töödelda ja säilitada andmeid Eestis turule lubatud taimekaitsevahendite ning nende tootjate ja turustajate, väga mürgiste taimekaitsevahendite Eestisse toimetajate ja kasutajate ning taimekaitsevahendite hoiu- ja turustamiskohtade kohta. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet taimekaitsevahendite registri kohta saab PMA kodulehelt.'
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Taimekaitsevahendite register
     url: 'http://www.agri.ee/sites/default/files/opendata/taimekaitse/Taimekaitsevahendid.xml'

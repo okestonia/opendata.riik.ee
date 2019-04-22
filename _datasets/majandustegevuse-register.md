@@ -1,11 +1,15 @@
 ---
 schema: default
 title: Majandustegevuse register
+title_en: Estonian Registry of Economic Activities
 notes: 'Ettevõtjate andmed, millel on MTR-is kehtivad tegevusload või majandustegevusteated. Sisaldab lube koos kehtivusinfo ning
 Eesti Majanduse Tegevusalade Klassifikaatori (EMTAK) koodidega. Sisaldab ka viidet loa detailsele andmestikule (HTML) '
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Avaandmed ettevõtjad
     url: 'https://mtr.mkm.ee/opendata/avaandmed_ettevotjad.xml'

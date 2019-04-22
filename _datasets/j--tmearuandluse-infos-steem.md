@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Jäätmearuandluse infosüsteem
+title_en: Waste Reporting System
 notes: 'Jäätmearuandluse infosüsteem on Eestis tekkivate ja käideldavate ning sisse- ja väljaveetavate jäätmekoguste arvestamise süsteem.'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Avaandmed
     url: 'https://jats.keskkonnainfo.ee/main.php?page=statquery2public'

@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tuulekaeraga saastunud alade andmekogu
+title_en: Register of Agricultrual Parcels - Areas Contaminated by Wild Oats
 notes: Maakasutajate teavituste põhjal on loodud tuulekaeraga saastunud alade kaardikiht. Kaardikiht asub Põllumajanduse Registrite ja Informatsiooni Ameti põllumassiivi veebikaardil.
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Tuulekaera leviku kaart 2016
     url: 'http://www.pma.agri.ee/download.php?getfile2=8518'

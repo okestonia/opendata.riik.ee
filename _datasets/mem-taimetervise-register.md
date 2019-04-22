@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Taimetervise register
+title_en: Plant Health Registry
 notes: 'Taimetervise registri pidamise eesmärk on järgmiste isikute ja nende tegevuse kohta andmete kogumine ja süstematiseerimine, et võimaldada isikute ja nende tegevuse üle arvestuse pidamist ning järelevalve teostamist. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet taimetervise registri kohta saab PMA kodulehelt.'
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Taimetervise register
     url: 'https://www.agri.ee/sites/default/files/opendata/taimetervis/taimetervis.xml'

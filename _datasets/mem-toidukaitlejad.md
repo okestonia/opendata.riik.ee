@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Toidukäitlejad
+title_en: Food Business Operators
 notes: Teavitatud ja tegevusloaga toidu / toiduga kokkupuutumiseks ettenähtud materjalide ja esemete käitlejad
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Toidukäitlejad
     url: 'https://agri.ee/sites/default/files/opendata/toit/Toidukaitlejad.xml'

@@ -1,6 +1,7 @@
 ---
 schema: default
 title: Statistilise metsainventuuri andmekogu
+title_en: Forest Inventory Statistics
 notes: 'Andmekogust leiab infot statistilise metsainventuuri (SMI) andmete kohta.'
 department: ''
 category: Keskkond

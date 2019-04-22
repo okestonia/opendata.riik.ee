@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Ametlike teadaannete avaandmed
+title_en: Official Notices and Announcements
 notes: 'Ametlikud teadaanded, mis ei ole avaldatud füüsilisest isikust adressaadile kätte toimetamiseks või mille avaldamine ei ole lõpetatud.'
+notes_en: ''
 department: ''
 category:
+  - Valitsus ja avalik sektor
+category_en:
   - Valitsus ja avalik sektor
 resources:
   - name: Ametlikud Teadaanded

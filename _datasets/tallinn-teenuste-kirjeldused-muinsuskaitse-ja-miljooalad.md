@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Teenuste kirjeldused - Muinsuskaitse ja miljööalad
+title_en: Services: Heritage Protection and Built-up Areas of Cultural and Environmental Value
 notes: Muinsuskaitse ja miljööalade valdkonna teenuste kirjeldused
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=19'
     format: XML

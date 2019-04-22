@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Lipupäevad
+title_en: Flag Days in Estonia
 notes: Eesti lipupäevad. Lipupäevadeks loetakse ka riigikogu või kohaliku omavalitsuse volikogu valimise päev, rahvahääletuse toimumise päev ja Euroopa Parlamendi valimise päev. Lipupäevadel heiskavad Eesti lipu riigi- ja kohaliku omavalitsuse asutused ning avalik-õiguslikud juriidilised isikud.
+notes_en: ''
 department: ''
 category:
   - Riigiteenused
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Lipupäevad
     url: '/downloads/lipupaevad.ics'

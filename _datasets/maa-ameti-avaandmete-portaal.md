@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Maa-ameti avaandmete portaal
+title_en: Estonian Land Board Geoportal
 notes: 'Perioodiliselt uuenevad ruumiandmekogud (näiteks: aadressiandmed, kohanimed, haldus- ja asustusjaotus, geoloogiline baaskaart, kaardiruudustikud).'
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Maa-ameti avaandmete portaal
     url: 'http://geoportaal.maaamet.ee/est/Andmete-tellimine/Avaandmed-p487.html'

@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Välisriikide rahvuspühad
+title_en: National Holidays
 notes: Eestis akrediteeritud välisesindust omavate riikide rahvuspühade andmed
+notes_en: ''
 department: ''
 category:
   - Elanikkond ja ühiskond
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: rahvuspyhad.xml
     url: 'http://opendata.vm.ee/rahvuspyhad.xml'

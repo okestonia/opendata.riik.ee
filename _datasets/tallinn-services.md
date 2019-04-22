@@ -1,10 +1,14 @@
 ---
 schema: default
-title: Tallinn City Service Database
+title: Tallinna Teenused
+title_en: Tallinn City Service Database
 notes: Tallinna teenuste kataloog inglise keeles
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.tallinn.ee/eng/teenused?action=avaandmed'
     format: XML

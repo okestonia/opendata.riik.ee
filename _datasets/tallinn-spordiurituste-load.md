@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Spordiürituste load
+title_en: Sports Event Permits
 notes: Jooksval nädalal toimuvad suured spordiüritused koos asukohtadega
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'https://akis.tallinn.ee/kogunemised/xml/32421f85'
     format: XML

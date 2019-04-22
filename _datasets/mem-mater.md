@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Maaparandusalal tegutsevate ettevõtjate register
+title_en: Register of Undertakings Operating in the Field of Land Improvement
 notes: Maaparandusalal tegutsevate ettevõtjate registri pidamise eesmärk on anda avalikkusele teavet maaparandusalal tegutsevatest ettevõtjatest ning võimaldada nende ettevõtjate tegevuse üle arvestuse pidamist ja järelevalvet. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet maaparandussüsteemide registri kohta saab PMA kodulehelt. Andmestik sisaldab ettevõtete infot koos tegevusala infoga.
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: MATER
     url: 'https://www.agri.ee/sites/default/files/opendata/mahe/MATER.xml'

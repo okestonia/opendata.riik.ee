@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tartu linnavalitsuse struktuuriüksuste andmed
+title_en: Tartu City Government Structural Units
 notes: Tartu linnavalitsuse struktuuriüksuste andmed
+notes_en: ''
 department: Linnavalitsemine
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://info.raad.tartu.ee/tootajad.nsf/web/org/xml'
     format: XML

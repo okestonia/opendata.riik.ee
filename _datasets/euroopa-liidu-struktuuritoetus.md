@@ -1,12 +1,16 @@
 ---
 schema: default
 title: Euroopa Liidu struktuuritoetus
+title_en: EU Structural Funds Projects in Estonia
 notes: |-
   Tabel annab ülevaate EL struktuurivahendite abil ellu viidud projektidest. Andmed pärinevad EL struktuuritoetuste riiklikust registrist.
      Fail on UTF8, *.csv formaadis.
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Euroopa Liidu struktuuritoetuse saajad
     url: 'http://www.struktuurifondid.ee/et/toetatud-projektid/toetatud-projektid'

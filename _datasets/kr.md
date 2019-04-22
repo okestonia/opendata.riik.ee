@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Kinnistusraamatu avalikud tasuta andmed
+title_en: Estonian Land Register - Public Information
 notes: Kinnistusraamatu avalikud tasuta andmed
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Kinnistusraamatu avalikud tasuta andmed
     url: 'http://avaandmed.rik.ee/andmed/KR/'

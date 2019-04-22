@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Teenuste kirjeldused - heakord ja haljastus
+title_en: Services: Maintenance and Landscaping
 notes: Heakorra ja haljastuse valdkonna teenuste kirjeldused
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=13'
     format: XML

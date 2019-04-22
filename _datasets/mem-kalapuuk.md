@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Kutselise kalapüügi register
+title_en: Commercial Fishing Register
 notes: 'Kutselise kalapüügi register on andmekogu, mille ülesanne on võimaldada kutselise kalapüügiga tegelevate isikute, nende tegevuse ja kalalaevade üle arvestuse pidamist ning järelevalve teostamist.'
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Kalalaevad
     url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/kalalaevad.xml'

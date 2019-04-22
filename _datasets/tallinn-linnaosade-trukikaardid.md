@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Linnaosade trükikaardid
+title_en: District Maps - Printable
 notes: Tallinna Linnaplaneerimise Ameti Geomaatika teenistuse kartograafid on valmistanud 2015 aastal linnosade kaardid. Need on allolevates suurustes ja mõõtkavades ning siit lehelt digitaalselt pdf-ina allalaetavad (failid on suuremahulised). Failide kasutamisel palume kindlasti viidata autorile Tallinna Linnaplaneerimise Amet.
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.tallinn.ee/est/ehitus/Linnaosade-trukikaardid'
     format: PDF

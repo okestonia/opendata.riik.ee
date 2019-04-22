@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Ravimiameti tegevuslubade register
+title_en: Agency of Medicines Operating License Register
 notes: 'Ravimiamet väljastab tegevuslubasid ravimite käitlemiseks ja vahendamiseks ning  rakkude, kudede ja elundite hankimiseks ja käitlemiseks. Nende lubade alusel saab teha järgmisi tegevusi: toota ravimeid, teha ravimite hulgimüüki, osutada apteegiteenust, vahendada ravimeid ja hankida ning  käidelda rakke, kudesid ja elundeid. Need load on koondatud Ravimiameti tegevuslubade registrisse. Käesolev link viitab ravimiameti tegevuslubade registri päringu leheküljele.'
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Ravimite käitlemise ja vahendamise tegevuslubade registri päring
     url: 'http://rkav.sm.ee/rkav/faces/pages/tegevuslubaForm/tegevuslubaOtsing.jspx'

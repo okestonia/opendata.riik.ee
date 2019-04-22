@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tartu asumid (mitteametlikud)
+title_en: Tartu Neighborhoods
 notes: Tartu asumid (mitteametlikud)
+notes_en: ''
 department: 'Maad, ehitus ja planeerimine'
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'https://www.tartu.ee/sites/default/files/uploads/Avaandmed/Tartu_asum.7z'
     format: SHP

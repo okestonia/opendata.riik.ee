@@ -1,10 +1,14 @@
 ---
 schema: default
 title: 'Reaalajaline peatuse info'
+title_en: Realtime Public Transport Info in Tartu
 notes: 'Reaalajaline peatuse info peatuste kaupa, kus "stop_id=" pärineb Sõiduplaanide gtfs-failist'
+notes_en: ''
 department: Transport ja liiklus
 category:
   - Transport
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: "http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1"
     format: XML

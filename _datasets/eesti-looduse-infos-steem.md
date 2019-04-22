@@ -1,6 +1,7 @@
 ---
 schema: default
 title: Eesti Looduse Infosüsteem EELIS infoleht
+title_en: Estonian Nature Information System
 notes: 'Eesti Looduse Infosüsteem EELIS infoleht leht koondab laiemale avalikkusele teabe EELIS programmis hoitavate loodusandmete kohta. Siin on võimalik teha otsinguid teatud objektide andmete kohta otse EELIS-e andmebaasist. Siia ei kuvata siiski kogu infot, mida EELIS sisaldab, vaid ainult teatud osa sellest. Lisaks andmetele on siin lehel võimalik lugeda ja vaadata EELIS-e andmestikul põhinevaid statistilisi analüüse ning erinevaid objektitüüpe kirjeldavaid ja seletavaid artikleid.'
 department: ''
 category: Keskkond

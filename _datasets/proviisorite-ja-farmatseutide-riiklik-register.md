@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Proviisorite ja farmatseutide riiklik register
+title_en: Register for Dispensing Chemists and Pharmacists
 notes: Sisaldab infot nii isikute kui nende kutse ning töökohtade kohta.
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: 'Proviisorid, farmatseudid'
     url: 'http://mveeb.sm.ee/od/od_apteekrid.xml'

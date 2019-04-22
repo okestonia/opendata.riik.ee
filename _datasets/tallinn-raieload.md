@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Raieload
+title_en: Tree Felling Licenses
 notes: Kehtivad raieload
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://raie.tallinn.ee/open_xml.php'
     format: XML

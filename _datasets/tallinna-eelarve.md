@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tallinna eelarve
+title_en: Tallinn City Budget
 notes: 'Tallinna eelarvestrateegia aastateks 2016 - 2019, Tallinna linna eelarved 2015, 2016, 2017, 2018'
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.tallinn.ee/eelarve'
     format: PDF

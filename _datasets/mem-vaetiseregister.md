@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Väetiseregister
+title_en: Register of Fertilizers
 notes: 'Väetiseregisteri pidamise eesmärk on turustamisotstarbeliste väetiste ning väetiste käitlejate ja nende tegevusvaldkondade kohta andmete kogumine ja süstematiseerimine, et võimaldada ettevõtjate ja nende majandustegevuse üle arvestuse pidamist ning järelevalve teostamist. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet.'
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Väetiseregister
     url: 'https://www.agri.ee/sites/default/files/opendata/vaetised/vaetised.xml'

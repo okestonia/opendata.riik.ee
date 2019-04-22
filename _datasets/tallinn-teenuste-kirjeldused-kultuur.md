@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Teenuste kirjeldused - kultuur
+title_en: Services: Culture
 notes: Kultuuri valdkonna teenuste kirjeldused
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=15'
     format: XML

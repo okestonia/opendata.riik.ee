@@ -1,11 +1,15 @@
 ---
 schema: default
 title: Niitmise tuvastamine satelliitseirega
+title_en: Detection of Mowed Fields with Satellite Observation
 notes: 'Pindalapõhiste otsetoetuste jagamisel on üks tingimustest, et rohumaa peab olema hooldatud. Sestap on tarvis tuvastada, kas ja millal on taotlustel esitatud rohumaadel toimunud niitmise sündmus. Selleks kasutatakse Satelliidiandmete kasutamise infosüsteemi (SATIKAS), mis kasutab sisendina satelliitide Sentinel 1 ja 2 andmeid ja PRIA-le esitatud pindalatoetuste taotlusel märgitud põllupiire. Iga rohumaa puhul jälgitakse satelliidipiltidelt erinevate parameetrite ajalist käitumist kogu vegetatsiooniperioodi jooksul ning selle põhjal leitaks niitmise toimumise aeg. Tulemusi kuvatakse põldude kaupa nii PRIA avalikul veebikaardil kui e-PRIAs (PRIA klientidele).
 Andmete vastutav töötleja on  Maaeluministeerium ja volitatud töötleja Põllumajanduse Registrite ja Informatsiooni Amet.
 Täpsemat teavet saab PRIA veebikaardilt https://kls.pria.ee/kaart/'
+notes_en: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: e-PRIA
     url: 'https://epria.pria.ee/'

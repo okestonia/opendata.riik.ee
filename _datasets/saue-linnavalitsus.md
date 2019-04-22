@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Saue Linnavalitsus
+title_en: Sauce Local Government Document System
 notes: Dokumendihaldussüsteem
+notes_en: ''
 department: ''
 category:
+  - Valitsus ja avalik sektor
+category_en:
   - Valitsus ja avalik sektor
 resources:
   - name: Amphora dokumendihaldus

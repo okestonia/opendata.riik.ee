@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Toetuste saajad
+title_en: Recipients of Agrictulrual Support
 notes: Toetuse saajate otsingumootor võimaldab leida infot eelmise finantsaasta jooksul toetusi saanute kohta
+notes_en: ''
 department: Põllumajanduse Registrite ja Informatsiooni Amet
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Toetuste saajad
     url: 'http://www.pria.ee/et/toetused/toetusesaajad/'

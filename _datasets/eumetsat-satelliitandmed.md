@@ -1,9 +1,13 @@
 ---
 schema: default
 title: EUMETSAT Satelliitandmed
+title: EUMETSAT Satellite Data
 notes: 'EUMETSAT Satelliitandmete interaktiivsed vaaturid'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en:
+- Valitsus ja avalik sektor
 resources:
   - name: Infrapuna
     url: 'http://www.ilmateenistus.ee/ilm/ilmavaatlused/satelliidipildid/infrapunane-pilt/'

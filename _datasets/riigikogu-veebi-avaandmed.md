@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Riigikogu veebi avaandmed
+title_en: Parliament Web Open Data
 notes: 'Riigikogu Kantselei avaandmete teenused võimaldavad IT-asjatundjale paindlikku ja kohest ligipääsu töö käigus tekkinud infole. Avaandmeid väljastatakse läbi rakendusliidese (API) JSON-vormingus. Avalik rakendus kuvab märkimisväärses mahus sisu mitmest infosüsteemist (näiteks stenogrammid, hääletused, osavõtt, dokumendiregister, saadikute ja teenistujate andmed, eelnõud, märksõnaotsingu sisu, statistika jm info). Paljud andmed on API väljundites esitatud universaalsete ja unikaalsete identifikaatoritena (UUID), millele saab selgitava vaste sobiva API päringu tegemisel.'
+notes_en: ''
 department: ''
 category:
+  - Valitsus ja avalik sektor
+category_en:
   - Valitsus ja avalik sektor
 resources:
   - name: EMS API dokumentatsioon

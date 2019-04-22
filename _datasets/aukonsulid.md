@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Aukonsulid
+title_en: List of estonian Honorary Consuls Serving in Estonia
 notes: Eestis asuvad välisriikide aukonsulid ja nende kontaktandmed.
+notes_en: ''
 department: ''
 category:
   - Rahvusvahelised küsimused
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: aukonsulid.xml
     url: 'http://opendata.vm.ee/aukonsulid.xml'

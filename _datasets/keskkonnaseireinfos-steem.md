@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Keskkonnaseire infosüsteem
+title_en: Environmental Monitoring Information System
 notes: 'Keskkonnaseire infosüsteem on riikliku keskkonnaseire programmi ja sellega seonduvate keskkonna uuringute-projektide raames kogutud keskkonnaseisundi andmestikku koondav andmekogu.'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Avaandmed
     url: 'https://kese.envir.ee/'

@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Rahvusarhiivi arhiivikirjeldused
+title_en: National Archives of Estonia
 notes: 'Rahvusarhiivi arhiivikirjeldused ehk informatsioon arhivaalide sisu kohta sõltumata nende füüsilisest kandjast (paber, elektrooniline kandja, filmilint vmt). Arhiivikirjeldustel baseeruvad kõik arhiiviainese otsivahendid.'
+notes_en: 
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Ajalooarhiiv (apeEAD XML vormingus)
     url: 'http://opendata.ra.ee/files/archives/EAA.zip'

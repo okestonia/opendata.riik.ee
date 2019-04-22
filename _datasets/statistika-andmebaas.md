@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Statistika andmebaas
+title_en: Statistics Estonia Database
 notes: Statistikaameti poolt koostatav riiklik statistika PC-Axis platvormil.  Plaanis on lähiajal uuendada kogu süsteemi platvorm ja teha kõik andmestikud kättesaadavaks masinloetavalt.
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Statistikaameti statistika andmebaas
     url: 'http://www.stat.ee/andmebaas'

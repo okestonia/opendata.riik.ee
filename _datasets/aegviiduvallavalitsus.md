@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Aegviidu Vallavalitsuse dokumendihaldussüsteem
+title_en: Aegviidu Local Government Document Management System
 notes: Aegviidu Vallavalitsuse dokumendihaldussüsteem. Masinloetaval kujul viimased muudatused saadaval siin - http://avalik.amphora.ee/aegviiduvv/RssDocuments.aspx
+notes_en: ''
 department: ''
 category:
+  - Valitsus ja avalik sektor
+category_en:
   - Valitsus ja avalik sektor
 resources:
   - name: Aegviidu Vallavalitsuse DHS

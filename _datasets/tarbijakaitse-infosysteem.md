@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tarbijakaitse teeninduskeskkonna infosüsteem TAKIS
+title_en: Consumer Protection Service Centers Information System
 notes: "TAKIS võimaldab sisestada ja menetleda tarbijate pöördumisi: teabenõudeid, selgitustaotlusi, kaebusi, tähelepanujuhtimisi ja väärteoteateid."
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: TAKIS avaandmed
     url: 'https://takis.ttja.ee/opendata/'

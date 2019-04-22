@@ -1,6 +1,7 @@
 ---
 schema: default
 title: RIHA andmestik
+title_en: Estonian State Information System Datasets
 notes: 'Kõik RIHAsse, https://www.riha.ee kogutud andmed. Juurdepääs on piiratud ainult mitteavalikele isikuandmetele. Samuti on juurdepääs piiratud andmete RIHAsse kandmise masintoimingutele.'
 department: ''
 category:

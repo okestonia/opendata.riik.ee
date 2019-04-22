@@ -1,12 +1,16 @@
 ---
 schema: default
 title: Tervise infosüsteemi klassifikaatorid
-notes: 'Käesolev rubriik sisaldab viidet tervise infosüsteemi publitseerimiskeskuse leheküljele, kus on publitseeritud kõik terviseinfosüsteemi andmekoosseisudes kasutatavad klassifikaatorid. Viidatud aadressilt on leitav klassifikaatorite loend (ca 500 klassifikaatorit). 
+title_en: Health Information System Classifiers
+notes: 'Käesolev rubriik sisaldab viidet tervise infosüsteemi publitseerimiskeskuse leheküljele, kus on publitseeritud kõik terviseinfosüsteemi andmekoosseisudes kasutatavad klassifikaatorid. Viidatud aadressilt on leitav klassifikaatorite loend (ca 500 klassifikaatorit).
 Iga klassifikaatori kohta on lühikirjeldus selle kasutuseesmärgist ja XLS-formaadis metaandmete kirjeldus.
 Kui klassifikaatorist on mitu versiooni, siis iga uue versiooni juures on muudatuste protokoll, mis kirjeldab võrreldes eelmise versiooniga tehtud muudatuste kirjeldusi.'
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Tervise infosüsteemi klassifikaatorid
     url: 'http://pub.e-tervis.ee/classifications'

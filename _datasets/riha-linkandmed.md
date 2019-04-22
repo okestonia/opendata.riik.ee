@@ -1,9 +1,13 @@
 ---
 schema: default
 title: X-tee teenuste linkandmed
+title_en: Linked Data for X-Road Services
 notes: 'Andmekomplektis on aprillis 2014 RIHAst korjatud andmed X-tee teenuste, teenusepakkujate ning teenuste tarbijate kohta. Andmekomplekt on korjatud ja kodeeritud Tartu Ülikooli arvutiteaduse instituudi doktorandi Svetlana Omelkova poolt ning seda kasutatakse teenuste ökosüsteemi evolutsiooni analüüsiks ning teenuste soovitamise algoritmide väljatöötamisel.'
+notes_en: ''
 department: ''
 category:
+  - Valitsus ja avalik sektor
+category_en:
   - Valitsus ja avalik sektor
 resources:
   - name: X-tee teenuste linkandmed

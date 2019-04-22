@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Eesti Spordi Biograafiline Leksikon (ESBL)
+title_en: Estonian Sport Biographical Lexicon
 notes: ESBL on biograafiline leksikon, mis sisaldab Eesti sporditegelaste lühielulugusid. Avaandmetena pakume lisaks artikli tekstidele väljavõtte täpsustamist rohkem kui 20 parameetri järgi (spordiala, isiku kategooria, OM osalemine jne).
+notes_en: ''
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: ESBL avaandmete portaal
     url: 'http://www.esbl.ee/opendata/'

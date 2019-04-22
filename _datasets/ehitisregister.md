@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Ehitisregister
+title_en: Estonian National Register of Buildings
 notes: 'Ehitistega seotud andmestik : aadress, seos katastriga, kasutusotstarbed, ruumikuju, sissepääsupunktid, energiamärgi, ehitusloa info, kasutusloa info ja tehnilised andmed.  Ehitisregistri klassifikaatorid.'
+notes_en: ''
 department: ''
 category:
   - Keskkond
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Ehitisregistri avaandmed
     url: 'https://avaandmed.ehr.ee'

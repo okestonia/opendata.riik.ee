@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Veekäitlejad
+title_en: Water Quality: Water Operators
 notes: Vee terviseohutuse infosüsteemi avaandmete komplekt. Veeproovide puhul esitatakse ainult avalikustamisele kuuluvad veeproovid. Veevärkide puhul esitatakse ainult järelevalve aluste veevärkide veeproovid. Veeallikate puhul esitatakse ainult kasutuses olevate veeallikate veeproovid. Info veekäitlejate, nende poolt käideldavate veevärkide ning neist võetud proovide kohta
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: Veekäitlejad
     url: 'http://vtiav.sm.ee/index.php/opendata/veekaitlejad.xml'

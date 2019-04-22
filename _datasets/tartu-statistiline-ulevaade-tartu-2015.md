@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Statistiline ülevaade Tartu 2015
+title_en: Statistical Overview of Tartu 2015
 notes: Statistiline ülevaade Tartu 2015
+notes_en: ''
 department: 'Maad, ehitus ja planeerimine'
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'http://www.tartu.ee/sites/default/files/uploads/Tartu%20linn/Statistika/Lyhiylevaade_2015.pdf'
     format: 'PDF, CSV'

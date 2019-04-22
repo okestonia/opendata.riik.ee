@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Strateegilise kauba sertifikaadid EL
+title_en: Certificates for Stratgic Goods in European Union
 notes: Strateegilise kauba sertifikaadid EL
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - name: sertifikaadid_el.xml
     url: 'http://opendata.vm.ee/stratkom/sertifikaadid_el.xml'

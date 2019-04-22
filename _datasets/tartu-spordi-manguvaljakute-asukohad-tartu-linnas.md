@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Spordi- ja mänguväljakute asukohad Tartu linnas
+title_en: Sports Fields and Playgrounds in Tartu
 notes: Spordi- ja mänguväljakute asukohad Tartu linnas
+notes_en: ''
 department: Vaba aeg ja kultuur
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Valitsus ja avalik sektor
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Haljastus/MV_SV_uus/MapServer?wsdl'
     format: XML

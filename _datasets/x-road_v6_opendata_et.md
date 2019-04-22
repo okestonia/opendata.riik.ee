@@ -1,10 +1,14 @@
 ---
 schema: default
 title: X-tee v6 teenuste monitooringu avaandmed
+title_en: X-Road v6 Service Monitoring Open Data
 notes: X-tee teenuste monitooringu andmed kogutakse X-tee keskuse (Riigi Infosüsteemi Amet, RIA) poolt kättesaadavatest Eesti X-tee liikmete turvaserveritest ja avaldatakse avaandmetena 10-päevase viitega päringu toimumise tegelikust ajast. Päringute toimumise kellaajad (requestInTs) on ümardatud tunni täpsusega, esitatud Unix-ajana (epoch-aeg). Andmetest on eemaldatud vaid asutusesiseseks kasutamiseks mõeldud ning Julgeolekuasutuste seaduses (JAS) nimetatud asutuste andmed.<p><a href="https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/ug_opendata_interface.md" target="_blank"  rel="noopener"> Kasutusjuhend</a></p><p><a href="https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/ug_opendata_api.md" target="_blank"  rel="noopener"> API juhend </a></p><p><a href= "https://github.com/ria-ee/X-Road-opmonitor/blob/master/docs/opendata/user_guide/cfg_lists/field_data.yaml" target="_blank" rel="noopener">Andmeväljad</a></p>
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Valitsus ja avalik sektor 
 resources:
   - name: Toodangukeskkond (EE)
     url: 'https://logs.x-tee.ee/EE/gui/'
