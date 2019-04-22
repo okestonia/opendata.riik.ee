@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Joogiveeallikate veeproovid
-title: Drinking Water Quality - Water Samples
+title_en: Drinking Water Quality - Water Samples
 notes: Vee terviseohutuse infosüsteemi avaandmete komplekt. Veeproovide puhul esitatakse ainult avalikustamisele kuuluvad veeproovid. Veevärkide puhul esitatakse ainult järelevalve aluste veevärkide veeproovid. Veeallikate puhul esitatakse ainult kasutuses olevate veeallikate veeproovid.
 notes_en: ''
 department: ''

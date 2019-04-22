@@ -1,7 +1,7 @@
 ---
 schema: default
 title: EUMETSAT Satelliitandmed
-title: EUMETSAT Satellite Data
+title_en: EUMETSAT Satellite Data
 notes: 'EUMETSAT Satelliitandmete interaktiivsed vaaturid'
 notes_en: ''
 department: ''
