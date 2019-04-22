@@ -15,7 +15,7 @@ department: ''
 category:
   - Elanikkond ja ühiskond
 category_en:
-  - Valitsus ja avalik sektor 
+  - Population and Society
 resources:
   - name: Link Sotsiaalkindlustusameti veebilehel olevale andmestikule
     url: 'https://www.sotsiaalkindlustusamet.ee/et/organisatsioon-kontaktid/statistika-ja-aruandlus'

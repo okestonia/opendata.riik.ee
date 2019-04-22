@@ -8,7 +8,7 @@ department: ''
 category:
   - Keskkond
 category_en:
-  - Valitsus ja avalik sektor 
+  - Environment
 resources:
   - name: Ehitisregistri avaandmed
     url: 'https://avaandmed.ehr.ee'

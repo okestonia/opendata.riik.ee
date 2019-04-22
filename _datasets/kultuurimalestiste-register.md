@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor 
+  - Education, Culture and Sport
 resources:
   - name: Rest API
     url: 'http://register.muinas.ee/rest/v1/monuments?'

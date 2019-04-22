@@ -8,7 +8,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor
+  - Government and Public Sector
 resources:
   - name: X-tee teenuste linkandmed
     url: 'http://deepweb.ut.ee/services/api-network-x-road.rdf'

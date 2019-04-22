@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - name: 'Proviisorid, farmatseudid'
     url: 'http://mveeb.sm.ee/od/od_apteekrid.xml'

@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor 
+  - Education, Culture and Sport
 resources:
   - name: Ajakirjad (EDM - Europeana Data Model)
     url: 'http://data.digar.ee:8080/repox/OAIHandler?verb=ListRecords&set=journal&metadataPrefix=edm'

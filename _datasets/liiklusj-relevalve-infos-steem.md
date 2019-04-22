@@ -8,7 +8,7 @@ department: ''
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor
+  - Transport
 resources:
   - name: LJVIS avaandmed
     url: 'https://www.liiklusvalve.ee/report/cvs'

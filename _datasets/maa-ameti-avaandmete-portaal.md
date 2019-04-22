@@ -8,7 +8,7 @@ department: ''
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - name: Maa-ameti avaandmete portaal
     url: 'http://geoportaal.maaamet.ee/est/Andmete-tellimine/Avaandmed-p487.html'

@@ -8,7 +8,7 @@ department: ''
 category:
   - Põllumajandus, kalandus, metsandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Sordiregister
     url: 'http://www.agri.ee/sites/default/files/opendata/sordiregister/Sordiregister.xml'

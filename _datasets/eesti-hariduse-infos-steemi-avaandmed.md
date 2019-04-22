@@ -9,7 +9,7 @@ department: ''
 category:
   - Teadus ja tehnoloogia
 category_en:
-  - Valitsus ja avalik sektor
+  - Science and Technology
 resources:
   - name: Õppeasutuste avaandmed
     url: 'http://enda.ehis.ee/avaandmed/rest/oppeasutused/-/Kool/E/-/-/-/-/-/-/0/0/XML'

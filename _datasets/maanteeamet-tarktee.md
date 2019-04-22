@@ -8,7 +8,7 @@ department: ''
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor 
+  - Transport
 resources:
   - name: Avaandmed
     url: 'https://tarktee.mnt.ee/tarktee/rest/services/'

@@ -7,7 +7,7 @@ notes_en: ''
 department: ''
 category: Keskkond
 category_en:
-- Valitsus ja avalik sektor 
+- Environment
 resources:
   - name: Meteoroloogilised andmed ja prognoosid
     url: 'https://www.ilmateenistus.ee/'

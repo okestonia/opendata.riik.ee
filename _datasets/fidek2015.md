@@ -14,7 +14,7 @@ department: ''
 category:
   - Majandus ja rahandus
 category_en:
-  - Valitsus ja avalik sektor 
+  - Economy and Finance
 resources:
   - name: Deklaratsioonide andmestik
     url: 'https://opendata.riik.ee/downloads/puhasfidek2015utf8.txt'

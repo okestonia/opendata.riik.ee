@@ -8,7 +8,7 @@ department: ''
 category:
   - Põllumajandus, kalandus, metsandus
 category_en:
-  - Valitsus ja avalik sektor 
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Maheregister
     url: 'https://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.xml'

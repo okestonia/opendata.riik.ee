@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - name: Meditsiiniseadmed
     url: 'https://msa.sm.ee/avaandmed/ms_seadmed.php'

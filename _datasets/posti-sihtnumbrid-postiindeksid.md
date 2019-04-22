@@ -8,7 +8,7 @@ department: ''
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - name: sihtnumbrid.zip
     url: 'http://geoportaal.maaamet.ee/docs/aadress/sihtnumbrid.zip'

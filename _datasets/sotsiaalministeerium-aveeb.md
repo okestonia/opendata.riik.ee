@@ -10,7 +10,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - name: Tervishoiustatistika aruannete internetipõhine päring
     url: 'https://aveeb.sm.ee/index.php?tid=49275120010101121212123456000000220021014130751952954030204217168'

@@ -8,7 +8,7 @@ department: ''
 category:
   - Põllumajandus, kalandus, metsandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Tuulekaera leviku kaart 2016
     url: 'http://www.pma.agri.ee/download.php?getfile2=8518'

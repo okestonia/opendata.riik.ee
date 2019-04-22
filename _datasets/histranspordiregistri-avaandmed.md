@@ -8,7 +8,7 @@ department: ''
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor 
+  - Transport
 resources:
   - name: Andmete kasutuslitsents
     url: 'https://opendatacommons.org/licenses/by/summary/'

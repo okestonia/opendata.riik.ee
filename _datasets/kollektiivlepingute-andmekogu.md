@@ -10,7 +10,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor 
+  - Government and Public Sector 
 resources:
   - name: Lepingu staatused
     url: 'http://klak.sm.ee/avaandmed?xml=lepingu_staatused'

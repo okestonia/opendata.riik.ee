@@ -8,7 +8,7 @@ department: ''
 category:
   - Majandus ja rahandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Economy and Finance
 resources:
   - name: sertifikaadid_eesti.xml
     url: 'http://opendata.vm.ee/stratkom/sertifikaadid_eesti.xml'

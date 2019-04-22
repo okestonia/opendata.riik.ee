@@ -8,7 +8,7 @@ department: ''
 category:
   - Majandus ja rahandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Economy and Finance
 resources:
   - name: TAKIS avaandmed
     url: 'https://takis.ttja.ee/opendata/'

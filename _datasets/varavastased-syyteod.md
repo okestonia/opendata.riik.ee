@@ -8,7 +8,7 @@ department: ''
 category:
   - Õigusemõistmine, õigussüsteem ja avalik turvalisus
 category_en:
-  - Valitsus ja avalik sektor
+  - Justice, Legal System, and Public Safety
 resources:
   - name: Süüteod üle-eelmise viie aasta kohta
     url: 'https://opendata.smit.ee/ppa/files/vara_3.zip'

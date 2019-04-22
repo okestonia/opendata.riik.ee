@@ -8,7 +8,7 @@ department: ''
 category:
   - Keskkond
 category_en:
-  - Valitsus ja avalik sektor 
+  - Environment
 resources:
   - name: Paigaldised
     url: 'https://jvis.tja.ee/modules/paigaldis/avaandmed/?offset=0'

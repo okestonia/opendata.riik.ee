@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - name: 'Asutused, tegevusload, töötajad'
     url: 'http://mveeb.sm.ee/od/od_asutused.xml'

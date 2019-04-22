@@ -10,7 +10,7 @@ department: ''
 category:
   - Teadus ja tehnoloogia
 category_en:
-  - Valitsus ja avalik sektor
+  - Science and Technology
 resources:
   - name: Avalikud ülesanded
     url: 'https://eis.ekk.edu.ee/eis/lahendamine'

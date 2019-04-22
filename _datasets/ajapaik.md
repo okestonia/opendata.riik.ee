@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Education Culture and Sport
+  - Education, Culture and Sport
 resources:
   - name: Ajapaik.ee avaandmete liides
     url: 'http://opendata.ajapaik.ee'

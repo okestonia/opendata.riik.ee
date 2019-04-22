@@ -11,7 +11,7 @@ department: ''
 category:
   - Teadus ja tehnoloogia
 category_en:
-  - Valitsus ja avalik sektor 
+  - Science and Technology
 resources:
   - name: ETIS avaandmete kasutamine API liidese vahendusel
     url: 'https://opendata.riik.ee/downloads/etisavaandmetekasutamineapiliidesevahendusel.pdf'

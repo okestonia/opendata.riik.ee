@@ -3,12 +3,12 @@ schema: default
 title: Eesti Spordiregistri avaandmed
 title_en: Estonian Sports Register Open Data
 notes: Treenerid, spordiehitised, spordikoolid, spordiorganisatsioonid
-notes_en: 
+notes_en:
 department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor
+  - Education, Culture and Sport
 resources:
   - name: Treenerid
     url: 'https://www.spordiregister.ee/opendata/files/treenerid.json'

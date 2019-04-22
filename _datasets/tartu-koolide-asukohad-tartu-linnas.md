@@ -8,7 +8,7 @@ department: Haridus ja lapsed
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor
+  - Education, Culture and Sport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Koolid/MapServer?wsdl'
     format: XML

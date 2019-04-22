@@ -8,7 +8,7 @@ department: Põllumajanduse Registrite ja Informatsiooni Amet
 category:
   - Põllumajandus, kalandus, metsandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Teenus vesiviljelusettevõtete andmete vaatamiseks
     url: 'https://ariel.pria.ee/vesiviljelus/'

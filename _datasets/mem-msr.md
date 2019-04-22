@@ -11,7 +11,7 @@ department: ''
 category:
   - Põllumajandus, kalandus, metsandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: MSR
     url: 'https://www.agri.ee/sites/default/files/opendata/mahe/MSR.xml'

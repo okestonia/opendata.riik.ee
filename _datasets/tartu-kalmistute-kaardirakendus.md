@@ -8,7 +8,7 @@ department: Heakord ja keskkond
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Kalmistu/KL_koond/MapServer/FeatureServer?wsdl'
     format: XML

@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor
+  - Education, Culture and Sport
 resources:
   - name: Eesti artiklid (marc21xml)
     url: 'http://dea.digar.ee/cgi-bin/dea-oaiserver?verb=ListRecords&metadataPrefix=marc21'

@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor 
+  - Health
 resources:
   - name: Basseinide veeproovid
     url: 'http://vtiav.sm.ee/index.php/opendata/basseini_veeproovid.xml'

@@ -8,7 +8,7 @@ department: Transport ja liiklus
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor
+  - Transport
 resources:
   - url: "http://lv.raad.tartu.ee:8877/SmartBusSVC.asmx/GetBoardInfo?stop_id=7820321-1"
     format: XML

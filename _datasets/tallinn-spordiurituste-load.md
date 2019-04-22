@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - url: 'https://akis.tallinn.ee/kogunemised/xml/32421f85'
     format: XML

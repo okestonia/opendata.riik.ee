@@ -8,7 +8,7 @@ department: ''
 category:
   - Elanikkond ja ühiskond
 category_en:
-  - Valitsus ja avalik sektor
+  - Population and Society
 resources:
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
     url: 'https://opendata.riik.ee/downloads/parameeterexcel.xlsx'

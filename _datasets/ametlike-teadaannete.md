@@ -8,7 +8,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor
+  - Government and Public Sector
 resources:
   - name: Ametlikud Teadaanded
     url: 'https://www.ametlikudteadaanded.ee/avalik/uriotsing'

@@ -7,7 +7,7 @@ department: ''
 category:
   - Keskkond
 category_en:
-  - Valitsus ja avalik sektor
+  - Environment
 resources:
   - name: Hüdroloogilised andmed ja prognoosid
     url: 'https://www.ilmateenistus.ee/siseveed/hudroloogiline-prognoos/vooluhulk/'

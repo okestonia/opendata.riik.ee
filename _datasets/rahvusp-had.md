@@ -8,7 +8,7 @@ department: ''
 category:
   - Elanikkond ja ühiskond
 category_en:
-  - Valitsus ja avalik sektor
+  - Population and Society
 resources:
   - name: rahvuspyhad.xml
     url: 'http://opendata.vm.ee/rahvuspyhad.xml'

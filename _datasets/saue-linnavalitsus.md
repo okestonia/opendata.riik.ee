@@ -8,7 +8,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor
+  - Government and Public Sector
 resources:
   - name: Amphora dokumendihaldus
     url: 'http://avalik.amphora.ee/saue/index.aspx?org=33&unit=9642'

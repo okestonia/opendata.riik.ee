@@ -8,7 +8,7 @@ department: ''
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor
+  - Transport
 resources:
   - name: LOIS avaandmed
     url: 'https://lois.ecaa.ee/avaandmed/aa.xml'

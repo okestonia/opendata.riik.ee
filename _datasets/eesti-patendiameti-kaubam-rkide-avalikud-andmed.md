@@ -8,7 +8,7 @@ department: ''
 category:
   - Majandus ja rahandus
 category_en:
-  - Valitsus ja avalik sektor 
+  - Economy and Finance 
 resources:
   - name: 01.07.2015 MYSQL
     url: 'http://avaandmed.rik.ee/andmed/PA/'

@@ -8,7 +8,7 @@ department: Heakord ja keskkond
 category:
   - Keskkond
 category_en:
-  - Valitsus ja avalik sektor
+  - Environment
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Haljastus/HALGIS_avaandmed/MapServer?wsdl'
     format: XML

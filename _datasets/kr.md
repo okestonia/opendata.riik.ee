@@ -8,7 +8,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor 
+  - Government and Public Sector
 resources:
   - name: Kinnistusraamatu avalikud tasuta andmed
     url: 'http://avaandmed.rik.ee/andmed/KR/'

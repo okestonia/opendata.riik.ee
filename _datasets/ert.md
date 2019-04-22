@@ -8,7 +8,7 @@ department: ''
 category:
   - Õigusemõistmine, õigussüsteem ja avalik turvalisus
 category_en:
-  - Valitsus ja avalik sektor
+  - Justice, Legal System, and Public Safety
 resources:
   - name: Õigusaktid
     url: 'http://avaandmed.rik.ee/andmed/ERT'

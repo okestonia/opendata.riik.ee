@@ -6,9 +6,9 @@ notes: Eesti lipupäevad. Lipupäevadeks loetakse ka riigikogu või kohaliku oma
 notes_en: ''
 department: ''
 category:
-  - Riigiteenused
-category_en:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: Lipupäevad
     url: '/downloads/lipupaevad.ics'

@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor 
+  - Educaiton, Culture and Sport
 resources:
   - name: ESBL avaandmete portaal
     url: 'http://www.esbl.ee/opendata/'

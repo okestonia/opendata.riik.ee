@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - name: Joogiveeallikad
     url: 'http://vtiav.sm.ee/index.php/opendata/joogiveeallikad.xml'

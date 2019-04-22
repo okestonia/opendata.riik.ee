@@ -8,7 +8,7 @@ department: ''
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - name: Tartu linna avaandmed
     url: 'http://www.tartu.ee/et/avaandmed'

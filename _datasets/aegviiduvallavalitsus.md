@@ -8,7 +8,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor
+  - Government and Public Sector
 resources:
   - name: Aegviidu Vallavalitsuse DHS
     url: 'http://avalik.amphora.ee/aegviiduvv/index.aspx?org=363&unit=-1'

@@ -8,7 +8,7 @@ department: ''
 category:
   - Elanikkond ja ühiskond
 category_en:
-  - Valitsus ja avalik sektor  
+  - Population and Society
 resources:
   - name: Andmestik rahvastikuregistri nimedest
     url: 'https://opendata.riik.ee/downloads/koiknimedseisuga01.02.2018.xlsx'

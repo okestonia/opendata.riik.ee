@@ -8,7 +8,7 @@ department: Linnavalitsemine
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Valimisjaoskonnad/MapServer?wsdl'
     format: XML

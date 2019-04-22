@@ -10,7 +10,7 @@ department: ''
 category:
   - Majandus ja rahandus
 category_en:
-  - Valitsus ja avalik sektor 
+  - Economy and Finance
 resources:
   - name: Euroopa Liidu struktuuritoetuse saajad
     url: 'http://www.struktuurifondid.ee/et/toetatud-projektid/toetatud-projektid'

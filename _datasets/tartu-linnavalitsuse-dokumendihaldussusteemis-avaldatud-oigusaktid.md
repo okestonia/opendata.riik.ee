@@ -8,7 +8,7 @@ department: Linnavalitsemine
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - url: 'http://info.raad.tartu.ee/dhs.nsf/xml/tlv/oigusaktid'
     format: HTML

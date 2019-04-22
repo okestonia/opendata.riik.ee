@@ -8,7 +8,7 @@ department: ''
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=15'
     format: XML

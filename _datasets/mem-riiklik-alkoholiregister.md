@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - name: Alkoholiregister
     url: 'https://alkoreg.agri.ee/avaandmed'

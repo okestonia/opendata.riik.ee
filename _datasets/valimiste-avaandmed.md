@@ -8,7 +8,7 @@ department: ''
 category:
   - Rahvusvahelised küsimused
 category_en:
-  - Valitsus ja avalik sektor
+  - International Issues
 resources:
   - name: Toimunud valimised
     url: 'https://www.valimised.ee/et/valimiste-arhiiv/toimunud-valimiste-arhiiv'

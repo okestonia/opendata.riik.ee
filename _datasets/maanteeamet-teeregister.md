@@ -8,7 +8,7 @@ department: ''
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor 
+  - Transport
 resources:
   - name: Avaandmed
     url: 'https://teeregister-api.mnt.ee/teenus/wfs?request=GetCapabilities&service=WFS'

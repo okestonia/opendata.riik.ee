@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor 
+  - Education, Culture and Sport
 resources:
   - name: Eesti Kirjandusmuuseumi arhiivide avaandmed
     url: 'http://kivike.kirmus.ee/index.php?dok_id=38&module=2&op='

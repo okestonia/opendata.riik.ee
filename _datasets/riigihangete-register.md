@@ -9,7 +9,7 @@ department: ''
 category:
   - Majandus ja rahandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Economy and Finance
 resources:
   - name: Riigihangete register seisuga 18.05.2015
     url: 'https://opendata.riik.ee/downloads/rhravaandmed.xlsx'

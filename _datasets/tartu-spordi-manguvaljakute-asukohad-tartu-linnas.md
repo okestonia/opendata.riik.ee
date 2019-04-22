@@ -8,7 +8,7 @@ department: Vaba aeg ja kultuur
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor
+  - Educaiton, Culture and Sport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Haljastus/MV_SV_uus/MapServer?wsdl'
     format: XML

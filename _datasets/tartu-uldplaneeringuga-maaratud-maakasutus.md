@@ -8,7 +8,7 @@ department: 'Maad, ehitus ja planeerimine'
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Planeeringud/Maakasutus_WMS/MapServer/WMSServer'
     format: WMS

@@ -8,7 +8,7 @@ department: Transport ja liiklus
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor
+  - Transport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Kergliiklus/k%C3%B5nniteed/MapServer?wsdl'
     format: XML

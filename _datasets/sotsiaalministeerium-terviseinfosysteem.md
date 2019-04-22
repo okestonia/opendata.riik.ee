@@ -10,7 +10,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - name: Tervise infosüsteemi klassifikaatorid
     url: 'http://pub.e-tervis.ee/classifications'

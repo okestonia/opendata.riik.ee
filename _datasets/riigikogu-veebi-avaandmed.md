@@ -8,7 +8,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor
+  - Government and Public Sector
 resources:
   - name: EMS API dokumentatsioon
     url: 'https://api.riigikogu.ee/swagger-ui.html'

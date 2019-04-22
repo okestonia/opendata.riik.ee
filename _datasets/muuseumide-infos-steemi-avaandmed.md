@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor
+  - Education, Culture and Sport
 resources:
   - name: 25.03.2015 MuIS püsiviited ja avaandmete liides
     url: 'http://opendata.muis.ee'

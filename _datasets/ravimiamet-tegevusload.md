@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor 
+  - Health
 resources:
   - name: Ravimite käitlemise ja vahendamise tegevuslubade registri päring
     url: 'http://rkav.sm.ee/rkav/faces/pages/tegevuslubaForm/tegevuslubaOtsing.jspx'

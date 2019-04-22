@@ -8,7 +8,7 @@ department: ''
 category:
   - Põllumajandus, kalandus, metsandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Registri avalik vaade
     url: 'https://jvis.agri.ee/jvis/avalik.html#/vetarstparing'

@@ -8,7 +8,7 @@ department: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - name: Loodusliku mineraalvee ja allikavee käitlejad
     url: 'http://vtiav.sm.ee/index.php/opendata/mineraalvee_allikavee_kaitlejad.xml'

@@ -8,7 +8,7 @@ department: ''
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor
+  - Transport
 resources:
   - name: EMDE avaandmed
     url: 'https://www.emde.ee/avaandmed/'

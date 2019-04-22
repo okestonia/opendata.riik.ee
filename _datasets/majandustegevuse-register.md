@@ -9,7 +9,7 @@ department: ''
 category:
   - Majandus ja rahandus
 category_en:
-  - Valitsus ja avalik sektor
+  - Economy and Finance
 resources:
   - name: Avaandmed ettevõtjad
     url: 'https://mtr.mkm.ee/opendata/avaandmed_ettevotjad.xml'

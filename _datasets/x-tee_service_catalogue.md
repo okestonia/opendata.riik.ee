@@ -8,7 +8,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor 
+  - Government and Public Sector
 resources:
   - name: Kõik alamsüsteemid koos teenuste kirjelduste ja WSDL-failidega, X-tee toodangukeskkond (EE)
     url: 'https://www.x-tee.ee/catalogue/EE/wsdls/index.json'

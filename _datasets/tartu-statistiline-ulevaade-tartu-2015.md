@@ -8,7 +8,7 @@ department: 'Maad, ehitus ja planeerimine'
 category:
   - Piirkonnad ja linnad
 category_en:
-  - Valitsus ja avalik sektor
+  - Regions and Cities
 resources:
   - url: 'http://www.tartu.ee/sites/default/files/uploads/Tartu%20linn/Statistika/Lyhiylevaade_2015.pdf'
     format: 'PDF, CSV'

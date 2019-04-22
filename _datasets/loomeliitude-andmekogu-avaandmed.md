@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor
+  - Education, Culture and Sport
 resources:
   - name: 'Loomeliitude andmekogu avaandmed'
     url: 'http://avaandmed.rik.ee/andmed/LLA/'

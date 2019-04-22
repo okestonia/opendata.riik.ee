@@ -8,7 +8,7 @@ department: Transport ja liiklus
 category:
   - Transport
 category_en:
-  - Valitsus ja avalik sektor
+  - Transport
 resources:
   - url: 'http://www.peatus.ee/gtfs/'
     format: GTFS

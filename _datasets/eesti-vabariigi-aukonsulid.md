@@ -8,7 +8,7 @@ department: ''
 category:
   - Rahvusvahelised küsimused
 category_en:
-  - Valitsus ja avalik sektor 
+  - International Issues
 resources:
   - name: est_aukonsulid.xml
     url: 'http://opendata.vm.ee/est_aukonsulid.xml'

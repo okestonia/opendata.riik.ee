@@ -8,7 +8,7 @@ department: ''
 category:
   - Valitsus ja avalik sektor
 category_en:
-  - Valitsus ja avalik sektor 
+  - Government and Public Sector
 resources:
   - name: Avalik dokumendiregister
     url: 'https://atp.amphora.ee/harkuvv/index.aspx?hdr=hp&o=903&tbs=all&o2=-1'

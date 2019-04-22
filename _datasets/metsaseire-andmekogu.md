@@ -7,7 +7,7 @@ notes_en: ''
 department: ''
 category: Keskkond
 category_en:
-- Valitsus ja avalik sektor 
+- Environment
 resources:
   - name: Avaandmed
     url: 'http://seire.keskkonnainfo.ee/index.php?option=com_content&view=article&id=638&Itemid=177'

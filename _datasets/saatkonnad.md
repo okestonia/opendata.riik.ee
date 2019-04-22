@@ -8,7 +8,7 @@ department: ''
 category:
   - Rahvusvahelised küsimused
 category_en:
-  - Valitsus ja avalik sektor
+  - International Issues
 resources:
   - name: saatkonnad.xml
     url: 'http://opendata.vm.ee/saatkonnad.xml'

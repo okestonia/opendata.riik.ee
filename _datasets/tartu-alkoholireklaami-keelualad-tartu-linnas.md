@@ -8,7 +8,7 @@ department: Linnavalitsemine
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor
+  - Health
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Alkoholireklaami_keelualad/MapServer?wsdl'
     format: XML

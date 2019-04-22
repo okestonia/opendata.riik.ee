@@ -8,7 +8,7 @@ department: ''
 category:
   - Haridus, kultuur ja sport
 category_en:
-  - Valitsus ja avalik sektor 
+  - Education, Culture and Sport
 resources:
   - name: Dokumendiregistri avaliku vaate otsing
     url: 'https://www.hm.ee/et/ministeerium/dokumendiregister'

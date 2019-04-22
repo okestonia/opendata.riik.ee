@@ -7,7 +7,7 @@ notes_en: ''
 category:
   - Tervis
 category_en:
-  - Valitsus ja avalik sektor 
+  - Health
 resources:
   - name: Ravimiregistri päring
     url: 'http://ravimiregister.ravimiamet.ee/?pv=HumRavimid.Otsing'
