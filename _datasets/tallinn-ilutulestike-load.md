@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Ilutulestike load
+title_en: Fireworks Permits
 notes: Jooksval nädalal toimuvad ilutulestikud koos asukohtadega
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'https://akis.tallinn.ee/kogunemised/kml/28cef206'
     format: KML

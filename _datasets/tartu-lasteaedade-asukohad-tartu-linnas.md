@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Lasteaedade asukohad Tartu linnas
+title_en: Locations of Kindergartens in Tartu
 notes: Lasteaedade asukohad Tartu linnas
+notes_en: ''
 department: Haridus ja lapsed
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Lasteaiad/MapServer?wsdl'
     format: XML

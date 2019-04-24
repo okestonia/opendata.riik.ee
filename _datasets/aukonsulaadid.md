@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Eesti Vabariigi aukonsulaadid
+title_en: List of Estonian Honorary Consulates Abroad
 notes: Eesti Vabariigi aukonsulaatide andmed.
+notes_en:
 department: ''
 category:
   - Rahvusvahelised küsimused
+category_en:
+  - International Issues
 resources:
   - name: asutused_avaandmed.xml
     url: 'http://opendata.vm.ee/asutused_avaandmed.xml'

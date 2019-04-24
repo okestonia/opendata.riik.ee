@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Lähiaastatel korrastatud kõnniteed Tartu linnas
+title_en: Recently Rennovated Footpaths in Tartu
 notes: Lähiaastatel korrastatud kõnniteed Tartu linnas
+notes_en: ''
 department: Transport ja liiklus
 category:
+  - Transport
+category_en:
   - Transport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Kergliiklus/k%C3%B5nniteed/MapServer?wsdl'

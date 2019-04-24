@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Metsaseire andmekogu
+title_en: Environmental Monitoring Data
 notes: 'Metsaseire andmekogu on osa Riikliku keskkonnaseire programmi veebist, mis pakub metsandusega seotud infot Keskkonnaseire seadusega sätestatud korras.'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en:
+- Environment
 resources:
   - name: Avaandmed
     url: 'http://seire.keskkonnainfo.ee/index.php?option=com_content&view=article&id=638&Itemid=177'

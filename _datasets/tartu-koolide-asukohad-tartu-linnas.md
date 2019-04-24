@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Koolide asukohad Tartu linnas
+title_en: Location of Schools in Tartu
 notes: Koolide asukohad Tartu linnas
+notes_en: ''
 department: Haridus ja lapsed
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Koolid/MapServer?wsdl'
     format: XML

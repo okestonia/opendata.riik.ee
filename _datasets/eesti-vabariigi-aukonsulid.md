@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Eesti Vabariigi aukonsulid
+title_en: List of Honorary Consuls of the Republic of Estonia
 notes: Eesti Vabariigi aukonsulite andmed. Nimed, kontaktandmed ja info puhkuse kohta
+notes_en: ''
 department: ''
 category:
   - Rahvusvahelised küsimused
+category_en:
+  - International Issues
 resources:
   - name: est_aukonsulid.xml
     url: 'http://opendata.vm.ee/est_aukonsulid.xml'

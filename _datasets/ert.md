@@ -1,10 +1,14 @@
 ---
 schema: default
-title: Riigi Teatajas avaldatud õigusaktid 
+title: Riigi Teatajas avaldatud õigusaktid
+title_en: Riigi Teataja dataset on Estonian Legislation from 2010 with Hash Values
 notes: Avaldatud õigusaktid alates 2010. aastast koos räsiväärtustega
+notes_en: ''
 department: ''
 category:
   - Õigusemõistmine, õigussüsteem ja avalik turvalisus
+category_en:
+  - Justice, Legal System, and Public Safety
 resources:
   - name: Õigusaktid
     url: 'http://avaandmed.rik.ee/andmed/ERT'

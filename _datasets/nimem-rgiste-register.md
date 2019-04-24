@@ -1,12 +1,16 @@
 ---
 schema: default
 title: Nimemärgiste register
+title_en: State Register of Sponsor's Marks
 notes: 'Nimemärgiste registris hoitakse väärismetalltoodete nimemärgised, mis väljastatakse nende valmistajale või sissevedajale. Avaandmetena on kättesaadavaks tehtud järgmised andmed: ettevõtte andmed, nimemärgise andmed - kujutis, kommentaar, registreerimise kuupäev ja number, olek, kehtivusaeg, lisamise kuupäev.'
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Economy and Finance
 resources:
-  - name: Avaandmed 
+  - name: Avaandmed
     url: 'http://www.proovikoda.ee/register/ettevotted.xml'
     format: XML
     interactive: 'False'

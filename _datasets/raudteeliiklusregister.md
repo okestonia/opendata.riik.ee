@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Raudteeliiklusregister
+title_en: Railroad Register
 notes: Riikliku raudteeliiklusregistri põhiülesandeks on arvestuse pidamine raudteede ja raudteeveeremi ning vedurijuhtide, eriveeremi juhtide ja vedurijuhiabide kohta.
+notes_en: ''
 department: ''
 category:
+  - Transport
+category_en:
   - Transport
 resources:
   - name: Raudteeliiklusregistri avaandmed

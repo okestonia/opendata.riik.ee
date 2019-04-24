@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tartu linnavalitsuse andmekogud
+title_en: Tartu City Government Datasets
 notes: Tartu linnavalitsuse andmekogudest koondatud ja avatud andmed Tartu kodulehel
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - name: Tartu linna avaandmed
     url: 'http://www.tartu.ee/et/avaandmed'

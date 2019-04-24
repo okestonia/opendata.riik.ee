@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tartu linnavalitsuse dokumendihaldussüsteemis avaldatud õigusaktid
+title_en: Document Management System
 notes: Tartu linnavalitsuse dokumendihaldussüsteemis avaldatud õigusaktid
+notes_en: ''
 department: Linnavalitsemine
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'http://info.raad.tartu.ee/dhs.nsf/xml/tlv/oigusaktid'
     format: HTML

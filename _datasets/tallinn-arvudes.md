@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tallinn arvudes
+title_en: Tallinn Statisical Overview
 notes: 'Tallinna statistika aastaraamatud "Tallinn arvudes", mis sisaldavad andmeid Tallinna rahvastiku, sotsiaalelu, majanduse ja keskkonna kohta'
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'http://www.tallinn.ee/est/Tallinn-arvudes'
     format: PDF

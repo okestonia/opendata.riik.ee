@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Metsaregister
+title_en: Forest Register
 notes: 'Metsaeraldiste andmekodu on osa metsaregistrist, mille eesmärk on koguda ja säilitada andmeid metsa paiknemise, pindala, tagavara, kasutamise ja seisundi kohta. Registris on avaandmete mõistes kaardikihtidena nähtavad Metsaeraldiste andmed, seda juhul kui metsaomanik need on lubanud avalikustada.'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en:
+- Environment
 resources:
   - name: Avaandmed
     url: 'https://register.metsad.ee/'

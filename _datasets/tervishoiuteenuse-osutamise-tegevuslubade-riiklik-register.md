@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tervishoiuteenuse osutamise tegevuslubade riiklik register
+title_en: National Register of Activity Licenses for the Provision of Health Services
 notes: 'Tervishoiuteenuse osutamise tegevuslubade riikliku registri avaandmete puhul on esitatud tervishoiuteenuseid osutavad asutused, nende tegevusload ja töötajad. Esitatud on ainult kehtivaid tegevuslube omavad asutused.'
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Health
 resources:
   - name: 'Asutused, tegevusload, töötajad'
     url: 'http://mveeb.sm.ee/od/od_asutused.xml'

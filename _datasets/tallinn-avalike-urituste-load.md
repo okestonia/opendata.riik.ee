@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Avalike ürituste load
+title_en: Public Event Permits
 notes: Jooksval nädalal toimuvad avalikud üritused Tallinnas koos asukohtadega
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'https://akis.tallinn.ee/kogunemised/xml/23d381ce'
     format: XML

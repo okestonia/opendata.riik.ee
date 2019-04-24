@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Planeeritav Tartu linna kergliiklusteede võrgustik
+title_en: Planned Cycling and Pedestrian Tracks in Tartu
 notes: Planeeritav Tartu linna kergliiklusteede võrgustik
+notes_en: ''
 department: Transport ja liiklus
 category:
+  - Transport
+category_en:
   - Transport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Kergliiklus/planeeritavad/MapServer?wsdl'

@@ -1,10 +1,14 @@
 ---
 schema: default
 title: 'Teenuste kirjeldused - ettevõtlus, kaubandus ja reklaam'
+title_en: Services -  Entrepreneurship, Business, Advertising
 notes: 'Ettevõtluse, kaubanduse ja reklaami valdkonna teenuste kirjeldused'
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'http://www.tallinn.ee/teenused#valdkond_12'
     format: XML

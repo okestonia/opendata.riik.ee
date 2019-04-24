@@ -1,12 +1,16 @@
 ---
 schema: default
 title: Tehnilise järelevalve infosüsteem JVIS
+title_en: Technical Surveillance Authority Information System
 notes: Paigaldised, sündmused, load, tunnistused
+notes_en: ''
 department: ''
 category:
   - Keskkond
+category_en:
+  - Environment
 resources:
-  - name: Paigaldised 
+  - name: Paigaldised
     url: 'https://jvis.tja.ee/modules/paigaldis/avaandmed/?offset=0'
     format: JSON
     interactive: 'False'
@@ -14,7 +18,7 @@ resources:
     url: 'https://jvis.tja.ee/avaandmed/avaandmed_2017_paigaldised.pdf'
     format: PDF
     interactive: 'True'
-  - name: Load ja tunnistused 
+  - name: Load ja tunnistused
     url: 'https://jvis.tja.ee/modules/load-ja-tunnistused/avaandmed/?offset=0'
     format: JSON
     interactive: 'False'

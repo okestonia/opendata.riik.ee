@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Probleemtooteregister
+title_en: Register of Products of Concern
 notes: 'Probleemtooteregistri (lühend: PROTO) pidamise eesmärk on andmete koondamine probleemtoodete tootjate kohta, Eestis valmistatud, Eestis turule lastud, Eestisse sisseveetud ja Eestist väljaveetud probleemtoodete ning nendest tekkinud jäätmete (edaspidi jäätmed) taaskasutamise ja kõrvaldamise ning Eestist väljaveetud jäätmete taaskasutamise ja kõrvaldamise arvestuse pidamiseks. Eesti õigusaktides sätestatud taaskasutamise sihtarvude täitmise arvestuse pidamine ning registrisse kantud andmete alusel Euroopa Komisjonile jäätmealase teabe esitamine. Probleemtooteregistri määruse järgi ei ole avalikud need andmed, mis sisaldavad ärisaladust ning andmed, mille avaldamine läheb vastuollu „Isikuandmete kaitse seaduses” sätestatud nõuetega. Teised registris hoitavad andmed on avalikud.'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en:
+- Environment
 resources:
   - name: Avaandmed
     url: 'https://tvr.envir.ee/tvr/proto/registration/publicList'

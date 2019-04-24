@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Meremeestele väljastatud merel töötamiseks vajalikud dokumendid
+title_en: Employment Documents Issued to Seafarers
 notes: Meremeestele väljastatud dokumendid seisuga 01.01.2017
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: meremehed
     url: 'https://opendata.riik.ee/downloads/meremehed.xml'

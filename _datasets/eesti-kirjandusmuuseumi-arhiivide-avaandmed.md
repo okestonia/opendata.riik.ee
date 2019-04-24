@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Eesti Kirjandusmuuseumi arhiivide avaandmed
+title_en: Estonian Literary Museum Archives
 notes: Eesti Kirjandusmuuseumi kogud hõlmavad Eesti rahvaluulet, kirjakultuuri ja kultuurilugu käsitlevaid materjale. Ulatuslike kogude avaandmetena kirjeldamine ja kättesaadavaks tegemine on pidev protsess ning andmed on kättesaadavad veebiteenuse kaudu. Kirjandusmuuseum koosneb kolmest arhiivist – Arhiivraamatukogust, Eesti Rahvaluule Arhiivist ja Eesti Kultuuriloolisest Arhiivist ning kahest teadusosakonnast – folkloristika ja etnomusikoloogia osakonnast. Neist peamised andmete pakkujad on kolm arhiivi.
+notes_en: ''
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - name: Eesti Kirjandusmuuseumi arhiivide avaandmed
     url: 'http://kivike.kirmus.ee/index.php?dok_id=38&module=2&op='

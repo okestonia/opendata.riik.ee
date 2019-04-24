@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tallinna geoportaal
+title_en: Tallinn Geoportal
 notes: Tallinna geograafilist ruumiinfot koondav koht ehk avalikud ruumiandmed. Andmete uuendamine toimub korra kvartalis.
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'https://www.tallinn.ee/geoportaal/'
     format: HTML
