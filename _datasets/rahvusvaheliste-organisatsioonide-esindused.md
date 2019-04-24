@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Rahvusvaheliste organisatsioonide esindused
+title_en: Representations of International Organizations in Estonia
 notes: 'Rahvusvaheliste organisatsioonide esindused - Eestisse akrediteeritud rahvusvaheliste organisatsioonide esindused, nende juhid ja kontaktandmed.'
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: esindused.xml
     url: 'http://opendata.vm.ee/esindused.xml'

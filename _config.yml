@@ -101,9 +101,6 @@ collections:
   datasets:
     output: true
     permalink: /andmehulgad/:path/
-  datasetsen:
-    output: true
-    permalink: /en/datasets/:path/
   organizations:
     output: true
   #  permalink: /publishers/:path/

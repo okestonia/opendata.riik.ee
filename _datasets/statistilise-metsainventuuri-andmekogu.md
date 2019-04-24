@@ -1,9 +1,12 @@
 ---
 schema: default
 title: Statistilise metsainventuuri andmekogu
+title_en: Forest Inventory Statistics
 notes: 'Andmekogust leiab infot statistilise metsainventuuri (SMI) andmete kohta.'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en: Environment
 resources:
   - name: Avaandmed
     url: 'https://veebiandmebaas.keskkonnaagentuur.ee/'

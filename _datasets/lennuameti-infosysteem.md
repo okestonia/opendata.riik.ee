@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Lennuohutuse järelevalve infosüsteem LOIS
+title_en: Flight Safety Information System
 notes: LOIS võimaldab lennundusettevõtjatel ja eraisikutel esitada Lennuametile elektroonselt taotlusi neile vajalike tegevuslubade ja -sertifikaatide saamiseks.
+notes_en: ''
 department: ''
 category:
+  - Transport
+category_en:
   - Transport
 resources:
   - name: LOIS avaandmed

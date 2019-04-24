@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Ametlike teadaannete avaandmed
+title_en: Official Notices and Announcements
 notes: 'Ametlikud teadaanded, mis ei ole avaldatud füüsilisest isikust adressaadile kätte toimetamiseks või mille avaldamine ei ole lõpetatud.'
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: Ametlikud Teadaanded
     url: 'https://www.ametlikudteadaanded.ee/avalik/uriotsing'

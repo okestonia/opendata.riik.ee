@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Teenuste kirjeldused - keskkonnakaitse
+title_en: Services -  Environmental Protection
 notes: Keskkonnakaitse valdkonna teenuste kirjeldused
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'http://www.tallinn.ee/teenused?action=avaandmed&valdkond_id=14'
     format: XML

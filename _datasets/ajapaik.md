@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Ajapaik.ee avaandmed
+title_en: ''
 notes: Ajapaik.ee metaandmed – nii kasutajate loodud kui algallikatest pärinevad
+notes_en: ''
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - name: Ajapaik.ee avaandmete liides
     url: 'http://opendata.ajapaik.ee'

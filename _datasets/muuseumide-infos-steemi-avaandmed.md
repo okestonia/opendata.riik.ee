@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Muuseumide infosüsteemi avaandmed
+title_en: Museums Public Portal Open Data
 notes: MuIS püsiviited ja avaandmed
+notes_en: ''
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - name: 25.03.2015 MuIS püsiviited ja avaandmete liides
     url: 'http://opendata.muis.ee'

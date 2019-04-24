@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Joogiveeallikad
+title_en: Water Quality - Drinking Water
 notes: Vee terviseohutuse infosüsteemi avaandmete komplekt. Veeproovide puhul esitatakse ainult avalikustamisele kuuluvad veeproovid. Veevärkide puhul esitatakse ainult järelevalve aluste veevärkide veeproovid. Veeallikate puhul esitatakse ainult kasutuses olevate veeallikate veeproovid.
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Health
 resources:
   - name: Joogiveeallikad
     url: 'http://vtiav.sm.ee/index.php/opendata/joogiveeallikad.xml'

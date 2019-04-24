@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tartu linnavalitsuse töötajate kontaktandmed
+title_en: Tartu City Government Employees and Contacts
 notes: Tartu linnavalitsuse töötajate kontaktandmed
+notes_en: ''
 department: Linnavalitsemine
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'http://info.raad.tartu.ee/tootajad.nsf/web/xml'
     format: XML

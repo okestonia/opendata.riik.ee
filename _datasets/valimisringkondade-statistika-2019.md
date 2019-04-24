@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Valimisringkondade statistika 2019
+title_en: Electoral Statistics 2019
 notes: Andmetabel ja näitajate kirjeldused ja allikad
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: Avaandmed
     url: https://opendata.riik.ee/downloads/valimised_kirjeldustega.xlsx
