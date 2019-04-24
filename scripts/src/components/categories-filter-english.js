@@ -30,8 +30,8 @@ export default class {
         const filters = createDatasetFilters(pick(params, ['organization']))
         const filteredDatasets = filter(datasetsInCat, filters)
         const categorySlug = slugify(category)
-        const selected = params.category && params.category === categorySlug
-        const itemParams = selected ? omit(params, 'category_en') : defaults({category: categorySlug}, params)
+        const selected = params.category_en && params.category_en === categorySlug
+        const itemParams = selected ? omit(params, 'category_en') : defaults({category_en: categorySlug}, params)
         return {
           title: category,
           url: '?' + $.param(itemParams),
