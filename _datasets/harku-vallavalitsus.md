@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Harku Vallavalitsus
+title_en: Harku Local Government
 notes: Dokumendihaldussüsteem
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: Avalik dokumendiregister
     url: 'https://atp.amphora.ee/harkuvv/index.aspx?hdr=hp&o=903&tbs=all&o2=-1'

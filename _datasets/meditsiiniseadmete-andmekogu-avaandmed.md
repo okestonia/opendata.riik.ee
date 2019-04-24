@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Meditsiiniseadmete andmekogu avaandmed
+title_en: Medical Device Database Open Data
 notes: Meditsiiniseadmete andmekogu avaandmed on digitaalsel ja masinloetaval kujul kättesaadavad vastavalt Avaliku teabe seaduse § 28 lg1 p30 ja § 29 lg4. MSA komplekti kuuluvad järgmised andmekomplektid:Kliinilised uuringud, Ohujuhtumid, Meditsiiniseadmed (sh nende tootjad, levitajad ja professionaalsed kasutajad)
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Health
 resources:
   - name: Meditsiiniseadmed
     url: 'https://msa.sm.ee/avaandmed/ms_seadmed.php'
@@ -25,7 +29,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/26
-date_modified: 2019/04/13
+date_modified: 2019/04/17
 organization: Terviseamet
 maintainer_name: Kadri Tõnnisson
 maintainer_email: kadri.tonnisson@terviseamet.ee

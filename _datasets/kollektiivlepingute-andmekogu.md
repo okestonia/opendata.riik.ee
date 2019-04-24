@@ -1,12 +1,16 @@
 ---
 schema: default
 title: Kollektiivlepingute andmekogu
+title_en: Collective Agreements in Estonia
 notes: |-
   Andmehulgas on kõik Eestis sõlmitud kollektiivlepingud alates 1997. aastast, mis on sisestatud Sotsiaalministeeriumi poolt hallatavasse kollektiivlepingute andmekogusse.
      Kuigi kollektiivlepingu seadus näeb ette, et sõlmitud kollektiivlepingud tuleb registreerida Sotsiaalministeeriumi peetavas andmekogus, ei pruugi kõik Eestis sõlmitud kollektiivlepingud siiski andmekogus registreeritud olla. Seetõttu ei anna kollektiivlepingute andmekogu statistika ammendavat ülevaadet kollektiivlepingute levikust ega kollektiivlepingutega kaetusest Eestis, vaid pakub teavet selle kohta, millised töötingimused on tavapäraselt kollektiivlepingutega reguleeritud ning kelle vahel lepingud sõlmitakse.
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector 
 resources:
   - name: Lepingu staatused
     url: 'http://klak.sm.ee/avaandmed?xml=lepingu_staatused'
@@ -55,7 +59,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/06/10
-date_modified: 2019/04/13
+date_modified: 2019/04/17
 organization: Sotsiaalministeerium
 maintainer_name: Liina Kaldmäe
 maintainer_email: liina.kaldmae@sm.ee

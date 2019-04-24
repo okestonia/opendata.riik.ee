@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Riiklik alkoholiregister
+title_en: Estonian State Register of Alcohol
 notes: Riikliku alkoholiregistri eesmärgiks on tagada käideldava alkoholi üle arvestuse pidamine vastavalt alkoholiseadusele. Alkoholiregistri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Veterinaar-ja Toiduamet (VTA). Täpsemat teavet alkoholiregistri kohta saab VTA kodulehelt.
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Health
 resources:
   - name: Alkoholiregister
     url: 'https://alkoreg.agri.ee/avaandmed'
@@ -25,7 +29,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-N'
 date_issued: 2017/06/07
-date_modified: 2019/04/13
+date_modified: 2019/04/17
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee

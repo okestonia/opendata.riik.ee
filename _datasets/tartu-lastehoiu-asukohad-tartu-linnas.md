@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Lastehoiu asukohad Tartu linnas
+title_en: Locations of Childcare Establishments in Tartu
 notes: Lastehoiu asukohad Tartu linnas
+notes_en: ''
 department: Haridus ja lapsed
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Lastehoiud/MapServer?wsdl'
     format: XML

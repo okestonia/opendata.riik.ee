@@ -1,11 +1,15 @@
 ---
 schema: default
 title: Eesti Rahvusbibliograafia
+title_en: Estonian National Bibliography
 notes: Eesti rahvusbibliograafia andmebaas ERB (http://erb.nlib.ee) registreerib andmed rahvusteavikute kohta. Rahvusteavikutena käsitletakse Eestis kõigis keeltes ning välismaal eesti keeles avaldatud väljaandeid, Eesti autorite teoseid ja nende tõlkeid sõltumata nende füüsilisest kandjast (paber, elektrooniline kandja). ERB koostamise põhimõtted on fikseeritud dokumendis Rahvusbibliograafia koostamise alused. Andmebaasi täiendatakse uute andmetega pidevalt, kuid mitte harvemini kui üks kord
   nädalas.
+notes_en:
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - name: Perioodika (marc21xml)
     url: 'http://data.digar.ee/erb/ERB_perioodika.zip'
@@ -56,12 +60,12 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
-update_freq: ''
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2017/03/13
-date_modified: 2019/02/20
+date_modified: 2019/04/24
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
-maintainer_phone: ''
+maintainer_phone: '6307222'
 
 ---

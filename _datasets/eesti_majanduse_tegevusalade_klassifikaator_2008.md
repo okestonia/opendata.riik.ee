@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Eesti majanduse tegevusalade klassifikaator EMTAK
+title_en: Estonian Classification of Economic Activities
 notes: 'EMTAK tegevusalade koodid, nimetused ja selgitused ning erinõuete teave. Andmed on reaalajas allalaetavad.'
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Economy and Finance
 resources:
   - name: EMTAK
     url: 'https://emtak.rik.ee/EMTAK/pages/klassifikaatorOtsing.jspx'

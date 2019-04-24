@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Kutseregistri avaandmed
+title_en: Register of Occupational Qualifications
 notes: 'Aastal 2001 asutatud register sisaldab andmeid kutsestandardite, kutsealade, kehtivate kutsetunnistuste, kutse andjate ja kutsenõukogude kohta. Kutseregistri väljavõtted on igapäevaselt uuendatud ja kättesaadavad Exceli formaadis.'
+notes_en: ''
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - name: Väljavõtted kutseregistrist
     url: 'https://www.kutsekoda.ee/et/kutseregister/statistika'

@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Söödakäitlejad
+title_en: Feed Business Operators
 notes: Teavitatud ja tegevusloaga söödakäitlejad
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Söödakäitlejad
     url: 'https://agri.ee/sites/default/files/opendata/soot/Soodakaitlejad.xml'
@@ -25,7 +29,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/07/17
-date_modified: 2019/04/13
+date_modified: 2019/04/17
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
