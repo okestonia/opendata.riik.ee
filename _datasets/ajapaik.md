@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Ajapaik.ee avaandmed
-title_en: ''
+title_en: 'Timepatch'
 notes: Ajapaik.ee metaandmed – nii kasutajate loodud kui algallikatest pärinevad
 notes_en: ''
 department: ''
