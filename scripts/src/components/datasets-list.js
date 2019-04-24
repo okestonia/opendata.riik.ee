@@ -13,17 +13,13 @@
 import {pick, defaults, filter} from 'lodash'
 
 import TmplDatasetItem from '../templates/dataset-item'
-import TmplDatasetItemEn from '../templates/dataset-item-english'
-
 import {queryByHook, setContent, createDatasetFilters} from '../util'
 
 export default class {
   constructor (opts) {
     const elements = {
       datasetsItems: queryByHook('datasets-items', opts.el),
-      datasetsItemsEn: queryByHook('datasets-items-english', opts.el),
       datasetsCount: queryByHook('datasets-count', opts.el),
-      datasetsEnglishCount: queryByHook('datasets-english-count', opts.el),
       searchQuery: queryByHook('search-query', opts.el)
     }
 
@@ -35,25 +31,11 @@ export default class {
     const datasetsMarkup = filteredDatasets.map(TmplDatasetItem)
     setContent(elements.datasetsItems, datasetsMarkup)
 
-
-    const paramFiltersEn = pick(opts.params, ['organization', 'category'])
-    const attributeFiltersEn = pick(opts.el.data(), ['organization', 'category'])
-    const filtersEn = createDatasetFilters(defaults(paramFiltersEn, attributeFiltersEn))
-    const filteredDatasetsEn = filter(opts.datasets, filtersEn)
-    const datasetsMarkupEn = filteredDatasetsEn.map(TmplDatasetItemEn)
-    setContent(elements.datasetsItemsEn, datasetsMarkupEn)
-
     // // Dataset count
   //  const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
     const datasetsCountMarkup = filteredDatasets.length + ' Andmehulgad';
     // + datasetSuffix;
     setContent(elements.datasetsCount, datasetsCountMarkup)
-
-    // // Dataset count English
-    const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
-    const datasetsEnglish = filteredDatasets.length + ' Dataset' + datasetSuffix;
-
-    setContent(elements.datasetsEnglishCount, datasetsEnglish)
 
     // Search datasets listener
     const searchFunction = this._createSearchFunction(filteredDatasets)
@@ -68,10 +50,6 @@ export default class {
       // Dataset count
       const resultsCountMarkup = results.length + ' Andmehulgad'
       setContent(elements.datasetsCount, resultsCountMarkup)
-
-      //Dataset Count english
-      const resultid = results.length + ' Datasets'
-      setContent(elements.datasetsEnglishCount, resultid)
 
 
     })
