@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/02
-date_modified: 2019/04/25
+date_modified: 2019/04/26
 organization: Tarbijakaitse ja Tehnilise Järelevalve Amet
 maintainer_name: Uuno Vallner
 maintainer_email: uuno.vallner@riso.ee
