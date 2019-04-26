@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Ilmapank
+title_en: Weatherbank
 notes: 'Baas edastab andmeid ilmteenistuse veebilehele.'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en:
+- Environment
 resources:
   - name: Meteoroloogilised andmed ja prognoosid
     url: 'https://www.ilmateenistus.ee/'

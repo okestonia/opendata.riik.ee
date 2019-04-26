@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Rahvusraamatukogu digiarhiiv DIGAR
+title_en: Digital Archives
 notes: 'DIGAR on Rahvusraamatukogu kasutajakeskkond, mis praegu pakub juurdepääsu digitaalarhiivis talletatud väljaannetele. Nende hulgas on e-raamatuid, ajalehti, ajakirju, kaarte, noote, fotosid, postkaarte, plakateid, illustratsioone, audioraamatuid ning muusikafaile. Raamatute ja perioodika vorming on enamasti pdf või epub, pildimaterjalil jpeg ja helisalvestistel wav.'
+notes_en: ''
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - name: Ajakirjad (EDM - Europeana Data Model)
     url: 'http://data.digar.ee:8080/repox/OAIHandler?verb=ListRecords&set=journal&metadataPrefix=edm'
@@ -53,7 +57,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2017/03/13
-date_modified: 2019/04/24
+date_modified: 2019/04/26
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee

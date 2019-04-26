@@ -1,10 +1,14 @@
 ---
 schema: default
 title: RIHA andmestik
+title_en: Estonian State Information System Datasets
 notes: 'Kõik RIHAsse, https://www.riha.ee kogutud andmed. Juurdepääs on piiratud ainult mitteavalikele isikuandmetele. Samuti on juurdepääs piiratud andmete RIHAsse kandmise masintoimingutele.'
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: API
     url: 'https://www.riha.ee/api/v1/systems'

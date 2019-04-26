@@ -1,10 +1,15 @@
 ---
 schema: default
 title: Laevakinnistusraamatu avalikud andmed
+title_en: Estonian National Ship Registry
 notes: Kõik laevakinnistusraamatu avalikud andmed
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
+
 resources:
   - name: Kõik laevakinnistusraamatu avalikud andmed
     url: 'http://avaandmed.rik.ee/andmed/LAEV/'

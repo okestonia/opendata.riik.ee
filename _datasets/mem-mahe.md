@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Mahepõllumajanduse register
+title_en: Organic Farming Registry
 notes: Mahepõllumajanduse registri pidamise eesmärk on pidada arvestust mahepõllumajanduse valdkonnas tegutsevate isikute ja nende tunnustatud ettevõtete üle avalikkusele kättesaadaval ning tõhusa järelevalve teostamist võimaldaval viisil. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet mahepõllumajanduse registri kohta saab PMA kodulehelt
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Maheregister
     url: 'https://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.xml'

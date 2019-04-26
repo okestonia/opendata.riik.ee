@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tallinna planeeringute register (TPR)
+title_en: Tallinn Register of Plans
 notes: Planeeringute andmed
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'http://www.tallinn.ee/est/ehitus/Masinliides'
     format: XML

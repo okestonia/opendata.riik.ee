@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Kultuurimälestiste Register
+title_en: Estonian National Registry of Cultural Monuments
 notes: Registrist leiate informatsiooni kõikide Eestis riikliku kaitse all olevate mälestiste kohta.
+notes_en: ''
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
   - name: Rest API
     url: 'http://register.muinas.ee/rest/v1/monuments?'

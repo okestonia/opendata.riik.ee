@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Loodusliku mineraalvee ja allikavee veeproovid
+title_en: Water Quality - Natural Mineral and Springer Water Samples
 notes: Vee terviseohutuse infosüsteemi avaandmete komplekt. Veeproovide puhul esitatakse ainult avalikustamisele kuuluvad veeproovid. Veevärkide puhul esitatakse ainult järelevalve aluste veevärkide veeproovid. Veeallikate puhul esitatakse ainult kasutuses olevate veeallikate veeproovid.
+notes_en: ''
 department: ''
 category:
   - Tervis
+category_en:
+  - Health
 resources:
   - name: Loodusliku mineraalvee ja allikavee veeproovid
     url: 'http://vtiav.sm.ee/index.php/opendata/mineraalvee_allikavee_veeproovid.xml'

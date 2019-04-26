@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Avalike tualettruumide asukohad Tartu linnas
+title_en: Public Toilets in Tartu
 notes: Avalike tualettruumide asukohad Tartu linnas
+notes_en: ''
 department: Heakord ja keskkond
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Avalikud_tualetid/MapServer?wsdl'
     format: XML

@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Veterinaararstid
+title_en: National Register of Veterinarians
 notes: Riikliku veterinaararstide registri eesmärk on tagada tarbijale veterinaarpraksise raames veterinaarteenuse osutamine nõutud kvalifikatsiooniga isiku poolt, veterinaarpraksise veterinaarjärelevalve ja veterinaarkontroll ning vajalikud andmed veterinaaria valdkonna korraldamist võimaldava statistika tegemiseks.
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Registri avalik vaade
     url: 'https://jvis.agri.ee/jvis/avalik.html#/vetarstparing'

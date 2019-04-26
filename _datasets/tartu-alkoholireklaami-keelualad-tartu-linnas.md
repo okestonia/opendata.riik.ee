@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Alkoholireklaami keelualad Tartu linnas
+title_en: Alcohol Advertisement Prohibited Areas
 notes: Alkoholireklaami keelualad Tartu linnas
+notes_en: ''
 department: Linnavalitsemine
 category:
   - Tervis
+category_en:
+  - Health
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Alkoholireklaami_keelualad/MapServer?wsdl'
     format: XML

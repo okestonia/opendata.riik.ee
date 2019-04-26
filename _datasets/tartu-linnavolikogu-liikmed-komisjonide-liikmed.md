@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tartu linnavolikogu liikmed ja komisjonide liikmed
+title_en: Members of Tartu City Council and Committees
 notes: Tartu linnavolikogu liikmed ja komisjonide liikmed
+notes_en: ''
 department: Linnavalitsemine
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'http://info.raad.tartu.ee/tootajad.nsf/web/volisik/xml'
     format: XML

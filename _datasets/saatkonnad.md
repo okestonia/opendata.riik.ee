@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Saatkonnad
+title_en: Foreign Embassies in Estonia
 notes: 'Eestisse akrediteeritud välisesindused, nende kontaktandmed ning esindustes töötavate diplomaatide nimekiri koos ametinimetustega. Eestisse akrediteeritud suursaadikute Eesti Vabariigi presidendile volikirjade üleandmise kuupäevad.'
+notes_en: ''
 department: ''
 category:
   - Rahvusvahelised küsimused
+category_en:
+  - International Issues
 resources:
   - name: saatkonnad.xml
     url: 'http://opendata.vm.ee/saatkonnad.xml'

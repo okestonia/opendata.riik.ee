@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Hüdroloogiline andmebaas WISKI
+title_en: Hydrological Database
 notes: 'Baasis hoitakse seireandmeid ja see edastab andmeid ilmateenistuse veebilehele.'
 department: ''
-category: Keskkond
+category:
+  - Keskkond
+category_en:
+  - Environment
 resources:
   - name: Hüdroloogilised andmed ja prognoosid
     url: 'https://www.ilmateenistus.ee/siseveed/hudroloogiline-prognoos/vooluhulk/'

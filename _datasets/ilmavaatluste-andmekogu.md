@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Ilmavaatluste andmekogu
+title_en: Weather Observation Data
 notes: 'Andmekogu koondab enda alla kõik seirevõrgus kogutavad ilmaandmed (nii meteoroloogilised kui ka hüdroloogilised).'
+notes_en: ''
 department: ''
 category: Keskkond
+category_en:
+  - Environment
 resources:
   - name: Vaatlusandmed
     url: 'http://www.ilmateenistus.ee/ilm/ilmavaatlused/vaatlusandmed/'
