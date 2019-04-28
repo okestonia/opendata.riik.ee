@@ -1,6 +1,6 @@
 ---
 title: Harku Vallavalitsus
-title_en:
+title_en: Harku Local Government
 maintainer_name: Harku Vallavalitsus
 maintainer_email: harku@harku.ee
 description: ''
