@@ -55,7 +55,7 @@ navigation_et:
 
 navigation_english:
     - title: Datasets
-      url: /en/datasets/
+      url: /en/andmehulgad/
     - title: Publishers
       url: /en/orgs/
     - title: Applications
@@ -101,6 +101,9 @@ collections:
   datasets:
     output: true
     permalink: /andmehulgad/:path/
+  datasetsEnglish:
+    output: true
+    permalink: /en/andmehulgad/:path/
   organizations:
     output: true
   #  permalink: /publishers/:path/
@@ -122,12 +125,11 @@ defaults:
       organization: N/A
   - scope:
       path: ""
-      type: datasetsen
+      type: datasetsEnglish
     values:
       layout: datasetsen
       category: Uncategorized
-      organization: N/A
-  # - scope:
+      organization: N/A  # - scope:
   #     path: ""
   #     type: organizations
   #   values:

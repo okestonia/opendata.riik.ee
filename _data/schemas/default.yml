@@ -38,6 +38,43 @@ dataset_fields:
   - field_name: maintainer_phone
     label: Kontakt telefon
 
+dataset_fields_english:
+  - field_name: title
+    label: Title
+    datajson: title_en
+  - field_name: update_freq
+    label: Update Frequency
+    datajson: frequency
+  - field_name: date_issued
+    label: Added to Portal (YYYY/MM/DD)
+    datajson: issued
+  - field_name: date_modified
+    label: Last Modified (YYYY/MM/DD)
+    datajson: modified
+  - field_name: organization
+    label: Organization
+    datajson: publisher
+  - field_name: notes_en
+    label: Notes
+    form_template: form/textarea.html
+    datajson: description
+  - field_name: license
+    label: Usage License
+    form_template: form/license.html
+    datajson: license
+  - field_name: category_en
+    label: Category
+    form_template: form/category.html
+    display_template: display/category_en.html
+    datajson: category_en
+  - field_name: maintainer_name
+    label: Contact Name
+    datajson: contactPoint.fn
+  - field_name: maintainer_email
+    label: Contact Email
+    datajson: contactPoint.hasEmail
+  - field_name: maintainer_phone
+    label: Contact Phone
 
 resource_fields:
   - field_name: name
