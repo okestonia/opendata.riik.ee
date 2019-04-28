@@ -32,10 +32,10 @@ layout: default
     <p>{{ page.description }}</p>
     <p>Contact Name: {{ page.maintainer_name }}</p>
     <p>Contact Email: {{ page.maintainer_email }}</p>
-    <div data-component="datasets-list" data-organization="{{ page.title | slugify }}">
+    <div data-component="datasets-list-english" data-organization="{{ page.title | slugify }}">
       <h3 class="datasets-count" data-hook="datasets-english-count"></h3>
-      <input type="text" data-hook="search-query" placeholder="Search..." class="form-control">
-      <div data-hook="datasets-items"></div>
+      <input type="text" data-hook="search-query-english" placeholder="Search..." class="form-control">
+      <div data-hook="datasets-items-english"></div>
     </div>
 
     {% endif %}
