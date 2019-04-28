@@ -27,7 +27,7 @@ ls *.md | python3 ../validateURLs.py
 ### validateURLs.py (check resource http response)
 ```bash
 cd ./_datasets
-ls *.md | python3 ../validateURLs.py > ../validated.json
+ls *.md | python3 ../validateURLs.py  ../validated.json
 ```
 
 A more thorough README in both Estonian and English language is in progress. 

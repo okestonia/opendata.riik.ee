@@ -1,10 +1,14 @@
 ---
 schema: default
-title: Eesti usaldusnimekiri / Trusted List of Estonia
-notes: Käesolev nimekiri on usaldusnimekiri, mis sisaldab teavet Eesti järelevalve all olevate usaldusteenuse osutajate kohta ja usaldusteenuste kohta, mida osutatakse kooskõlas [eIDAS](https://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=CELEX:32014R0910&from=ET) määrusega.\nThe present list is the trusted list including information related to the qualified trust service providers which are supervised by Estonia, together with information related to the qualified trust services provided by them, in accordance with the relevant provisions laid down in [eIDAS](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32014R0910&from=EN) Regulation.
+title: Eesti usaldusnimekiri
+title_en: Estonian trusted List of Certification Service Providers
+notes: Käesolev nimekiri on usaldusnimekiri, mis sisaldab teavet Eesti järelevalve all olevate usaldusteenuse osutajate kohta ja usaldusteenuste kohta, mida osutatakse kooskõlas [eIDAS](https://eur-lex.europa.eu/legal-content/ET/TXT/PDF/?uri=CELEX:32014R0910&from=ET) määrusega.
+notes_en: The present list is the 'Trusted List of supervised/accredited Certification Service Providers' providing information about the supervision/accreditation status of certification services from Certification Service Providers (CSPs) who are supervised/accredited by Estonia for compliance with the relevant provisions of Directive 1999/93/EC of the European Parliament and of the Council of 13 December 1999 on a Community framework for electronic signatures.
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: Eesti usaldusnimekiri (XML)
     url: 'http://sr.riik.ee/tsl/estonian-tsl.xml'
@@ -26,3 +30,4 @@ organization: Riigi Infosüsteemi Amet
 maintainer_email: ria@ria.ee
 maintainer_phone: '+372 663 0200'
 ---
+

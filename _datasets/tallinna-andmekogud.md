@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tallinna andmekogud
+title_en: Tallinn Datasets
 notes: 'Tallinna avaandmete veebilehele on kokku koondatud andmekogud, mis võimaldavad alla laadida avaandmeid XML kujul.'
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - name: Tallinna andmekogud
     url: 'http://www.tallinn.ee/avaandmed/'

@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Äriregistri avalikud tasuta andmed
+title_en: Estonian Commercial Register
 notes: 'Äriregistri avalikud tasuta andmed [ettevõtja (ühingu) nimi, registrikood, käibemaksukohustuslase number, staatus, aadress, link ettevõtja andmetele]'
+notes_en:
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Economy and Finance
 resources:
   - name: 'Äriregistri avalikud tasuta andmed [ettevõtja (ühingu) nimi, registrikood, käibemaksukohustuslase number, staatus, aadress, link ettevõtja andmetele]'
     url: 'http://avaandmed.rik.ee/andmed/ARIREGISTER/'

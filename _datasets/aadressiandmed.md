@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Aadressiandmed
+title_en: National Address Data System
 notes: 'Aadressiandmed (aadressiandmete süsteemi ADS andmed) eri lõigetes (eraldi Tallinn, eraldi kehtivate aadressikomponentide nimekiri jne.). Kõigi maaüksuste, hoonete ja hooneosade (korterite) aadressid ja ruumilised asukohad kaardil. Andmed on tasuta kõigile kättesaadavad, väljavõtteid uuendatakse 1 kord kuus. Esimesed andmed pärinevad maakatastri algusaegadest 1992.a. ADS loodi 2007, peale seda on kättesaadav andmemuudatuste info. Igapäevased muudatused on kätte saadavad X-tee teenuste kaudu.'
+notes_en: ''
 department: ''
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - name: Aadressid
     url: 'http://xgis.maaamet.ee/adsavalik/ads?xBTN.newvalja'

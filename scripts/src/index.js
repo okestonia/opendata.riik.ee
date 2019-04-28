@@ -9,7 +9,9 @@ import {omit} from 'lodash'
 import UserModel from './models/user'
 import Navigation from './components/navigation'
 import DatasetsList from './components/datasets-list'
+import DatasetsListEnglish from './components/datasets-list-english'
 import CategoriesFilter from './components/categories-filter'
+import CategoriesFilterEnglish from './components/categories-filter-english'
 import OrganizationsFilter from './components/organizations-filter'
 import Form from './components/form'
 import DatasetForm from './components/dataset-form'
@@ -60,7 +62,9 @@ const components = [
   {tag: 'view-switcher', class: ViewSwitcher},
   {tag: 'theme-gallery', class: ThemeGallery},
   {tag: 'datasets-list', class: DatasetsList, usesDatasets: true},
+  {tag: 'datasets-list-english', class: DatasetsListEnglish, usesDatasets: true},
   {tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true},
+  {tag: 'categories-filter-english', class: CategoriesFilterEnglish, usesDatasets: true},
   {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true}
 ]
 for (let component of components) {

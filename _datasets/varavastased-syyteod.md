@@ -1,32 +1,36 @@
 ---
 schema: default
 title: Varavastased süüteod
+title_en: Offences against Property
 notes: Andmehulk sisaldab andmeid Politsei- ja Piirivalveametis registreeritud varavastaste süütegude kohta. Avaldatavate andmete täpsemale kirjeldusele on viidatud täiendavate linkide all.
+notes_en: ''
 department: ''
 category:
   - Õigusemõistmine, õigussüsteem ja avalik turvalisus
+category_en:
+  - Justice, Legal System, and Public Safety
 resources:
-  - name: 11.01.2018 Süüteod üle-eelmise viie aasta kohta
+  - name: Süüteod üle-eelmise viie aasta kohta
     url: 'https://opendata.smit.ee/ppa/files/vara_3.zip'
     format: ZIP
     interactive: 'False'
-  - name: 11.01.2018 Süüteod üle-eelmise viie aasta kohta
+  - name: Süüteod üle-eelmise viie aasta kohta
     url: 'https://opendata.smit.ee/ppa/csv/vara_3.csv'
     format: CSV
     interactive: 'False'
-  - name: 16.11.2017 Süüteod eelmisele aastale eelneval 5 aastal ZIP
+  - name: Süüteod eelmisele aastale eelneval 5 aastal ZIP
     url: 'https://opendata.smit.ee/ppa/files/vara_2.zip'
     format: csv / zip
     interactive: 'False'
-  - name: 16.11.2017 Süüteod eelmisele aastale eelneval 5 aastal
+  - name: Süüteod eelmisele aastale eelneval 5 aastal
     url: 'https://opendata.smit.ee/ppa/csv/vara_2.csv'
     format: CSV
     interactive: 'False'
-  - name: 16.11.2017 Süüteod sellel ja eelmisel aastal ZIP
+  - name: Süüteod sellel ja eelmisel aastal ZIP
     url: 'https://opendata.smit.ee/ppa/files/vara_1.zip'
     format: csv / zip
     interactive: 'False'
-  - name: 16.11.2017 Süüteod sellel ja eelmisel aastal
+  - name: Süüteod sellel ja eelmisel aastal
     url: 'https://opendata.smit.ee/ppa/csv/vara_1.csv'
     format: CSV
     interactive: 'False'
@@ -37,7 +41,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/11/15
-date_modified: 2019/02/20
+date_modified: 2019/02/27
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: PPA
 maintainer_email: avaandmed@list.politsei.ee

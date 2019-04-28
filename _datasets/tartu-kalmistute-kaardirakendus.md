@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tartu kalmistute kaardirakendus
+title_en: Tartu Map of Cemeteries
 notes: Tartu kalmistute kaardirakendus
+notes_en: ''
 department: Heakord ja keskkond
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'https://gis.tartulv.ee/arcgis/services/Kalmistu/KL_koond/MapServer/FeatureServer?wsdl'
     format: XML

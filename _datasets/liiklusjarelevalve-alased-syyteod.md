@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Liiklusjärelevalve käigus avastatud süüteod
+title_en: Offences Discovered in the Course of Traffic Supervision
 notes: Andmehulk sisaldab andmeid Politsei- ja Piirivalveameti tehtava liiklusjärelevalve käigus avastatud süütegude kohta. Avaldatavate andmete täpsemale kirjeldusele on viidatud täiendavate linkide all.
+notes_en: ''
 department: ''
 category:
   - Õigusemõistmine, õigussüsteem ja avalik turvalisus
+category_en:
+  - Justice, Legal System, and Public Safety
 resources:
   - name: Süüteod üle-eelmise viie aasta kohta
     url: 'https://opendata.smit.ee/ppa/files/liiklusjarelevalve_3.zip'
@@ -33,7 +37,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/11/09
-date_modified: 2019/02/15
+date_modified: 2019/03/29
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: Maarja Vesi
 maintainer_email: maarja.vesi@politsei.ee

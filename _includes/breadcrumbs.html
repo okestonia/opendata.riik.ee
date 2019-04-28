@@ -17,6 +17,10 @@
         <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a></li>
       {% endif %}
     {% endif %}
+    {% if page.lang == "et" %}
     <li class="breadcrumb-item active">{{ page.title }}</li>
+    {% else %}
+    <li class="breadcrumb-item active">{{ page.title_en }}</li>
+    {% endif %}
   {% endif %}
 </ol>

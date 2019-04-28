@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tartu linnaosad (mitteametlikud)
+title_en: City Districts (unofficial)
 notes: Tartu linnaosad (mitteametlikud)
+notes_en: ''
 department: 'Maad, ehitus ja planeerimine'
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'https://www.tartu.ee/sites/default/files/uploads/Avaandmed/Tartu_LO.7z'
     format: SHP

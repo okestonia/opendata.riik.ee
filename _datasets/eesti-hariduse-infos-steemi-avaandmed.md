@@ -1,20 +1,25 @@
 ---
 schema: default
 title: Eesti Hariduse Infosüsteemi avaandmed
-notes: 'Eesti Hariduse Infosüsteem (EHIS) koondab haridussüsteemi puudutavaid andmeid. Register sisaldab andmeid õppeasutuse, õpilaste, õpetajate/õppejõudude, lõpudokumentide, õpikute ja õppekavade kohta. Kõige vanemad andmed on aastast 2004.'
+title_en: Estonian Education Information System Dataset
+notes: 'Eesti Hariduse Infosüsteem (EHIS) koondab haridussüsteemi puudutavaid andmeid. Register sisaldab andmeid õppeasutuse, õpilaste, õpetajate/õppejõudude, lõpudokumentide, õpikute ja õppekavade kohta. Kõige vanemad andmed on aastast 2004. Kõik EHISe avalikud andmed on kättesaadavad portaalist ja API kaudu (väljundformaadid CSV, XML, JSON). API kasutamise juhend on lisatud täiendava failina (EHIS avaandmete CSV, XML ja JSON päringute koostamise juhend).
+Haridusstatistika visuaalses keskkonnas Haridussilm.ee on kättesaadavad erinevate haridus-, teadus- ja noortevaldkonna andmed umbisikustatud statistilisel kujul. Keskkond võimaldab koostada statistilisi aruandeid ning võrrelda haridusnäitajaid vajalikes lõigetes, võrrelda koole erinevate näitajate lõikes (taustaandmed, õppekeskkond, tulemused jne), mis omakorda aitavad paremini mõista koolide töö ulatust ja mitmekesisust. Päring koostatakse dünaamiliselt isiku enda poolt.'
+notes_en: ''
 department: ''
 category:
   - Teadus ja tehnoloogia
+category_en:
+  - Science and Technology
 resources:
-  - name: 16.04.2018 Õppeasutuste avaandmed
+  - name: Õppeasutuste avaandmed
     url: 'http://enda.ehis.ee/avaandmed/rest/oppeasutused/-/Kool/E/-/-/-/-/-/-/0/0/XML'
     format: XML
     interactive: 'False'
-  - name: 16.04.2018 Õppeasutuste tegevuslubade avaandmed
+  - name: Õppeasutuste tegevuslubade avaandmed
     url: 'http://enda.ehis.ee/avaandmed/rest/tegevusload/-/-/-/-/-/-/-/-/1/XML'
     format: XML
     interactive: 'False'
-  - name: EHIS avaandmete CSV ja XML päringute koostamise juhend
+  - name: EHIS avaandmete CSV, XML ja JSON päringute koostamise juhend
     url: 'http://enda.ehis.ee/avaandmed/EHIS_avaandmed.pdf'
     format: PDF
     interactive: 'True'
@@ -49,7 +54,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/04/19
-date_modified: 2019/02/20
+date_modified: 2019/04/28
 organization: Haridus- ja Teadusministeerium
 maintainer_name: Haridus- ja Teadusministeerium
 maintainer_email: hm@hm.ee
