@@ -4,7 +4,7 @@ title: Maanteeameti Liiklusõnnetuste andmekogu MALIS
 
 notes: Liiklusõnnetuste andmed
 
-department: ‘’
+department: ''
 
 category:
 
@@ -14,15 +14,15 @@ resources:
 
   - name: Avaandmed
 
-    url: ‘https://github.com/maanteeamet/opendata/blob/master/MALIS/Inimkannatanutega_liiklusonnetused.csv‘
+    url: 'https://raw.githubusercontent.com/maanteeamet/opendata/master/MALIS/Inimkannatanutega_liiklusonnetused.csv'
 
     format: CSV
 
-    interactive: ‘False’
+    interactive: 'False'
 
-license: ‘https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode’
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 
-update_freq: ‘http://purl.org/linked-data/sdmx/2009/code#freq-A’
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 
 date_issued: 25/04/2019
 
@@ -34,4 +34,4 @@ maintainer_name: Kaspar Karm
 
 maintainer_email: opendata@mnt.ee
 
-maintainer_phone: ‘’
+maintainer_phone: ''
