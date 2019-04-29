@@ -3,11 +3,19 @@ schema: default
 
 title: Maanteeameti Liiklusõnnetuste andmekogu MALIS
 
+title_en: Road Traffic Accident Database MALIS
+
 notes: Liiklusõnnetuste andmed
+
+notes_en: Traffic accident data
 
 department: ''
 
 category:
+
+  - transport
+  
+category_en:
 
   - transport
 
