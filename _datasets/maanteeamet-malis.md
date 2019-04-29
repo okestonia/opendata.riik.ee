@@ -1,3 +1,4 @@
+---
 schema: default
 
 title: Maanteeameti Liiklusõnnetuste andmekogu MALIS
@@ -35,3 +36,4 @@ maintainer_name: Kaspar Karm
 maintainer_email: opendata@mnt.ee
 
 maintainer_phone: ''
+---
