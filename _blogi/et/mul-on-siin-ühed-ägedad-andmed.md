@@ -4,7 +4,7 @@ news_title: "Mul on siin ühed ägedad andmed, kas ma tohin neid avaldada?"
 preview: "Te olete veebist kokku kraapinud huvitavad andmed, laadinud need alla, võib-olla neid natuke mudinud või ehk isegi kombineerinud teiste andmetega ja saanud ühe laheda andmestiku, mida tahaksite jagada ka teistega. Tekib küsimus, kas organisatsioon või eraisik võib jagada opendata.riik.ee portaalis andmehulka, mis on saadud kellegi teise andmeid töödeldes või kombineerides?"
 preview_img: default.PNG
 submitted: 2019/04/30
-tags:~
+tags: ~
 text: "<p>Te olete veebist kokku kraapinud huvitavad andmed, laadinud need alla, võib-olla neid natuke mudinud või ehk isegi kombineerinud teiste andmetega ja saanud ühe laheda andmestiku, mida tahaksite jagada ka teistega. Tekib küsimus, kas organisatsioon või eraisik võib jagada opendata.riik.ee portaalis andmehulka, mis on saadud <b>kellegi teise</b> andmeid töödeldes või kombineerides?</p>
 <p>Probleem on aktuaalne – kõik huvitavad andmed ei ole (veel) portaalis kättesaadavad ja mõned andmed ei ole allalaaditava failina kättesaadavad ka andmevaldaja kodulehel. Kas ehk agar kasutaja tohib originaalandmete valdajale siin appi tulla? Mis tingimustel? Terav vajadus selguse järele ilmnes hiljuti seoses valimistulemuste andmetega, mida andmevaldaja ei ole ise kättesaadavaks teinud, kuid mille vastu ilmutati märgatavat avalikku huvi (vt <a href=\"https://github.com/okestonia/opendata-issue-tracker/issues/134\" title=\"GitHubi arutelulõime\">Githubi arutelulõime</a>).
 <p>Kuna nõudeid ja reegleid, mis reguleeriksid teiseste ja töödeldud andmete avaldamist, veel ei ole, tehti nende sõnastamisega algust 18. aprilli avaandmete foorumi juriidika-teemalises töötoas. Tulise arutelu tulemusel sündisid järgmised seisukohad:</p>
