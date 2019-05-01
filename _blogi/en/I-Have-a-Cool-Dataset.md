@@ -1,3 +1,4 @@
+---
 author: "Maarja Toots"
 news_title: "I Have A Cool Dataset, Can I Publish It?"
 preview: "You have scraped some interesting data, downloaded it, perhaps modified a bit or combined with other data and what you now have is a really cool dataset that you would love to share with others. So here’s the question: can an organization or an individual share a dataset on opendata.riik.ee that is based on processing or combining someone else’s data?"
