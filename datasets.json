@@ -1,12 +1,17 @@
 ---
 ---
+
 [{% for dataset in site.datasets %}
   {
     "title": {{ dataset.title | jsonify }},
+    "title_en": {{ dataset.title_en | jsonify }},
     "organization": {{ dataset.organization | jsonify }}{% if dataset.notes != "" %},
     "notes": {{ dataset.notes | jsonify }}{% endif %}{% if dataset.category != "" %},
-    "category": {{ dataset.category | jsonify }}{% endif %},
+    "notes_en": {{ dataset.notes_en | jsonify }}{% endif %}{% if dataset.category != "" %},
+    "category": {{ dataset.category | jsonify }}{% endif %}{% if dataset.category_en != "" %},
+    "category_en": {{ dataset.category_en | jsonify }}{% endif %},
     "url": "{{ site.baseurl }}{{ dataset.url }}",
+    "url_en": "/en{{ site.baseurl }}{{ dataset.url }}",
     "resources": [
       {% for resource in dataset.resources %}
       {
