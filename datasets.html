@@ -1,0 +1,25 @@
+---
+title: Andmehulgad
+layout: default
+permalink: /andmehulgad/
+ref: datasets
+lang: et
+---
+{% include breadcrumbs.html %}
+
+<div class="row">
+  <div class="col-sm-4">
+    <p style="font-weight: bold;">Küsi andmehulka</p>
+    <p>Tee ettepanek andmete avalikustamiseks!</p>
+    <p><a class="btn btn-primary" href="https://github.com/okestonia/opendata-issue-tracker/issues" target="_blank"  rel="noopener" role="button">Küsi siin</a></p>
+    <h3>Teema</h3>
+    <ul class="list-group pb-3" data-component="categories-filter" data-show="5"></ul>
+    <h3>Teabevaldaja</h3>
+    <ul class="list-group" data-component="organizations-filter" data-show="10"></ul>
+  </div>
+  <div class="col-sm-8" data-component="datasets-list">
+    <h3 class="datasets-count" data-hook="datasets-count"></h3>
+    <input type="text" data-hook="search-query" placeholder="Otsi..." class="form-control">
+    <div class="pt-3" data-hook="datasets-items"></div>
+  </div>
+</div>
