@@ -3,7 +3,7 @@ schema: default
 
 title: Toetuste menetlemise infosüsteem
 
-notes: Infosüsteemi kaudu menetletakse toetuste taotlusi kultuuri valdkonnas ning avaandmete hulgas on näidatud juba menetletud taotlused.
+notes: 'Infosüsteemi kaudu menetletakse toetuste taotlusi kultuuri valdkonnas ning avaandmete hulgas on näidatud juba menetletud taotlused.'
 
 department: ''
 
