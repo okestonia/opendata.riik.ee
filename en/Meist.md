@@ -9,7 +9,7 @@ lang: en
 
 ## Why is it important to make data openly available?
 There are several reasons for pooling all open data into one central hub to make it available to the general public and to facilitate searches. Freely available open government data can contribute to:
-- simulating the economy
+- stimulating the economy
 - increased transparency
 - minimising information queries and thereby reducing the administrative burden of the public sector
 - the development of open services by the private and civil sector
