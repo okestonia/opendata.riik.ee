@@ -8,7 +8,7 @@ Arhiivraamatukogust (lühend EKM AR),
 Eesti Rahvaluule Arhiivist (lühend EKM ERA), 
 Eesti Kultuuriloolisest Arhiivist (lühend EKM EKLA),
 folkloristika osakonnast (lühend EKM FO).
-PÕHIMÄÄRUS: 'https://www.riigiteataja.ee/akt/107032017012'
+PÕHIMÄÄRUS: https://www.riigiteataja.ee/akt/107032017012"
 notes_en: ''
 department: ''
 category:
@@ -20,13 +20,10 @@ resources:
     url: 'http://kivike.kirmus.ee/index.php?dok_id=38&module=2&op='
     format: HTML
     interactive: 'True'
-resources:
-  - name: Eesti Kirjandusmuuseumi andmed Eesti Keeleressursside Keskuse repositooriumis Metashare
-    url: 'https://metashare.ut.ee/repository/search/?q=Eesti+Kirjandusmuuseum'
-    interactive: 'True'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/03/16
-date_modified: 2019/05/13
+date_modified: 2019/04/28
 organization: Eesti Kirjandusmuuseum
 maintainer_name: Siiri Pärkson
 maintainer_email: siiri.parkson@kirmus.ee
