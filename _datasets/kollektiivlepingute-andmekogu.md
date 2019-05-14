@@ -53,7 +53,7 @@ resources:
     format: XML
     interactive: 'False'
   - name: Kollektiivlepingute andmekogu
-    url: 'http://klak.sm.ee/'
+    url: 'http://klak.sm.ee/avaandmed?xml=lepingud'
     format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
