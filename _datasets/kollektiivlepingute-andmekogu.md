@@ -13,47 +13,47 @@ category_en:
   - Government and Public Sector 
 resources:
   - name: Lepingu staatused
-    url: 'http://klak.sm.ee/avaandmed?xml=lepingu_staatused'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=lepingu_staatused'
     format: XML
     interactive: 'False'
   - name: Staatused
-    url: 'http://klak.sm.ee/avaandmed?xml=staatused'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=staatused'
     format: XML
     interactive: 'False'
   - name: Tööandjad
-    url: 'http://klak.sm.ee/avaandmed?xml=tooandjad'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=tooandjad'
     format: XML
     interactive: 'False'
   - name: Tööandja tüübid
-    url: 'http://klak.sm.ee/avaandmed?xml=tooandja_tyybid'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=tooandja_tyybid'
     format: XML
     interactive: 'False'
   - name: Õiguslikud vormid
-    url: 'http://klak.sm.ee/avaandmed?xml=oiguslikud_vormid'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=oiguslikud_vormid'
     format: XML
     interactive: 'False'
   - name: Tegevusalad
-    url: 'http://klak.sm.ee/avaandmed?xml=tegevusalad'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=tegevusalad'
     format: XML
     interactive: 'False'
   - name: Töötajad
-    url: 'http://klak.sm.ee/avaandmed?xml=tootajad'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=tootajad'
     format: XML
     interactive: 'False'
   - name: Töötaja tüübid
-    url: 'http://klak.sm.ee/avaandmed?xml=tootaja_tyybid'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=tootaja_tyybid'
     format: XML
     interactive: 'False'
   - name: Lepingu lisateabevormid
-    url: 'http://klak.sm.ee/avaandmed?xml=lepingu_lisateabevormid'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=lepingu_lisateabevormid'
     format: XML
     interactive: 'False'
   - name: Lisateabevormid
-    url: 'http://klak.sm.ee/avaandmed?xml=lisateabevormid'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=lisateabevormid'
     format: XML
     interactive: 'False'
   - name: Kollektiivlepingute andmekogu
-    url: 'http://klak.sm.ee/avaandmed?xml=lepingud'
+    url: 'http://klak.sm.ee/avaandmed%3Fxml=lepingud'
     format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
