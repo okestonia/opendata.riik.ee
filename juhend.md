@@ -25,7 +25,7 @@ Seejärel kopeeri „Edit new file" kasti järgnev tekst (koos kolme kriipsuga a
 ---
 
 title: siia tuleb Sinu organisatsiooni nimi
-
+title_en:
 description: 'Siia tuleb lühikirjeldus organisatsiooni kohta.'
 
 maintainer_name: siia tuleb Sinu nimi
@@ -63,15 +63,17 @@ Seejärel kopeeri „Edit new file" kasti järgnev tekst (koos kolme kriipsuga a
 schema: default
 
 title: infosüsteemi nimi (näiteks Lennuohutuse järelevalve infosüsteem LOIS)
-
+title_en:
 notes: infosüsteemi kirjeldus (kirjuta paari lausega, mida see infosüsteem teeb, mis infot on avaandmete näol oodata)
-
+notes_en:
 department: ''
 
 category:
 
   - Siia tuleb teema (näiteks Transport, vaata teemasid <https://opendata.riik.ee/andmehulgad> vasakust tulbast)
 
+category_en:
+  - Siia tuleb teema (näiteks Transport, vaata teemasid <https://opendata.riik.ee/en/andmehulgad> vasakust tulbast)
 resources:
 
   - name: Avaandmed
