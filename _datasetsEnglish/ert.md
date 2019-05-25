@@ -17,7 +17,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/07/06
-date_modified: 2019/05/25
+date_modified: 2019/05/26
 organization: Justiitsministeerium
 maintainer_name: Justiitsministeerium
 maintainer_email: info@just.ee
