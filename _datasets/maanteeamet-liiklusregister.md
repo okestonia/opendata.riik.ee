@@ -11,7 +11,7 @@ category_en:
   - Transport
 resources:
   - name: Avaandmed
-    url: 'https://github.com/kasparkarm/opendata/tree/master/LIIKLUSREGISTER'
+    url: 'https://github.com/maanteeamet/opendata/tree/master/LIIKLUSREGISTER'
     format: CSV
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
