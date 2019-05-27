@@ -46,6 +46,8 @@ navigation_et:
         url: /kkk/
       - title: Avaandmete roheline raamat
         url: /roheline-raamat/
+      - title: Avaandmete poliitika koordineerimine
+        url: /avaandmete-poliitika-koordineerimine/
       - title: Kontaktid
         url: /kontaktid/
       - title: Meist
