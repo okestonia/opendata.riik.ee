@@ -7,8 +7,7 @@ Eesti Kirjandusmuuseum koosneb:
 Arhiivraamatukogust (lühend EKM AR), 
 Eesti Rahvaluule Arhiivist (lühend EKM ERA), 
 Eesti Kultuuriloolisest Arhiivist (lühend EKM EKLA),
-folkloristika osakonnast (lühend EKM FO).
-PÕHIMÄÄRUS: https://www.riigiteataja.ee/akt/107032017012"
+folkloristika osakonnast (lühend EKM FO)."
 notes_en: ''
 department: ''
 category:
@@ -23,7 +22,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/03/16
-date_modified: 2019/04/28
+date_modified: 2019/05/28
 organization: Eesti Kirjandusmuuseum
 maintainer_name: Siiri Pärkson
 maintainer_email: siiri.parkson@kirmus.ee
