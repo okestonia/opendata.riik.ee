@@ -2,7 +2,7 @@
 schema: default
 title: Kohanimeregister 
 title_en: Estonian Place Names Register
-notes: 'väljavõte CSV failina'
+notes: 'Riikliku kohanimeregistri eesmärk on teabe kogumine ja registreerimine Eesti kohanimede kohta, nende töötlemine ja säilitamine ning kasutajatele kättesaadavaks tegemine. Päringukeskkonna kaudu saab teha andmete väljavõtte CSV failina.'
 notes_en: ''
 department: ''
 category:
