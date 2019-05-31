@@ -2,8 +2,8 @@
 schema: default
 title: Eesti topograafia andmekogu (ETAK) 
 title_en: Estonian topographic database
-notes: 'tuumandmed, ortofotod, kõrgusandmed, Eesti põhikaart'
-notes_en: core vector data, orthophotos, elevation data, Estonina basic map)
+notes: 'Eesti topograafia andmekogu sisaldab ruumiandmeid topograafiliste nähtuste kohta. Andmetest toodetakse Eesti põhikaarti ning Maa-ameti geoportaali kaardirakenduste kaudu kasutatavaid aluskaarte. Avaandmetena on allalaaditavad andmekogu tuumandmed (kõlvikud, transpordivõrk, ehitised, veekogud ja hüdrograafilised rajatised, pinnamood), samuti ortofotod, kõrgusandmed (LiDAR andmed, kõrgusmudelid, samakõrgusjooned), Eesti põhikaart.'
+notes_en: topographic core vector data, orthophotos, elevation data, Estonian basic map 1:10 000)
 department: ''
 category:
   - Piirkonnad ja linnad
