@@ -2,7 +2,7 @@
 schema: default
 title: Mullastiku kaart 
 title_en: Estonian Soil Map
-notes: 'mõõtkavadetailsus 1:10 000'
+notes: 'Eesti mullastiku kaart ehk Eesti maakatastri maa kvaliteedi ja hindamise kaart on mõõtkavas 1:10 000 andmebaas Eesti mullastiku kohta'
 notes_en: ''
 department: ''
 category:
