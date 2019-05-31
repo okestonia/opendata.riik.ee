@@ -2,7 +2,7 @@
 schema: default
 title: Maakataster 
 title_en: Estonian Land Cadastre
-notes: 'Katastriüksuste piirid'
+notes: 'Katastriüksuste piirid ja katastriüksuse andmed on allaadimiseks ettevalmistatud ESRI Shape (shp), MapInfo (tab), OGC GeoPackage (gpkg) ja Bentley (dgn) formaatides. Andmete seisu uuendatakse igal öösel.  Andmete kasutamisel tuleb viidata andmeallikana Maa-amet ja andmete seisu kuupäev.'
 notes_en: 'Cadastral parcels in CAD-GIS vector file formats'
 department: ''
 category:
