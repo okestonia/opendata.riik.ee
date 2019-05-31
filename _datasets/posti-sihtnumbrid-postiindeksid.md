@@ -23,8 +23,8 @@ update_freq: ''
 date_issued: 2017/12/08
 date_modified: 2019/04/17
 organization: Maa-amet
-maintainer_name: Tanel Hurt
-maintainer_email: Tanel.Hurt@maaamet.ee
-maintainer_phone: ''
+maintainer_name: Maa-amet
+maintainer_email: maaamet@maaamet.ee
+maintainer_phone: '665 0600'
 
 ---
