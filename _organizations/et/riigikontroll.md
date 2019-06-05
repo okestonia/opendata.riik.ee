@@ -1,8 +1,8 @@
 ---
 title: Riigikontroll
-title_en:
-description: Riigikontroll
-maintainer_name: Riigikontroll
-maintainer_email: riigikontroll@riigikontroll.ee
+title_en: National Audit Office of Estonia
+description: Riigikontroll on Eesti maksumaksja huvides tegutsev sõltumatu asutus, kelle ülesandeks on uurida, kuidas riik on maksumaksja raha kulutanud.
+maintainer_name: Igor Aljošin
+maintainer_email: igor.aljoshin@riigikontroll.ee
 twitter: ''
 ---
