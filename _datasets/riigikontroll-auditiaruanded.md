@@ -13,7 +13,7 @@ resources:
   - name: Riigikontrolli auditiaruanded
     url: 'https://www.riigikontroll.ee/Riigikontrollipublikatsioonid/Auditiaruanded/tabid/206/language/et-EE/Default.aspx'
     format: PDF
-    interactive: 'False'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/06/07
