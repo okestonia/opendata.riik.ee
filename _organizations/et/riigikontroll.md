@@ -5,4 +5,5 @@ description: Riigikontroll on Eesti maksumaksja huvides tegutsev sõltumatu asut
 maintainer_name: Igor Aljošin
 maintainer_email: igor.aljoshin@riigikontroll.ee
 twitter: ''
+logo: riigikontroll.png
 ---
