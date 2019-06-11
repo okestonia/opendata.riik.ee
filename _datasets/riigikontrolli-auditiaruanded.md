@@ -20,6 +20,6 @@ date_issued: 2019/06/07
 date_modified: 2019/06/07
 organization: Riigikontroll
 maintainer_name: Igor Aljošin
-maintainer_email: igor.aljoshin@riigikontroll.ee
-maintainer_phone: '+372 640 0118'
+maintainer_email: avaandmed@riigikontroll.ee
+maintainer_phone: '+372 640 0700'
 ---
