@@ -14,7 +14,7 @@ resources:
     url: 'https://esthub.maaamet.ee'
     format: HTML
     interactive: 'True'
-license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
+license: 'https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2019/05/31
 date_modified: 2019/05/31
