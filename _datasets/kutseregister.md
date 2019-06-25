@@ -38,6 +38,14 @@ resources:
     url: 'https://www.kutseregister.ee/img/failid/Kutseregistri_avaandmete_metadata_kirjeldus.ods'
     format: XLSX
     interactive: 'False'
+  - name: Väljavõtted kutseregistrist
+    url: 'https://www.kutseregister.ee/valjavotted/?'
+    format: HTML, XLS
+    interactive: 'True'
+  - name: Kutseregistri avalik otsing
+    url: 'https://www.kutseregister.ee/'
+    format: HTML
+    interactive: 'True'  
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2018/04/17
