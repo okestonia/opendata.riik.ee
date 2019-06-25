@@ -41,11 +41,11 @@ resources:
   - name: Väljavõtted kutseregistrist
     url: 'https://www.kutseregister.ee/valjavotted/?'
     format: HTML, XLS
-    interactive: 'False'
+    interactive: 'True'
   - name: Kutseregistri avalik otsing
     url: 'https://www.kutseregister.ee/'
     format: HTML
-    interactive: 'False'  
+    interactive: 'True'  
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2018/04/17
