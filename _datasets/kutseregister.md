@@ -13,35 +13,35 @@ resources:
   - name: Väljastatud kutsed (tunnistused)
     url: 'https://www.kutseregister.ee/ctrl/et/Avaandmed/valjastatudKutsed/xml/1'
     format: XML
-    interactive: 'True'
+    interactive: 'False'
   - name: Kutsestandardid
     url: 'https://www.kutseregister.ee/ctrl/et/Avaandmed/kutsestandardid/xml/1'
     format: XML
-    interactive: 'True'
+    interactive: 'False'
   - name: Kompetentsid
     url: 'https://www.kutseregister.ee/ctrl/et/Avaandmed/kompetentsid/xml/1'
     format: XML
-    interactive: 'True'
+    interactive: 'False'
   - name: Kutse andjad
     url: 'https://www.kutseregister.ee/ctrl/et/Avaandmed/kutseAndjad/xml/1'
     format: XML
-    interactive: 'True'
+    interactive: 'False'
   - name: Kutsenõukogud
     url: 'https://www.kutseregister.ee/ctrl/et/Avaandmed/kutsenoukogud/xml/1'
     format: XML
-    interactive: 'True'
+    interactive: 'False'
   - name: Kutsesüsteemi klassifikaator
     url: 'https://www.kutseregister.ee/ctrl/et/Avaandmed/klassifikaatorid/xml/1'
     format: XML
-    interactive: 'True'
+    interactive: 'False'
   - name: Avaandmete metadata kirjeldus
     url: 'https://www.kutseregister.ee/img/failid/Kutseregistri_avaandmete_metadata_kirjeldus.ods'
     format: XLSX
-    interactive: 'True'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: 'Kord päevas'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2018/04/17
-date_modified: 2018/06/14
+date_modified: 2019/06/25
 organization: Haridus- ja Teadusministeerium
 maintainer_name: Sihtasutus Kutsekoda
 maintainer_email: kutseregister@kutseregister.ee 
