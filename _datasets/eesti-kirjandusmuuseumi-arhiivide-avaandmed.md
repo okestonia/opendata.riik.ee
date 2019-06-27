@@ -17,6 +17,7 @@ category_en:
 resources:
   - name: Eesti Kirjandusmuuseumi arhiivide avaandmed
     url: 'http://kivike.kirmus.ee/index.php?dok_id=38&module=2&op='
+    url: 'https://metashare.ut.ee/repository/search/?q=Eesti+Kirjandusmuuseum'
     format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
