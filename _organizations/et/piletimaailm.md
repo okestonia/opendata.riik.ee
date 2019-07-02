@@ -1,6 +1,7 @@
+---
 title: Piletimaailm
 
-title_en:
+title_en: ''
 
 description: 'Teatri-ja kontserdipiletite müük.'
 
@@ -11,3 +12,4 @@ maintainer_email: piletimaailm@piletimaailm.com
 logo:
 
 twitter: ''
+---
