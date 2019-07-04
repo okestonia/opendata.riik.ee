@@ -5,4 +5,5 @@ description: ‘SA Teaduskeskus AHHAA on Haridus- ja Teadusministeeriumi, Tartu 
 maintainer_name: Pilvi Kolk 
 maintainer_email: pilvi.kolk@ahhaa.ee
 logo:
+twitter: ''
 ---
