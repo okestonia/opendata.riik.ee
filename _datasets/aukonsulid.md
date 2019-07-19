@@ -21,7 +21,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/03/26
-date_modified: 2019/07/19
+date_modified: 2019/07/20
 organization: Välisministeerium
 maintainer_name: Riina Talts
 maintainer_email: Riina.Talts@mfa.ee
