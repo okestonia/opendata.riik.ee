@@ -86,7 +86,7 @@ layout: default
             </td>
             <td class="table-content-centered">
               {% if resource.format == "CSV" or resource.format == "csv" %}
-              <a href="https://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ resource.url }}" target="iframe_preview" rel="noopener" title="Preview {{ resource.name }}">
+              <a href="https://datapipes.okfnlabs.org/csv -d {{resource.delim}}/head 15/html/?url={{ resource.url }}" target="iframe_preview" rel="noopener" title="Preview {{ resource.name }}">
                 <property='dcat:accessURL'>
                   <i class="fa fa-check-circle-o"></i>
               </a>

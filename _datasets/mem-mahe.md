@@ -20,23 +20,27 @@ resources:
     interactive: 'False'
   - name: Meta
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.csvmeta.txt'
-    format: CSV
+    format: TXT
     interactive: 'False'
   - name: Klient
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.klient.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Korje
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.korje.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Loomad
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.loom.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Taimed
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.taim.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Registri avalik vaade
     url: 'https://portaal.agri.ee/avalik/#/mahe'

@@ -27,6 +27,8 @@ resources:
 
     format: CSV
 
+    delim: ;
+
     interactive: 'False'
 
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'

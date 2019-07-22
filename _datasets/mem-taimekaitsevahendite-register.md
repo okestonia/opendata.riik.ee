@@ -20,11 +20,12 @@ resources:
     interactive: 'False'
   - name: Meta
     url: 'http://www.agri.ee/sites/default/files/opendata/taimekaitse/Taimekaitsevahendid.csvmeta.txt'
-    format: CSV
+    format: TXT
     interactive: 'False'
   - name: Taimekaitsevahendid
     url: 'http://www.agri.ee/sites/default/files/opendata/taimekaitse/Taimekaitsevahendid.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Taimekaitsevahendite Turustajad
     url: 'http://www.agri.ee/sites/default/files/opendata/taimekaitse/TaimekaitsevahenditeTurustajad.xml'
@@ -41,10 +42,12 @@ resources:
   - name: Taimekaitsevahendite Kasutusala
     url: 'http://www.agri.ee/sites/default/files/opendata/taimekaitse/Taimekaitsevahendid.kasutusala.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Taimekaitsevahendite Toimeaine
     url: 'http://www.agri.ee/sites/default/files/opendata/taimekaitse/Taimekaitsevahendid.toimeaine.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Taimekaitsevahendite registri avalik vaade
     url: 'https://portaal.agri.ee/avalik/#/taimekaitse'
