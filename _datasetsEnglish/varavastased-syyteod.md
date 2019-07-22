@@ -17,6 +17,7 @@ resources:
   - name: Süüteod üle-eelmise viie aasta kohta
     url: 'https://opendata.smit.ee/ppa/csv/vara_3.csv'
     format: CSV
+    delim: -t
     interactive: 'False'
   - name: Süüteod eelmisele aastale eelneval 5 aastal ZIP
     url: 'https://opendata.smit.ee/ppa/files/vara_2.zip'
@@ -25,6 +26,7 @@ resources:
   - name: Süüteod eelmisele aastale eelneval 5 aastal
     url: 'https://opendata.smit.ee/ppa/csv/vara_2.csv'
     format: CSV
+    delim: -t
     interactive: 'False'
   - name: Süüteod sellel ja eelmisel aastal ZIP
     url: 'https://opendata.smit.ee/ppa/files/vara_1.zip'
@@ -33,6 +35,7 @@ resources:
   - name: Süüteod sellel ja eelmisel aastal
     url: 'https://opendata.smit.ee/ppa/csv/vara_1.csv'
     format: CSV
+    delim: -t
     interactive: 'False'
   - name: Selgitused avaldatavate andmete kohta
     url: 'https://www2.politsei.ee/et/organisatsioon/analuus-ja-statistika/avaandmed.dot'

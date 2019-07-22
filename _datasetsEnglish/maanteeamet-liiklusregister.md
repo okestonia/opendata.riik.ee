@@ -10,9 +10,15 @@ category:
 category_en:
   - Transport
 resources:
-  - name: Avaandmed
-    url: 'https://github.com/kasparkarm/opendata/tree/master/LIIKLUSREGISTER'
+  - name: Avaandmed - Pidurid
+    url: 'https://raw.githubusercontent.com/maanteeamet/opendata/master/LIIKLUSREGISTER/t%C3%BCp_pidurid.csv'
     format: CSV
+    delim: ;
+    interactive: 'False'
+  - name: Avaandmed - Heitmed
+    url: 'https://raw.githubusercontent.com/maanteeamet/opendata/master/LIIKLUSREGISTER/t%C3%BCp_heitmed.csv'
+    format: CSV
+    delim: ;
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'

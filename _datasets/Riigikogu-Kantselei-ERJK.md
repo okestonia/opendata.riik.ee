@@ -1,3 +1,4 @@
+---
 schema: default
 
 title: Erakondade Rahastamise Järelevalve Komisjon (ERJK)
@@ -23,8 +24,8 @@ resources:
   - name: ERJK avaandmed
 
     url: 'http://www.erjk.ee/et/aruanded/erakondade-tulud-ja-laekumised'
-    
-    format: CSV
+
+    format: HTML
 
     interactive: 'True'
 
@@ -43,3 +44,4 @@ maintainer_name: Riigikogu Kantselei
 maintainer_email: riigikogu@riigikogu.ee
 
 maintainer_phone: ''
+---

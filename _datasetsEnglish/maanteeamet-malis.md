@@ -13,11 +13,11 @@ department: ''
 
 category:
 
-  - transport
+  - Transport
 
 category_en:
 
-  - transport
+  - Transport
 
 resources:
 
@@ -26,6 +26,8 @@ resources:
     url: 'https://raw.githubusercontent.com/maanteeamet/opendata/master/MALIS/Inimkannatanutega_liiklusonnetused.csv'
 
     format: CSV
+
+    delim: ;
 
     interactive: 'False'
 

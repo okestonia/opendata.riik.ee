@@ -20,11 +20,12 @@ resources:
     interactive: 'False'
   - name: Meta
     url: 'http://www.agri.ee/sites/default/files/opendata/sordiregister/Sordiregister.csvmeta.txt'
-    format: CSV
+    format: TXT
     interactive: 'False'
   - name: Sordiregister
     url: 'http://www.agri.ee/sites/default/files/opendata/sordiregister/Sordiregister.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Registri avalik vaade
     url: 'http://jis.agri.ee:22008/Default.aspx?lang=et'

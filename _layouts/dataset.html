@@ -64,9 +64,13 @@ layout: default
             <th class="table-content-centered">Preview</th>
           </tr>
           {% assign first_resource_url = '' %}
+          {% assign first_resource_delim = '' %}
           {% for resource in page.resources %}
           {% if first_resource_url == '' and resource.url contains '.csv' %}
           {% capture first_resource_url %}{{ resource.url }}{% endcapture %}
+          {% endif %}
+          {% if first_resource_delim == '' and resource.delim != '' %}
+          {% capture first_resource_delim %}{{ resource.delim }}{% endcapture %}
           {% endif %}
 
           <tr>
@@ -101,7 +105,7 @@ layout: default
       {% if first_resource_url != '' %}
       <h2>Preview</h2>
       <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ first_resource_url }}" width="100%" height="100%" name="iframe_preview"></iframe>
+      <iframe class="embed-responsive-item" src="https://datapipes.okfnlabs.org/csv -d {{ first_resource_delim }}/head 15/html/?url={{ first_resource_url }}" width="100%" height="100%" name="iframe_preview"></iframe>
       </div>
       {% endif %}
 
