@@ -8,7 +8,7 @@ notes: Komisjoni põhiline töövahend on erakondade finantsaruandluse infosüst
 
 notes_en: The main tool of the Committee is the financial reporting information system, through which the reports on the finances of political parties are collected and published reliably and in a comparable format.
 
-department: ‘’
+department: ''
 
 category:
 
@@ -22,15 +22,15 @@ resources:
 
   - name: ERJK avaandmed
 
-    url: ‘http://www.erjk.ee/et/aruanded/erakondade-tulud-ja-laekumised‘
+    url: 'http://www.erjk.ee/et/aruanded/erakondade-tulud-ja-laekumised'
     
     format: CSV
 
-    interactive: ‘True’
+    interactive: 'True'
 
-license: ‘https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode’
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 
-update_freq: ‘http://purl.org/linked-data/sdmx/2009/code#freq-D’
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 
 date_issued: 22/07/2019
 
@@ -42,4 +42,4 @@ maintainer_name: Riigikogu Kantselei
 
 maintainer_email: riigikogu@riigikogu.ee
 
-maintainer_phone: ‘’
+maintainer_phone: ''
