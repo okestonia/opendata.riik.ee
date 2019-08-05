@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-S'
 date_issued: 2015/02/02
-date_modified: 2019/08/05
+date_modified: 2019/08/06
 organization: Riigi Infosüsteemi Amet (RIA)
 maintainer_email: ria@ria.ee
 maintainer_phone: '+372 663 0200'
