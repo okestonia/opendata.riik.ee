@@ -76,7 +76,7 @@
         {
           "@type":"dcat:Distribution",
           "title": {{ dist_title | jsonify }},
-          "downloadURL": {{ dist_download_url | jsonify }}{% if dist_format %},
+          "accessURL": {{ dist_download_url | jsonify }}{% if dist_format %},
           "format": {{ dist_format | jsonify }}{% endif %}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
       ]{% endif %}
