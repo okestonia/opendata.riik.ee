@@ -10,7 +10,7 @@ category:
 category_en: Education, Culture and Sport
 resources:
   - name: Avaandmed
-    url: 'https://http://www.ahhaa.ee/meist/avalik-teave'
+    url: 'https://www.ahhaa.ee/meist/avalik-teave'
     format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
