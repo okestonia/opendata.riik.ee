@@ -19,11 +19,11 @@ resources:
     format: CSV
     delim: -t
     interactive: 'False'
-  - name: Süüteod eelmisele aastale eelneval 5 aastal ZIP
+  - name: Süüteod eelmise 5 aasta kohta ZIP
     url: 'https://opendata.smit.ee/ppa/files/liiklusjarelevalve_2.zip'
     format: csv / zip
     interactive: 'False'
-  - name: Süüteod eelmisele aastale eelneval 5 aastal
+  - name: Süüteod eelmise 5 aasta kohta
     url: 'https://opendata.smit.ee/ppa/csv/liiklusjarelevalve_2.csv'
     format: CSV
     delim: -t
@@ -42,8 +42,8 @@ update_freq: ''
 date_issued: 2017/11/09
 date_modified: 2019/03/29
 organization: Politsei- ja Piirivalveamet (PPA)
-maintainer_name: Maarja Vesi
-maintainer_email: maarja.vesi@politsei.ee
+maintainer_name: Krista Rebane
+maintainer_email: krista.rebane@politsei.ee
 maintainer_phone: '6123348'
 
 ---
