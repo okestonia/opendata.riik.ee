@@ -1,5 +1,5 @@
 ---
-article_type: juhend
+article_type: article
 lang: en
 author: "Maarja Toots"
 news_title: "I Have A Cool Dataset, Can I Publish It?"

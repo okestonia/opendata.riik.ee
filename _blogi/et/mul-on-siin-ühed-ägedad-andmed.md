@@ -1,5 +1,5 @@
 ---
-article_type: juhend
+article_type: article
 lang: et
 author: "Maarja Toots"
 news_title: "Mul on siin ühed ägedad andmed, kas ma tohin neid avaldada?"
