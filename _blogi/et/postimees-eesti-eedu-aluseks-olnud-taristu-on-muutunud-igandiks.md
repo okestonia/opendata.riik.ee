@@ -1,4 +1,6 @@
 ---
+article_type: news
+lang: et
 author: "Annegrete Peek"
 news_title: "Postimees: Eesti e-edu aluseks olnud taristu on muutunud igandiks"
 preview: "TTÜ Ragnar Nurkse innovatsiooni ja valitsemise instituudi nooremteadur Maarja Toots arutleb, miks on Eesti jäänud muust Euroopast maha avaandmete valdkonnas."

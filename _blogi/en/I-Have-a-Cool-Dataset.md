@@ -1,4 +1,6 @@
 ---
+article_type: juhend
+lang: en
 author: "Maarja Toots"
 news_title: "I Have A Cool Dataset, Can I Publish It?"
 preview: "You have scraped some interesting data, downloaded it, perhaps modified a bit or combined with other data and what you now have is a really cool dataset that you would love to share with others. So here’s the question: can an organization or an individual share a dataset on opendata.riik.ee that is based on processing or combining someone else’s data?"
@@ -9,17 +11,17 @@ text: "<p>You have scraped some interesting data, downloaded it, perhaps modifie
 <p>The issue is there – not all interesting datasets are (yet) available on the portal and some not even on the data holder’s website. Can an eager user help a data holder publish their data? On what conditions? As an example, the need for more clarity recently came up in relation to election data, which the data holder has not released under an open license but in which there seems to be considerable public interest (see the <a href=\"https://github.com/okestonia/opendata-issue-tracker/issues/134\" title=\"GitHub conversation\">Github conversation</a>).
 <p>Since no rules and requirements exist to regulate the publication of secondary data, the participants in the legal issues workshop at the Open Data Forum of 18 April took the first steps in formulating some as a basis of further discussion. As a result of a heated debate, the following proposals were made:</p>
 <p><b>Question: Can secondary data be published on the portal?</b></p>
-<p>The short answer: Yes.</p> 
+<p>The short answer: Yes.</p>
 <p>The correct answer: Yes, but on certain conditions.</p>
 <p>What conditions should be met?</p>
 <ol><li>The most important: the content and origin of the data should be transparent for users.</li>
-<li>Transparency can be created by providing proper metadata. If the metadata is detailed and correct, users can assess the credibility of the data. As a rule, the more detailed the metadata, the more trustworthy the data (unless the data holder has issued an explicit warning about possible errors in data, which, of course, would be nice of them).</li> 
-<li>Requirements on data publishers should not be as strict as to make them lose interest in publishing the data – publishers should be required to do as little as possible and as much as necessary.</li> 
-<li>In order to find a good balance, we should agree on standard compulsory metadata that any dataset should always have. In addition to that, it is advisable to agree on a set of recommended but not mandatory metadata which could help users assess the quality of the dataset. Any metadata should always follow an agreed structure.</li> 
+<li>Transparency can be created by providing proper metadata. If the metadata is detailed and correct, users can assess the credibility of the data. As a rule, the more detailed the metadata, the more trustworthy the data (unless the data holder has issued an explicit warning about possible errors in data, which, of course, would be nice of them).</li>
+<li>Requirements on data publishers should not be as strict as to make them lose interest in publishing the data – publishers should be required to do as little as possible and as much as necessary.</li>
+<li>In order to find a good balance, we should agree on standard compulsory metadata that any dataset should always have. In addition to that, it is advisable to agree on a set of recommended but not mandatory metadata which could help users assess the quality of the dataset. Any metadata should always follow an agreed structure.</li>
 <li>The owner of the original data should only be responsible for the accuracy of the metadata provided with the original dataset. The owner of the original dataset is not liable for any indirect damages caused by users of the data or its derivatives.</li></ol>
 <p><b>What metadata should be mandatory?</b></p>
-<ol><li>Data source and publisher’s name. This includes the source of the secondary dataset and the original data that the dataset is derived from.</li> 
-<li>Data collection method.</li> 
+<ol><li>Data source and publisher’s name. This includes the source of the secondary dataset and the original data that the dataset is derived from.</li>
+<li>Data collection method.</li>
 <li>Data processing method.</li>
 <li>Time of collecting the data.</li>
 <li>Time period covered in the data.</li></ol>

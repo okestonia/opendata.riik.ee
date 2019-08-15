@@ -152,3 +152,7 @@ dataset {
 .en:lang(en), .et:lang(et){
     font-weight: bold;
 }
+
+[data-toggle="collapse"]:not(.collapsed) {
+    font-weight: bold;
+  }

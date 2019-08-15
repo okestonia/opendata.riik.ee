@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: et
 author: "Annegrete Peek"
 news_title: "Mis on piirikaubanduse mõju kohalikule liiklusele?"
 preview: "Kolmas postitus sarjas „Avaandmed ja andmeajakirjandus“ uurib, mis on piirikaubanduse mõju liiklusele. Täpsemalt vaatame, kuidas on liiklusrikkumiste ja -õnnetuste arvud muutunud nii Valga ja Ikla piiripunktide läheduses kui ka ülejäänud Eestis.</strong></p><p>Meediast loeme ikka, et <a href=\"https://majandus24.postimees.ee/4506458/rahvusvaheline-uuring-latlased-ja-leedukad-ostavad-naaberriigist-toitu-eestlased-alkoholi?_ga\" >eestlased käivad Lätis alkoholi ostmas</a>ja <a href=\"http://arileht.delfi.ee/news/uudised/valusad-tagajarjed-alkoaktsiisi-laekumine-kujuneb-toenaoliselt-isegi-tootjate-algsest-prognoosist-madalamaks?id=80587325\" >kui palju see Eesti riigile on maksma läinud</a>. Samuti on väidetud, et <a href=\"http://www.pealinn.ee/newset/alkoralli-on-liiklusonnetuste-arvu-valgamaal-oluliselt-tostnud-n184548\" >alkoralli on  Valgamaa liiklusõnnetuste arvu tõstnud</a>. Kas selliseid tulemusi näeme ka avaandmetes?"

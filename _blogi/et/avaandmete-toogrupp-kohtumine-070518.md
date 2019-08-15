@@ -1,4 +1,6 @@
 ---
+article_type: working_group
+lang: et
 author: Annegrete Peek
 news_title: "Avaandmete töögrupp: kohtumine 07.05.2018"
 preview: "Töögrupi kohtumise kokkuvõte ja slaidid on leitavad siit."

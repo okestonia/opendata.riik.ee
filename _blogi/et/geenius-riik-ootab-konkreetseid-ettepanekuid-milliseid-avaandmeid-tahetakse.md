@@ -1,4 +1,6 @@
 ---
+article_type: news
+lang: et
 author: "Annegrete Peek"
 news_title: "Geenius: Riik ootab konkreetseid ettepanekuid, milliseid avaandmeid tahetakse"
 preview: "Eesti e-riigi andmejuht Ott Velsberg räägib Geeniusele avaandmete huvilistest. Riik soovib kuulda avaandmete huviliste ootuseid, mille põhjal uusi andmeid avaldama hakatakse."

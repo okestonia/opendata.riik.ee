@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: et
 news_title: Vesi meie basseinides
 text: >
   <p><strong>See on juba teine postitus sarjas „Avaandmed ja andmeajakirjandus“. Sel korral piilume Terviseameti veeproovide andmestikku ja uurime, milline on veekvaliteet Eesti ujulates ja veekeskustes.</strong></p>

@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: en
 author: Annegrete Peek
 news_title: What is the impact of border trading on local traffic?
 preview: The third post in the "Open Data and Data Journalism" series explores the impact of border trading  on traffic. In more detail, we will look at how the number for traffic violations and accidents have changed near Valga and Ikla border crossing points and in the rest of Estonia.

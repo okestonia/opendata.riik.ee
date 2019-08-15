@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: en
 author: Annegrete Peek
 news_title: Private Schools - How Popular Are They?
 preview: In this "Open Data and Data Journalism" blog post will look more closely at educational issues. The school year is about to begin and we will explore how popular private schools are. Here we look at the Estonian five year trend and also zoom in at the last school year.

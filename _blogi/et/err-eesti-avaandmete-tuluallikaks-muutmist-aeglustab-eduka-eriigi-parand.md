@@ -1,4 +1,6 @@
 ---
+article_type: news
+lang: et
 author: "Annegrete Peek"
 news_title: "ERR: Eesti avaandmete tuluallikaks muutmist aeglustab eduka e-riigi pärand"
 preview: "Novaatori artiklis räägib Keegan McBride, Tallinna Tehnikaülikooli Ragnar Nurkse instituudi nooremteadur, teadusartiklist, mis leidis, et Eesti ei kuulu avaandmete kasutamise ja avaldamisega edetabelites esirinnas."

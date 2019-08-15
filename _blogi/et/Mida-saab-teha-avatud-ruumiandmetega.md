@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: et
 author: "Maarja Toots"
 news_title: "Mida saab teha avatud ruumiandmetega? Neli näidet"
 preview: "Suur osa meile igapäevaelus vajalikust infost on seotud ruumi ja asukohaga: Mis ilm täna Põhja-Eestis on? Millal väljub minu kodupeatusest järgmine tramm? Millist teed pidi lumesajusel päeval tööle sõita?"

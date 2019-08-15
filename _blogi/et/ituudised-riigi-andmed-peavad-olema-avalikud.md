@@ -1,4 +1,6 @@
 ---
+article_type: news
+lang: et
 author: "Annegrete Peek"
 news_title: "ITuudised: Riigi andmed peavad olema avalikud"
 preview: "Ettevõtlus- ja infotehnoloogiaminister Rene Tammist: \"...riigil väga suur hulk andmeid, mis puudutavad üldiseid trende ja praktilist infot meid ümbritseva keskkonna kohta.\" Need tuleb kiiresti avalikuks teha."

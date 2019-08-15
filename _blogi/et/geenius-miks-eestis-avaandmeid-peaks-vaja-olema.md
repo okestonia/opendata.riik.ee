@@ -1,4 +1,6 @@
 ---
+article_type: news
+lang: et
 author: "Annegrete Peek"
 news_title: "Geenius: Miks Eestis avaandmeid peaks vaja olema?"
 preview: "Maarja Leena Saar ning Ott Velsberg räägivad saates Restart avaandmetest. Mis need on, miks neid Eestis peaks vaja kasutada olema ja kuidas nad meie elu paremaks teeksid?"
