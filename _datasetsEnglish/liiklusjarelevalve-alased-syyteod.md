@@ -10,7 +10,7 @@ category:
 category_en:
   - Justice, Legal System, and Public Safety
 resources:
-  - name: Süüteod üle-eelmise viie aasta kohta
+  - name: Süüteod üle-eelmise viie aasta kohta ZIP
     url: 'https://opendata.smit.ee/ppa/files/liiklusjarelevalve_3.zip'
     format: ZIP
     interactive: 'False'
@@ -44,6 +44,6 @@ date_modified: 2019/03/29
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: Krista Rebane
 maintainer_email: krista.rebane@politsei.ee
-maintainer_phone: '6123348'
+maintainer_phone:
 
 ---
