@@ -10,20 +10,20 @@ category:
 category_en:
   - Justice, Legal System, and Public Safety
 resources:
-  - name: Süüteod üle-eelmise viie aasta kohta.
+  - name: Süüteod üle-eelmise viie aasta kohta ZIP
     url: 'https://opendata.smit.ee/ppa/files/avalik_3.zip'
     format: ZIP
     interactive: 'False'
-  - name: Süüteod üle-eelmise viie aasta kohta.
+  - name: Süüteod üle-eelmise viie aasta kohta
     url: 'https://opendata.smit.ee/ppa/csv/avalik_3.csv'
     format: CSV
     delim: -t
     interactive: 'False'
-  - name: Süüteod eelmisele aastale eelneval 5 aastal ZIP
+  - name: Süüteod eelmise 5 aasta kohta ZIP
     url: 'https://opendata.smit.ee/ppa/files/avalik_2.zip'
     format: csv / zip
     interactive: 'False'
-  - name: Süüteod eelmisele aastale eelneval 5 aastal
+  - name: Süüteod eelmise 5 aasta kohta
     url: 'https://opendata.smit.ee/ppa/csv/avalik_2.csv'
     format: CSV
     delim: -t
@@ -46,8 +46,8 @@ update_freq: ''
 date_issued: 2017/11/15
 date_modified: 2019/08/19
 organization: Politsei- ja Piirivalveamet (PPA)
-maintainer_name: Maarja Vesi
-maintainer_email: maarja.vesi@politsei.ee
-maintainer_phone: '6123348'
+maintainer_name: Krista Rebane
+maintainer_email: krista.rebane@politsei.ee
+maintainer_phone:
 
 ---
