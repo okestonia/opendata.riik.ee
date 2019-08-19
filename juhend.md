@@ -56,7 +56,7 @@ Uue andmekogu lisamiseks ole kõigepealt <https://github.com> sisselogitud ning 
 
 Nagu näed, on andmekogud siin .md failidena kirjas. Pead tekitama samasuguse faili vajutades „Create new file".
 
-„Name your file" asemele kirjuta **organisatsiooninimi-andmekogu.md** (näiteks lennuameti-infosysteem.md)
+„Name your file" asemele kirjuta **organisatsiooninimi-andmekogu.md** (näiteks lennuameti-infosysteem.md). Faili nimi võiks olla sisukas ja peegeldada andmestiku sisu. Nii on teda lihtsam leida ja otse viidata. Näiteks andmekogu "Rebaseregister" failinimi peakski olema rebaseregister.md ja mitte rr.md või näiteks ecnr.md. 
 
 Seejärel kopeeri „Edit new file" kasti järgnev tekst (koos kolme kriipsuga alguses ja lõpus)
 
