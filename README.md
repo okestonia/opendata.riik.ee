@@ -22,7 +22,7 @@ bundle exec jekyll build
 ### checkUpdates.py (update last_modified information for datasets)
 ```bash
 cd ./_datasets
-ls *.md | python3 ../validateURLs.py
+ls *.md | python3 ../checkUpdates.py
 ```
 ### validateURLs.py (check resource http response)
 ```bash
