@@ -14,14 +14,6 @@ resources:
     url: https://opendata.riik.ee/downloads/valimised_kirjeldustega.xlsx
     format: xlsx
     interactive: 'False'
-  - name: Schema
-    url:
-    format:
-    interactive: 'False'
-  - name: Avaandmete kirjeldus
-    url:
-    format:
-    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/27
