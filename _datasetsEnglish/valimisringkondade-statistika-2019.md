@@ -20,6 +20,6 @@ date_issued: 2019/02/27
 date_modified: 2019/02/27
 organization: Statistikaamet
 maintainer_name:
-maintainer_email:	stat@stat.ee
+maintainer_email: stat@stat.ee
 maintainer_phone:
 ---
