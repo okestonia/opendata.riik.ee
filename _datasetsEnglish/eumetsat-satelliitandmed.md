@@ -22,7 +22,7 @@ update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 16/04/2019
 date_modified: 16/04/2019
 organization: Keskkonnaagentuur
-maintainer_name: Jekaterina	Služenikina
+maintainer_name: Jekaterina Služenikina
 maintainer_email: jekaterina.sluzenikina@envir.ee
 maintainer_phone: ''
 ---
