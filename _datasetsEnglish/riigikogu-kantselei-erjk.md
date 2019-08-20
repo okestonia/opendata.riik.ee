@@ -33,9 +33,9 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 
-date_issued: 22/07/2019
+date_issued: 2019/07/22
 
-date_modified: 22/07/2019
+date_modified: 2019/07/22
 
 organization: Riigikogu Kantselei
 
