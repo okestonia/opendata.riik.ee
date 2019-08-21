@@ -132,7 +132,7 @@ Kui oled väljad ära täitnud, vajuta lehe allääres „Propose new file".
 
 Seejärel vajuta lehe keskel „Create pull request" ja peale seda uuesti lehe allääres „Create pull request".
 
-Nüüd läheb andmekogu lisamine ülevaatamiseks portaali administraatorile. Umbes 24h jooksul ilmub andmekogu nimekirja <https://opendata.riik.ee/andmehulgad/> (läbi GitHub'i saad selle kohta teate e-maili peale).
+Nüüd läheb andmekogu lisamine ülevaatamiseks portaali administraatorile. Umbes 24h jooksul ilmub andmekogu nimekirja <https://opendata.riik.ee/andmehulgad/> (läbi GitHub'i saad selle kohta teate e-maili peale). Avaldamise käigus vaadatakse andmekogu kirjeldus üle. Pisivead parandatakse, suuremate puhul (kui ei ole selge, mida mõeldud on, või on erinevused vajalikust formaadist liig suured) lükatakse muudatus tagasi. Kui puudub märge litsentsi kohta, lisatakse viide litsentsile CC-BY 3.0. 
 
 **Lisatud andmete parandamise juhend**
 
