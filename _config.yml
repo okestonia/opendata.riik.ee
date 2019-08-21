@@ -44,19 +44,16 @@ navigation_et:
   - title: Lisainfo
     url: /lisainfo/
     sublinks:
-      - title: Metaandmed
-        url: /metaandmed/
+      - title: Avaandmete Poliitika
+        url: /avaandmete-poliitika/
+      - title: Juhendid
+        url: /juhend/
+      - title: Sündmused ja infomaterjalid
+        url: /sundmused-ja-infomaterjalid/
       - title: KKK
         url: /kkk/
-      - title: Avaandmete roheline raamat
-        url: /roheline-raamat/
-      - title: Avaandmete poliitika koordineerimine
-        url: /avaandmete-poliitika-koordineerimine/
       - title: Kontaktid
         url: /kontaktid/
-      - title: Juhend
-        url: /juhend/
-
 navigation_english:
     - title: Datasets
       url: /en/andmehulgad/
@@ -69,12 +66,12 @@ navigation_english:
     - title: More Info
       url: /en/more/
       sublinks:
-        - title: Metadata
-          url: /en/metadata/
+        - title: Open Data policy
+          url: /en/open-data-policy/
+        - title: Events and Information Materials
+          url: /en/events-and-info-materials/
         - title: FAQ
           url: /en/faq/
-        - title: Green Paper
-          url: /en/green-paper/
         - title: Contacts
           url: /en/contacts/
         - title: About
