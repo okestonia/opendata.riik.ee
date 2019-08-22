@@ -20,7 +20,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 12/04/2019
-date_modified: 12/04/2019
+date_modified: 2019/08/23
 organization: Keskkonnaagentuur
 maintainer_name: Enn Pärt
 maintainer_email: enn.part@envir.ee
