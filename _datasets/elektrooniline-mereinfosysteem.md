@@ -21,7 +21,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 11/02/2019
-date_modified: 2019/08/23
+date_modified: 2019/08/24
 organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
 maintainer_name: MKM IT abi
 maintainer_email: itabi@mkm.ee
