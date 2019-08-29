@@ -40,7 +40,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/11/09
-date_modified: 2019/08/23
+date_modified: 2019/08/30
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: Krista Rebane
 maintainer_email: krista.rebane@politsei.ee
