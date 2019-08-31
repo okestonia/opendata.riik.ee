@@ -2,6 +2,7 @@
 title: Guidelines for publishing secondary datasets
 layout: default
 permalink: /en/guidelines/
+ref: Guidelines
 lang: en
 ---
 {% include breadcrumbs.html %}
@@ -35,7 +36,7 @@ The following metadata should be published along with any secondary dataset:
  - Time retrieved (time when the data was obtained from the original source);
  - Time of publication in the original source (what time period the data represents);
  - Update frequency or update policy: how often or on what conditions (if at all) the secondary dataset will be updated;
- - Planned date of storage: how long the secondary dataset will be available to the public without significant changes in methodology. 
+ - Planned date of storage: how long the secondary dataset will be available to the public without significant changes in methodology.
 
 **License**. What and on which grounds can be done with the dataset. The license chosen for a secondary dataset cannot contradict the license attached to the primary dataset.
 
