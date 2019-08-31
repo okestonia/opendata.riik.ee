@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 11/02/2019
-date_modified: 2019/08/31
+date_modified: 2019/09/01
 organization: Tarbijakaitse ja Tehnilise Järelevalve Amet
 maintainer_name: MKM IT abi
 maintainer_email: itabi@mkm.ee
