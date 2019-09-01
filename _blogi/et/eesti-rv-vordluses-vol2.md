@@ -4,7 +4,7 @@ lang: et
 author: "Maarja Toots"
 news_title: "Kuidas läheb Eestil rahvusvahelises võrdluses? Osa 2"
 preview: "Euroopa Liidu avaandmete portaal (European Data Portal, EDP) lõpetas suvel järjekordse andmekogumisringi, milles EL liikmesriigid andsid aru avaandmete pakkumise ja kasutamise olukorrast oma riigis. Viiendat korda toimuv üle-euroopaline võrdlusuuring Open Data Maturity Landscaping mõõdab riikide edusamme neljas plaanis: avaandmete poliitika, avaandmete portaal, avaandmete mõju ja andmete kvaliteet. Kuhu Eesti selles edetabelis paigutub?"
-preview_img: img/blogi/european_data_portal_estonia_scores_2018.png
+preview_img: european_data_portal_estonia_scores_2018.png
 submitted: 2019/08/31
 tags:
 - avaandmete indeksid
