@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''
-date_modified: 2019/09/16
+date_modified: 2019/09/17
 organization: Tartu Linnavalitsus
 maintainer_name: Hüite Bergmann
 maintainer_email: Hyite.Bergmann@raad.tartu.ee
