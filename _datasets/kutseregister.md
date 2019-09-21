@@ -49,7 +49,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2018/04/17
-date_modified: 2019/09/21
+date_modified: 2019/09/22
 organization: Haridus- ja Teadusministeerium
 maintainer_name: Sihtasutus Kutsekoda
 maintainer_email: kutseregister@kutseregister.ee 
