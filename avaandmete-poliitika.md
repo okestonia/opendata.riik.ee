@@ -7,22 +7,25 @@ lang: et
 ---
 {% include breadcrumbs.html %}
 
-# 1.1 Avaliku teabe seadus
+# Avaliku teabe seadus
+Avaliku sektori andmete avaldamist avaandmetena reguleerib Eestis avaliku teabe seadus (AvTS). AvTSi §3 sõnastuses on avaandmed selline avalik teave, mille üldist kasutamist ei ole seaduse alusel piiratud. AvTSi §8 sätestab, et avaandmetele juurdepääs hõlmab ka õigust andmeid taaskasutada, st kasutada muul eesmärgil kui sellel, milleks andmed algselt koguti. Kui andmetele on seatud litsents, tuleb kasutamisel järgida litsentsi.
 
+Üldjuhul tuleb avaandmed teha kättesaadavaks:
+- masinmõistetaval kujul ehk seaduse sõnastuses "failivormingus, mis on struktureeritud selliselt, et tarkvararakendused suudavad spetsiifilisi andmeid, sealhulgas üksikuid faktiväiteid, ja nende sisemist struktuuri kergesti tuvastada, ära tunda ja välja lugeda";
+- avatud vormingus ehk "platvormist sõltumatus vormingus, mis tehakse üldsusele kättesaadavaks dokumendi taaskasutamise piiranguteta".
 
+AvTSi §28 sätestab konkreetsed andmestikud, mis peaksid olema avalikustatud masinloetavate ja avatud vormingus avaandmetena.
 
+Vaata lisa: [avaliku teabe seadus](https://www.riigiteataja.ee/akt/115032019011?leiaKehtiv).
 
-
-
-
-# 1.2 Avaandmete roheline raamat
+# Avaandmete roheline raamat
 Avaandmete roheline raamat on Eesti avaandmete valdkonna poliitika esimene süstemaatiline käsitlus, mis tutvustab selle valdkonna põhimõtteid, koosvõime arhitektuuri, olulisemaid poliitikavalikuid ning tegevuskava. See on kohustuslik lugemismaterjal kõigile, kes soovivad teha lähemat tutvust avaandmete valdkonna ja kesksete mõistetega. Teabevaldajate jaoks sisaldab see konkreetseid vastuseid paljudele andmete avalikustamisega seotud praktilistele küsimustele.
 
 Raamatu koostas Majandus-ja Kommunikatsiooniministeeriumi riigi infosüsteemide osakond (RISO) koostöös Andmekaitse Inspektsiooni ja Riigikantselei strateegiabürooga. Rohelise raamatu esimene versioon avati 2013. aasta novembris konsultatsioonideks portaalis osale.ee. Lisaks korraldati neli teemakohast arutelu ning ühtlasi paluti muudatusettepanekuid kõikidelt ministeeriumidelt, põhiseaduslikelt institutsioonidelt, Infotehnoloogia ja Telekommunikatsiooni Liidult, Eesti Linnade Liidult ja Kohalike Omavalitsuste Liidult ning e-posti teel ka enam kui 50 eksperdilt.
 
-Eesti avaandmete rohelist raamatut saab alla laadida [SIIT](https://www.mkm.ee/sites/default/files/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt).
+Vaata lisa: [Avaandmete roheline raamat](https://www.mkm.ee/sites/default/files/avaliku-teabe-masinloetava-avalikustamise-roheline-raamat-20141125_0.odt).
 
-# 1.3 Avaandmete poliitika koordineerimine
+# Avaandmete poliitika koordineerimine
 
 Eesti avaandmete poliitikat koordineerib **Majandus- ja Kommunikatsiooniministeerium (MKM)**. Kontaktisik: Ott Velsberg, MKMi riigi infosüsteemide osakond, riigi andmejuht, ott.velsberg@mkm.ee.
 
