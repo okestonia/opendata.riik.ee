@@ -48,6 +48,8 @@ navigation_et:
         url: /avaandmete-poliitika/
       - title: Juhendid
         url: /juhend/
+      - title: Metaandmed
+        url: /metaandmed/
       - title: Sündmused ja infomaterjalid
         url: /sundmused-ja-infomaterjalid/
       - title: KKK
@@ -58,7 +60,9 @@ navigation_english:
     - title: Datasets
       url: /en/andmehulgad/
     - title: Publishers
-      url: /en/orgs/
+      url: /en/orgs/       
+    - title: Metadata
+      url: /en/metadata/
     - title: Applications
       url: /en/apps/
     - title: Blog
