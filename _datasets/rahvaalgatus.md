@@ -24,6 +24,7 @@ resources:
   - name: Rahvaalgatus API
     url: "https://github.com/rahvaalgatus/rahvaalgatus#api"
     format: JSON
+    interactive: TRUE
 
 license: "https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode"
 date_issued: 2019/09/28
