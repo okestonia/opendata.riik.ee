@@ -1,5 +1,5 @@
 ---
-article_type: article
+article_type: news
 lang: et
 author: "Maarja Toots"
 news_title: "Täna on rahvusvaheline avaandmete päev"
