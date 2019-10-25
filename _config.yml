@@ -19,7 +19,7 @@ alt_tag:
 
 baseurl:
 logo: /img/jkan.png
-
+url: "https://opendata.riik.ee"
 domain: https://opendata.riik.ee
 # Site theme
 jkan_theme: Default
@@ -60,7 +60,7 @@ navigation_english:
     - title: Datasets
       url: /en/andmehulgad/
     - title: Publishers
-      url: /en/orgs/       
+      url: /en/orgs/
     - title: Metadata
       url: /en/metadata/
     - title: Applications
@@ -201,15 +201,16 @@ twittercard:
 opengraph:
   enabled: true
 
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-sitemap
+# feed:
+#   collections:
+#     - datasets
+#     - applications
+#     - blogi
+#     - organizations
 
-feed:
-  collections:
-    - datasets
-    - applications
-    - blogi
-    - organizations
+
 
 # Exclude these files from the build
 exclude:
