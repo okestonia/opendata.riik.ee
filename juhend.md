@@ -6,6 +6,9 @@ ref: Howto
 lang: et
 ---
 {% include breadcrumbs.html %}
+
+[Teiseste andmete avaldamise juhend](#juhend-teiste-organisatsioonide-andmetel-põhinevate-andmehulkade-avaldamiseks-opendatariikee-portaalis)
+
 # Avaandmete lisamise ja uuendamise juhend
 
 Tee omale konto <https://github.com> ja logi sisse. Jää sisselogituks, sest järgnevate tegevuste käigus suunatakse Sind automaatselt GitHub'i ja siis on hea kui oled juba sisselogitud.
