@@ -14,7 +14,7 @@ Sellelt lehelt leiate juhendeid ja nõuandeid, mis võiksid olla abiks andmete a
 - [Teiseste andmete avaldamise juhend](#juhend-teiste-organisatsioonide-andmetel-põhinevate-andmehulkade-avaldamiseks-opendatariikee-portaalis)
 - [Andmetele litsentsi määramine](#andmetele-litsentsi-andmine)  
 
- 
+
 # Avaandmete lisamise ja uuendamise juhend
 
 Tee omale konto <https://github.com> ja logi sisse. Jää sisselogituks, sest järgnevate tegevuste käigus suunatakse Sind automaatselt GitHub'i ja siis on hea kui oled juba sisselogitud.
@@ -160,13 +160,13 @@ Nüüd läheb andmete muutmine ülevaatamiseks portaali administraatorile. Umbes
 ## Üldpõhimõtted
 
 1. **Teisesteks andmeteks loetakse avalikult ligipääsetavate andmeallikate automaatse töötlemise, kombineerimise või korduva laadimise teel koostatud andmehulki**. Teiseste andmete avaldamisel portaalis opendata.riik.ee tuleb lähtuda käesolevast juhendist.
- 
+
 2. Erandina võib avaldada ka viiteid primaarsetele allikatele, juhul kui andmestiku omanik ei soovi või ei ole võimeline seda ise tegema (näiteks välisriikide või eraettevõtete andmestikud). Sel juhul tuleb viidata otse andmete allikale, koopiat tegemata, ning andmete eest vastutab primaarallikas.
- 
+
 3. Kasutaja jaoks peab olema läbipaistev, millel andmed põhinevad ja kuidas nendeni jõuti. Selleks tuleb andmed varustada korralike metaandmetega, mille põhjal kasutaja saaks hinnata andmete usaldusväärsust.
- 
+
 4. Andmete taaskasutamise viisidele, vormidele, eesmärkidele ei tohi andmete avaldamisel seada piiranguid (näiteks vastava piirava litsentsi lisamisega), välja arvatud juhul, kui piirangud tulevad seadusest.
- 
+
 5. Teisese andmehulga avaldaja vastutab täielikult andmetele ligipääsu ja nende töötlemise seaduspärasuse ning selle tagajärgede eest. Kaks peamist (kuid mitte ainsat) rakenduvat normi on:
 	- juhul, kui kasutatavad andmed on käsitletavad isikuandmetena isikuandmete kaitse üldmääruse 2016/679 art 4 p-i 1 mõistes, kohustub avaldaja tagama andmete töötlemiseks õigusliku aluse olemasolu kontrollimise ning subjekti õiguste teostamise, sh andmesubjekti õigus tutvuda andmetega (art 15), õigus andmete parandamisele (art 16), õigus andmete kustutamisele (art 17), õigus esitada vastuväiteid (art 21), õigus hüvitisele ja vastutus (art 82);  
 	- Võlaõigusseadus (VÕS), täpsemalt VÕSi §1046 isiklike õiguste kahjustamise õigusvastasus ning §1047 ebaõigete andmete avaldamise õigusvastasus ning nendest tulenev kahju hüvitamise kohustus.
@@ -212,7 +212,7 @@ Ettepanekuid käesoleva juhendi parandamiseks ja täiendamiseks saab teha GitHub
 
 Avatud andmehulgal peab olema litsents, mis võimaldab andmete vaba ja piiranguteta kasutamist, töötlemist ja levitamist, sh. levitamist kasutaja äranägemisel nii tasuta kui tasu eest. Andmete avaldajad on litsentsi valikul vabad. Kui andmeavaldaja ei soovi määrata andmehulgale spetsiifilist litsentsi, soovitame eelistatult litsentsiks valida Creative Commons litsentsi (vt https://creativecommons.org/), eeskätt CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Allpool toome ära Creative Commonsi koostatud soovitused litsentsiandjatele ja -saajatele.
 
-CC BY 4.0 litsents on eestikeelsena kättesaadav [SIIN](https://github.com/okestonia/jkan/files/2951537/CC.4.0_litsents_EN_est.docx/)  
+CC BY 4.0 litsents on eestikeelsena kättesaadav [SIIN](../../downloads/CC.4.0_litsents_EN_est.docx/)  
 
 # Mida litsentsiandjad ja litsentsisaajad peaksid kaaluma  
 
