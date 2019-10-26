@@ -54,6 +54,8 @@ navigation_et:
         url: /sundmused-ja-infomaterjalid/
       - title: KKK
         url: /kkk/
+      - title: Litsents
+        url: /litsents/
       - title: Kontaktid
         url: /kontaktid/
 navigation_english:
