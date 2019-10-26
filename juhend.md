@@ -14,6 +14,7 @@ Sellelt lehelt leiate juhendeid ja nõuandeid, mis võiksid olla abiks andmete a
 - [Teiseste andmete avaldamise juhend](#juhend-teiste-organisatsioonide-andmetel-põhinevate-andmehulkade-avaldamiseks-opendatariikee-portaalis)
 - [Andmetele litsentsi määramine](#andmetele-litsentsi-andmine)  
 
+---
 
 # Avaandmete lisamise ja uuendamise juhend
 
@@ -153,6 +154,7 @@ Seejärel vajuta lehe keskel „Create pull request" ja peale seda uuesti lehe a
 
 Nüüd läheb andmete muutmine ülevaatamiseks portaali administraatorile. Umbes 24h jooksul viiakse muudatused sisse (läbi GitHub'i saad selle kohta teate e-maili peale).  
 
+
 ---
 
 # Juhend teiste organisatsioonide andmetel põhinevate andmehulkade avaldamiseks opendata.riik.ee portaalis  
@@ -206,13 +208,14 @@ Teiseste andmete avaldaja vastutab andmete korrektsuse osas ainult selle eest, e
 
 Ettepanekuid käesoleva juhendi parandamiseks ja täiendamiseks saab teha GitHubis: <https://github.com/okestonia/jkan/issues/403>.  
 
+
 ---
 
 # Andmetele litsentsi andmine
 
 Avatud andmehulgal peab olema litsents, mis võimaldab andmete vaba ja piiranguteta kasutamist, töötlemist ja levitamist, sh. levitamist kasutaja äranägemisel nii tasuta kui tasu eest. Andmete avaldajad on litsentsi valikul vabad. Kui andmeavaldaja ei soovi määrata andmehulgale spetsiifilist litsentsi, soovitame eelistatult litsentsiks valida Creative Commons litsentsi (vt https://creativecommons.org/), eeskätt CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Allpool toome ära Creative Commonsi koostatud soovitused litsentsiandjatele ja -saajatele.
 
-CC BY 4.0 litsents on eestikeelsena kättesaadav [SIIN](../../downloads/CC.4.0_litsents_EN_est.docx/)  
+CC BY 4.0 litsents on eestikeelsena kättesaadav [SIIN](https://opendata.riik.ee/litsents/)  
 
 # Mida litsentsiandjad ja litsentsisaajad peaksid kaaluma  
 
