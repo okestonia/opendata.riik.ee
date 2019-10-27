@@ -23,7 +23,7 @@ resources:
     interactive: 'False'
 update_freq: ''
 date_issued: 2015/02/22
-date_modified: 2019/10/27
+date_modified: 2019/10/28
 organization: Sotsiaalkindlustusamet
 maintainer_name: Sotsiaalkindlustusamet
 maintainer_email: info@sotsiaalkindlustusamet.ee
