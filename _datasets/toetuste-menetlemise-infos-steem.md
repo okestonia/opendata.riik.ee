@@ -25,7 +25,7 @@ update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 
 date_issued: 06/05/2019
 
-date_modified: 2019/11/08
+date_modified: 2019/11/09
 
 organization: Kultuuriministeerium
 
