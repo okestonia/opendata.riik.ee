@@ -1,8 +1,8 @@
 ---
 title: Tartu Linnavalitsus
 title_en: Tartu City Government
-maintainer_name: Hüite Bergmann
-maintainer_email: Hyite.Bergmann@raad.tartu.ee
+maintainer_name: ''
+maintainer_email: ''
 description: ''
 twitter: ''
 logo: tartu.PNG
