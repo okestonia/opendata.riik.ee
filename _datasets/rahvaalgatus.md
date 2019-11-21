@@ -28,7 +28,7 @@ resources:
 
 license: "https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode"
 date_issued: 2019/09/28
-date_modified: 2019/11/21
+date_modified: 2019/11/22
 
 organization: Eesti Koostöö Kogu
 maintainer_name: Eesti Koostöö Kogu
