@@ -37,6 +37,10 @@ resources:
     format: CSV
     delim: -t
     interactive: 'False'
+    - name: Selgitused avaldatavate andmete kohta
+    url: 'https://www.politsei.ee/et/avaandmed'
+    format: HTML
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/11/09
