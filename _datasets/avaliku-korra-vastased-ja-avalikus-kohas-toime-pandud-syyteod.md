@@ -42,7 +42,7 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: ''
+update_freq: 'PPA uuendab andmeid kord nädalas neljapäeval'
 date_issued: 2017/11/15
 date_modified: 2019/11/22
 organization: Politsei- ja Piirivalveamet (PPA)
