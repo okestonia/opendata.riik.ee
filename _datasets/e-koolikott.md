@@ -3,8 +3,8 @@ schema: default
 title: E-koolikott
 title_en: E-Schoolbag
 notes: E-koolikott.ee koondab kokku õppematerjalide, kogumike ja autorite metaandmed ja teeb need kättesaadavaks 5-tärni avaandmetena. Igal objektil on oma URI, millele pöördudes väljastatakse objekti sisu nii inimesele arusaadavas (läbi veebibrauseri) kui masinloetavas vormingus (JSON-LD).
-notes_en: 'E-Schoolbag is an online envirnment, which collects metadata about learning materials, collections plus authors and makes them available as 5-star open data.
-department: 'Infosüsteemide Arenduskeskus'
+notes_en: E-Schoolbag is an online environment, which aggregates metadata about learning materials, collections plus authors and makes them available as 5-star open data objects.
+department: Infosüsteemide Arenduskeskus
 category: Haridus, kultuur ja sport
 category_en: Education, Culture and Sport
 resources:
