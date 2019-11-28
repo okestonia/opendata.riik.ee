@@ -21,7 +21,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/18
-date_modified: 2019/11/17
+date_modified: 2019/11/29
 organization: Terviseamet
 maintainer_name: ''
 maintainer_email: kesk@terviseamet.ee
