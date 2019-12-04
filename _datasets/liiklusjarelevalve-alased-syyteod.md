@@ -37,7 +37,7 @@ resources:
     format: CSV
     delim: -t
     interactive: 'False'
-    - name: Selgitused avaldatavate andmete kohta
+  - name: Selgitused avaldatavate andmete kohta
     url: 'https://www.politsei.ee/et/avaandmed'
     format: HTML
     interactive: 'True'
