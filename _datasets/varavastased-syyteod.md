@@ -38,13 +38,13 @@ resources:
     delim: -t
     interactive: 'False'
   - name: Selgitused avaldatavate andmete kohta
-    url: 'https://www2.politsei.ee/et/organisatsioon/analuus-ja-statistika/avaandmed.dot'
+    url: 'https://www.politsei.ee/et/avaandmed'
     format: HTML
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: ''
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2017/11/15
-date_modified: 2019/11/26
+date_modified: 2019/12/07
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: Krista Rebane
 maintainer_email: krista.rebane@politsei.ee
