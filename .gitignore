@@ -8,3 +8,5 @@ vendor
 .cache
 settings.env
 .DS_Store
+.Rhistory
+
