@@ -19,8 +19,8 @@ update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: ''
 date_modified: 2019/11/14
 organization: Tartu Linnavalitsus
-maintainer_name: Hüite Bergmann
-maintainer_email: Hyite.Bergmann@raad.tartu.ee
+maintainer_name: ''
+maintainer_email: gis@tartulv.ee
 maintainer_phone: ''
 update_rate: 1x ööpäevas
 ---
