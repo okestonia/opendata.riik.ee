@@ -19,8 +19,8 @@ update_freq: ''
 date_issued: ''
 date_modified: ''
 organization: Tartu Linnavalitsus
-maintainer_name: Hüite Bergmann
-maintainer_email: Hyite.Bergmann@raad.tartu.ee
+maintainer_name: ''
+maintainer_email: lv@tartulv.ee
 maintainer_phone: ''
 update_rate: Ei uuendata
 ---
