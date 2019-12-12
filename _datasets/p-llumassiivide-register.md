@@ -18,11 +18,11 @@ resources:
     url: 'https://kls.pria.ee/kaart/'
     format: HTML
     interactive: 'True'
-  - name: Põllumassiivid, põllud, loomakasvatushooned ja maastikuelemendid (vaatamisteenus) WMS
+  - name: Pindalatoetuste ja loomakasvatushoonete ruumiandmed (vaatamisteenus) WMS
     url: 'https://kls.pria.ee/geoserver/pria_avalik/wms?version=1.1.1'
     format: WMS
     interactive: 'True'
-  - name: Põllumassiivid, põllud, loomakasvatushooned ja maastikuelemendid (allalaadimisteenus) WFS
+  - name: Pindalatoetuste ja loomakasvatushoonete ruumiandmed (allalaadimisteenus) WFS
     url: 'https://kls.pria.ee/geoserver/pria_avalik/ows'
     format: WFS
     interactive: 'True'
