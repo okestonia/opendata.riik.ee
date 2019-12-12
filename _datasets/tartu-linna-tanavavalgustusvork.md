@@ -2,7 +2,7 @@
 schema: default
 title: Tartu linna tänavavalgustusvõrk
 title_en: Street lightening in City of Tartu
-notes: Tartu linna tänavavalgustusvõrk: valguspunktid, juhtimiskilbid, vahekilbid ja liinid
+notes: 'Tartu linna tänavavalgustusvõrk: valguspunktid, juhtimiskilbid, vahekilbid ja liinid'
 notes_en: ''
 department: ''
 category: Piirkonnad ja linnad 
@@ -22,3 +22,5 @@ maintainer_name: ''
 maintainer_email: gis@tartulv.ee
 maintainer_phone: ''
 update_rate: Vastavalt vajadusele
+
+---
