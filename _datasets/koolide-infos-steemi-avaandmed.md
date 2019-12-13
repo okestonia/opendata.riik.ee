@@ -2,7 +2,7 @@
 schema: default
 title: Koolide infosüsteemi avaandmed
 title_en: Information System of Estonian Schools Open Data
-notes: 'Eesti koolide haldamise infosüsteem (EKIS) on suunatud kõigile haridusasutustele, mis on registreeritud Eesti hariduse infosüsteemis (EHIS). EKIS sisaldab dokumendihalduse, finantsarvestuse, personalihalduse, varahalduse, raamatukogu, kooli töö, intraneti ja kommunikatsioonimooduleid ning on liidestatud DVK ja avaliku veebiga võimaldades koolidel täita kõiki dokumendihaldusega seotud nõudeid. Uusi kirjeid lisatakse igapäevaselt.'
+notes: 'Eesti koolide haldamise infosüsteem (EKIS) on suunatud kõigile haridusasutustele, mis on registreeritud Eesti hariduse infosüsteemis (EHIS). EKIS võimaldab koolidel täita kõiki vajalikke dokumendihalduse nõudeid. EKIS kasutab dokumendivahetuse protokolli DHX, mille puhul liiguvad dokumendid asutuste vahel otse saatjalt saajale. Uusi kirjeid lisatakse igapäevaselt.'
 notes_en: ''
 department: ''
 category:
