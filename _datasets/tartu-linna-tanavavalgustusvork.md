@@ -9,7 +9,7 @@ category: Piirkonnad ja linnad
 category_en: Regions and Cities
 resources:
   - name: Tartu linna tänavavalgustusvõrk
-    url: 'https://gis.tartulv.ee/arcgis/services/Tanavavalgustus/TV_wms/MapServer/WmsServer?version=1.3.0'
+    url: 'https://gis.tartulv.ee/arcgis/services/Tanavavalgustus/TV_wms/MapServer/WmsServer?'
     format: WMS
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'  
