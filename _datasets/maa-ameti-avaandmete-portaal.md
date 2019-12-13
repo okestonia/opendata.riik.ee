@@ -1,9 +1,9 @@
 ---
 schema: default
 title: Maa-ameti geoportaal
-title_en: Land Board's geoportal
-notes: 'Maa-ameti kaardirakendused ja ruumiandmekogud avaandmetena (aadressiandmed, katastripiirid, kitsenduste mõjualad, Eesti topograafia andmekogu andmed, kõrgusandmed, ortofotod, põhikaart, kohanimed, haldus- ja asustusjaotus, geoloogiline baaskaart, kaardiruudustikud)'
-notes_en: 'Land Board's web map applications and open spatial data (addresses, cadaster parcels, topographic data, imagery, administrative divisions, geology)'
+title_en: "Land Board's geoportal"
+notes: "Maa-ameti kaardirakendused ja ruumiandmekogud avaandmetena (aadressiandmed, katastripiirid, kitsenduste mõjualad, Eesti topograafia andmekogu andmed, kõrgusandmed, ortofotod, põhikaart, kohanimed, haldus- ja asustusjaotus, geoloogiline baaskaart, kaardiruudustikud)"
+notes_en: "Land Board's web map applications and open spatial data (addresses, cadaster parcels, topographic data, imagery, administrative divisions, geology)"
 department: ''
 category:
   - Piirkonnad ja linnad
