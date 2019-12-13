@@ -5,8 +5,8 @@ title_en: Children's day care in Tartu
 notes: Tartu linnas era- ja munitsipaalhoidude info
 notes_en: ''
 department: ''
-category: Haridus
-category_en: Education
+category: Haridus, kultuur ja sport
+category_en: Education, Culture and Sport
 resources:
   - name: Lapsehoiud Tartu linnas
     url: 'https://gis.tartulv.ee/arcgis/services/Haridus/GI_lastehoiud/MapServer/FeatureServer?wsdl'
