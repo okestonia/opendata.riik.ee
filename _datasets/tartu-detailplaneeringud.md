@@ -9,7 +9,7 @@ category: Piirkonnad ja linnad
 category_en: Regions and Cities
 resources:
   - name: Tartu linna detailplaneeringud
-    url: 'https://gis.tartulv.ee/arcgis/services/Planeeringud/DP_WMS/MapServer/WMSServer?request=GetCapabilities&service=WMS'
+    url: 'https://gis.tartulv.ee/arcgis/services/Planeeringud/DP_WMS/MapServer/WMSServer?'
     format: WMS
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'  
