@@ -26,3 +26,5 @@ organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: maaamet@maaamet.ee
 maintainer_phone: '665 0600'
+
+---
