@@ -9,7 +9,7 @@ category: Tervis
 category_en: Health
 resources:
   - name: AED elustamisaparaadid
-    url: 'https://gis.tartulv.ee/arcgis/rest/services/Tervishoid/AED_aparaadid_avalik/FeatureServer'
+    url: 'https://gis.tartulv.ee/arcgis/services/Tervishoid/AED_aparaadid_avalik/MapServer/FeatureServer?wsdl'
     format: XML
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'  
