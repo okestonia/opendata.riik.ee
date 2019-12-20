@@ -1,9 +1,9 @@
 ---
 schema: default
 title: Koertega seotud asutused ja inventar Tartu linnas
-title_en: ''
+title_en: Organizations and equipment related to dogs in Tartu
 notes: Tartu linnas paiknevad koerte mänguväljakud, koerte väljaheidete prügikastid linnaruumis ning koerte varjupaigad
-notes_en: ''
+notes_en: Dog parks, dog waste bins and shelters in Tartu
 department: ''
 category: Keskkond
 category_en: Environment
