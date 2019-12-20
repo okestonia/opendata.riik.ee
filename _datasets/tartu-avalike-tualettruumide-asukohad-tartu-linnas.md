@@ -10,7 +10,7 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - url: 'https://gis.tartulv.ee/arcgis/services/Proov/Avalikud_tualetid/MapServer?wsdl'
+  - url: 'https://gis.tartulv.ee/arcgis/services/Haljastus/Tualett/MapServer?wsdl'
     format: XML
     name: Avalike tualettruumide asukohad Tartu linnas
     interactive: 'False'

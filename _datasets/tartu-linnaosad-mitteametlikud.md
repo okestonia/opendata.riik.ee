@@ -10,8 +10,8 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - url: 'https://www.tartu.ee/sites/default/files/uploads/Avaandmed/Tartu_LO.7z'
-    format: SHP
+  - url: 'https://gis.tartulv.ee/arcgis/services/Planeeringud/GI_linnaosad/MapServer?wsdl'
+    format: XML
     name: Tartu linnaosad (mitteametlikud)
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'

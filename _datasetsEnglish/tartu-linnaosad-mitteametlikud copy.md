@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Tartu asumid (mitteametlikud)
-title_en: Tartu Neighborhoods
-notes: Tartu asumid (mitteametlikud)
+title: Tartu linnaosad (mitteametlikud)
+title_en: City Districts (unofficial)
+notes: Tartu linnaosad (mitteametlikud)
 notes_en: ''
 department: 'Maad, ehitus ja planeerimine'
 category:
@@ -10,17 +10,17 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - url: 'https://gis.tartulv.ee/arcgis/services/Planeeringud/GI_asum/MapServer?wsdl'
-    format: XML
-    name: Tartu asumid (mitteametlikud)
+  - url: 'https://www.tartu.ee/sites/default/files/uploads/Avaandmed/Tartu_LO.7z'
+    format: SHP
+    name: Tartu linnaosad (mitteametlikud)
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''
 date_modified: ''
 organization: Tartu Linnavalitsus
-maintainer_name: ''
-maintainer_email: gis@tartulv.ee
+maintainer_name: Hüite Bergmann
+maintainer_email: Hyite.Bergmann@raad.tartu.ee
 maintainer_phone: ''
 update_rate: Vastavalt vajadusele
 ---
