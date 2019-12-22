@@ -11,11 +11,11 @@ category_en:
   - Health
 resources:
   - name: apteegireform
-    url: '/downloads/apteegid.xlsx'
+    url: 'https://opendata.riik.ee/downloads/apteegid.xlsx'
     format: XLSX
     interactive: 'False'
   - name: apteegireform
-    url: '/downloads/apteegid.csv'
+    url: 'https://opendata.riik.ee//downloads/apteegid.csv'
     format: CSV
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
