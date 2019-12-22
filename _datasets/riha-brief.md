@@ -29,7 +29,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-N'
 date_issued: 2016/11/28
-date_modified: 2019/12/22
+date_modified: 2019/12/23
 organization: Riigi Infosüsteemi Amet (RIA)
 maintainer_name: Riho Kerge
 maintainer_email: riho.kerge@ria.ee
