@@ -2,8 +2,8 @@
 schema: default
 title: "Üldapteekide vastavus apteegireformi nõuetele"
 title_en: "Pharmacies conforming to the rules of the upcoming pharmacy reform"
-notes: "Eesti üldapteekide vastavus 01.04.2020 rakenduvatele apteegireformi nõuetele seisuga 01.12.2019"
-notes_en: 'Estonian pharmacies conforming to the rules of the upcoming pharmacy reform which takes action on 01.04.2020. Updated 01.12.2019.'
+notes: "Eesti üldapteekide vastavus 01.04.2020 rakenduvatele apteegireformi nõuetele seisuga 01.01.2020"
+notes_en: 'Estonian pharmacies conforming to the rules of the upcoming pharmacy reform which takes action on 01.04.2020. Updated 01.01.2020.'
 department: ''
 category:
   - Tervis
