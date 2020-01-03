@@ -35,7 +35,12 @@ Esimene avaandmete foorum tõi avaliku sektori, erasektori jt sidusrühmade esin
 ## Avaandmete tehniline töötuba 01.03.2019
 - [Märkmed töötoast](https://docs.google.com/document/d/1bNEV4G8kyfIsF17JDOWV-FtNH-reKsAdtTkyT9jBdaQ/edit)
 
-# Avaandmete avaliku sektori töörühma materjalid  
+# Avaandmete avaliku sektori töörühma materjalid
+
+## Töörühm 25.11.2019  
+- [Kohtumise kokkuvõte](https://docs.google.com/document/d/18ymXTDj2TEiiZCupuM_svfmhbpUvtAgsGc4ibepzJrg)
+- [Päevakava slaidid](https://docs.google.com/presentation/d/11E9nFeIJ6Mxj-Q7ryhZVBLWJQQPR2FYdChjABFJ9XWY)
+
 ## Töörühm 03.06.2019  
 - [Kohtumise kokkuvõte](https://docs.google.com/document/d/1kKN_e57BT0_wseFshLD1X0v53Ur8n9QJbaxvhivN6Pg/edit#heading=h.e1fjh9i3xm8n)  
 
