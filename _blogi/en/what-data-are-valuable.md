@@ -4,7 +4,7 @@ lang: en
 author: "Maarja Toots"
 news_title: "What Data Are Valuable? Have Your Say!"
 preview: |
-Last summer the EU adopted a new open data directive that replaces the old “PSI” (public sector information) directive. This entails significant changes to European open data policy: within the next year, EU Member States need to define a list of high-value datasets that data holders will be obliged to publish as open data
+  Last summer the EU adopted a new open data directive that replaces the old “PSI” (public sector information) directive. This entails significant changes to European open data policy: within the next year, EU Member States need to define a list of high-value datasets that data holders will be obliged to publish as open data
 submitted: 2019/12/31
 preview_img: hand-data.jpg
 tags:
