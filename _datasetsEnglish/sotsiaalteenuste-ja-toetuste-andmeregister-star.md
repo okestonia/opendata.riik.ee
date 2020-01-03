@@ -17,13 +17,12 @@ resources:
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
     url: 'https://opendata.riik.ee/downloads/parameeter.csv'
     format: CSV
-    delim: -t
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/10
 date_modified: 2015/02/10
-organization: Sotsiaalkindlustusamet
+organization: Sotsiaalministeerium
 maintainer_name: STAR teenusetugi
 maintainer_email: STARteenusetugi@tehik.ee
 maintainer_phone: '7943903'

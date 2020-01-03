@@ -6,6 +6,6 @@ app_description_english: The Oak of Truth visualises Estonia's progress in achie
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/toetamm.PNG'
 app_url: 'https://tamm.stat.ee'
 developed_by: Riigikantselei, Statistikaamet
-img: toetamm.png
+img: toetamm.PNG
 submitted: 2019/11/04
 ---
