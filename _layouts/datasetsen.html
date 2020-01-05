@@ -1,5 +1,8 @@
 ---
+title: Andmehulgad
+ref: dataset
 layout: default
+lang: en
 ---
 {% include breadcrumbs.html parent="Datasets" %}
 {% assign schema = page.schema | default: site.schema %}
@@ -10,6 +13,7 @@ layout: default
 {% assign organization = site.organizations | where:"title",page.organization | first %}
 {% assign filename = page.url | remove: "/en/andmehulgad/" | remove: "/" | replace: ' ', '-' %}
 {% capture organization_url %}{{ site.baseurl }}/en/andmehulgad/?organization={{ organization.title | slugify }}{% endcapture %}
+<html lang="en">
 <div data-component="view-switcher">
   <div class="row d-flex" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}">
     {% if organization %}
@@ -54,7 +58,6 @@ layout: default
 
 
         <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes_en }}</p>
-
         <h2>Resources</h2>
         <table class="table table-striped table-condensed el-margin">
           <tr>

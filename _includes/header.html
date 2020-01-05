@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-md mb-4 navbar-light bg-light" data-component="navigation">
   <div class="container">
-  {% if page.lang == "et" %}
+  {% if page.lang == "et" or layout.lang == "et" %}
   <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title[page.lang] }}</a>
-  {% elsif page.lang == "en" %}
+  {% elsif page.lang == "en" or layout.lang == "en" %}
   <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title[page.lang] }}</a>
   {% else %}
   <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title['et'] }}</a>
@@ -12,10 +12,11 @@
   </button>
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
-        {% if page.lang == "en" %}
+        {% if page.lang == "en" or layout.lang == "en" %}
         <html lang="en">
         {% assign nav = site.navigation_english %}
         {% else %}
+        <html lang="et">
         {% assign nav = site.navigation_et %}
         {% endif %}
         {% for link in nav %}
@@ -38,7 +39,7 @@
     </div>
       {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
       {% if pages.size < 3 %}
-      <div class="wrapper" style="text-align: right; line-height: 4em">
+      <div class="wrapper" style="text-align: right;">
         <a href="https://github.com/okestonia/jkan" style="padding-right: 20px;" target="_blank" rel="noopener" title="OKEE GitHub">
           <i class="fa fa-github fa-lg"></i>
         </a>
@@ -48,7 +49,7 @@
         <a href="https://opendata.riik.ee/datasetfeed.xml" style="padding-right: 20px;" target="_blank" rel="noopener" title="RSS Feed">
           <i class="fa fa-rss fa-lg"></i>
         </a>
-      {% if page.lang == "et" %}
+      {% if page.lang == "et" or layout.lang == "et" %}
       <html lang="et">
       {% else %}
       <html lang="en">
