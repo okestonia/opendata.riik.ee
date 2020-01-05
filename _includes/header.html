@@ -50,9 +50,8 @@
         </a>
       {% if page.lang == "et" %}
       <html lang="et">
-      Keel:
       {% else %}
-      Language:
+      <html lang="en">
       {% endif %}
       {% for page in pages %}
       <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
