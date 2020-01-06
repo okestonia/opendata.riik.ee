@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Põllumassiivide register
+title_en: Register of Agricultrual Parcels
 notes: 'Põllumassiivide registri pidamise eesmärk on anda pindalapõhiste maaelu arengukava toetuste ning otsetoetuste taotlejatele avalikku teavet põllumassiivide piiride, unikaalse numberkoodi, pindala ja tunnuste kohta. Registri vastutav töötleja on Põllumajanduse Registrite ja Informatsiooni Amet (PRIA). Täpsemat teavet põllumassiivide registri kohta saab http://www.pria.ee/et/Registrid/Pollumassiivide_register'
-department: Põllumajanduse Registrite ja Informatsiooni Amet'
+notes_en: ''
+department: Põllumajanduse Registrite ja Informatsiooni Amet
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: PRIA avaandmed
     url: 'http://www.pria.ee/avaandmed/'
@@ -14,11 +18,11 @@ resources:
     url: 'https://kls.pria.ee/kaart/'
     format: HTML
     interactive: 'True'
-  - name: Põllumassiivid, loomakasvatushooned ja maastikuelemendid (vaatamisteenus) WMS
+  - name: Pindalatoetuste ja loomakasvatushoonete ruumiandmed (vaatamisteenus) WMS
     url: 'https://kls.pria.ee/geoserver/pria_avalik/wms?version=1.1.1'
     format: WMS
     interactive: 'True'
-  - name: Põllumassiivid, loomakasvatushooned ja maastikuelemendid (allalaadimisteenus) WFS
+  - name: Pindalatoetuste ja loomakasvatushoonete ruumiandmed (allalaadimisteenus) WFS
     url: 'https://kls.pria.ee/geoserver/pria_avalik/ows'
     format: WFS
     interactive: 'True'

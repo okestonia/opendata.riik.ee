@@ -1,5 +1,8 @@
 ---
+title: Datasets
+ref: dataset
 layout: default
+lang: et
 ---
 {% include breadcrumbs.html parent="Datasets" %}
 {% assign schema = page.schema | default: site.schema %}
@@ -10,6 +13,7 @@ layout: default
 {% assign organization = site.organizations | where:"title",page.organization | first %}
 {% assign filename = page.url | remove: "/andmehulgad/" | remove: "/" | replace: ' ', '-' %}
 {% capture organization_url %}{{ site.baseurl }}/andmehulgad/?organization={{ organization.title | slugify }}{% endcapture %}
+<html lang="et">
 <div data-component="view-switcher">
   <div class="row d-flex" data-component="dataset-display" data-hook="view" data-view="display" typeof="dcat:Dataset" resource="{{ page.url }}">
     {% if organization %}
@@ -54,7 +58,6 @@ layout: default
 
 
         <p property="dct:description" style="text-align: justify; overflow-wrap: break-word;">{{ page.notes }}</p>
-
         <h2>Andmefailid</h2>
         <table class="table table-striped table-condensed el-margin">
           <tr>
@@ -64,9 +67,13 @@ layout: default
             <th class="table-content-centered">Preview</th>
           </tr>
           {% assign first_resource_url = '' %}
+          {% assign first_resource_delim = '' %}
           {% for resource in page.resources %}
           {% if first_resource_url == '' and resource.url contains '.csv' %}
           {% capture first_resource_url %}{{ resource.url }}{% endcapture %}
+          {% endif %}
+          {% if first_resource_delim == '' and resource.delim != '' %}
+          {% capture first_resource_delim %}{{ resource.delim }}{% endcapture %}
           {% endif %}
 
           <tr>
@@ -86,7 +93,7 @@ layout: default
             </td>
             <td class="table-content-centered">
               {% if resource.format == "CSV" or resource.format == "csv" %}
-              <a href="https://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ resource.url }}" target="iframe_preview" rel="noopener" title="Preview {{ resource.name }}">
+              <a href="https://datapipes.okfnlabs.org/csv -d {{resource.delim}}/head 15/html/?url={{ resource.url }}" target="iframe_preview" rel="noopener" title="Preview {{ resource.name }}">
                 <property='dcat:accessURL'>
                   <i class="fa fa-check-circle-o"></i>
               </a>
@@ -101,7 +108,7 @@ layout: default
       {% if first_resource_url != '' %}
       <h2>Preview</h2>
       <div class="embed-responsive embed-responsive-16by9">
-      <iframe class="embed-responsive-item" src="https://datapipes.okfnlabs.org/csv -d -t/head 15/html/?url={{ first_resource_url }}" width="100%" height="100%" name="iframe_preview"></iframe>
+      <iframe class="embed-responsive-item" src="https://datapipes.okfnlabs.org/csv -d {{ first_resource_delim }}/head 15/html/?url={{ first_resource_url }}" width="100%" height="100%" name="iframe_preview"></iframe>
       </div>
       {% endif %}
 

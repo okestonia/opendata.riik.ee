@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Rahvusvahelised organisatsioonid
+title_en: International Organizations in Estonia
 notes: 'Eestis asuvad valitsustevahelised rahvusvahelised organisatsioonid või muude rahvusvaheliste kokkulepetega loodud institutsioonid, nende juhid ja kontaktandmed.'
+notes_en: ''
 department: ''
 category:
   - Valitsus ja avalik sektor
+category_en:
+  - Government and Public Sector
 resources:
   - name: organisatsioonid.xml
     url: 'http://opendata.vm.ee/organisatsioonid.xml'
@@ -17,7 +21,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/03/26
-date_modified: 2019/04/11
+date_modified: 2020/01/06
 organization: Välisministeerium
 maintainer_name: Riina Talts
 maintainer_email: Riina.Talts@mfa.ee

@@ -1,0 +1,70 @@
+I"�<ol class="breadcrumb" style="
+  padding: 0;
+  background: none;
+">
+  
+  
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    
+
+    
+    
+    <li class="breadcrumb-item active">Guidelines for publishing secondary datasets</li>
+    
+  
+</ol>
+
+<h1 id="guidelines-for-publishing-secondary-datasets-on-opendatariikee">Guidelines for publishing secondary datasets on opendata.riik.ee</h1>
+
+<h2 id="general-principles">General principles</h2>
+
+<ol>
+  <li><strong>For the purposes of these guidelines, ‘secondary datasets’ are defined as datasets produced as a result of the automated processing, combination or scraping/polling of publicly accessible datasets</strong>. Secondary datasets can be published on opendata.riik.ee in accordance with the guidelines below.</li>
+  <li>In exceptional cases, one can also publish references to primary sources on opendata.riik.ee in case the data holder does not wish or is not able to publish the data (e.g. datasets belonging to foreign governments or private companies). In this case, the data publisher should refer to the direct source of the dataset, without making a copy, and the responsibility for the data remains with the owner of the original dataset.</li>
+  <li>The original source of the data and the process whereby the secondary dataset was created needs to be transparent for users. To this end, all datasets should be accompanied with detailed metadata to allow users to assess the credibility of the data.</li>
+  <li>When publishing secondary datasets, no restrictions shall be set (e.g. by attaching a restrictive license) as regards the means, formats and goals for which the data can be reused, except in cases where such restrictions are required by law.</li>
+  <li>The publisher of a secondary dataset bears full responsibility for the lawfulness of accessing and processing the data and the consequences thereof. The two principal (but not the only) norms to be followed include:
+    <ul>
+      <li>in case the primary dataset is defined as personal data in the sense of the General Data Protection Regulation 2016/679 Article 4, paragraph 1, the publisher is obliged to verify the existence of a justified legal basis for processing the data and ensuring that the rights of data subject be respected, including the data subject’s right to access the data (Article 15), right to rectification (Article 16), right to erasure (Article 17), right to object (Article 21), right to compensation and liability (Article 82);</li>
+      <li>Law of Obligations Act (<em>Võlaõigusseadus</em>), in particular §1046 (unlawfulness of damaging personality rights) and §1047 (unlawfulness of disclosure of incorrect information and the obligation for compensation of related damages).</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Notifications of possible errors in secondary datasets can be submitted to GitHub following the same procedure as for primary datasets: <a href="https://github.com/okestonia/opendata-issue-tracker">https://github.com/okestonia/opendata-issue-tracker</a>.</p>
+
+<h2 id="metadata">Metadata</h2>
+
+<p>The following metadata should be published along with any secondary dataset:</p>
+
+<p><strong>Data source</strong>: an as accurate as possible reference to the source of the original data, e.g. URLs, addresses of scraped websites, etc.</p>
+
+<p><strong>Source code of the program used for the collection and processing of the data</strong>. The program used for the creation of secondary datasets should be public in order to enable the public to assess the credibility of the processing.</p>
+
+<p><strong>Name and contact information of the publisher of the secondary dataset</strong>. The name and contact details of the publisher of a secondary dataset allow users to report problems and the owners of the original datasets to take measures to request changes or the removal of the secondary dataset if need be.</p>
+
+<p><strong>Temporal dimension</strong>, including:</p>
+
+<ul>
+  <li>Time retrieved (time when the data was obtained from the original source);</li>
+  <li>Time of publication in the original source (what time period the data represents);</li>
+  <li>Update frequency or update policy: how often or on what conditions (if at all) the secondary dataset will be updated;</li>
+  <li>Planned date of storage: how long the secondary dataset will be available to the public without significant changes in methodology.</li>
+</ul>
+
+<p><strong>License</strong>. What and on which grounds can be done with the dataset. The license chosen for a secondary dataset cannot contradict the license attached to the primary dataset.</p>
+
+<h2 id="questions-and-answers">Questions and answers</h2>
+
+<h3 id="who-and-how-assesses-the-quality-and-credibility-of-the-data">Who and how assesses the quality and credibility of the data?</h3>
+
+<p>A user of a dataset or its derivatives assesses data quality based on the metadata attached to the dataset. As a rule, the more detailed the metadata, the more credible the data can be presumed to be (except in cases where the data provider has pointed to possible errors in data). Users use secondary datasets at their own responsibility. If a secondary dataset is not deemed credible, users can use the original data.</p>
+
+<h3 id="who-is-responsible-for-the-accuracy-of-the-data">Who is responsible for the accuracy of the data?</h3>
+
+<p>As regards data accuracy, the publisher of a secondary dataset is responsible only for providing accurate metadata and ensuring that the published code indeed produces the secondary dataset that is published.</p>
+
+<h2 id="discussion-and-feedback">Discussion and feedback</h2>
+
+<p>Proposals for amendments to these guidelines can be made via GitHub: <a href="https://github.com/okestonia/jkan/issues/403">https://github.com/okestonia/jkan/issues/403</a>.</p>
+:ET

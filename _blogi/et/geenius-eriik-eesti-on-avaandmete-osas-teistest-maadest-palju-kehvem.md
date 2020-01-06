@@ -1,4 +1,6 @@
 ---
+article_type: news
+lang: et
 author: "Annegrete Peek"
 news_title: "Geenius: E-riik Eesti on avaandmete osas teistest maadest palju kehvem"
 preview: "Geeniuse artikkel võtab kokku Eesti seisu avaandmete valdkonnas. Kuigi Eesti on oma e-teenustega teistele eeskujuks, siis avaandmete avalikustamisega peab riik veel pingutama."

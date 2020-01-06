@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Toidukäitlejad
+title_en: Food Business Operators
 notes: Teavitatud ja tegevusloaga toidu / toiduga kokkupuutumiseks ettenähtud materjalide ja esemete käitlejad
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Toidukäitlejad
     url: 'https://agri.ee/sites/default/files/opendata/toit/Toidukaitlejad.xml'
@@ -25,7 +29,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/07/17
-date_modified: 2019/04/11
+date_modified: 2020/01/05
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee

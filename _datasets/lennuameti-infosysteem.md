@@ -1,9 +1,13 @@
 ---
 schema: default
 title: Lennuohutuse järelevalve infosüsteem LOIS
+title_en: Flight Safety Information System
 notes: LOIS võimaldab lennundusettevõtjatel ja eraisikutel esitada Lennuametile elektroonselt taotlusi neile vajalike tegevuslubade ja -sertifikaatide saamiseks.
+notes_en: ''
 department: ''
 category:
+  - Transport
+category_en:
   - Transport
 resources:
   - name: LOIS avaandmed
@@ -21,9 +25,9 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 31/01/2019
-date_modified: 2019/04/11
+date_modified: 2020/01/02
 organization: Lennuamet
-maintainer_name: James Herne
-maintainer_email: james.herne@mkm.ee
-maintainer_phone: ''
+maintainer_name: MKM IT abi
+maintainer_email: itabi@mkm.ee
+maintainer_phone: '6256333'
 ---

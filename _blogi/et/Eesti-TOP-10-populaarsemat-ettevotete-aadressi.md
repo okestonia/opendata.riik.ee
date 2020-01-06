@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: et
 author: "Annegrete Peek"
 news_title: "Eesti TOP 10 populaarsemat ettevõtete aadressi"
 preview: "See on järjekordne postitus sarjas „Avaandmed ja andmeajakirjandus“. Äriregistri avalikes andmetes on Eestis registreeritud ettevõtete aadressid. Uurime, millistele aadressidele on kõige rohkem ettevõtteid registreeritud."

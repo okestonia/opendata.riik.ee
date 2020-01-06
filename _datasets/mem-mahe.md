@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Mahepõllumajanduse register
+title_en: Organic Farming Registry
 notes: Mahepõllumajanduse registri pidamise eesmärk on pidada arvestust mahepõllumajanduse valdkonnas tegutsevate isikute ja nende tunnustatud ettevõtete üle avalikkusele kättesaadaval ning tõhusa järelevalve teostamist võimaldaval viisil. Registri vastutav töötleja on Maaeluministeerium ja volitatud töötleja on Põllumajandusamet (PMA). Täpsemat teavet mahepõllumajanduse registri kohta saab PMA kodulehelt
+notes_en: ''
 department: ''
 category:
   - Põllumajandus, kalandus, metsandus
+category_en:
+  - Agriculture, Fisheries, Forestry and Food
 resources:
   - name: Maheregister
     url: 'https://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.xml'
@@ -16,23 +20,27 @@ resources:
     interactive: 'False'
   - name: Meta
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.csvmeta.txt'
-    format: CSV
+    format: TXT
     interactive: 'False'
   - name: Klient
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.klient.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Korje
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.korje.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Loomad
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.loom.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Taimed
     url: 'http://www.agri.ee/sites/default/files/opendata/mahe/Mahepollumajandus.taim.csv'
     format: CSV
+    delim: ","
     interactive: 'False'
   - name: Registri avalik vaade
     url: 'https://portaal.agri.ee/avalik/#/mahe'
@@ -48,7 +56,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/07/12
-date_modified: 2019/04/11
+date_modified: 2020/01/06
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee

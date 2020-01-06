@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: et
 author: "Annegrete Peek"
 news_title: "Erakoolid – kui populaarsed need siiski on?"
 preview: "See postitus täiendab ERRi 23.augusti uudist <a href=\"https://www.err.ee/855819/erakoolid-koguvad-populaarsust\" target=\"_blank\" >„Erakoolid koguvad populaarsust“</a>. Antud uudis tekitas mitmeid küsimusi. Kui kiire on olnud kasv? Kas koolide arv on mitmekordistunud? Kas õpilaste arv on mitmekordistunud? Kas kasv on olnud pidev? Kus paiknevad erakoolid?</p><p>Nendele küsimustele vastuse leidmiseks kasutame Haridus- ja Teadusministeeriumi <a href=\"https://opendata.riik.ee/et/dataset/eesti-hariduse-infos-steemi-avaandmed\" target=\"_blank\" >Eesti Haridus Infosüsteemi (EHIS) andmeid</a>. Uuritavas <a href=\"https://www.hm.ee/ehis/statistilised_tabelid/download.php?file=alus_yld_oppeasutused_oppurid.xlsx\" >andmestikus</a> on viimase viie õppeaasta andmed.</p><p>Kui õppeaastal 2013/2014 käisid lapsed 48 erakoolis, siis 2017/2018 õppeaastaks oli tegutsevate erakoolide arv kasvanud 58 koolile. Kas munitsipaalkoolide arv on ka kasvanud? Ei. Selgema pildi saame kui vaatame osakaalusid.</p>"

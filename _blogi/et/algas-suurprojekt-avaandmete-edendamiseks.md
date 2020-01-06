@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: et
 news_title: Algas suurprojekt avaandmete edendamiseks
 text:
   <p>2018. aasta veebruaris käivitus projekt „Avaandmete kasutamise edendamine“, mille eesmärk on populariseerida Eestis järgmise kolme aasta jooksul avaandmete pakkumist/avaldamist ja kasutamist. Projekti viib ellu MTÜ <a href="https://ee.okfn.org/et/" rel="nofollow">Open Knowledge Estonia</a> koostöös Majandus- ja Kommunikatsiooniministeeriumiga.</p>

@@ -5,18 +5,39 @@
   {% if page.title == site.title %}
     <li class="breadcrumb-item active">Home</li>
   {% else %}
-  {% if page.lang == "en" %}
+  {% if page.lang == "en" or layout.lang == "en" %}
     <li class="breadcrumb-item"><a href="{{ site.baseurl }}/">Home</a></li>
     {% else %}
     <li class="breadcrumb-item"><a href="{{ site.baseurl }}/">Kodu</a></li>
   {% endif %}
+  {% if include.parent %}
+    {% if layout.title == "Datasets" or layout.title == "Andmehulgad" %}
+      {% if layout.lang == "et" %}
+        <li class="breadcrumb-item"><a href="{{ site.baseurl }}/andmehulgad/">Andmehulgad</a></li>
+        {% else %}
+        <li class="breadcrumb-item"><a href="{{ site.baseurl }}/en/andmehulgad/">Datasets</a></li>
+      {% endif %}
+    {% elsif layout.title == "article" %}
+      {% if page.lang == "et" %}
+        <li class="breadcrumb-item"><a href="{{ site.baseurl }}/blogi/">Blogi</a></li>
+        {% else %}
+        <li class="breadcrumb-item"><a href="{{ site.baseurl }}/en/blog/">Blog</a></li>
+      {% endif %}
+  {% endif %}
+  {% endif %}
 
-    {% if include.parent %}
+
+    <!-- {% if include.parent %}
       {% assign parent = site.pages | where:"title",include.parent | first %}
       {% if parent %}
         <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a></li>
       {% endif %}
-    {% endif %}
+    {% endif %} -->
+    {% if page.lang == "en" or layout.lang == "en" %}
     <li class="breadcrumb-item active">{{ page.title }}</li>
+    {% endif %}
+    {% if page.lang == "et" or layout.lang == "et" %}
+    <li class="breadcrumb-item active">{{ page.title }}</li>
+    {% endif %}
   {% endif %}
 </ol>

@@ -1,28 +1,25 @@
 ---
 schema: default
-title: FIDEK2015
-notes: 'Andmestik 2015. aasta füüsiliste isikute tuludeklaratsioonidega. Failis on järgmised veerud:
- * yhisdeklar (T/F). Kas tegu on ühisdeklaratsiooniga
- * tulud_kokku. Kõik deklaratsiooni tulud kokku
- * mahaarvamised. Kõik mahaarvamised summeerituna
- * tagastus. Mis summas tulumaksu kas tagastati (positiivne number) või juurde tuli maksta (negatiivne)
-
-Andmestikust on tuvastamise välistamise huvides eemaldatud ekstreemsete väärtustega kirjetest (mahuliselt alla 0.003% kirjete koguarvust)'
+title: Maksu- ja Tolliameti avaandmed
+title_en: Tax and Customs Board Open Data
+notes: ''
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Economy and Finance
 resources:
-  - name: Deklaratsioonide andmestik
-    url: 'https://opendata.riik.ee/downloads/puhasfidek2015utf8.txt'
-    format: TXT
-    interactive: 'False'
+  - name: Maksu- ja Tolliameti avaandmed
+    url: 'https://www.emta.ee/et/kontaktid-ja-ametist/maksulaekumine-statistika/maksu-ja-tolliameti-avaandmed'
+    format: HTML
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/03/18
-date_modified: 2017/03/18
+date_modified: 2019/06/12
 organization: Maksu- ja Tolliamet
 maintainer_name: EMTA
-maintainer_email: info@emta.ee
-maintainer_phone:
-
+maintainer_email: emta@emta.ee
+maintainer_phone: ''
 ---

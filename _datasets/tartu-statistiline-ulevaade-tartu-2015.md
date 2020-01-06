@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Statistiline ülevaade Tartu 2015
+title_en: Statistical Overview of Tartu 2015
 notes: Statistiline ülevaade Tartu 2015
+notes_en: ''
 department: 'Maad, ehitus ja planeerimine'
 category:
   - Piirkonnad ja linnad
+category_en:
+  - Regions and Cities
 resources:
   - url: 'http://www.tartu.ee/sites/default/files/uploads/Tartu%20linn/Statistika/Lyhiylevaade_2015.pdf'
     format: 'PDF, CSV'
@@ -15,8 +19,8 @@ update_freq: ''
 date_issued: ''
 date_modified: ''
 organization: Tartu Linnavalitsus
-maintainer_name: Hüite Bergmann
-maintainer_email: Hyite.Bergmann@raad.tartu.ee
+maintainer_name: ''
+maintainer_email: lv@tartulv.ee
 maintainer_phone: ''
 update_rate: Ei uuendata
 ---

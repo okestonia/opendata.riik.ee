@@ -1,4 +1,6 @@
 ---
+article_type: news
+lang: et
 author: "Annegrete Peek"
 news_title: "Kuku raadio: Mis on avaandmed?"
 preview: "Saates Kukkuv Õun arutab Andres Kütt Open Knowledge Estoniast avaandmete olemusest."

@@ -1,22 +1,26 @@
 ---
 schema: default
 title: Tartu linna tänavavalgustusvõrk
-notes: Tartu linna tänavavalgustusvõrk
-department: Heakord ja keskkond
-category:
-  - Piirkonnad ja linnad
+title_en: Street lightening in City of Tartu
+notes: 'Tartu linna tänavavalgustusvõrk: valguspunktid, juhtimiskilbid, vahekilbid ja liinid'
+notes_en: ''
+department: ''
+category: Piirkonnad ja linnad 
+category_en: Regions and Cities
 resources:
-  - url: 'https://gis.tartulv.ee/arcgis/services/Tanavavalgustus/TV_wms/MapServer/WmsServer?version=1.3.0'
+  - name: Tartu linna tänavavalgustusvõrk
+    url: 'https://gis.tartulv.ee/arcgis/services/Tanavavalgustus/TV_wms/MapServer/WmsServer?'
     format: WMS
-    name: Tartu linna tänavavalgustusvõrk
-    interactive: 'True'
-license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
+    interactive: 'False'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'  
 update_freq: ''
-date_issued: ''
+date_issued: 10/12/2019 (avaandmete portaali lisamise kuupäev)
 date_modified: ''
+
 organization: Tartu Linnavalitsus
-maintainer_name: Hüite Bergmann
-maintainer_email: Hyite.Bergmann@raad.tartu.ee
+maintainer_name: ''
+maintainer_email: gis@tartulv.ee
 maintainer_phone: ''
 update_rate: Vastavalt vajadusele
+
 ---

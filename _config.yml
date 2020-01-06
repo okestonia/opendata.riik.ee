@@ -13,9 +13,13 @@ footer_title:
 footer_description:
   et: Avaandmete portaali sisustatakse Euroopa Liidu struktuuritoetuse toetusskeemist "Infoühiskonna teadlikkuse tõstmine", mida rahastab Euroopa Regionaalarengu Fond.
   en: The Open Data Portal's content is created as part of the EU structural funds' programme "Raising Public Awareness about the Information Society" financed through the EU Regional Development Fund.
+alt_tag:
+  et: "Euroopa Liit Euroopa Regionaalarengu Fond"
+  en: "European Union Regional Developmen Fund"
+
 baseurl:
 logo: /img/jkan.png
-
+url: "https://opendata.riik.ee"
 domain: https://opendata.riik.ee
 # Site theme
 jkan_theme: Default
@@ -40,24 +44,27 @@ navigation_et:
   - title: Lisainfo
     url: /lisainfo/
     sublinks:
+      - title: Avaandmete Poliitika
+        url: /avaandmete-poliitika/
+      - title: Juhendid
+        url: /juhend/
       - title: Metaandmed
         url: /metaandmed/
+      - title: Sündmused ja infomaterjalid
+        url: /sundmused-ja-infomaterjalid/
       - title: KKK
         url: /kkk/
-      - title: Avaandmete roheline raamat
-        url: /roheline-raamat/
+      - title: Litsents
+        url: /litsents/
       - title: Kontaktid
         url: /kontaktid/
-      - title: Meist
-        url: /meist/
-      - title: Juhend
-        url: /juhend/
-
 navigation_english:
     - title: Datasets
-      url: /en/datasets/
+      url: /en/andmehulgad/
     - title: Publishers
       url: /en/orgs/
+    - title: Metadata
+      url: /en/metadata/
     - title: Applications
       url: /en/apps/
     - title: Blog
@@ -65,12 +72,14 @@ navigation_english:
     - title: More Info
       url: /en/more/
       sublinks:
-        - title: Metadata
-          url: /en/metadata/
+        - title: Open Data policy
+          url: /en/open-data-policy/
+        - title: Events and Information Materials
+          url: /en/events-and-info-materials/
         - title: FAQ
           url: /en/faq/
-        - title: Green Paper
-          url: /en/green-paper/
+        - title: Guidelines
+          url: /en/guidelines/
         - title: Contacts
           url: /en/contacts/
         - title: About
@@ -101,9 +110,9 @@ collections:
   datasets:
     output: true
     permalink: /andmehulgad/:path/
-  datasetsen:
+  datasetsEnglish:
     output: true
-    permalink: /en/datasets/:path/
+    permalink: /en/andmehulgad/:path/
   organizations:
     output: true
   #  permalink: /publishers/:path/
@@ -125,12 +134,11 @@ defaults:
       organization: N/A
   - scope:
       path: ""
-      type: datasetsen
+      type: datasetsEnglish
     values:
       layout: datasetsen
       category: Uncategorized
-      organization: N/A
-  # - scope:
+      organization: N/A  # - scope:
   #     path: ""
   #     type: organizations
   #   values:
@@ -195,15 +203,16 @@ twittercard:
 opengraph:
   enabled: true
 
-#plugins:
-#  - jekyll-feed
+plugins:
+  - jekyll-sitemap
+# feed:
+#   collections:
+#     - datasets
+#     - applications
+#     - blogi
+#     - organizations
 
-feed:
-  collections:
-    - datasets
-    - applications
-    - blogi
-    - organizations
+
 
 # Exclude these files from the build
 exclude:

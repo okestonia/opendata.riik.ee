@@ -1,39 +1,43 @@
 ---
 schema: default
 title: Eesti Spordiregistri avaandmed
+title_en: Estonian Sports Register Open Data
 notes: Treenerid, spordiehitised, spordikoolid, spordiorganisatsioonid
+notes_en:
 department: ''
 category:
   - Haridus, kultuur ja sport
+category_en:
+  - Education, Culture and Sport
 resources:
-  - name: 23.02.2015 Treenerid
+  - name: Treenerid
     url: 'https://www.spordiregister.ee/opendata/files/treenerid.json'
     format: JSON
     interactive: 'False'
-  - name: 23.02.2015 Treenerid
+  - name: Treenerid
     url: 'https://www.spordiregister.ee/opendata/files/treenerid.xml'
     format: XML
     interactive: 'False'
-  - name: 23.02.2015 Spordiehitised
+  - name: Spordiehitised
     url: 'https://www.spordiregister.ee/opendata/files/spordiehitised.json'
     format: JSON
     interactive: 'False'
-  - name: 23.02.2015 Spordiehitised
+  - name: Spordiehitised
     url: 'https://www.spordiregister.ee/opendata/files/spordiehitised.xml'
     format: XML
     interactive: 'False'
-  - name: 23.02.2015 Spordikoolid
+  - name: Spordikoolid
     url: 'https://www.spordiregister.ee/opendata/files/spordikoolid.json'
     format: JSON
     interactive: 'False'
-  - name: 23.02.2015 Spordikoolid
+  - name: Spordikoolid
     url: 'https://www.spordiregister.ee/opendata/files/spordikoolid.xml'
     format: XML
     interactive: 'False'
-  - name: 23.02.2015 Spordiorganisatsioonid
+  - name: Spordiorganisatsioonid
     url: 'https://www.spordiregister.ee/opendata/files/spordiorganisatsioonid.json'
     format: JSON
-  - name: 23.02.2015 Spordiorganisatsioonid
+  - name: Spordiorganisatsioonid
     url: 'https://www.spordiregister.ee/opendata/files/spordiorganisatsioonid.xml'
     format: XML
     interactive: 'False'
@@ -44,7 +48,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/26
-date_modified: 2019/04/11
+date_modified: 2020/01/05
 organization: Kultuuriministeerium
 maintainer_name: Spordikoolituse ja -Teabe SA
 maintainer_email: ' esr@spordiinfo.ee'

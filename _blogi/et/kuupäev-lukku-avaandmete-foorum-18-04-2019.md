@@ -1,4 +1,6 @@
 ---
+article_type: news
+lang: et
 author: "Annegrete Peek"
 news_title: "Kuupäev lukku! Avaandmete foorum 18.04.2019"
 preview: "18.aprillil toimub järjekordne Avaandmete foorum, mille käigus ühtlustame 100 avaandme huvilise arusaamu, kas ja mil kujul avalikustada avaliku sektori asutuste valduses olevaid andmeid."

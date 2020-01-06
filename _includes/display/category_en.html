@@ -1,0 +1,11 @@
+<tr>
+  <th>{{ include.field.label }}</th>
+  <td>
+    {% if include.value.size %}
+      {% for category in include.value %}
+        <a href="{{ site.baseurl }}/en/andmehulgad/?category_en={{ category | slugify }}">{{ category }}</a>{% unless forloop.last %}, {% endunless %}
+      {% endfor %}
+    {% else %}
+      <a href="{{ site.baseurl }}/en/andmehulgad/?category_en={{ include.value | slugify }}">{{ include.value }}</a>
+    {% endif %}
+  </td>

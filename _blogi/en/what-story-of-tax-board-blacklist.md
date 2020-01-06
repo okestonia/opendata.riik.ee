@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: en
 author: "Annegrete Peek"
 news_title: "What's the story of the Tax Board blacklist?"
 preview: "This post in \"Open Data and Journalism\" series looks into tax debtors. Estonian Tax and Customs Board (EMTA) publishes once a month a list of companies in debt. Let's look at how big is the biggest debt, how much debt a TOP 10, 20, 50, and 100 companies make. In addition, we will compare the list published in December with the November list."

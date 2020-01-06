@@ -1,4 +1,6 @@
 ---
+article_type: article
+lang: et
 author: "Annegrete Peek"
 news_title: "Mis lugu räägib EMTA must nimekiri?"
 preview: "See kord sarjas „Avaandmed ja andmeajakirjandus“ vaatame lähemalt maksuvõlgnikke. Eesti Maksu- ja Tolliamet avalikustab kord kuus nimekirja võlas olevatest ettevõtetest. Uurime, kui suur on suurim võlg, kui suure osa võlast moodustavad TOP 10, 20, 50 ja 100 ettevõtet. Lisaks võrdleme detsembris avalikustatud nimekirja novembri omaga."

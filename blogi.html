@@ -1,13 +1,20 @@
 ---
-title: Blogi
+title: Uudised ja blogi
 layout: default
 permalink: /blogi/
 ref: blog
 lang: et
 ---
 {% include breadcrumbs.html %}
-<h1>Blogi</h1>
+
+<h1>Uudised ja blogi</h1>
 <br>
+<div class = "container">
+<div id = "blogGroup">
+  <a data-toggle="collapse" href="#articleCollapse" role="button" aria-expanded="true" aria-controls="articleCollapse"> Artiklid</a>
+  <a class ="collapsed" data-toggle="collapse" href="#newsCollapse" role="button" aria-expanded="false" aria-controls="newsCollapse"> Uudised</a>
+  <!-- <a class ="collapsed" data-toggle="collapse" href="#juhendCollapse" role="button" aria-expanded="false" aria-controls="juhendCollapse"> Juhendile</a> -->
+  <a class ="collapsed" data-toggle="collapse" href="#workingCollapse" role="button" aria-expanded="false" aria-controls="workingCollapse"> Töödokumentid</a>
 <div style="
     display: grid;
     grid-template-columns: repeat( auto-fit, minmax(300px, 1fr) );
@@ -15,6 +22,8 @@ lang: et
 ">
 {% assign sortnews = site.blogi | where: "lang", page.lang | sort:"submitted" | reverse %}
 {% for blogi in sortnews %}
+{% if blogi.article_type == 'article' %}
+<div class="collapse show" id="articleCollapse" data-parent = "#blogGroup">
     <div
         class="card"
         style="
@@ -40,5 +49,93 @@ lang: et
              Lisanud {{ blogi.author }} {{ blogi.submitted | date: "%d/%m/%Y" }}
         </div>
     </div>
+  </div>
+{% elsif  blogi.article_type == 'news' %}
+<div class="collapse" id="newsCollapse" data-parent = "#blogGroup">
+    <div
+        class="card"
+        style="
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        "
+    >
+
+    <div class="card-body">
+    <a href="{{ site.baseurl }}{{ blogi.url }}">
+                   <div style="
+                       height: 180px;
+                       background-image: url(/img/blogi/{{blogi.preview_img}});
+                       background-size: cover;
+                       border-radius: .25rm;
+                       border: 2px solid #dee2e6;
+                   "></div>
+                   <h3>{{ blogi.news_title }}</h3></a>
+    <p class="text_control">{{ blogi.preview }}<a href="{{ site.baseurl }}{{ blogi.url }}"> Loe lisa... </a></p>
+  </div>
+        <div class="card-footer text-muted">
+             Lisanud {{ blogi.author }} {{ blogi.submitted | date: "%d/%m/%Y" }}
+        </div>
+    </div>
+  </div>
+{% elsif blogi.article_type == 'juhend' %}
+<div class="collapse" id="juhendCollapse" data-parent = "#blogGroup">
+    <div
+        class="card"
+        style="
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        "
+    >
+
+    <div class="card-body">
+    <a href="{{ site.baseurl }}{{ blogi.url }}">
+                   <div style="
+                       height: 180px;
+                       background-image: url(/img/blogi/{{blogi.preview_img}});
+                       background-size: cover;
+                       border-radius: .25rm;
+                       border: 2px solid #dee2e6;
+                   "></div>
+                   <h3>{{ blogi.news_title }}</h3></a>
+    <p class="text_control">{{ blogi.preview }}<a href="{{ site.baseurl }}{{ blogi.url }}"> Loe lisa... </a></p>
+  </div>
+        <div class="card-footer text-muted">
+             Lisanud {{ blogi.author }} {{ blogi.submitted | date: "%d/%m/%Y" }}
+        </div>
+    </div>
+  </div>
+{% else blogi.article_type == 'working_group' %}
+<div class="collapse" id="workingCollapse" data-parent = "#blogGroup">
+    <div
+        class="card"
+        style="
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        "
+    >
+
+    <div class="card-body">
+    <a href="{{ site.baseurl }}{{ blogi.url }}">
+                   <div style="
+                       height: 180px;
+                       background-image: url(/img/blogi/{{blogi.preview_img}});
+                       background-size: cover;
+                       border-radius: .25rm;
+                       border: 2px solid #dee2e6;
+                   "></div>
+                   <h3>{{ blogi.news_title }}</h3></a>
+    <p class="text_control">{{ blogi.preview }}<a href="{{ site.baseurl }}{{ blogi.url }}"> Loe lisa... </a></p>
+  </div>
+        <div class="card-footer text-muted">
+             Lisanud {{ blogi.author }} {{ blogi.submitted | date: "%d/%m/%Y" }}
+        </div>
+    </div>
+  </div>
+{% endif %}
 {% endfor %}
+</div>
+</div>
 </div>

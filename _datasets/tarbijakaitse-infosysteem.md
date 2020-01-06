@@ -1,10 +1,14 @@
 ---
 schema: default
 title: Tarbijakaitse teeninduskeskkonna infosüsteem TAKIS
+title_en: Consumer Protection Service Centers Information System
 notes: "TAKIS võimaldab sisestada ja menetleda tarbijate pöördumisi: teabenõudeid, selgitustaotlusi, kaebusi, tähelepanujuhtimisi ja väärteoteateid."
+notes_en: ''
 department: ''
 category:
   - Majandus ja rahandus
+category_en:
+  - Economy and Finance
 resources:
   - name: TAKIS avaandmed
     url: 'https://takis.ttja.ee/opendata/'
@@ -21,9 +25,9 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 01/02/2019
-date_modified: 2019/04/11
+date_modified: 2020/01/02
 organization: Tarbijakaitse ja Tehnilise Järelevalve Amet
-maintainer_name: James Herne
-maintainer_email: james.herne@mkm.ee
-maintainer_phone: ''
+maintainer_name: MKM IT abi
+maintainer_email: itabi@mkm.ee
+maintainer_phone: '6256333'
 ---
