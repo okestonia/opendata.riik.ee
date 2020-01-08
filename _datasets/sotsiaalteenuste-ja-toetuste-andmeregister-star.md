@@ -10,6 +10,10 @@ category:
 category_en:
   - Population and Society
 resources:
+  - name: STARi kehtivad parameetrid (24.10.2019 seisuga)
+    url: '/downloads/STAR_parameetrid19.xlsx'
+    format: XLSX
+    interactive: 'False'
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
     url: 'https://opendata.riik.ee/downloads/parameeterexcel.xlsx'
     format: XLSX
@@ -18,10 +22,6 @@ resources:
     url: 'https://opendata.riik.ee/downloads/parameeter.csv'
     format: CSV
     delim: -t
-    interactive: 'False'
-     name: STARi kehtivad parameetrid (24.10.2019 seisuga)
-    url: 
-    format: XLSX
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''

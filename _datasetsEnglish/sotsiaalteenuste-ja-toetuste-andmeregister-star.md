@@ -10,6 +10,10 @@ category:
 category_en:
   - Population and Society
 resources:
+  - name: STARi kehtivad parameetrid (24.10.2019 seisuga)
+    url: '/downloads/STAR_parameetrid19.xlsx'
+    format: XLSX
+    interactive: 'False'
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
     url: 'https://opendata.riik.ee/downloads/parameeterexcel.xlsx'
     format: XLSX
@@ -17,14 +21,15 @@ resources:
   - name: STARi kehtivad parameetrid (27.11.2017 seisuga)
     url: 'https://opendata.riik.ee/downloads/parameeter.csv'
     format: CSV
+    delim: -t
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/10
 date_modified: 2015/02/10
-organization: Sotsiaalministeerium
+organization: Sotsiaalkindlustusamet
 maintainer_name: STAR teenusetugi
-maintainer_email: STARteenusetugi@tehik.ee
-maintainer_phone: '7943903'
+maintainer_email: STARteenusetugi@sotsiaalkindlustusamet.ee
+maintainer_phone: '7943906'
 
 ---
