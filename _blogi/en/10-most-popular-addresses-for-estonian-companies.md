@@ -1,5 +1,6 @@
 ---
 article_type: article
+ref: ten
 lang: en
 author: Annegrete Peek
 news_title: 10 most popular addresses for Estonian companies

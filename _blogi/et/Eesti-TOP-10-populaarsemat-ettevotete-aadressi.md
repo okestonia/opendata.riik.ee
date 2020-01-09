@@ -1,5 +1,6 @@
 ---
 article_type: article
+ref: ten
 lang: et
 author: "Annegrete Peek"
 news_title: "Eesti TOP 10 populaarsemat ettevõtete aadressi"
