@@ -11,13 +11,13 @@ category_en:
   - Regions and Cities
 resources:
   - name: Maa-ameti geoportaal
-    url: 'https://geoportaal.maaamet.ee/'
+    url: 'https://geoportaal.maaamet.ee/eng/'
     format: HTML
     interactive: 'True'
 license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2015/02/26
-date_modified: 2019/12/11
+date_modified: 2020/01/13
 organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: maaamet@maaamet.ee
