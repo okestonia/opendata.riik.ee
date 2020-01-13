@@ -11,13 +11,13 @@ category_en:
   - Regions and Cities
 resources:
   - name: ESTHub teenused
-    url: 'https://esthub.maaamet.ee'
+    url: 'https://geoportaal.maaamet.ee/eng/Services/ESTHub-Services-p654.html'
     format: HTML
     interactive: 'True'
 license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2019/05/31
-date_modified: 2019/05/31
+date_modified: 2020/01/13
 organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: esthub@maaamet.ee
