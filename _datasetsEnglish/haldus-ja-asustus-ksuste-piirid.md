@@ -11,13 +11,13 @@ category_en:
   - Regions and Cities
 resources:
   - name: Haldus- ja asustusüksuste piirid 
-    url: 'http://geoportaal.maaamet.ee/est/Andmed-ja-kaardid/Haldus-ja-asustusjaotus-p119.html'
+    url: 'https://geoportaal.maaamet.ee/eng/Spatial-Data/Administrative-and-Settlement-Division-p312.html'
     format: HTML
     interactive: 'True'
 license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2019/05/31
-date_modified: 2019/05/31
+date_modified: 2020/01/13
 organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: maaamet@maaamet.ee
