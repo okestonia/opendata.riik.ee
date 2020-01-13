@@ -11,13 +11,13 @@ category_en:
   - Regions and Cities
 resources:
   - name: Kitsenduste kaardi andmed
-    url: 'https://geoportaal.maaamet.ee/est/Andmete-tellimine/Avaandmed/Kitsenduste-kaardi-andmed-p615.html'
+    url: 'https://geoportaal.maaamet.ee/est/Ruumiandmed/Kitsenduste-andmed/Kitsenduste-andmete-allalaadimine-p624.html'
     format: HTML
     interactive: 'True'
 license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2019/05/31
-date_modified: 2019/05/31
+date_modified: 2020/01/13
 organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: maaamet@maaamet.ee
