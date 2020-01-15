@@ -10,14 +10,14 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - name: Eesti topograafia andmekogu (ETAK) andmed levinud CAD-GIS failiformaatides
-    url: 'https://geoportaal.maaamet.ee/est/Andmete-tellimine/Avaandmed/Eesti-topograafia-andmekogu-ruumiandmed-p607.html'
+  - name: 'Download Topographic Data'
+    url: 'https://geoportaal.maaamet.ee/index.php?lang_id=2&page_id=618'
     format: HTML
     interactive: 'True'
-license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
+license: 'https://geoportaal.maaamet.ee/opendata-licence'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2019/05/31
-date_modified: 2019/06/17
+date_modified: 2020/01/09
 organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: maaamet@maaamet.ee

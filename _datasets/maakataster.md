@@ -11,13 +11,13 @@ category_en:
   - Regions and Cities
 resources:
   - name: Katastriüksuse andmed
-    url: 'https://geoportaal.maaamet.ee/est/Andmete-tellimine/Avaandmed/Katastriuksuse-andmed-p610.html'
+    url: 'https://geoportaal.maaamet.ee/est/Ruumiandmed/Maakatastri-andmed/Katastriuksuste-allalaadimine-p592.html'
     format: HTML
     interactive: 'True'
 license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2019/05/31
-date_modified: 2019/05/31
+date_modified: 2020/01/13
 organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: maaamet@maaamet.ee
