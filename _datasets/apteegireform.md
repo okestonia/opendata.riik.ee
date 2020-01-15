@@ -17,7 +17,7 @@ resources:
   - name: apteegireform
     url: 'https://opendata.riik.ee/downloads/apteegid.csv'
     format: CSV
-    delim: -d
+    delim: ;
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
