@@ -1,9 +1,9 @@
 <nav class="navbar navbar-expand-md mb-4 navbar-light bg-light" data-component="navigation">
   <div class="container">
   {% if page.lang == "et" or layout.lang == "et" %}
-  <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title[page.lang] }}</a>
+  <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title['et'] }}</a>
   {% elsif page.lang == "en" or layout.lang == "en" %}
-  <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title[page.lang] }}</a>
+  <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title['en'] }}</a>
   {% else %}
   <a class="navbar-brand" href="{{ site.baseurl }}/en/">{{ site.title['et'] }}</a>
   {% endif %}
@@ -37,18 +37,18 @@
         {% endfor %}
       </ul>
     </div>
+    <div class="wrapper" style="text-align: right;">
+      <a href="https://github.com/okestonia/jkan" style="padding-right: 20px;" target="_blank" rel="noopener" title="OKEE GitHub">
+        <i class="fa fa-github fa-lg"></i>
+      </a>
+      <a href="https://www.facebook.com/groups/1792458637715167" style="padding-right: 20px;" target="_blank" rel="noopener" title="OKEE Facebook">
+        <i class="fa fa-facebook-square fa-lg"></i>
+      </a>
+      <a href="https://opendata.riik.ee/datasetfeed.xml" style="padding-right: 20px;" target="_blank" rel="noopener" title="RSS Feed">
+        <i class="fa fa-rss fa-lg"></i>
+      </a>
       {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
       {% if pages.size < 3 %}
-      <div class="wrapper" style="text-align: right;">
-        <a href="https://github.com/okestonia/jkan" style="padding-right: 20px;" target="_blank" rel="noopener" title="OKEE GitHub">
-          <i class="fa fa-github fa-lg"></i>
-        </a>
-        <a href="https://www.facebook.com/groups/1792458637715167" style="padding-right: 20px;" target="_blank" rel="noopener" title="OKEE Facebook">
-          <i class="fa fa-facebook-square fa-lg"></i>
-        </a>
-        <a href="https://opendata.riik.ee/datasetfeed.xml" style="padding-right: 20px;" target="_blank" rel="noopener" title="RSS Feed">
-          <i class="fa fa-rss fa-lg"></i>
-        </a>
       {% if page.lang == "et" or layout.lang == "et" %}
       <html lang="et">
       {% else %}
@@ -57,6 +57,18 @@
       {% for page in pages %}
       <a href="{{ page.url | prepend: site.baseurl }}" class="{{ page.lang }}">{{ page.lang }}</a>
       {% endfor %}
+      {% endif %}
+      {% if page.collection == "datasets" %}
+      {% assign filename = page.url | remove: "/andmehulgad/" | remove: "/" | replace: ' ', '-' %}
+      <html lang="et">
+      <a href = "{{ site.baseurl }}/andmehulgad/{{ filename }}" class="{{ layout.lang }}"> et </a>
+      <a href = "{{ site.baseurl }}/en/andmehulgad/{{ filename }}"> en </a>
+      {% endif %}
+      {% if page.collection == "datasetsEnglish" %}
+      <html lang="en">
+      {% assign filename = page.url | remove: "/en/andmehulgad/" | remove: "/" | replace: ' ', '-' %}
+      <a href = "{{ site.baseurl }}/andmehulgad/{{ filename }}"> et </a>
+      <a href = "{{ site.baseurl }}/en/andmehulgad/{{ filename }}" class="{{ layout.lang }}"> en </a>
       {% endif %}
     </div>
   </div>
