@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Ortofotod 
-title_en:
+title_en: Orthophotos
 notes: 'Ortofoto on töödeldud aerofoto, millel on kujutatud aeropildistuse ehk ülelennu hetkel looduses esinenud situatsioon'
 notes_en:
 category:
