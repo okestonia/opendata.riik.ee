@@ -15,7 +15,7 @@ resources:
     format: HTML
     interactive: 'True'
 license: 'http://creativecommons.org/about/cc0'
-update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 2015/04/27
 date_modified: 2020/01/13
 organization: Maa-amet
