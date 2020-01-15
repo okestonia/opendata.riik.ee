@@ -15,7 +15,7 @@ resources:
     format: XLSX
     interactive: 'False'
   - name: apteegireform
-    url: 'https://opendata.riik.ee//downloads/apteegid.csv'
+    url: 'https://opendata.riik.ee/downloads/apteegid.csv'
     format: CSV
     delim: -d
     interactive: 'False'
