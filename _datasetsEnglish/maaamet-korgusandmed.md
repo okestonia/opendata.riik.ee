@@ -9,11 +9,11 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - name: Kõrguspunktide, maapinna kõrgusmudelite, maakatte kõrgusmudelite, taimkatte kõrgusmudelite, reljeefvarjutuspiltide allalaadimine
-    url: 'https://geoportaal.maaamet.ee/est/Ruumiandmed/Korgusandmed/Laadi-korgusandmed-alla-p614.html'
+  - name: Download LiDAR data, DTM, nDSM, CHM, relief shading
+    url: 'https://geoportaal.maaamet.ee/index.php?lang_id=2&page_id=664'
     format: HTML
     interactive: 'True'
-license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
+license: 'https://geoportaal.maaamet.ee/opendata-licence'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Y'
 date_issued: 2020/01/14
 date_modified: 2020/01/15
