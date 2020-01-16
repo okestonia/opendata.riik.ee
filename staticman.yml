@@ -26,6 +26,7 @@ comments:
   # The format of the generated data files. Accepted values are "json", "yaml"
   # or "frontmatter"
   format: "frontmatter"
+  extension: "md"
 
   # List of fields to be populated automatically by Staticman and included in
   # the data file. Keys are the name of the field. The value can be an object
@@ -76,5 +77,6 @@ comments:
 
   # List of transformations to apply to any of the fields supplied. Keys are
   # the name of the field and values are possible transformation types.
-  # transforms:
-  #   email: md5
+  transforms:
+    email: md5
+    title: "frontmatterContent"
