@@ -7,7 +7,7 @@ comments:
   #
   # Names of the fields the form is allowed to submit. If a field that is
   # not here is part of the request, an error will be thrown.
-  allowedFields: ["title", "title_english", "notes", "notes_en", "category", "resource_name", "resource_url", "resource_format", "interactive", "license", "update_freq","organization","maintainer_name","maintainer_email","maintainer_phone"]
+  allowedFields: ["title", "title_english", "notes", "notes_en", "category", "category_en", "resource_name", "resource_url", "resource_format", "interactive", "license", "update_freq","organization","maintainer_name","maintainer_email","maintainer_phone"]
 
   # (*) REQUIRED
   #
