@@ -74,7 +74,15 @@ lang: et
   <label class = "label-required" for = "t10">Interactive?</label>
   <input name="fields[interactive]" id ="t10" type="text" class="form-control mb-2" required>
   <label class = "label-required" for ="t11">Litsents  </label>
-  <input name="fields[license]" id = "t11" type="text" class="form-control mb-2" required>
+  <select name = "fields[license]" id="t11" form ="datasetform" class="form-control mb-2" required>
+    <option value ="https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode"> Creative Commons 3.0</option>
+    <option value ="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution </option>
+    <option value ="https://creativecommons.org/licenses/by-sa/4.0/"> Creative Commons Attribution Share-Alike </option>
+    <option value ="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons CCZero </option>
+    <option value ="http://creativecommons.org/about/cc0"> “No Rights Reserved” </option>
+    <option value ="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode"> CC-BY-NC-ND 4.0 </option>
+    <option value ="OTHER"> Muu </option>
+  </select>
   </div>
   </div>
   <div class = "form-group row">
