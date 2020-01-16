@@ -1,0 +1,24 @@
+_id: 55f44840-383b-11ea-b7c5-6907fb0bb98f
+title: Aadressiandmed
+title_english: Estonian Address Data System
+notes: >-
+  'Aadressiandmed (aadressiandmete süsteemi ADS andmed) eri lõigetes (eraldi
+  Tallinn, eraldi kehtivate aadressikomponentide nimekiri jne.). Kõigi
+  maaüksuste, hoonete ja hooneosade (korterite) aadressid ja ruumilised asukohad
+  kaardil. Andmed on tasuta kõigile kättesaadavad, väljavõtteid uuendatakse 1
+  kord kuus. Esimesed andmed pärinevad maakatastri algusaegadest 1992.a. ADS
+  loodi 2007, peale seda on kättesaadav andmemuudatuste info. Igapäevased
+  muudatused on kätte saadavad X-tee teenuste kaudu.'
+notes_en: ''''''
+category: Piirkonnad ja linnad
+resource_name: Aadressid
+resource_url: '''https://xgis.maaamet.ee/adsavalik/extracts'''
+resource_format: HTML
+interactive: 'TRUE'
+license: '''http://creativecommons.org/about/cc0'''
+update_freq: '''http://purl.org/linked-data/sdmx/2009/code#freq-M'''
+organization: Maa-amet
+maintainer_name: Maa-amet
+maintainer_email: maaamet@maaamet.ee
+maintainer_phone: '''665 0600'''
+date: 1579163808
