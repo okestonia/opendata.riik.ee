@@ -24,7 +24,7 @@ lang: en
   </div>
     <div class="col-md-6 mb-3">
   <label for="t4">Description in English</label>
-  <textarea name="fields[notes_en]" id = "t4" rows="10" cols = "40" form ="datasetform" class ="form-control" required></textarea>
+  <textarea name="fields[notes_en]" id = "t4" rows="10" cols = "40" form ="datasetform" class ="form-control"></textarea>
   </div>
   </div>
   <div class="form-group row">
@@ -112,6 +112,13 @@ lang: en
   <input name="fields[maintainer_phone]" id = "t16" type="text" class="form-control mb-2">
     </div>
     </div>
+  <div class = "form-group row">
+    <div class ="col-md-12 mb-3">
+    <label class ="label-required" for ="t17">Github Username / Submitter Name</label>
+    <input name="fields[github_name]" id="t17" type = "text" class = "form-control mb-2" required>
+    </div>
+    </div>
+
   <button class = "btn-primary" type="submit">Submit</button>
 
 
