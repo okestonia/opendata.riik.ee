@@ -1,0 +1,17 @@
+_id: be43ed10-383b-11ea-b7c5-6907fb0bb98f
+title: test
+title_english: Estonian Address Data System
+notes: test
+notes_en: ''''''
+category: Piirkonnad ja linnad
+resource_name: Aadressid
+resource_url: '''https://xgis.maaamet.ee/adsavalik/extracts'''
+resource_format: HTML
+interactive: 'TRUE'
+license: '''http://creativecommons.org/about/cc0'''
+update_freq: '''http://purl.org/linked-data/sdmx/2009/code#freq-M'''
+organization: Maa-amet
+maintainer_name: test
+maintainer_email: test
+maintainer_phone: '''665 0600'''
+date: 1579163983
