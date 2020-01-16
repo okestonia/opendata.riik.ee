@@ -1,0 +1,19 @@
+_id: d6763410-3863-11ea-b563-478da4b27040
+title: test
+title_english: ''
+notes: test
+notes_en: ''
+category: Majandus ja rahandus
+category_en: Regions and Cities
+resource_name: test
+resource_url: test
+resource_format: test
+interactive: test
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
+organization: test
+maintainer_name: ''
+maintainer_email: test@ee.ee
+maintainer_phone: ''
+github_name: test
+date_issued: '2020-01-16T13:26:44.166Z'
