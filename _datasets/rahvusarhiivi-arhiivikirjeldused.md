@@ -37,7 +37,7 @@ resources:
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
 date_issued: 2015/02/12
-date_modified: 2015/02/12
+date_modified: 2020/01/17
 organization: Rahvusarhiiv
 maintainer_name: Koit Saarevet
 maintainer_email: koit.saarevet@ra.ee
