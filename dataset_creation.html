@@ -1,0 +1,117 @@
+---
+layout: default
+ref: dataset_creation
+lang: en
+---
+<form method="POST" action="https://dev.staticman.net/v3/entry/github/okestonia/opendata.riik.ee/master/comments" id = "datasetform" class="dataset-form">
+  <input name="options[redirect]" type="hidden" value="https://opendata.riik.ee">
+  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+  <div class = "form-group row">
+    <div class ="col-md-6 mb-3">
+  <label class = "label-required" for="t1">Title in Estonian</label>
+  <input name="fields[title]" id="t1" type="text" class="form-control" required>
+    </div>
+      <div class ="col-md-6 mb-3">
+  <label  for = "t2">Title in English</label>
+  <input name="fields[title_english]" id ="t2" class="form-control" type="text">
+  </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-md-6 mb-3">
+  <label class = "label-required" for ="t2">Description in Estonian</label>
+  <textarea name="fields[notes]" id = "t3" rows="10" cols = "40" form ="datasetform" class ="form-control" required></textarea>
+  </div>
+    <div class="col-md-6 mb-3">
+  <label for="t4">Description in English</label>
+  <textarea name="fields[notes_en]" id = "t4" rows="10" cols = "40" form ="datasetform" class ="form-control" required></textarea>
+  </div>
+  </div>
+  <div class="form-group row">
+    <div class ="col-md-6 mb-3">
+      <label class = "label-required" for = "t5">Category in Estonian</label>
+  <select name = "fields[category]" id ="t5" form = "datasetform" class="form-control" required>
+    <option value="Piirkonnad ja linnad">Piirkonnad ja linnad </option>
+    <option value="Tervis">Tervis </option>
+    <option value="Valitsus ja avalik sektor">Valitsus ja avalik sektor </option>
+    <option value="Haridus, kultuur ja sport">Haridus, kultuur ja sport </option>
+    <option value="Majandus ja rahandus">Majandus ja rahandus </option>
+    <option value="Põllumajandus, kalandus, metsandus">Põllumajandus, kalandus, metsandus </option>
+    <option value="Keskkond">Keskkond </option>
+    <option value="Transport">Transport </option>
+    <option value="Rahvudsvahelised küsimused">Rahvudsvahelised küsimused </option>
+    <option value="Elanikkond ja ühiskond">Elanikkond ja ühiskond </option>
+    <option value="Õigusemõistmine, õigussüsteem ja avalik turvalisus">Õigusemõistmine, õigussüsteem ja avalik turvalisus </option>
+    <option value="Teadus ja tehnoloogia">Teadus ja tehnoloogia </option>
+  </select>
+  </div>
+  <div class = "col-md-6 mb-3">
+  <label for = "t6">Category in English</label>
+  <select name = "fields[category_en]" id = "t6" form = "datasetform"  class="form-control">
+    <option value="Regions and Cities">Regions and Cities </option>
+    <option value="Health">Health </option>
+    <option value="Government and Public Sector">Government and Public Sector </option>
+    <option value="Education, Culture and Sport">Education, Culture and Sport </option>
+    <option value="Economy and Finance">Majandus ja rahandus </option>
+    <option value="Agriculture, Fisheries, Forestry and Food">Agriculture, Fisheries, Forestry and Food </option>
+    <option value="Environment">Environment </option>
+    <option value="Transport">Transport </option>
+    <option value="International Issues">International Issues </option>
+    <option value="Population and Society">Population and Society </option>
+    <option value="Justice, Legal System, and Public Safety">Justice, Legal System, and Public Safety </option>
+    <option value="Science and Technology">Science and Technology </option>
+  </select>
+  </div>
+  </div>
+  <div class = "form-group row">
+    <div class ="col-md-12 mb-3">
+  <label class = "label-required" for = "t7">Resource Name</label>
+  <input name="fields[resource_name]" id ="t7" type="text" class="form-control mb-2" required>
+  <label class = "label-required" for ="t8">Resource URL</label>
+  <input name="fields[resource_url]" id = "t8" type="text" class="form-control mb-2" required>
+  <label class = "label-required" for ="t9">Resource Format</label>
+  <input name="fields[resource_format]" id ="t9" type="text" class="form-control mb-2" required>
+  <label class = "label-required" for = "t10">Interactive?</label>
+  <input name="fields[interactive]" id ="t10" type="text" class="form-control mb-2" required>
+  <label class = "label-required" for ="t11">License </label>
+  <input name="fields[license]" id = "t11" type="text" class="form-control mb-2" required>
+  </div>
+  </div>
+  <div class = "form-group row">
+    <div class="col-md-12 mb-3">
+    <label class = "label-required" for = "t12"> Update Frequency</label>
+
+
+  <select name = "fields[update_freq]" id="t12" form ="datasetform" class="form-control" required>
+    <option value ="http://purl.org/linked-data/sdmx/2009/code#freq-A"> Every year </option>
+    <option value ="http://purl.org/linked-data/sdmx/2009/code#freq-B"> Every workingday </option>
+    <option value ="http://purl.org/linked-data/sdmx/2009/code#freq-D"> Every day </option>
+    <option value ="http://purl.org/linked-data/sdmx/2009/code#freq-M"> Every month </option>
+    <option value ="http://purl.org/linked-data/sdmx/2009/code#freq-N"> Every month </option>
+    <option value ="http://purl.org/linked-data/sdmx/2009/code#freq-Q"> Every quarter </option>
+    <option value ="http://purl.org/linked-data/sdmx/2009/code#freq-S"> Twice a year </option>
+    <option value ="http://purl.org/linked-data/sdmx/2009/code#freq-W"> Every week </option>
+  </select>
+  </div>
+  </div>
+  <div class = "form-group row">
+  <div class ="col-md-3 mb-3">
+  <label class = "label-required" for = "t13">Organization</label>
+  <input name="fields[organization]" id = "t13" type="text" class="form-control mb-2" required>
+  </div>
+    <div class ="col-md-3 mb-3">
+  <label for = "t14">Maintainer Name</label>
+  <input name="fields[maintainer_name]" id = "t14" type="text" class="form-control mb-2">
+    </div>
+    <div class ="col-md-3 mb-3">
+  <label  for = "t15">Maintainer Email</label>
+  <input name="fields[maintainer_email]" id = "t15" type="email" class="form-control mb-2">
+    </div>
+    <div class ="col-md-3 mb-3">
+  <label  for = "t16">Maintainer Phone</label>
+  <input name="fields[maintainer_phone]" id = "t16" type="text" class="form-control mb-2">
+    </div>
+    </div>
+  <button class = "btn-primary" type="submit">Submit</button>
+
+
+</form>

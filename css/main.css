@@ -156,3 +156,9 @@ dataset {
 [data-toggle="collapse"]:not(.collapsed) {
     font-weight: bold;
   }
+
+.label-required:after {
+content:"*";
+color:red;
+
+}
