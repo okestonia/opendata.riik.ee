@@ -122,9 +122,17 @@ collections:
   blogi:
     output: true
   #  permalink: /blogi/:path/
+  orgregister:
+    output: true
 
 # Collections (cont'd)
 defaults:
+  - scope:
+      path: _orgregister
+    values:
+        permalink: /asutused/:title/
+        layout: orgregister
+        lang: "et"
   - scope:
       path: ""
       type: datasets

@@ -1,0 +1,23 @@
+---
+title: business registry
+layout: default
+lang: et
+---
+
+<div data-component="view-switcher">
+  <div class="row d-flex" data-hook="view" data-view="display">
+    <div class="col-sm-12">
+      <h1>
+        {{ page.nimi }}
+      </h1>
+      <p>Äriregisitri kood: {{ page.ariregistri_kood }}</p>
+      <p>Aadress: {{ page.ads_normaliseeritud_taisaadress }}</p>
+      <p>Postiindeks: {{ page.indeks_ettevotja_aadressis }}</p>
+      <p>Teabesüsteemi link: <a href="{{ page.teabesysteemi_link }}" rel = "nofollow">{{ page.teabesysteemi_link }}</a></p>
+      <p>Avaliku teabe seadus kohustab teabevaldajaid tegema andmekogudes sisalduvad
+        juurdepääsupiiranguta andmed kättesaadavaks avaandmetena. Siin lehel saad esitada
+        tellimuse asutuse avaandmete avalikustamiseks. Avaandmete tellimuse vaatab üle ja aitab
+        täide viia Open Knowledge Estonia koos Majandus- ja kommunikatsiooniministeeriumiga.</p>
+    </div>
+  </div>
+</div>
