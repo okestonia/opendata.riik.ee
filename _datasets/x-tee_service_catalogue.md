@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2018/05/14
-date_modified: 2020/01/21
+date_modified: 2020/01/22
 organization: Riigi Infosüsteemi Amet (RIA)
 maintainer_name: Toomas Mölder
 maintainer_email: toomas.molder@ria.ee
