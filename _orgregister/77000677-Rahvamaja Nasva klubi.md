@@ -1,5 +1,5 @@
 ---
-nimi: Rahvamaja ""Nasva klubi""
+nimi: Rahvamaja Nasva klubi
 ariregistri_kood: 77000677
 kmkr_nr: ''
 ettevotja_staatus: R
