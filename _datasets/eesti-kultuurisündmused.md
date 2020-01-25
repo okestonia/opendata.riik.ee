@@ -1,32 +1,32 @@
 ---
 title: Eesti kultuurisündmused (Kultuur.info infovoog)
-title_en: 'Estonian cultural events (Kultuur.info info feed)'
-notes: |-
+title_en: Estonian cultural events (Kultuur.info info feed)
+notes: >+
     Kultuur.info infovoog 
-    \n
+    
     Loo voog või vidin leht (voo aadress väli tagastab JSON-i)
     http://kultuur.info/loo_voog_voi_vidin/
-    \n
+    
     Lisaks on url-ide nimekirjas järgmised url-id defineeritud:
-    \n
+    
     * RSS url-id (tagastavad RSS xml-i)
     http://kultuur.info/rss/varstialgavad/
     http://kultuur.info/rss/startingsoon/
     http://kultuur.info/rss/rustartingsoon/
-    \n
+    
     * Export url-id (tagastavad reeglina JSON-i):
     http://kultuur.info/api2/locations/et/
     http://kultuur.info/api2/locations/en/
-    \n
+    
     http://kultuur.info/api2/organizers/et/
     http://kultuur.info/api2/organizers/en/
-    \n
+    
     http://kultuur.info/api/artists/et/
     http://kultuur.info/api/artists/en/
-    \n
+    
     http://kultuur.info/api/events/et/
     http://kultuur.info/api/events/en/
-    \n
+    
     http://kultuur.info/api/topics/
     http://kultuur.info/api/location/<ASUKOHA_ID>/
     http://kultuur.info/api/organizer/<KORRALDAJA_ID>/
