@@ -4,11 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {% if page.collection ==  "orgregister" %}
   <meta name="description" content="Siit saad tellida asutuse avaandmeid">
-  {% endif %}
-
-
+  <title>Avaandmed @ {{page.nimi}}</title>
+  {% else %}
   <title>{% if page.lang or layout.lang %}{% if site.title %}{{ site.title[page.lang] | append: " - " }}{% endif %}{% endif %}{% if page.title %}{{ page.title }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+  {% endif %}
 
   <!--link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"-->
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.2.1/spacelab/bootstrap.min.css">
