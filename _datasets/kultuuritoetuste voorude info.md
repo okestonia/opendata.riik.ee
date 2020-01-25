@@ -1,7 +1,7 @@
 ---
 schema: default
 title: Kultuuritoetuste voorude info
-title_en: ''
+title_en: 'Cultural Support Application Rounds'
 notes: >-
   Eesmärgiks on avaldada infot tulevaste ja olnud kultuurivaldkonna toetuste
   infot ka json formaadis. Info sisaldab Kultuuriministeeriumi toetuste
