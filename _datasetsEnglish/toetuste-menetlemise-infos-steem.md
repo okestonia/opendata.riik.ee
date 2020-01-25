@@ -5,11 +5,11 @@ title: Toetuste menetlemise infosüsteem
 title_en:''
 
 notes: 'Infosüsteemi kaudu menetletakse toetuste taotlusi kultuuri valdkonnas ning avaandmete hulgas on näidatud juba menetletud taotlused.'
-
+notes_en:''
 department: ''
 
 category: Haridus, kultuur ja sport
-
+category_en: 'Education, Culture and Sport'
 resources:
 
   - name: Avaandmed
