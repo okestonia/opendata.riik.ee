@@ -2,10 +2,10 @@
 schema: default
 
 title: Toetuste menetlemise infosüsteem
-title_en:''
+title_en: ''
 
 notes: 'Infosüsteemi kaudu menetletakse toetuste taotlusi kultuuri valdkonnas ning avaandmete hulgas on näidatud juba menetletud taotlused.'
-notes_en:''
+notes_en: ''
 department: ''
 
 category: Haridus, kultuur ja sport
