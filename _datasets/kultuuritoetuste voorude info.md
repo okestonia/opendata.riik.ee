@@ -14,7 +14,7 @@ resources:
   - name: Application rounds
     url: 'https://toetused.kul.ee/api/application-rounds'
     format: json
-    interactive: TRUE
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 organization: Kultuuriministeerium
