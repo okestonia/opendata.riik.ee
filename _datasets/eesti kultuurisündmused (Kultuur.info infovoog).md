@@ -1,6 +1,6 @@
 ---
 title: Eesti kultuurisündmused (Kultuur.info infovoog)
-title_en: ''
+title_en: 'Estonian cultural events (Kultuur.info info feed)'
 notes: |-
     Kultuur.info infovoog 
     \n
