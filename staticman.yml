@@ -27,7 +27,7 @@ datasets:
     email: md5
     github_name: "frontmatterContent"
 applications:
-  allowedFields: ["app_name","app_name_english","app_description","app_description_english","app_preview_image","app_url", "developed_by"]
+  allowedFields: ["app_name","app_name_english","app_description","app_description_english","app_url", "developed_by"]
   branch: "master"
   commitMessage: "Create new dataset -- {fields.app_name}"
   filename: "{fields.title}"
@@ -46,7 +46,7 @@ applications:
   name: "opendata.riik.ee"
   path: "_applications"
   pullRequestBody: "Rakenduse lisamine  \n\n"
-  requiredFields: ["app_name","app_description","app_preview_image","app_url", "developed_by"]
+  requiredFields: ["app_name","app_description","app_url", "developed_by"]
   transforms:
     email: md5
     github_name: "frontmatterContent"

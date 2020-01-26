@@ -1,0 +1,45 @@
+---
+layout: default
+permalink: /rakenduse_lisamine/
+ref: application_creation
+lang: et
+---
+<form method="POST" action="https://dev.staticman.net/v3/entry/github/okestonia/opendata.riik.ee/master/comments" id = "applicationForm">
+  <input name="options[redirect]" type="hidden" value="https://opendata.riik.ee">
+  <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+  <div class = "form-group row">
+    <div class ="col-md-6 mb-3">
+  <label class = "label-required" for="t1">Rakenduse nimi </label>
+  <input name="fields[app_name]" id="t1" type="text" class="form-control" required>
+    </div>
+      <div class ="col-md-6 mb-3">
+  <label  for = "t2">Rakenduse nimi inglise keeles  </label>
+  <input name="fields[app_name_english]" id ="t2" class="form-control" type="text">
+  </div>
+  </div>
+  <div class="form-group row">
+    <div class="col-md-6 mb-3">
+  <label class = "label-required" for ="t2">Rakenduse kirjeldus </label>
+  <textarea name="fields[app_description]" id = "t3" rows="10" cols = "40" form ="datasetform" class ="form-control" required></textarea>
+  </div>
+    <div class="col-md-6 mb-3">
+  <label for="t4">Rakenduse kirjeldus inglise keeles </label>
+  <textarea name="fields[app_description_english]" id = "t4" rows="10" cols = "40" form ="datasetform" class ="form-control"></textarea>
+  </div>
+  </div>
+  <div class = "form-group row">
+    <div class ="col-md-12 mb-3">
+  <label class = "label-required" for = "t7">URL link rakenduse juurde</label>
+  <input name="fields[app_url]" id ="t7" type="text" class="form-control mb-2" required>
+  </div>
+  </div>
+  <div class = "form-group row">
+  <div class ="col-md-3 mb-3">
+  <label class = "label-required" for = "t13">Rakenduse arendaja/omanik </label>
+  <input name="fields[developed_by]" id = "t13" type="text" class="form-control mb-2" required>
+  </div>
+  </div>
+  <button class = "btn-primary" type="submit">Jätkan</button>
+
+
+</form>
