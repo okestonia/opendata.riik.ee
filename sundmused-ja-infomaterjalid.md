@@ -10,6 +10,13 @@ lang: et
 # Sündmused ja infomaterjalid
 Sellelt lehelt leiate infomaterjale ja kokkuvõtteid avaandmeid puudutavatelt üritustelt.
 
+## EDP Analytical Report 9: The Economic Benefits of Open Data
+
+Euroopa Andmete Portaali koostatud iga-aastane uuring, mis hindab Euroopa riikide edusamme avaandmete valdkonnas. Raport on inglise keeles.
+
+- [Raporti kirjeldus](https://www.europeandataportal.eu/en/highlights/open-data-maturity-report-2019-out-now)
+- [Raport](https://www.europeandataportal.eu/sites/default/files/analytical_report_n9_economic_benefits_of_open_data.pdf)
+
 # Avaandmete foorumid
 
 ## Foorum 18.04.2019
