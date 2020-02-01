@@ -11,9 +11,10 @@
  *   data-category="education"
  */
 import {pick, defaults, filter} from 'lodash'
-
+import * as Fuse from 'fuse.js'
 import TmplDatasetItem from '../templates/dataset-item'
 import {queryByHook, setContent, createDatasetFilters} from '../util'
+import $ from 'jquery'
 
 export default class {
   constructor (opts) {
@@ -38,12 +39,31 @@ export default class {
     setContent(elements.datasetsCount, datasetsCountMarkup)
 
     // Search datasets listener
-    const searchFunction = this._createSearchFunction(filteredDatasets)
-    elements.searchQuery.on('keyup', (e) => {
-      const query = e.currentTarget.value
+  //  const searchFunction = this._createSearchFunction(filteredDatasets)
+    $(document).ready(function () {
+      var Fuse = require('fuse.js')
+    //  window.$.getJSON('../datasets.json', function (response) {
+      var options = {
+      shouldSort: true,
+      threshold: 0.4,
+      location: 0,
+      distance: 100,
+      maxPatternLength: 32,
+      minMatchCharLength: 1,
+      keys: [
+        "title",
+        "notes",
+        "organization",
+        "category",
+      ]
+    };
+    const fuse = new Fuse(filteredDatasets, options);
+
+    elements.searchQuery.on('keyup', function () {
+      let result = fuse.search($(this).val());
 
       // Datasets
-      const results = searchFunction(query)
+      const results = result
       const resultsMarkup = results.map(TmplDatasetItem)
       setContent(elements.datasetsItems, resultsMarkup)
 
@@ -53,19 +73,16 @@ export default class {
 
 
     })
-  }
+//  });
 
   // Returns a function that can be used to search an array of datasets
   // The function returns the filtered array of datasets
-  _createSearchFunction (datasets) {
-    const keys = ['title', 'notes']
-    return function (query) {
-      const lowerCaseQuery = query.toLowerCase()
-      return filter(datasets, function (dataset) {
-        return keys.reduce(function (previousValue, key) {
-          return previousValue || (dataset[key] && dataset[key].toLowerCase().indexOf(lowerCaseQuery) !== -1)
-        }, false)
-      })
-    }
-  }
+  // _createSearchFunction (datasets) {
+  //
+  //     return filter(datasets, function (dataset) {
+  //     })
+  //   }
+
+});
+}
 }
