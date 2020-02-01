@@ -16,6 +16,6 @@ organization: National Aeronautics and Space Administration
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
-date_issued: '2020-02-01T17:00:12.094Z'
-date_modified: '2020-02-01T17:00:12.094Z'
+date_issued: '2020-02-01'
+date_modified: '2020-02-01'
 ---
