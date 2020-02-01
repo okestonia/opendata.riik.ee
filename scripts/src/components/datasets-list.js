@@ -55,14 +55,13 @@ export default class {
         "notes",
         "organization",
         "category",
+        "resources.name"
       ]
     };
     const fuse = new Fuse(filteredDatasets, options);
 
     elements.searchQuery.on('keyup', function () {
       let result = fuse.search($(this).val());
-
-      // Datasets
       const results = result
       const resultsMarkup = results.map(TmplDatasetItem)
       setContent(elements.datasetsItems, resultsMarkup)
