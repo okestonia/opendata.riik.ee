@@ -23,7 +23,7 @@ resources:
     format: XLSX
     interactive: 'False'
   - name: 'Ametnike põhipalk KOV üksuste ametiasutustes 01.04.2019 seisuga'
-    url: 'https://www.rahandusministeerium.ee/system/files_force/document_files/aasta_kogupalk_2018_kov.xlsx?download=1'
+    url: 'https://www.rahandusministeerium.ee/system/files_force/document_files/kov_pohipalk_01.04.2019.xlsx?download=1'
     format: XLSX
     interactive: 'False'
   - name: 'Ametnike põhipalk ja muutuvpalk ning teenistusülesannete täitmisest tulenev muu tulu KOV üksuste ametiasutustes 01.01.-31.12.2018'
