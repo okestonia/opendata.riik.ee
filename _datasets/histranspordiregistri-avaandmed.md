@@ -31,7 +31,7 @@ update_freq: ''
 date_issued: 2018/05/29
 date_modified: 2020/02/03
 organization: Maanteeamet
-maintainer_name: Thomas Lepik
+maintainer_name: Maanteeamet
 maintainer_email: opendata@mnt.ee
 maintainer_phone: ''
 
