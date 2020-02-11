@@ -41,7 +41,7 @@ date_modified: 17/04/2019
 
 organization: Maanteeamet
 
-maintainer_name: Kaspar Karm
+maintainer_name: Maanteeamet
 
 maintainer_email: opendata@mnt.ee
 
