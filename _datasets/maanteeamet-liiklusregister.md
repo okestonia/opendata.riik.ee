@@ -25,7 +25,7 @@ update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 date_issued: 2019/05/21
 date_modified: 2019/05/21
 organization: Maanteeamet
-maintainer_name: Kaspar Karm
+maintainer_name: Maanteeamet
 maintainer_email: opendata@mnt.ee
 maintainer_phone: ''
 ---
