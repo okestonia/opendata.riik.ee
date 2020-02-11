@@ -19,8 +19,8 @@ update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 05/04/2019
 date_modified: 05/04/2019
 organization: Maanteeamet
-maintainer_name: Maris Sõstra
-maintainer_email: maris.sostra@mnt.ee
+maintainer_name: Maanteeamet
+maintainer_email: opendata@mnt.ee
 maintainer_phone: ''
 
 ---
