@@ -20,6 +20,6 @@ date_issued: 04/05/2019
 date_modified: 04/05/2019
 organization: Maanteeamet
 maintainer_name: Maanteeamet
-maintainer_email: manteeamet@mnt.ee
+maintainer_email: opendata@mnt.ee
 maintainer_phone: ''
 ---
