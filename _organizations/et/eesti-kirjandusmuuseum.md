@@ -8,7 +8,7 @@ description: |-
      arendusasutuse põhieesmärk on rahvusliku identiteedi püsimiseks ja
      rahvuskultuuri arenguks oluliste kultuurilooliste allikmaterjalide
      säilitamine, teaduslik uurimine ja avalikkusele kättesaadavaks tegemine.
-     AVALIK TEAVE: <a href="http://www.kirmus.ee/est/info/avalik-teave/" target="_blank" rel="noopener">http://www.kirmus.ee/est/info/avalik-teave/</a>
+     <p>AVALIK TEAVE: <a href="https://www.kirmus.ee/et/info/avalik-teave" target="_blank" rel="noopener">https://www.kirmus.ee/et/info/avalik-teave</a></p>
 maintainer_name: Siiri Pärkson
 maintainer_email: siiri.parkson@kirmus.ee
 logo: kirmus.png
