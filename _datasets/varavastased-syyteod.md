@@ -47,7 +47,7 @@ date_issued: 2017/11/15
 date_modified: 2020/02/01
 organization: Politsei- ja Piirivalveamet (PPA)
 maintainer_name: Krista Rebane
-maintainer_email: krista.rebane@politsei.ee
+maintainer_email: avaandmed@list.politsei.ee
 maintainer_phone:
 
 ---
