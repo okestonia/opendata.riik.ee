@@ -9,6 +9,6 @@ app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/palgaa
 app_url: 'https://okfn-rakendused.shinyapps.io/avaliku-sektori-palgaandmed-rakendus/'
 developed_by: Keegan McBride / OKFEE
 img: palgaandmed.PNG
-submitted: '2020-02-19T09:22:53.861Z'
+submitted: 2020/02/19
 ---
 
