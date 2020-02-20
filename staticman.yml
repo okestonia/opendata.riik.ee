@@ -29,7 +29,7 @@ datasets:
 applications:
   allowedFields: ["app_name","app_name_english","app_description","app_description_english","app_url", "developed_by"]
   branch: "master"
-  commitMessage: "Create new dataset -- {fields.app_name}"
+  commitMessage: "Create new application -- {fields.app_name}"
   filename: "{fields.app_name}"
   format: "frontmatter"
   extension: "md"
