@@ -23,16 +23,10 @@
         {% else %}
         <li class="breadcrumb-item"><a href="{{ site.baseurl }}/en/blog/">Blog</a></li>
       {% endif %}
+    {% elsif layout.title == "applications" %}
+    <li class="breadcrumb-item"><a href="{{ site.baseurl }}/rakendused/">Rakendused</a></li>
   {% endif %}
   {% endif %}
-
-
-    <!-- {% if include.parent %}
-      {% assign parent = site.pages | where:"title",include.parent | first %}
-      {% if parent %}
-        <li class="breadcrumb-item"><a href="{{ site.baseurl }}{{ parent.url }}">{{ parent.title }}</a></li>
-      {% endif %}
-    {% endif %} -->
     {% if page.lang == "en" or layout.lang == "en" %}
     <li class="breadcrumb-item active">{{ page.title }}</li>
     {% endif %}

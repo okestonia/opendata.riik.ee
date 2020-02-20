@@ -146,11 +146,7 @@ defaults:
     values:
       layout: datasetsen
       category: Uncategorized
-      organization: N/A  # - scope:
-  #     path: ""
-  #     type: organizations
-  #   values:
-  #     layout: organization
+      organization: N/A
   - scope:
       path: "_blogi/et"
     values:
@@ -175,11 +171,11 @@ defaults:
         permalink: "/en/orgs/:title/"
         layout: organization
         lang: "en"
-        #  - scope:
-#      path: ""
-#      type: applications
-#      values:
-#      layout: default
+  - scope:
+      path: ""
+      type: applications
+    values:
+     layout: applications
 
 
 # Markdown settings

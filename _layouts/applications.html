@@ -1,0 +1,21 @@
+---
+title: applications
+layout: default
+lang: et
+---
+{% include breadcrumbs.html parent="Blogi" %}
+<h2>{{ page.app_name }}</h2>
+
+<div class = "row">
+  <div class="col-sm-3">
+
+  <img src="../../img/apps/{{ page.img }}" class="rounded img-thumbnail"></img>
+  <p class="text-muted">Lisanud {{ page.developed_by }} {{ page.submitted }}</p>
+</div>
+<div class="col-sm-9">
+  <p class="text_control">{{ page.app_description }}</p>
+  </div>
+  <br>
+
+</div>
+<p>URL: <a href="{{ page.app_url }}">{{ page.app_url }}</a> </p>
