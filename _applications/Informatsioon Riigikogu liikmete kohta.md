@@ -13,8 +13,8 @@ app_description: |
   <li>hääletamise kokkulangevus fraktsiooniga</li></ul></p>
 app_description_english: ''
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/riigikogu.PNG'
-app_url: >-
-https://webapps.skytte.ut.ee/riigikogu_info/developed_by: Johan Skytte poliitikauuringute instituut
+app_url: https://webapps.skytte.ut.ee/riigikogu_info/
+developed_by: Johan Skytte poliitikauuringute instituut
 img: riigikogu.PNG
 submitted: 2020/02/20
 ---
