@@ -2,20 +2,29 @@
 schema: default
 title: "Üldapteekide vastavus apteegireformi nõuetele"
 title_en: "Pharmacies conforming to the rules of the upcoming pharmacy reform"
-notes: "Eesti üldapteekide vastavus 01.04.2020 rakenduvatele apteegireformi nõuetele seisuga 01.01.2020"
-notes_en: 'Estonian pharmacies conforming to the rules of the upcoming pharmacy reform which takes action on 01.04.2020. Updated 01.01.2020.'
+notes: "Eesti üldapteekide vastavus 01.04.2020 rakenduvatele apteegireformi nõuetele."
+notes_en: 'Estonian pharmacies conforming to the rules of the upcoming pharmacy reform which takes action on 01.04.2020.'
 department: ''
 category:
   - Tervis
 category_en:
   - Health
 resources:
-  - name: apteegireform
-    url: 'https://opendata.riik.ee/downloads/apteegid.xlsx'
+  - name: 'apteekide vastavus seisuga 15.02.2020'
+    url: 'https://opendata.riik.ee/downloads/apteegid150220.xlsx'
     format: XLSX
     interactive: 'False'
-  - name: apteegireform
-    url: 'https://opendata.riik.ee/downloads/apteegid.csv'
+  - name: 'apteekide vastavus seisuga 15.01.2020'
+    url: 'https://opendata.riik.ee/downloads/apteegid150220.csv'
+    format: CSV
+    delim: ;
+    interactive: 'False'
+  - name: 'apteekide vastavus seisuga 01.01.2020'
+    url: 'https://opendata.riik.ee/downloads/apteegid010120.xlsx'
+    format: XLSX
+    interactive: 'False'
+  - name: 'apteekide vastavus seisuga 01.01.2020'
+    url: 'https://opendata.riik.ee/downloads/apteegid010120.csv'
     format: CSV
     delim: ;
     interactive: 'False'
