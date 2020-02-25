@@ -6,6 +6,7 @@ ref: datasets
 lang: et
 ---
 {% include breadcrumbs.html %}
+<link type="text/css" rel="stylesheet" href="../scripts/simplePagination.css"/>
 
 <div class="row">
   <div class="col-sm-4">
@@ -23,5 +24,6 @@ lang: et
     <h3 class="datasets-count" data-hook="datasets-count"></h3>
     <input type="text" data-hook="search-query" placeholder="Otsi..." class="form-control">
     <div class="pt-3" data-hook="datasets-items"></div>
+    <div id="page-nav"></div>
   </div>
 </div>
