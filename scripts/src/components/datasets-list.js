@@ -31,6 +31,28 @@ export default class {
     const filteredDatasets = filter(opts.datasets, filters)
     const datasetsMarkup = filteredDatasets.map(TmplDatasetItem)
     setContent(elements.datasetsItems, datasetsMarkup)
+    $(function() {
+        var pageParts = $("dataset");
+        var numPages = pageParts.length;
+        var perPage = 5;
+        pageParts.slice(perPage).hide();
+        $("#page-nav").pagination({
+            items: numPages,
+            itemsOnPage: perPage,
+            prevText: "Eelmine",
+            nextText: "Järgmine",
+            cssStyle: "light-theme",
+            onPageClick: function(pageNum) {
+                var start = perPage * (pageNum - 1);
+                var end = start + perPage;
+                pageParts.hide()
+                         .slice(start, end).show();
+            }
+        });
+    });
+
+
+
 
     // // Dataset count
   //  const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
@@ -69,7 +91,25 @@ export default class {
       // Dataset count
       const resultsCountMarkup = results.length + ' Andmehulgad'
       setContent(elements.datasetsCount, resultsCountMarkup)
-
+      $(function() {
+          var pageParts = $("dataset");
+          var numPages = pageParts.length;
+          var perPage = 5;
+          pageParts.slice(perPage).hide();
+          $("#page-nav").pagination({
+              items: numPages,
+              itemsOnPage: perPage,
+              prevText: "Eelmine",
+              nextText: "Järgmine",
+              cssStyle: "light-theme",
+              onPageClick: function(pageNum) {
+                  var start = perPage * (pageNum - 1);
+                  var end = start + perPage;
+                  pageParts.hide()
+                           .slice(start, end).show();
+              }
+          });
+      });
 
     })
 //  });
