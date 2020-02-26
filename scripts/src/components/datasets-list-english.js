@@ -30,7 +30,25 @@ export default class {
     const filteredDatasetsEn = filter(opts.datasets, filtersEn)
     const datasetsMarkupEn = filteredDatasetsEn.map(TmplDatasetItemEn)
     setContent(elements.datasetsItemsEnglish, datasetsMarkupEn)
-
+    $(function() {
+        var pageParts = $("dataset");
+        var numPages = pageParts.length;
+        var perPage = 7;
+        pageParts.slice(perPage).hide();
+        $("#page-nav").pagination({
+            items: numPages,
+            itemsOnPage: perPage,
+            prevText: "Previous",
+            nextText: "Next",
+            cssStyle: "light-theme",
+            onPageClick: function(pageNum) {
+                var start = perPage * (pageNum - 1);
+                var end = start + perPage;
+                pageParts.hide()
+                         .slice(start, end).show();
+            }
+        });
+    });
 
     // // Dataset count English
     const datasetSuffix =  filteredDatasetsEn.length > 1 ? 's' : ''
@@ -51,7 +69,25 @@ export default class {
       //Dataset Count english
       const resultid = resultsEn.length + ' Datasets'
       setContent(elements.datasetsEnglishCount, resultid)
-
+      $(function() {
+          var pageParts = $("dataset");
+          var numPages = pageParts.length;
+          var perPage = 7;
+          pageParts.slice(perPage).hide();
+          $("#page-nav").pagination({
+              items: numPages,
+              itemsOnPage: perPage,
+              prevText: "Previous",
+              nextText: "Next",
+              cssStyle: "light-theme",
+              onPageClick: function(pageNum) {
+                  var start = perPage * (pageNum - 1);
+                  var end = start + perPage;
+                  pageParts.hide()
+                           .slice(start, end).show();
+              }
+          });
+      });
 
     })
   }

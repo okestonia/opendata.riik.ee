@@ -34,7 +34,7 @@ export default class {
     $(function() {
         var pageParts = $("dataset");
         var numPages = pageParts.length;
-        var perPage = 5;
+        var perPage = 7;
         pageParts.slice(perPage).hide();
         $("#page-nav").pagination({
             items: numPages,
@@ -94,7 +94,7 @@ export default class {
       $(function() {
           var pageParts = $("dataset");
           var numPages = pageParts.length;
-          var perPage = 5;
+          var perPage = 7;
           pageParts.slice(perPage).hide();
           $("#page-nav").pagination({
               items: numPages,
