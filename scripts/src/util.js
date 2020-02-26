@@ -19,6 +19,28 @@ export function setParams (params) {
   window.history.replaceState(null, null, newUrl)
 }
 
+export function datasetPaginate(){
+
+      var pageParts = $("dataset");
+      var numPages = pageParts.length;
+      var perPage = 7;
+      pageParts.slice(perPage).hide();
+      $("#page-nav").pagination({
+          items: numPages,
+          itemsOnPage: perPage,
+          prevText: "Previous",
+          nextText: "Next",
+          cssStyle: "light-theme",
+          onPageClick: function(pageNum) {
+              var start = perPage * (pageNum - 1);
+              var end = start + perPage;
+              pageParts.hide()
+                       .slice(start, end).show();
+          }
+      });
+
+}
+
 // Meant to mimic Jekyll's slugify function
 // https://github.com/jekyll/jekyll/blob/master/lib/jekyll/utils.rb#L142
 export function slugify (text) {

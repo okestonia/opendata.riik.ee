@@ -13,7 +13,7 @@
 import {pick, defaults, filter} from 'lodash'
 import * as Fuse from 'fuse.js'
 import TmplDatasetItem from '../templates/dataset-item'
-import {queryByHook, setContent, createDatasetFilters} from '../util'
+import {queryByHook, setContent, createDatasetFilters, datasetPaginate} from '../util'
 import $ from 'jquery'
 
 export default class {
@@ -31,25 +31,8 @@ export default class {
     const filteredDatasets = filter(opts.datasets, filters)
     const datasetsMarkup = filteredDatasets.map(TmplDatasetItem)
     setContent(elements.datasetsItems, datasetsMarkup)
-    $(function() {
-        var pageParts = $("dataset");
-        var numPages = pageParts.length;
-        var perPage = 7;
-        pageParts.slice(perPage).hide();
-        $("#page-nav").pagination({
-            items: numPages,
-            itemsOnPage: perPage,
-            prevText: "Eelmine",
-            nextText: "Järgmine",
-            cssStyle: "light-theme",
-            onPageClick: function(pageNum) {
-                var start = perPage * (pageNum - 1);
-                var end = start + perPage;
-                pageParts.hide()
-                         .slice(start, end).show();
-            }
-        });
-    });
+    datasetPaginate()
+
 
 
 
@@ -91,25 +74,8 @@ export default class {
       // Dataset count
       const resultsCountMarkup = results.length + ' Andmehulgad'
       setContent(elements.datasetsCount, resultsCountMarkup)
-      $(function() {
-          var pageParts = $("dataset");
-          var numPages = pageParts.length;
-          var perPage = 7;
-          pageParts.slice(perPage).hide();
-          $("#page-nav").pagination({
-              items: numPages,
-              itemsOnPage: perPage,
-              prevText: "Eelmine",
-              nextText: "Järgmine",
-              cssStyle: "light-theme",
-              onPageClick: function(pageNum) {
-                  var start = perPage * (pageNum - 1);
-                  var end = start + perPage;
-                  pageParts.hide()
-                           .slice(start, end).show();
-              }
-          });
-      });
+      datasetPaginate()
+
 
     })
 //  });
