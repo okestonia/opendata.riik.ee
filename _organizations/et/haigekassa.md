@@ -5,5 +5,5 @@ maintainer_name: Haigekassa
 maintainer_email:
 description: ''
 twitter: ''
-logo: haigekassa.PNG
+logo: haigekassa.png
 ---
