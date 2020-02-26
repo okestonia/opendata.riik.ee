@@ -28,8 +28,8 @@ export function datasetPaginate(){
       $("#page-nav").pagination({
           items: numPages,
           itemsOnPage: perPage,
-          prevText: "Previous",
-          nextText: "Next",
+          prevText: "«",
+          nextText: "»",
           cssStyle: "light-theme",
           onPageClick: function(pageNum) {
               var start = perPage * (pageNum - 1);
