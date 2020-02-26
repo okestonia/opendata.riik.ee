@@ -7,4 +7,5 @@ description: |
   avalikku arutelu.  maintainer_name: Innar Kaldlaur
 
 maintainer_email: info@kogu.ee
+logo: org_icon.png
 ---

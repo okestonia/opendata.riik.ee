@@ -1,7 +1,8 @@
 ---
 title: Terviseamet
 title_en: Health Board
-description: 
+description:
 maintainer_name: Maie Otsmann
 maintainer_email: maie.otsmann@terviseamet.ee
+logo: org_icon.png
 ---

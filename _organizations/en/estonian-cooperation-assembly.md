@@ -11,4 +11,5 @@ description_en: |
   the President of Estonia, working on policy recommendations and initiatives on
   societal issues, like e-democracy and public sector reform.
 maintainer_email: info@kogu.ee
+logo: org_icon.png
 ---

@@ -9,7 +9,6 @@ maintainer_name: Hille Tamm
 
 maintainer_email: piletimaailm@piletimaailm.com
 
-logo:
-
+logo: org_icon.png
 twitter: ''
 ---

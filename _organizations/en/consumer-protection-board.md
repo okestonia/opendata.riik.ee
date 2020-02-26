@@ -5,5 +5,5 @@ maintainer_name:
 maintainer_email:
 description: ''
 twitter: ''
-logo:
+logo: org_icon.png
 ---

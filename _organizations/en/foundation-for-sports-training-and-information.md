@@ -4,6 +4,6 @@ title_en: Foundation for Sports Training and Information
 description: ''
 maintainer_name: Veiko Ulp
 maintainer_email: veiko@server.ee
-logo:
+logo: org_icon.png
 twitter: ''
 ---
