@@ -1,7 +1,7 @@
 ---
 schema: default
 title: AHHAA Teaduskeskuse avalik teave
-title_en: Opend data from AHHAA Science Centre
+title_en: Open data from AHHAA Science Centre
 notes: "Saadaval <a href='https://www.ahhaa.ee/meist/avalik-teave/avalik-teave'>https://www.ahhaa.ee/meist/avalik-teave/avalik-teave</a>."
 notes_en: "Can be accessed at <a href='https://www.ahhaa.ee/meist/avalik-teave/avalik-teave'>https://www.ahhaa.ee/meist/avalik-teave/avalik-teave</a>."
 department: ''
