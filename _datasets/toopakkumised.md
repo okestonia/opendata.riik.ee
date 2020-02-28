@@ -9,7 +9,7 @@ notes_en:  |
 category: Elanikkond ja ühiskond 
 category_en: Population and Society
 resources:
-  - name: Avaandmed
+  - name: Eesti Töötukassa avalikud tööpakkumised
     url: 'https://www.tootukassa.ee/api/toopakkumised'
     format: JSON
     interactive: 'False'
