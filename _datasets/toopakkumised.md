@@ -1,6 +1,6 @@
 ---
 schema: default
-title: Eesti Töötukassa avalikud tööpakkumised
+title: Eesti Töötukassa avalikud tööpakkumised 
 title_en: Public job offers of the Estonian Unemployment Insurance Fund
 notes: |
   Kõik Eesti Töötukassa avalikud tööpakkumised masinloetavas formaadis
@@ -9,7 +9,7 @@ notes_en:  |
 category: Elanikkond ja ühiskond 
 category_en: Population and Society
 resources:
-  - name: Eesti Töötukassa avalikud tööpakkumised
+  - name: Eesti Töötukassa avalikud tööpakkumised (API)
     url: 'https://www.tootukassa.ee/api/toopakkumised'
     format: JSON
     interactive: 'False'
