@@ -12,7 +12,7 @@ resources:
     format: JSON
     interactive: ‘False’
 license: ‘https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode’  (Creative Commons kasutatakse juhul kui Sa ei tea, et mingi muu litsents peaks olema)
-update_freq: ‘http://purl.org/linked-data/sdmx/2009/code#freq-D’ (viimane täht siin lõpus näitab kui tihti avaandmeid uuendatakse: D – iga päev, M – iga kuu, Q – kord kvartalis)
+update_freq: ‘http://purl.org/linked-data/sdmx/2009/code#freq-D’
 date_issued: 26.02.2020
 date_modified: 26.02.2020
 organization: Eesti Töötukassa
