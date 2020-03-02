@@ -50,7 +50,7 @@ export default class {
     //  window.$.getJSON('../datasets.json', function (response) {
       var options = {
       shouldSort: true,
-      threshold: 0.4,
+      threshold: 0.3,
       location: 0,
       distance: 100,
       maxPatternLength: 32,
