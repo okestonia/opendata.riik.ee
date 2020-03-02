@@ -72,7 +72,7 @@ export default class {
       setContent(elements.datasetsItems, resultsMarkup)
 
       // Dataset count
-      const resultsCountMarkup = results.length + ' Andmehulgad'
+      const resultsCountMarkup = 'Andmehulkade arv: ' + results.length;
       setContent(elements.datasetsCount, resultsCountMarkup)
       datasetPaginate()
 
