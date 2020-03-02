@@ -39,7 +39,7 @@ export default class {
 
     // // Dataset count
   //  const datasetSuffix =  filteredDatasets.length > 1 ? 's' : ''
-    const datasetsCountMarkup = filteredDatasets.length + ' Andmehulgad';
+    const datasetsCountMarkup =   'Andmehulkade arv: ' + filteredDatasets.length;
     // + datasetSuffix;
     setContent(elements.datasetsCount, datasetsCountMarkup)
 
