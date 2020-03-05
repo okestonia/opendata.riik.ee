@@ -65,15 +65,20 @@ lang: et
   </div>
   <div class = "form-group row">
     <div class ="col-md-12 mb-3">
-  <label class = "label-required" for = "t7">Fail nimi</label>
+  <label class = "label-required" for = "t7">Faili nimi</label>
   <input name="fields[name]" id ="t7" type="text" class="form-control mb-2" required>
   <label class = "label-required" for ="t8">URL link andmestiku juurde </label>
   <input name="fields[url]" id = "t8" type="text" class="form-control mb-2" required>
   <label class = "label-required" for ="t9">Vormingud</label>
-  <input name="fields[format]" id ="t9" type="text" class="form-control mb-2" required>
-  <label class = "label-required" for = "t10">Interactive?</label>
-  <input name="fields[interactive]" id ="t10" type="text" class="form-control mb-2" required>
-  <label class = "label-required" for ="t11">Litsents  </label>
+  <input name="fields[format]" id ="t9" type="text" class="form-control mb-2" aria-describedby="t9help" required>
+  <small id="t9help" class="form-text text-muted mb-4">faili formaat, näiteks XML</small>
+  <label class = "label-required" for = "t10">Interaktiivne?</label>
+  <select name="fields[interactive]" id ="t10" type="text" class="form-control mb-2" aria-describedby="t10help" required>
+    <option value = "FALSE">False</option>
+    <option value = "TRUE">True</option>
+  </select>
+  <small id = "t10help" class = "form-text text-muted mb-4">siin on Teil kaks valikut, kas false, kui Teie poolt lisatava faili vorming on CSV, XML, XLSX või mõni muu staatiline vorming. Teine valik oleks true, kui Teie poolt lisatava faili vorming on kas HTML või JSON API – selline vorming, mis lubab kahepoolset andmevoolu, mida staatilise vormingu juures olla ei saaks.</small>
+  <label class = "label-required" for ="t11">Litsents</label>
   <select name = "fields[license]" id="t11" form ="datasetform" class="form-control mb-2" required>
     <option value ="https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode"> Creative Commons 3.0</option>
     <option value ="https://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution </option>
