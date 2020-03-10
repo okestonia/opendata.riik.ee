@@ -1,5 +1,4 @@
 ---
-_id: 929f1010-62d7-11ea-87e9-9309e8767efa
 title: Harrastajate arv
 title_en: Number of hobbyists
 notes: >-
@@ -11,17 +10,17 @@ notes_en: >-
   hobbyists of different kinds of sports.
 category: 'Haridus, kultuur ja sport'
 category_en: 'Education, Culture and Sport'
-name: Harrastajate arv
-url: 'https://www.spordiregister.ee/et/statistika?module=har'
-format: HTML
-interactive: 'TRUE'
+resources:
+  - name: Harrastajate arv
+    url: 'https://www.spordiregister.ee/et/statistika?module=har'
+    format: HTML
+    interactive: 'TRUE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Kultuuriministeerium
 maintainer_name: Spordikoolituse ja -Teabe SA
 maintainer_email: esr@spordiinfo.ee
 maintainer_phone: ''
-date_issued: '2020-03-10T14:01:00.660Z'
-date_modified: '2020-03-10T14:01:00.660Z'
+date_issued: '2020/03/10'
+date_modified: '2020/03/10'
 ---
-SigritSiht
