@@ -10,8 +10,8 @@ category:
 category_en:
   - Health
 resources:
-  - name: Lipupäevad
-    url: 'downloads/Interim Case report form_EST_31JAN2020.docx'
+  - name: Interim Case report form_EST_31JAN2020
+    url: '/downloads/Interim Case report form_EST_31JAN2020.docx'
     format: docx
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
