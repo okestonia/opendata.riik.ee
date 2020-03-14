@@ -16,8 +16,8 @@ resources:
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
-date_issued: 2020/14/03
-date_modified: 2020/14/03
+date_issued: 2020/03/14
+date_modified: 2020/03/14
 organization: Terviseamet
 maintainer_name: ''
 maintainer_email: ''
