@@ -2,7 +2,7 @@
 schema: default
 title: Haigusjuhtumite andmed
 title_en: Corona case data
-notes: Ülevaade, kuidas kogutakse haigusjuhtumite kohta andmeid. Pildil on näha võrdlus Singapuri andmestikuga.
+notes: Ülevaade, kuidas kogutakse haigusjuhtumite kohta andmeid.
 notes_en: ''
 department: ''
 category:
