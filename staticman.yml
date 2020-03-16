@@ -22,7 +22,7 @@ datasets:
   name: "opendata.riik.ee"
   path: "_datasets"
   pullRequestBody: "Andmestiku lisamine  \n\n"
-  requiredFields: ["title","notes","category","name","url","format","interactive","license","update_freq","organization", "github_name"]
+  requiredFields: ["title","notes","category","name","url","format","interactive","license","update_freq","organization"]
   transforms:
     email: md5
     github_name: "frontmatterContent"
