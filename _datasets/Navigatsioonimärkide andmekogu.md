@@ -1,11 +1,9 @@
 ---
-_id: d7fa6630-678e-11ea-bf57-59b305d4003c
 title: Navigatsioonimärkide andmekogu
 title_en: ''
-notes: >-
-  Eesti kõigi valdajate kõigi reglementeeritud navigatsioonimärkide andmestik,
+notes: 'Eesti kõigi valdajate kõigi reglementeeritud navigatsioonimärkide andmestik,
   mis sisaldab andmeid märkide nõuetele vastavusest, märkide
-  iseloomustusandmeid, olekuandmeid ja ekspluatatsiooniandmeid.
+  iseloomustusandmeid, olekuandmeid ja ekspluatatsiooniandmeid.'
 notes_en: ''
 category: Transport
 category_en: Regions and Cities
@@ -22,4 +20,3 @@ maintainer_phone: '5043819'
 date_issued: '2020-03-16T14:02:59.599Z'
 date_modified: '2020-03-16T14:02:59.599Z'
 ---
-undefined
