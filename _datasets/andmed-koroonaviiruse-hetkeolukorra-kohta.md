@@ -26,6 +26,10 @@ resources:
     url: '/downloads/koroonaviiruse%20andmed%2023.03.2020.xlsx'
     format: XLSX
     interactive: 'False'
+  - name: Koroonaviiruse andmed 24.03.2020.xlsx
+    url: '/downloads/koroonaviiruse%20andmed%2024.03.2020.xlsx'
+    format: XLSX
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2020/03/20
