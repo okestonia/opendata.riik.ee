@@ -23,7 +23,7 @@ resources:
     format: XLSX
     interactive: 'False'
   - name: Koroonaviiruse andmed 23.03.2020.xlsx
-    url: '/downloads/koroonaviiruse%20andmed%2023.03.2020.xlsx'
+    url: '/downloads/Koroonaviiruse%20andmed%2023.03.2020.xlsx'
     format: XLSX
     interactive: 'False'
   - name: Koroonaviiruse andmed 24.03.2020.xlsx
