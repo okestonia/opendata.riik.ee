@@ -11,11 +11,11 @@ category_en:
   - Health
 resources:
   - name: Koroonaviiruse andmed 20.03.2020.xlsx
-    url: '/downloads/Koroonaviiruse andmed 20.03.2020.xlsx'
+    url: '/downloads/koroonaviiruse andmed 20.03.2020.xlsx'
     format: XLSX
     interactive: 'False'
   - name: Koroonaviiruse andmed 21.03.2020.xlsx
-    url: '/downloads/koroonaviiruse%20andmed%2021.3.2020.xlsx'
+    url: '/downloads/koroonaviiruse%20andmed%2021.03.2020.xlsx'
     format: XLSX
     interactive: 'False'
   - name: Koroonaviiruse andmed 22.03.2020.xlsx
@@ -23,7 +23,7 @@ resources:
     format: XLSX
     interactive: 'False'
   - name: Koroonaviiruse andmed 23.03.2020.xlsx
-    url: '/downloads/Koroonaviiruse%20andmed%2023.03.2020.xlsx'
+    url: '/downloads/koroonaviiruse%20andmed%2023.03.2020.xlsx'
     format: XLSX
     interactive: 'False'
   - name: Koroonaviiruse andmed 24.03.2020.xlsx
