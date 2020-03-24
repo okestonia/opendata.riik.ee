@@ -68,7 +68,7 @@ if __name__ == "__main__":
             if d is not None:
                 # Iterate over all resources getting all the hashes
                 for r in d['resources']:
-                    print(r)    
+                   
 		# Leave APIs and HTML interfaces alone
                     if r.get('interactive', 'True') != 'True':
                         url = r.get('url', '')
