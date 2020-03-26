@@ -15,7 +15,7 @@ resources:
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut
-maintainer_name: Tone Tender
+maintainer_name: Tõnu Tender
 maintainer_email: ''
 maintainer_phone: ''
 date_issued: '21/03/2020'
