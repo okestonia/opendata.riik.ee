@@ -12,7 +12,7 @@ category_en:
   - Science and Technology
 resources:
   - name: Õppeasutuste avaandmed
-    url: 'http://enda.ehis.ee/avaandmed/rest/oppeasutused/-/Kool/E/-/-/-/-/-/-/0/0/XML'
+    url: 'http://enda.ehis.ee/avaandmed/rest/oppeasutused/-/Kool/E/-/-/-/-/-/-/-/0/0/XML'
     format: XML
     interactive: 'False'
   - name: Õppeasutuste tegevuslubade avaandmed
