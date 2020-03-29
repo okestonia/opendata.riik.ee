@@ -1,7 +1,6 @@
 ---
-_id: db773910-711f-11ea-84aa-85ac35361aec
 title: Kollokatsioonide pingeread Tasakaalus korpuse põhjal
-title_en: ''
+title_en: 'Kollokatsioonide pingeread Tasakaalus korpuse põhjal'
 notes: >-
   Kollokatsioon on sõnaühend, mida moodustavad sõnad esinevad tekstides koos
   sagedamini, kui võiks eeldada nende eraldi esinemise sagedustest.
@@ -19,17 +18,18 @@ notes: >-
 notes_en: ''
 category: 'Haridus, kultuur ja sport'
 category_en: 'Education, Culture and Sport'
-name: koll
-url: 'https://www.cl.ut.ee/ressursid/sagedased_kollokatsioonid/'
-format: txt
-interactive: 'FALSE'
+resources:
+  - name: koll
+    url: 'https://www.cl.ut.ee/ressursid/sagedased_kollokatsioonid/'
+    format: txt
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
-date_issued: '2020-03-28T18:13:43.087Z'
-date_modified: '2020-03-28T18:13:43.087Z'
+date_issued: '2020/03/28'
+date_modified: '2020/03/28'
 ---
-undefined
+
