@@ -1,5 +1,4 @@
 ---
-_id: d79c4270-7117-11ea-84aa-85ac35361aec
 title: 'Segakorpus: Doktoritööd'
 title_en: ''
 notes: >-
@@ -8,10 +7,11 @@ notes: >-
 notes_en: ''
 category: Teadus ja tehnoloogia
 category_en: Science and Technology
-name: doktor
-url: 'http://www.cl.ut.ee/korpused/segakorpus/doktoritood/'
-format: XML
-interactive: 'FALSE'
+resources:
+  - name: doktor
+    url: 'http://www.cl.ut.ee/korpused/segakorpus/doktoritood/'
+    format: XML
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool
@@ -21,4 +21,4 @@ maintainer_phone: ''
 date_issued: '2020-03-28T17:16:20.662Z'
 date_modified: '2020-03-28T17:16:20.662Z'
 ---
-undefined
+
