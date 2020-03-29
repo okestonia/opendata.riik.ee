@@ -5,7 +5,7 @@ notes: Välisriikide kohanimed
 notes_en: Foreign geographical names
 category: Piirkonnad ja linnad
 category_en: Regions and Cities
-reosurces:
+resources:
   - name: Valisriikide kohanimed
     url: 'https://www.eki.ee/knab/p_mm_et.htm'
     format: HTML
