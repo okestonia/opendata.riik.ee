@@ -1,7 +1,6 @@
 ---
-_id: f00c7310-710e-11ea-84aa-85ac35361aec
 title: Kognitiivse keeleteaduse terminibaas
-title_en: ''
+title_en: 'Terminology of cognitive linguistics'
 notes: >-
   Sõnastiku aluseks on kõige tavalisemad ja/või kõige raskemini tõlgitavad
   mõisted keeleteaduse kognitivistlikes teooriates. Koostamist on alustanud
@@ -12,10 +11,11 @@ notes: >-
 notes_en: ''
 category: 'Haridus, kultuur ja sport'
 category_en: 'Education, Culture and Sport'
-name: kognitiivne
-url: 'https://term.eki.ee/termbase/view/1794744'
-format: html
-interactive: 'FALSE'
+resources:
+  - name: kognitiivne
+    url: 'https://term.eki.ee/termbase/view/1794744'
+    format: html
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool
@@ -25,4 +25,4 @@ maintainer_phone: ''
 date_issued: '2020-03-28T16:12:36.170Z'
 date_modified: '2020-03-28T16:12:36.170Z'
 ---
-undefined
+
