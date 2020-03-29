@@ -1,7 +1,6 @@
 ---
-_id: 5f6703a0-7115-11ea-84aa-85ac35361aec
 title: Usundiloo terminite seletussõnastik
-title_en: ''
+title_en: 'Glossary of Religious Terms'
 notes: >-
   Käesolev usundiloo terminite seletussõnastik on mõeldud esmajoones
   religiooniteadusi õppivatele humanitaarerialade üliõpilastele, samuti
@@ -19,10 +18,11 @@ notes: >-
 notes_en: ''
 category: Elanikkond ja ühiskond
 category_en: Population and Society
-name: usterm
-url: 'https://term.eki.ee/termbase/view/4646856'
-format: html
-interactive: 'FALSE'
+resources:
+  - name: usterm
+    url: 'https://term.eki.ee/termbase/view/4646856'
+    format: html
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool
@@ -32,4 +32,3 @@ maintainer_phone: ''
 date_issued: '2020-03-28T16:58:40.284Z'
 date_modified: '2020-03-28T16:58:40.284Z'
 ---
-undefined
