@@ -1,5 +1,4 @@
 ---
-_id: 4c390060-6bb8-11ea-b75b-0b46c2beb799
 title: Eesti kohanimed
 title_en: Estonian Place names
 notes: >-
@@ -10,17 +9,18 @@ notes: >-
 notes_en: ''
 category: Piirkonnad ja linnad
 category_en: Regions and Cities
-name: Eesti kohanimed
-url: 'https://www.eki.ee/knab/p_ee_et.htm'
-format: html
-interactive: 'FALSE'
+resources:
+- name: Eesti kohanimed
+  url: 'https://www.eki.ee/knab/p_ee_et.htm'
+  format: html
+  interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut
 maintainer_name: Peeter Pall
 maintainer_email: peeter.pall@eki.ee
 maintainer_phone: ''
-date_issued: '2020-03-21T21:09:48.602Z'
-date_modified: '2020-03-21T21:09:48.602Z'
+date_issued: '2020/03/21'
+date_modified: '2020/03/21'
 ---
-undefined
+
