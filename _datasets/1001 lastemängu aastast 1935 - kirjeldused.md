@@ -1,7 +1,6 @@
 ---
-_id: bf8678c0-711e-11ea-84aa-85ac35361aec
 title: 1001 lastemängu aastast 1935 - kirjeldused
-title_en: ''
+title_en: 1001 children's games from 1935 - descriptions
 notes: >-
   Andmebaasis olevate lastemängude kirjeldused (kirjalikud tekstid) pärinevad
   Eesti Rahvaluule Arhiivi kogudest. Suurem osa veebivalimiku mängukirjeldustest
@@ -20,18 +19,18 @@ notes: >-
 notes_en: ''
 category: Elanikkond ja ühiskond
 category_en: Population and Society
-name: laste
-url: >-
-  https://metashare.ut.ee/repository/browse/1001-lastemangu-aastast-1935/096d94c8317611e7a6e4005056b400241df1202cc85249a5be7f6b5c8ca67692/
-format: xht
-interactive: 'FALSE'
+resources:
+  - name: laste
+    url: https://metashare.ut.ee/repository/browse/1001-lastemangu-aastast-1935/096d94c8317611e7a6e4005056b400241df1202cc85249a5be7f6b5c8ca67692/
+    format: xht
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Kirjandusmuuseum
 maintainer_name: Risto Järv
 maintainer_email: risto.jarv@folklore.ee
 maintainer_phone: ''
-date_issued: '2020-03-28T18:05:46.712Z'
-date_modified: '2020-03-28T18:05:46.712Z'
+date_issued: '2020/03/28'
+date_modified: '2020/03/28'
 ---
-undefined
+
