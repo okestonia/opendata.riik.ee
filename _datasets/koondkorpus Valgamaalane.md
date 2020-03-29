@@ -1,7 +1,6 @@
 ---
-_id: d78bc050-711a-11ea-84aa-85ac35361aec
 title: 'Koondkorpus: Valgamaalane'
-title_en: ''
+title_en: 'Consolidated corpus: Valgamaalane'
 notes: >-
   Selles allkorpuses on ajalehe Valgamaalane lehenumbrid ajavahemikust
   02.09.2004 - 31.07.2008, (598 numbris 10 577 artikliga), kokku 2 495 302 sõna
@@ -9,10 +8,11 @@ notes: >-
 notes_en: ''
 category: Elanikkond ja ühiskond
 category_en: Population and Society
-name: valga
-url: 'https://www.cl.ut.ee/korpused/segakorpus/valgamaalane/'
-format: XML
-interactive: 'FALSE'
+resources:
+  - name: valga
+    url: 'https://www.cl.ut.ee/korpused/segakorpus/valgamaalane/'
+    format: XML
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool
@@ -22,4 +22,4 @@ maintainer_phone: ''
 date_issued: '2020-03-28T17:37:49.023Z'
 date_modified: '2020-03-28T17:37:49.023Z'
 ---
-undefined
+
