@@ -1,6 +1,6 @@
 ---
 title: Loomaparasiitide nimistu
-title_en: ''
+title_en: 'List of animal parasites'
 notes: >-
   Terminisõnastik on koostatud EMÜ emeriitprofessoro Toivo Järvise (e-post:
   toivo.jarvis@emu.ee) poolt 2015. aastal. On loodud olulisemate parasiitide
