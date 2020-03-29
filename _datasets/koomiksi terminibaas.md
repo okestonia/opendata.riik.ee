@@ -1,7 +1,6 @@
 ---
-_id: 5cc628c0-710f-11ea-84aa-85ac35361aec
 title: Koomiksi terminibaas
-title_en: ''
+title_en: 'Comics Term Base'
 notes: >-
   Käesolev koomiksi terminibaas on valminud Balti filmi, meedia, kunstide ja
   kommunikatsiooni instituudi koomiksi terminikomisjoni tööna. Terminikomisjoni
@@ -13,10 +12,11 @@ notes: >-
 notes_en: ''
 category: 'Haridus, kultuur ja sport'
 category_en: 'Education, Culture and Sport'
-name: koomiks
-url: 'https://term.eki.ee/termbase/view/4005606'
-format: html
-interactive: 'FALSE'
+resources:
+  - name: koomiks
+    url: 'https://term.eki.ee/termbase/view/4005606'
+    format: html
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tallinna Ülikool
@@ -26,4 +26,4 @@ maintainer_phone: ''
 date_issued: '2020-03-28T16:15:38.633Z'
 date_modified: '2020-03-28T16:15:38.633Z'
 ---
-undefined
+
