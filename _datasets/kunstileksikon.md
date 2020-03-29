@@ -1,5 +1,4 @@
 ---
-_id: 0c04c630-6bba-11ea-b75b-0b46c2beb799
 title: 'Kunstileksikon: maal, skulptuur, graafika, arhitektuur ja tööstuskunstnik'
 title_en: >-
   Art Lexicon: Painting, Sculpture, Graphics, Architecture and Industrial Artist
@@ -12,17 +11,18 @@ notes_en: >-
   in Estonian, English, French, German and Swedish
 category: 'Haridus, kultuur ja sport'
 category_en: 'Education, Culture and Sport'
-name: Kunstileksikon
-url: 'https://www.eurotermbank.com/collections/304'
-format: HTML
-interactive: 'FALSE'
+resources:
+  - name: Kunstileksikon
+    url: 'https://www.eurotermbank.com/collections/304'
+    format: HTML
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
-date_issued: '2020-03-21T21:22:19.897Z'
-date_modified: '2020-03-21T21:22:19.897Z'
+date_issued: '2020/03/21'
+date_modified: '2020/03/21'
 ---
 undefined
