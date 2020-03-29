@@ -3,7 +3,7 @@
 # For example, you can have one property to handle comment submission and
 # another one to handle posts.
 datasets:
-  allowedFields: ["title", "title_en", "notes", "notes_en", "category", "category_en", "name", "url", "format", "interactive", "license", "update_freq", "organization", "maintainer_name", "maintainer_email", "maintainer_phone", "github_name"]
+  allowedFields: ["title", "title_en", "notes", "notes_en", "category", "category_en","resources", "name", "url", "format", "interactive", "license", "update_freq", "organization", "maintainer_name", "maintainer_email", "maintainer_phone", "github_name"]
   branch: "master"
   commitMessage: "Create new dataset -- {fields.title}"
   filename: "{fields.title}"
@@ -13,11 +13,11 @@ datasets:
     date_issued:
       type: date
       options:
-        format: "iso8601"
+        format: "{@date:YYYY/MM/DD}"
     date_modified:
       type: date
       options:
-        format: "iso8601"
+        format: "{@date:YYYY/MM/DD}"
   moderation: true
   name: "opendata.riik.ee"
   path: "_datasets"
@@ -37,11 +37,11 @@ applications:
     date_issued:
       type: date
       options:
-        format: "iso8601"
+        format: "{@date:YYYY/MM/DD}"
     date_modified:
       type: date
       options:
-        format: "iso8601"
+        format: "{@date:YYYY/MM/DD}"
   moderation: true
   name: "opendata.riik.ee"
   path: "_applications"
