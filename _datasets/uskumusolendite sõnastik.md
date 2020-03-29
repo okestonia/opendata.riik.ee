@@ -1,7 +1,6 @@
 ---
-_id: 37730c40-7115-11ea-84aa-85ac35361aec
 title: Uskumusolendite sõnastik
-title_en: ''
+title_en: 'A dictionary of beliefs'
 notes: >-
   Sõnastikus kajastuvad eelkõige Eesti kontekstis aktuaalsed terminid, mille
   puhul esineb terminoloogilist segadust, eksitusi tekitavaid tähendusnihkeid
@@ -14,10 +13,11 @@ notes: >-
 notes_en: ''
 category: 'Haridus, kultuur ja sport'
 category_en: 'Education, Culture and Sport'
-name: uskumus
-url: 'https://term.eki.ee/termbase/view/9012994'
-format: html
-interactive: 'FALSE'
+resources:
+  - name: uskumus
+    url: 'https://term.eki.ee/termbase/view/9012994'
+    format: html
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Kirjandusmuuseum
@@ -27,4 +27,4 @@ maintainer_phone: ''
 date_issued: '2020-03-28T16:57:32.942Z'
 date_modified: '2020-03-28T16:57:32.942Z'
 ---
-undefined
+
