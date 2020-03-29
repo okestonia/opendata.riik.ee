@@ -1,5 +1,4 @@
 ---
-_id: 0c97d040-7111-11ea-84aa-85ac35361aec
 title: Loomaparasiitide nimistu
 title_en: ''
 notes: >-
@@ -11,10 +10,11 @@ notes: >-
 notes_en: ''
 category: 'Põllumajandus, kalandus, metsandus'
 category_en: 'Agriculture, Fisheries, Forestry and Food'
-name: loomaparasiitide nimekiri
-url: 'https://term.eki.ee/termbase/view/1631138'
-format: html
-interactive: 'FALSE'
+resources:
+  - name: loomaparasiitide nimekiri
+    url: 'https://term.eki.ee/termbase/view/1631138'
+    format: html
+    interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Maaülikool
@@ -24,4 +24,4 @@ maintainer_phone: ''
 date_issued: '2020-03-28T16:27:43.047Z'
 date_modified: '2020-03-28T16:27:43.047Z'
 ---
-undefined
+
