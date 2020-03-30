@@ -12,9 +12,7 @@ resources:
     interactive: 'FALSE'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
-organization: >-
-  Otsingu tulemused Veebitulemused koos saidilinkidega  Euroopa
-  Keskkonnaagentuur
+organization: Keskkonnaagentuur
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
