@@ -7,13 +7,13 @@ category: Tervis
 category_en: Health
 resources:
   - name: 'opendata_covid19_test_results.json, opendata_covid19_test_results.csv'
-    url: 'https://terviseamet.test.tehik.ee/et/avaandmed'
+    url: 'https://opendata.digilugu.ee'
     format: 'json, csv'
     interactive: 'FALSE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 organization: Tervise ja Heaolu Infosüsteemide keskus
-maintainer_name: Priit Rasepl
+maintainer_name: Priit Raspel
 maintainer_email: info@tehik.ee
 maintainer_phone: ''
 date_issued: '2020-04-01T11:08:58.918Z'
