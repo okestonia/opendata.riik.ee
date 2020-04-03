@@ -18,6 +18,6 @@ organization: Tallinna Linnvalitsus
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
-date_issued: '2020-04-02T19:56:40.576Z'
-date_modified: '2020-04-02T19:56:40.576Z'
+date_issued: '02/04/2020'
+date_modified: '02/04/2020'
 ---
