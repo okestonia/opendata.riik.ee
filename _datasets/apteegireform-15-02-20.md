@@ -1,7 +1,7 @@
 ---
 schema: default
-title: "Üldapteekide vastavus apteegireformi nõuetele"
-title_en: "Pharmacies conforming to the rules of the upcoming pharmacy reform"
+title: "Üldapteekide vastavus apteegireformi nõuetele 15.02.2020 seisuga"
+title_en: "Pharmacies conforming to the rules of the upcoming pharmacy reform 15.02.2020"
 notes: "Eesti üldapteekide vastavus 01.04.2020 rakenduvatele apteegireformi nõuetele."
 notes_en: 'Estonian pharmacies conforming to the rules of the upcoming pharmacy reform which takes action on 01.04.2020.'
 department: ''
@@ -14,17 +14,8 @@ resources:
     url: 'https://opendata.riik.ee/downloads/apteegid150220.xlsx'
     format: XLSX
     interactive: 'False'
-  - name: 'apteekide vastavus seisuga 15.01.2020'
+  - name: 'apteekide vastavus seisuga 15.02.2020'
     url: 'https://opendata.riik.ee/downloads/apteegid150220.csv'
-    format: CSV
-    delim: ;
-    interactive: 'False'
-  - name: 'apteekide vastavus seisuga 01.01.2020'
-    url: 'https://opendata.riik.ee/downloads/apteegid010120.xlsx'
-    format: XLSX
-    interactive: 'False'
-  - name: 'apteekide vastavus seisuga 01.01.2020'
-    url: 'https://opendata.riik.ee/downloads/apteegid010120.csv'
     format: CSV
     delim: ;
     interactive: 'False'

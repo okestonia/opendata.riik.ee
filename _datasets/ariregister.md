@@ -11,8 +11,12 @@ category_en:
   - Economy and Finance
 resources:
   - name: 'Äriregistri avalikud tasuta andmed [ettevõtja (ühingu) nimi, registrikood, käibemaksukohustuslase number, staatus, aadress, link ettevõtja andmetele]'
-    url: 'http://avaandmed.rik.ee/andmed/ARIREGISTER/'
-    format: 'xml, csv'
+    url: 'https://avaandmed.rik.ee/andmed/ARIREGISTER/ariregister_xml.zip'
+    format: XML
+    interactive: 'True'
+  - name: 'Äriregistri avalikud tasuta andmed [ettevõtja (ühingu) nimi, registrikood, käibemaksukohustuslase number, staatus, aadress, link ettevõtja andmetele]'
+    url: 'https://avaandmed.rik.ee/andmed/ARIREGISTER/ariregister_csv.zip'
+    format: CSV
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
