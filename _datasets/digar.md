@@ -2,7 +2,7 @@
 schema: default
 title: Rahvusraamatukogu digiarhiiv DIGAR
 title_en: Digital Archives
-notes: 'DIGAR on Rahvusraamatukogu kasutajakeskkond, mis praegu pakub juurdepääsu digitaalarhiivis talletatud väljaannetele. Nende hulgas on e-raamatuid, ajalehti, ajakirju, kaarte, noote, fotosid, postkaarte, plakateid, illustratsioone, audioraamatuid ning muusikafaile. Raamatute ja perioodika vorming on enamasti pdf või epub, pildimaterjalil jpeg ja helisalvestistel wav.'
+notes: 'DIGAR on Rahvusraamatukogu kasutajakeskkond, mis praegu pakub juurdepääsu digitaalarhiivis talletatud väljaannetele. Nende hulgas on e-raamatuid, ajalehti, ajakirju, kaarte, noote, fotosid, postkaarte, plakateid, illustratsioone, audioraamatuid ning muusikafaile. Raamatute ja perioodika vorming on enamasti pdf või epub, pildimaterjalil jpeg ja helisalvestistel wav. DIGAR-i kodulehekülg: <a href="http://www.digar.ee">http://www.digar.ee</a>. Rahvusraamatukogu avaandmete portaal: <a href="http://data.digar.ee">http://data.digar.ee</a>.'
 notes_en: ''
 department: ''
 category:
@@ -46,14 +46,6 @@ resources:
     url: 'http://data.digar.ee:8080/repox/OAIHandler?verb=ListRecords&set=book&metadataPrefix=edm'
     format: XML
     interactive: 'False'
-  - name: Digitaalarhiivi DIGAR kodulehekülg
-    url: 'http://www.digar.ee'
-    format: HTML
-    interactive: 'True'
-  - name: Eesti Rahvusraamatukogu avaandmete portaal
-    url: 'http://data.digar.ee'
-    format: HTML
-    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2017/03/13
