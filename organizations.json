@@ -4,6 +4,6 @@
   {
    "organization": {{ organization.title | jsonify }},
    "description": {{ organization.description | jsonify }}
-  }
+  }{% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
