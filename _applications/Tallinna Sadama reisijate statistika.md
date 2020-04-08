@@ -9,5 +9,5 @@ app_url: https://app.powerbi.com/view?r=eyJrIjoiNjQ3ZjYyMWItNDk0Yi00NmY5LTlkNmIt
 app_preview: https://raw.githubusercontent.com/okestonia/jkan/master/img/sadam_statistics.PNG
 developed_by: Tallinna Sadam
 img: sadam_statistics.PNG
-submitted: '2020-04-06T12:06:50.515Z'
+submitted: '2020/04/06'
 ---
