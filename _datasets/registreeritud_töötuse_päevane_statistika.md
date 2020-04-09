@@ -1,17 +1,9 @@
 ---
 schema: default
-title:  Registreeritud töötute päevane statistika
-title_en: Daily statistics on registered unemployed
-notes: 'Sisaldab:
-1. Registreeritud töötud päeva seisuga maakonna järgi (2018-2020)
-2. Registreeritud töötud päeva seisuga kohaliku omavalitsuse järgi (2018-2020)
-3. Päeva jooksul registreeritud uued töötud maakonna järgi (2019-2020)
-4. Päeva jooksul registreeritud uued töötud, kelle töösuhe lõppes koondamisega maakonna järgi (2019-2020)'
-notes_en: 'Contains:
-1. Daily registered unemployed by county (2018-2020)
-2. Daily registered unemployed by local government (2018-2020)
-3. New unemployed registered during the day by county (2019-2020)
-4. New unemployed registered during the day, whose employment ended with redundancy by county (2019-2020)'
+title:  'Registreeritud töötute päevane statistika'
+title_en: 'Daily statistics on registered unemployed'
+notes: 'Sisaldab:<br>1. Registreeritud töötud päeva seisuga maakonna järgi (2018-2020)<br>2. Registreeritud töötud päeva seisuga kohaliku omavalitsuse järgi (2018-2020)<br>3. Päeva jooksul registreeritud uued töötud maakonna järgi (2019-2020)<br>4. Päeva jooksul registreeritud uued töötud, kelle töösuhe lõppes koondamisega maakonna järgi (2019-2020)'
+notes_en: 'Contains:<br>1. Daily registered unemployed by county (2018-2020)<br>2. Daily registered unemployed by local government (2018-2020)<br>3. New unemployed registered during the day by county (2019-2020)<br>4. New unemployed registered during the day, whose employment ended with redundancy by county (2019-2020)'
 category:
   - Elanikkond ja ühiskond
 category_en:
@@ -33,7 +25,7 @@ resources:
     url: 'https://www.tootukassa.ee/sites/tootukassa.ee/files/uued_kp_mk_koondamine_day.xlsx'
     format: XLSX
     interactive: 'False'
- license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 09/04/2020 
 date_modified: 09/04/2020
