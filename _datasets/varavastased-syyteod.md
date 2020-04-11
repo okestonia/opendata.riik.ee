@@ -2,7 +2,7 @@
 schema: default
 title: Varavastased süüteod
 title_en: Offences against Property
-notes: Andmehulk sisaldab andmeid Politsei- ja Piirivalveametis registreeritud varavastaste süütegude kohta. Avaldatavate andmete täpsemale kirjeldusele on viidatud täiendavate linkide all.
+notes: 'Andmehulk sisaldab andmeid Politsei- ja Piirivalveametis registreeritud varavastaste süütegude kohta. Avaldatavate andmete täpsemale kirjeldusele on viidatud täiendavate linkide all. Selgitused avaldatavate andmete kohta: <a href="https://www.politsei.ee/et/avaandmed">https://www.politsei.ee/et/avaandmed</a>'
 notes_en: ''
 department: ''
 category:
@@ -37,9 +37,9 @@ resources:
     format: CSV
     delim: -t
     interactive: 'False'
-  - name: Selgitused avaldatavate andmete kohta
-    url: 'https://www.politsei.ee/et/avaandmed'
-    format: HTML
+  - name: Andmete kasutamise seletuskiri
+    url: 'https://www.politsei.ee/files/Analüüs%20ja%20statistika/ppaavaandmeteseletuskiri.pdf?f3ca9bccf9'
+    format: PDF
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
