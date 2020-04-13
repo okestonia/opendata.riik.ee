@@ -4,7 +4,7 @@ title_en: Biochemistry Dictionary
 notes: 'Eesti-inglise biokeemiasõnastik. Sõnastiku koostamist rahastas Eesti Haridus- ja Teadusministeerium.'
 notes_en: 'An Estonian-English dictionary in the field of biochemistry. The compiling of the dictionary was funded by the Estonian Ministry of Education and Research.'
 category:
-  - Teadus ja Tehnoloogia
+  - Teadus ja tehnoloogia
 category_en:
   - Science and Technology
 resources:

@@ -1,3 +1,4 @@
+---
 title: 'Segakorpus: Eesti Ekspress'
 title_en: 'Mixed corpus: Eesti Ekspress'
 notes: "Selles allkorpuses on ajalehe 'Eesti Ekspress' numbrid alates 09. 08. 1996 kuni 29. 11.  2001.\r\n\r\nNeed tekstid on osa eesti keele Koondkorpusest. Korpuse loomist on toetanud riiklik programm „Eesti keele keeletehnoloogiline tugi“ projektiga „Eesti keele koondkorpus“.\r\n\r\nNB! Osa nendest tekstidest kuulub ka Tasakaalus korpuse koosseisu!\r\n\r\nEesti Ekspressi korpuses on kokku 7,2 miljonit sõna."

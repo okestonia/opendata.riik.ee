@@ -11,7 +11,7 @@ category_en:
   - Regions and Cities
 resources:
   - name: ESTHub teenused
-    url: 'https://esthub.maaamet.ee'
+    url: ' https://ehdatahub.maaamet.ee/dhus/#/home'
     format: HTML
     interactive: 'True'
 license: 'https://sentinel.esa.int/documents/247904/690755/Sentinel_Data_Legal_Notice'

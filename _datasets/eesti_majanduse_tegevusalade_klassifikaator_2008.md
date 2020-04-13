@@ -10,9 +10,13 @@ category:
 category_en:
   - Economy and Finance
 resources:
-  - name: EMTAK
+  - name: EMTAK otsing
     url: 'https://emtak.rik.ee/EMTAK/pages/klassifikaatorOtsing.jspx'
-    format: 'xml, odf, csv'
+    format: HTML
+    interactive: 'True'
+  - name: EMTAK 2008
+    url: 'https://emtak.rik.ee/EMTAK/block/resource/ODU3NDUxNDkw/EMTAK_2008.pdf'
+    format: PDF
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
