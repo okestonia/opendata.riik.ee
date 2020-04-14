@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Tallinn arvudes
-title_en: Tallinn Statisical Overview
-notes: 'Tallinna statistika aastaraamatud "Tallinn arvudes", mis sisaldavad andmeid Tallinna rahvastiku, sotsiaalelu, majanduse ja keskkonna kohta'
+title: Tallinna linna reservfondi eraldised 2004. aastal
+title_en: Allocations of the Tallinn City Reserve Fund in 2004
+notes: 'Tallinna linna reservfondi eraldised 2004. aastal. <a href=http://www.tallinn.ee/eelarve>Tallinna eelarved</a>.'
 notes_en: ''
 department: ''
 category:
@@ -10,13 +10,13 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - url: 'http://www.tallinn.ee/est/Tallinn-arvudes'
-    format: PDF
-    name: Tallinn arvudes
+  - name: 2004. aasta linna reservfondi suunamine ametite ja linnaosade lõikes
+    url: 'https://www.tallinn.ee/g3770s28193'
+    format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
-date_issued: 09.01.2015
+date_issued: 11.06.2015
 date_modified: 10.01.2018
 organization: Tallinna Linnavalitsus
 maintainer_name: Liina Karjane

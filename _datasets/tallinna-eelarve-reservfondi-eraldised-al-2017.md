@@ -1,8 +1,8 @@
 ---
 schema: default
-title: Tallinna eelarve
-title_en: Tallinn City Budget
-notes: 'Tallinna eelarvestrateegia aastateks 2016 - 2019, Tallinna linna eelarved 2015, 2016, 2017, 2018'
+title: Tallinna linna reservfondi eraldised alates 2017. aastast
+title_en: Allocations of the Tallinn City Reserve Fund from 2017
+notes: 'Tallinna linna reservfondi eraldised alates 2017. aastast. <a href=http://www.tallinn.ee/eelarve>Tallinna eelarved</a>.'
 notes_en: ''
 department: ''
 category:
@@ -10,9 +10,9 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - url: 'http://www.tallinn.ee/eelarve'
-    format: PDF
-    name: Tallinna eelarve
+  - name: Tallinna linna reservfondi eraldised (alates 2017. aastast)
+    url: 'http://mittetulundustoetused.tallinn.ee/avalik/reservfondi-eraldis'
+    format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
