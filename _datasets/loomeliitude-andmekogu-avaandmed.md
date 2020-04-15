@@ -11,7 +11,7 @@ category_en:
   - Education, Culture and Sport
 resources:
   - name: 'Loomeliitude andmekogu avaandmed'
-    url: 'http://avaandmed.rik.ee/andmed/LLA/'
+    url: 'https://avaandmed.rik.ee/andmed/LLA/Loomeliidud.xml'
     format: XML
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'

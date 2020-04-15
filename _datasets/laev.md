@@ -12,7 +12,7 @@ category_en:
 
 resources:
   - name: Kõik laevakinnistusraamatu avalikud andmed
-    url: 'http://avaandmed.rik.ee/andmed/LAEV/'
+    url: 'https://avaandmed.rik.ee/andmed/LAEV/Laev.xml'
     format: XML
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'

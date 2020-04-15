@@ -11,7 +11,7 @@ category_en:
   - Government and Public Sector
 resources:
   - name: Kinnistusraamatu avalikud tasuta andmed
-    url: 'http://avaandmed.rik.ee/andmed/KR/'
+    url: 'https://avaandmed.rik.ee/andmed/KR/Kris.xml'
     format: XML
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
