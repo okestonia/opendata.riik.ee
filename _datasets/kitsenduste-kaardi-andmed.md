@@ -10,9 +10,29 @@ category:
 category_en:
   - Regions and Cities
 resources:
-  - name: Kitsenduste kaardi andmed
-    url: 'https://geoportaal.maaamet.ee/est/Ruumiandmed/Kitsenduste-andmed/Kitsenduste-andmete-allalaadimine-p624.html'
-    format: HTML
+  - name: Kitsenduste kaardi mõjualad
+    url: 'https://geoportaal.maaamet.ee/docs/KPO/KITSENDUSED_GPKG.zip'
+    format: GPKG
+    interactive: 'True'
+  - name: Administratiivsete kitsenduste mõjualad
+    url: 'https://geoportaal.maaamet.ee/docs/KPO/KITSENDUSED_ADMIN_SHP.zip'
+    format: SHP
+    interactive: 'True'
+  - name: Keskkonnalaste kitsenduste mõjualad
+    url: 'https://geoportaal.maaamet.ee/docs/KPO/KITSENDUSED_KESKKOND_SHP.zip'
+    format: SHP
+    interactive: 'True'
+  - name: Tehnovõrkude kitsenduste mõjualad 
+    url: 'https://geoportaal.maaamet.ee/docs/KPO/KITSENDUSED_TEHNO_SHP.zip'
+    format: SHP
+    interactive: 'True'
+  - name: Transpordialased kitsenduste mõjualad
+    url: 'https://geoportaal.maaamet.ee/docs/KPO/KITSENDUSED_TRANSPORT_SHP.zip'
+    format: SHP
+    interactive: 'True'
+  - name: Veekogude ja hüdroloogiliste rajatiste kitsenduste mõjualad 
+    url: 'https://geoportaal.maaamet.ee/docs/KPO/KITSENDUSED_VESI_SHP.zip'
+    format: SHP
     interactive: 'True'
 license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
