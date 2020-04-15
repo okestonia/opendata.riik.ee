@@ -20,31 +20,32 @@
   },
   "homepage": "https://github.com/timwis/es6-boilerplate#readme",
   "devDependencies": {
-    "@babel/core": "^7.7.5",
-    "@babel/preset-env": "^7.7.5",
-    "@babel/preset-react": "^7.7.4",
-    "babel-loader": "^8.0.6",
-    "babel-polyfill": "^6.7.4",
-    "webpack": "^4.41.2",
-    "webpack-cli": "^3.3.10",
-    "webpack-dev-server": "^3.9.0"
+    "@babel/core": "^7.9.0",
+    "@babel/preset-env": "^7.9.5",
+    "@babel/preset-react": "^7.9.4",
+    "babel-loader": "^8.1.0",
+    "babel-polyfill": "^6.26.0",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
   },
   "dependencies": {
-    "ampersand-state": "^5.0.0",
-    "axios": "^0.19.0",
+    "ampersand-state": "^5.0.3",
+    "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
-    "core-js": "^3.4.7",
-    "fuse.js": "^3.4.6",
+    "core-js": "^3.6.5",
+    "fuse.js": "^5.1.0",
     "github-api": "^3.3.0",
-    "jquery": "^3.4.1",
-    "jquery-deparam": "^0.5.2",
+    "jquery": "^3.5.0",
+    "jquery-deparam": "^0.5.3",
     "jquery-serializejson": "^2.9.0",
     "js-cookie": "^2.2.1",
     "js-yaml": "^3.13.1",
     "lodash": "^4.17.15",
+    "ncu": "^0.2.1",
     "notie": "github:timwis/notie#string-types",
     "parcel-bundler": "^1.12.4",
-    "popper.js": "^1.16.0",
-    "select2": "^4.0.12"
+    "popper.js": "^1.16.1",
+    "select2": "^4.0.13"
   }
 }

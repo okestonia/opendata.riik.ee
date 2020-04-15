@@ -1,0 +1,360 @@
+I"g\<ol class="breadcrumb" style="
+  padding: 0;
+  background: none;
+">
+  
+  
+    <li class="breadcrumb-item"><a href="/">Kodu</a></li>
+  
+  
+    
+    
+    <li class="breadcrumb-item active">Andmete uuendamise juhend</li>
+    
+  
+</ol>
+
+<h1 id="juhendid">Juhendid</h1>
+
+<p>Sellelt lehelt leiate juhendeid ja nõuandeid, mis võiksid olla abiks andmete avaldamisel opendata.riik.ee portaalis:</p>
+<ul>
+  <li><a href="#avaandmete-lisamise-ja-uuendamise-juhend">Avaandmete lisamise juhend</a></li>
+  <li><a href="#juhend-teiste-organisatsioonide-andmetel-põhinevate-andmehulkade-avaldamiseks-opendatariikee-portaalis">Teiseste andmete avaldamise juhend</a></li>
+  <li><a href="#andmetele-litsentsi-andmine">Andmetele litsentsi määramine</a></li>
+</ul>
+
+<hr />
+
+<h1 id="avaandmete-lisamise-ja-uuendamise-juhend">Avaandmete lisamise ja uuendamise juhend</h1>
+
+<p>Tee omale konto <a href="https://github.com">https://github.com</a> ja logi sisse. Jää sisselogituks, sest järgnevate tegevuste käigus suunatakse Sind automaatselt GitHub’i ja siis on hea kui oled juba sisselogitud.</p>
+
+<p>Enne kui hakkad lisama infot oma organisatsiooni avaandmete kohta, veendu, et organisatsioon oleks avaandmete portaalis teabevaldajate nimekirjas olemas <a href="https://opendata.riik.ee/teabevaldajad/">https://opendata.riik.ee/teabevaldajad/</a></p>
+
+<h2 id="organisatsiooni-lisamise-juhend">Organisatsiooni lisamise juhend</h2>
+
+<p>Kui Sinu organisatsiooni ei ole avaandmete portaali teabevaldajate nimekirjas, pead selle lisama enne kui hakkad avaandmeid lisama. Selleks mine <a href="https://github.com/okestonia/jkan/tree/master/_organizations">https://github.com/okestonia/jkan/tree/master/_organizations</a></p>
+
+<p>Nagu näed, on organisatsioonid siin .md failidena kirjas. Pead tekitama samasuguse faili vajutades „Create new file”.</p>
+
+<p>„Name your file” asemele kirjuta <strong>organisatsiooninimi.md</strong> (näiteks veeteedeamet.md)</p>
+
+<p>Seejärel kopeeri „Edit new file” kasti järgnev tekst (koos kolme kriipsuga alguses ja lõpus)</p>
+
+<hr />
+
+<p>title: siia tuleb Sinu organisatsiooni nimi</p>
+
+<p>title_en:</p>
+
+<p>description: ‘Siia tuleb lühikirjeldus organisatsiooni kohta.’</p>
+
+<p>maintainer_name: siia tuleb Sinu nimi</p>
+
+<p>maintainer_email: siia tuleb Sinu e-mail</p>
+
+<p>logo:</p>
+
+<p>twitter: ‘’</p>
+
+<hr />
+
+<p>Logo lisamist Sa ei saa ise teha. Kui tahad logo lisada, siis seda peab tegema portaali administraator tagantjärgi.</p>
+
+<p>Kui oled väljad ära täitnud, vajuta lehe allääres „Propose new file”.</p>
+
+<p>Seejärel vajuta lehe keskel „Create pull request” ja peale seda uuesti lehe allääres „Create pull request”.</p>
+
+<p>Nüüd läheb organisatsiooni lisamine ülevaatamiseks portaali administraatorile. Umbes 24h jooksul ilmub organisatsioon teabevaldajate nimekirja <a href="https://opendata.riik.ee/teabevaldajad/">https://opendata.riik.ee/teabevaldajad/</a> (läbi GitHub’i saad selle kohta teate e-maili peale).</p>
+
+<h2 id="avaandmete-lisamise-juhend">Avaandmete lisamise juhend</h2>
+
+<p>Enne kui hakkad avaandmeid lisama, veendu, et vastavat andmekogu pole juba lisatud (näiteks mõne Su kolleegi poolt): <a href="https://opendata.riik.ee/andmehulgad/">https://opendata.riik.ee/andmehulgad/</a></p>
+
+<p>Uue andmekogu lisamiseks ole kõigepealt <a href="https://github.com">https://github.com</a> sisselogitud ning siis mine <a href="https://github.com/okestonia/jkan/tree/master/_datasets">https://github.com/okestonia/jkan/tree/master/_datasets</a></p>
+
+<p>Nagu näed, on andmekogud siin .md failidena kirjas. Pead tekitama samasuguse faili vajutades „Create new file”.</p>
+
+<p>„Name your file” asemele kirjuta <strong>organisatsiooninimi-andmekogu.md</strong> (näiteks lennuameti-infosysteem.md). Faili nimi võiks olla sisukas ja peegeldada andmestiku sisu. Nii on teda lihtsam leida ja otse viidata. Näiteks andmekogu “Rebaseregister” failinimi peakski olema rebaseregister.md ja mitte rr.md või näiteks ecnr.md.</p>
+
+<p>Seejärel kopeeri „Edit new file” kasti järgnev tekst (koos kolme kriipsuga alguses ja lõpus)</p>
+
+<hr />
+
+<p>schema: default</p>
+
+<p>title: infosüsteemi nimi (näiteks Lennuohutuse järelevalve infosüsteem LOIS)</p>
+
+<p>title_en:</p>
+
+<p>notes: infosüsteemi kirjeldus (kirjuta paari lausega, mida see infosüsteem teeb, mis infot on avaandmete näol oodata)</p>
+
+<p>notes_en:</p>
+
+<p>department: ‘’</p>
+
+<p>category:</p>
+
+<p>  - Siia tuleb teema (näiteks Transport, vaata teemasid <a href="https://opendata.riik.ee/andmehulgad">https://opendata.riik.ee/andmehulgad</a> vasakust tulbast)</p>
+
+<p>category_en:</p>
+
+<ul>
+  <li>Siia tuleb teema (näiteks Transport, vaata teemasid <a href="https://opendata.riik.ee/en/andmehulgad">https://opendata.riik.ee/en/andmehulgad</a> vasakust tulbast)</li>
+</ul>
+
+<p>resources:</p>
+
+<p>  - name: Avaandmed</p>
+
+<p>    url: ‘https://… ‘ (siia pane avaandmete faili asukoht)</p>
+
+<p>    format: XML (avaandmete faili formaat, näiteks XML, JSON või mis iganes)</p>
+
+<p>    interactive: ‘False’</p>
+
+<p>  - name: Schema</p>
+
+<p>    url: ‘https://…’ (siia pane avaandmete schema faili asukoht)</p>
+
+<p>    format: XSD</p>
+
+<p>    interactive: ‘False’</p>
+
+<p>  - name: Avaandmete kirjeldus</p>
+
+<p>    url: ‘https://…’ (siia pane avaandmeid kirjeldava faili asukoht)</p>
+
+<p>    format: PDF (muuda seda nii nagu vaja, näiteks „docx”)</p>
+
+<p>    interactive: ‘False’</p>
+
+<p>license: ‘https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode’  (Creative Commons kasutatakse juhul kui Sa ei tea, et mingi muu litsents peaks olema)</p>
+
+<p>update_freq: ‘http://purl.org/linked-data/sdmx/2009/code#freq-D’ (viimane täht siin lõpus näitab kui tihti avaandmeid uuendatakse: D – iga päev, M – iga kuu, Q – kord kvartalis)</p>
+
+<p>date_issued: 31/01/2019 (avaandmete portaali lisamise kuupäev)</p>
+
+<p>date_modified: 31/01/2019 (avaandmete portaalis andmete uuendamise kuupäev)</p>
+
+<p>organization: Sinu organisatsiooni nimi</p>
+
+<p>maintainer_name: Sinu nimi</p>
+
+<p>maintainer_email: Sinu e-mail</p>
+
+<p>maintainer_phone: ‘’ (telefoninumbri saad kirjutada ülakomade vahele)</p>
+
+<hr />
+
+<p>Kõik siin näidises sulgudes olevad tekstid palun korja ära (kaasaarvatud sulud).</p>
+
+<p>Kui oled väljad ära täitnud, vajuta lehe allääres „Propose new file”.</p>
+
+<p>Seejärel vajuta lehe keskel „Create pull request” ja peale seda uuesti lehe allääres „Create pull request”.</p>
+
+<p>Nüüd läheb andmekogu lisamine ülevaatamiseks portaali administraatorile. Umbes 24h jooksul ilmub andmekogu nimekirja <a href="https://opendata.riik.ee/andmehulgad/">https://opendata.riik.ee/andmehulgad/</a> (läbi GitHub’i saad selle kohta teate e-maili peale). Avaldamise käigus vaadatakse andmekogu kirjeldus üle. Pisivead parandatakse, suuremate puhul (kui ei ole selge, mida mõeldud on, või on erinevused vajalikust formaadist liig suured) lükatakse muudatus tagasi. Kui puudub märge litsentsi kohta, lisatakse viide litsentsile CC-BY 3.0.</p>
+
+<h2 id="lisatud-andmete-parandamise-juhend">Lisatud andmete parandamise juhend</h2>
+
+<p>Avaandmete portaalis andmekogu andmete parandamiseks ole kõigepealt <a href="https://github.com">https://github.com</a> sisselogitud. Seejärel mine <a href="https://opendata.riik.ee/andmehulgad/">https://opendata.riik.ee/andmehulgad/</a> ja otsi oma andmekogu üles. Vajuta andmekogu nime peale. Avanenud lehel näed andmeid andmekogu kohta. Kui midagi vajab siin parandamist, vajuta lehe allääres nuppu „Muuda Githubis”.</p>
+
+<p>Tee „Edit file” kastis vajalikud muudatused ning vajuta lehe allääres „Propose new file”.</p>
+
+<p>Seejärel vajuta lehe keskel „Create pull request” ja peale seda uuesti lehe allääres „Create pull request”.</p>
+
+<p>Nüüd läheb andmete muutmine ülevaatamiseks portaali administraatorile. Umbes 24h jooksul viiakse muudatused sisse (läbi GitHub’i saad selle kohta teate e-maili peale).</p>
+
+<hr />
+
+<h1 id="juhend-teiste-organisatsioonide-andmetel-põhinevate-andmehulkade-avaldamiseks-opendatariikee-portaalis">Juhend teiste organisatsioonide andmetel põhinevate andmehulkade avaldamiseks opendata.riik.ee portaalis</h1>
+
+<h2 id="üldpõhimõtted">Üldpõhimõtted</h2>
+
+<ol>
+  <li>
+    <p><strong>Teisesteks andmeteks loetakse avalikult ligipääsetavate andmeallikate automaatse töötlemise, kombineerimise või korduva laadimise teel koostatud andmehulki</strong>. Teiseste andmete avaldamisel portaalis opendata.riik.ee tuleb lähtuda käesolevast juhendist.</p>
+  </li>
+  <li>
+    <p>Erandina võib avaldada ka viiteid primaarsetele allikatele, juhul kui andmestiku omanik ei soovi või ei ole võimeline seda ise tegema (näiteks välisriikide või eraettevõtete andmestikud). Sel juhul tuleb viidata otse andmete allikale, koopiat tegemata, ning andmete eest vastutab primaarallikas.</p>
+  </li>
+  <li>
+    <p>Kasutaja jaoks peab olema läbipaistev, millel andmed põhinevad ja kuidas nendeni jõuti. Selleks tuleb andmed varustada korralike metaandmetega, mille põhjal kasutaja saaks hinnata andmete usaldusväärsust.</p>
+  </li>
+  <li>
+    <p>Andmete taaskasutamise viisidele, vormidele, eesmärkidele ei tohi andmete avaldamisel seada piiranguid (näiteks vastava piirava litsentsi lisamisega), välja arvatud juhul, kui piirangud tulevad seadusest.</p>
+  </li>
+  <li>
+    <p>Teisese andmehulga avaldaja vastutab täielikult andmetele ligipääsu ja nende töötlemise seaduspärasuse ning selle tagajärgede eest. Kaks peamist (kuid mitte ainsat) rakenduvat normi on:</p>
+    <ul>
+      <li>juhul, kui kasutatavad andmed on käsitletavad isikuandmetena isikuandmete kaitse üldmääruse 2016/679 art 4 p-i 1 mõistes, kohustub avaldaja tagama andmete töötlemiseks õigusliku aluse olemasolu kontrollimise ning subjekti õiguste teostamise, sh andmesubjekti õigus tutvuda andmetega (art 15), õigus andmete parandamisele (art 16), õigus andmete kustutamisele (art 17), õigus esitada vastuväiteid (art 21), õigus hüvitisele ja vastutus (art 82);</li>
+      <li>Võlaõigusseadus (VÕS), täpsemalt VÕSi §1046 isiklike õiguste kahjustamise õigusvastasus ning §1047 ebaõigete andmete avaldamise õigusvastasus ning nendest tulenev kahju hüvitamise kohustus.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>Teiseste andmehulkade puudustele viitamine toimub GitHubis samas korras kui primaarallikate puhul: <a href="https://github.com/okestonia/opendata-issue-tracker">https://github.com/okestonia/opendata-issue-tracker</a>.</p>
+
+<h2 id="metaandmed">Metaandmed</h2>
+
+<p>Avaandmete portaalis teisese andmehulga avaldamisel peab andmehulgaga käima kaasas järgmine komplekt metaandmeid:</p>
+
+<p><strong>Andmete allikas</strong>. Võimalikult täpne viide primaarsetele andmeallikatele. Näiteks pöördutud URLid, kraabitud veebilehtede aadressid vms.</p>
+
+<p><strong>Andmete kogumiseks ja töötlemiseks kasutatud programmi lähtekoodi asukoht</strong>. Teisese andmehulga puhul peab selle moodustamiseks kasutatud programm olema avalikult saadaval, võimaldamaks hinnata töötluse usaldusväärsust.</p>
+
+<p><strong>Andmehulga avaandmetena avaldaja nimi ja kontakt</strong>. Teisese andmehulga kättesaadavaks teinud inimese nimi ja kontaktandmed võimaldavad kasutajatel raporteerida probleeme ning primaarse allika omanikul vajadusel võtta samme teisese andmehulga muutmiseks või eemaldamiseks.</p>
+
+<p><strong>Ajaline dimensioon</strong>, sh:</p>
+
+<ul>
+  <li>Kogumise aeg (millal andmed primaarallikatest toodi);</li>
+  <li>Primaarallikas avaldamise aeg (mis seisuga andmed toodi);</li>
+  <li>Uuendamissagedus või uuendamispoliitika: kui tihti või mis tingimustel (kui üldse) teisest andmehulka uuendatakse;</li>
+  <li>Teiseste andmete säilitamise tähtaeg: kui kaua teisene andmestik oluliste muutusteta metoodikas saadaval saab olema.</li>
+</ul>
+
+<p><strong>Litsents</strong>. Mida ja mis alustel võib teisese andmeallikaga edasi teha. Teisesele andmehulgale määratud litsents ei tohi olla vastuolus primaarse andmeallika litsentsiga.</p>
+
+<h2 id="küsimused-ja-vastused">Küsimused ja vastused</h2>
+
+<p><strong>Kes ja kuidas hindab andmete kvaliteeti ja usaldusväärsust?</strong></p>
+
+<p>Andmete või nende tuletiste lõppkasutaja hindab kvaliteeti metainfo põhjal, mis on andmetega kaasa pandud. Üldjuhul võib eeldada, et mida detailsem metainfo, seda usaldusväärsemaks saab andmeid pidada (välja arvatud juhul kui andmevaldaja on ise märkinud andmete juurde info võimalike vigade kohta). Kasutaja kasutab teiseseid andmeid omal vastutusel. Kui teiseseid andmeid ei usaldata, siis saab kasutada ainult primaarallikat.</p>
+
+<p><strong>Kes vastutab andmete korrektsuse eest?</strong></p>
+
+<p>Teiseste andmete avaldaja vastutab andmete korrektsuse osas ainult selle eest, et andmehulgale lisatud metaandmed vastavad tõele ning et avaldatud kood tõepoolest produtseerib avaldatud teisesed andmed.</p>
+
+<h2 id="arutelu-ja-tagasiside">Arutelu ja tagasiside</h2>
+
+<p>Ettepanekuid käesoleva juhendi parandamiseks ja täiendamiseks saab teha GitHubis: <a href="https://github.com/okestonia/jkan/issues/403">https://github.com/okestonia/jkan/issues/403</a>.</p>
+
+<hr />
+
+<h1 id="andmetele-litsentsi-andmine">Andmetele litsentsi andmine</h1>
+
+<p>Avatud andmehulgal peab olema litsents, mis võimaldab andmete vaba ja piiranguteta kasutamist, töötlemist ja levitamist, sh. levitamist kasutaja äranägemisel nii tasuta kui tasu eest. Andmete avaldajad on litsentsi valikul vabad. Kui andmeavaldaja ei soovi määrata andmehulgale spetsiifilist litsentsi, soovitame eelistatult litsentsiks valida Creative Commons litsentsi (vt https://creativecommons.org/), eeskätt CC BY 4.0: https://creativecommons.org/licenses/by/4.0/. Allpool toome ära Creative Commonsi koostatud soovitused litsentsiandjatele ja -saajatele.</p>
+
+<p>CC BY 4.0 litsents on eestikeelsena kättesaadav <a href="https://opendata.riik.ee/litsents/">SIIN</a></p>
+
+<h1 id="mida-litsentsiandjad-ja-litsentsisaajad-peaksid-kaaluma">Mida litsentsiandjad ja litsentsisaajad peaksid kaaluma</h1>
+
+<p>Alljärgnevas toome ära mõned põhilised punktid, mis tuleks läbi mõelda, enne kui rakendate oma materjalile Creative Commonsi litsentsi või kasutate Creative Commonsi litsentsi all olevat materjali. See ei ole ammendav loetelu.</p>
+
+<h2 id="mida-peaksid-kaaluma-litsentsiandjad">Mida peaksid kaaluma litsentsiandjad</h2>
+
+<p><strong>Tagasivõetamatus</strong></p>
+
+<p>Pidage meeles, et litsentsi ei saa tagasi võtta.</p>
+
+<p>Kui olete juba kord oma materjalile CC litsentsi rakendanud, siis võib igaüks, kes selle litsentsi saab, <a href="https://creativecommons.org/faq/#what-if-i-change-my-mind-about-using-a-cc-license">toetuda sellele litsentsile</a> senikaua, kui materjal on autorikaitse ja sarnaste õiguste kaitse all, isegi kui te hiljem selle levitamise lõpetate.</p>
+
+<p><strong>Materjali tüüp</strong></p>
+
+<p>Veenduge, et materjal sobib CC litsentseerimiseks.</p>
+
+<p>CC litsentsid sobivad kõigi sisutüüpide jaoks, mida te soovite avalikult jagada, <a href="https://creativecommons.org/faq/#can-i-apply-a-creative-commons-license-to-software">välja arvatud tarkvara ja riistvara</a>.</p>
+
+<p>Määratlege täpselt, mida te litsentseerite.</p>
+
+<p>Igal teosel on mitu elementi, nt tekst, pildid, muusika. Tehke kindlasti selgelt, <a href="https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license">näidake ära või märkige teatises</a>, millised eeltoodutest on litsentsiga hõlmatud.</p>
+
+<p><strong>Õiguste olemus ja piisavus</strong></p>
+
+<p>Veenduge, et materjalile kehtivad autoriõigused või muud õigused.</p>
+
+<p>CC litsentsid toimivad ainult juhul, kui tegemist on autoriõigustega, <em>sui generis</em> andmebaasiõigustega või <a href="https://creativecommons.org/faq/#rights-other-than-copyright">muude autoriõigustega lähedalt seotud õigustega</a>. Neid ei tohi rakendada avalikele materjalidele.</p>
+
+<p>Selgitage välja õigused, mis on materjali kasutamiseks vajalikud.</p>
+
+<p>Kui materjal hõlmab teiste isikute õigusi, siis veenduge, et olete saanud loa neid õigusi CC litsentsi alusel all-litsentseerida. Kui olete loonud selle materjali oma töösuhte või tööettevõtusuhte raames, siis ei pruugi te olla nende õiguste omanik ja võite vajada CC litsentsi rakendamiseks luba.</p>
+
+<p>Näidake ära õigused, mida litsents ei hõlma.</p>
+
+<p><a href="https://wiki.creativecommons.org/wiki/Marking/Creators/Marking_third_party_content">Näidake ära või märkige teatises silmatorkaval viisil kolmandate isikute õigused</a>, nagu avaldamisõigused või kaubamärgiõigused. See hõlmab kogu sisu, mida te kasutate autorikaitse erandite või piirangute alusel, ning kogu kolmandate isikute sisu, mida kasutatakse mingi muu litsentsi alusel (isegi kui see on samasugune CC litsents nagu te ise rakendate).</p>
+
+<p><strong>Litsentsi tüüp</strong></p>
+
+<p>Mõelge, kuidas te tahate, et seda materjali kasutataks.</p>
+
+<p>Mõelge läbi, mida te tahate oma teose jagamisega saavutada, kui panete paika, <a href="https://creativecommons.org/faq/#how-should-i-decide-which-license-to-choose">millist kuuest CC litsentsist rakendada</a>. Näiteks kui tahate, et see ilmuks Wikipedia artiklis, peab sellele rakendama BY-SA või sellega kokkusobiva litsentsi.</p>
+
+<p>Kaaluge kõiki kohustusi, mis võivad mõjutada seda, millist tüüpi litsentsi te rakendate.</p>
+
+<p>Mõelge läbi kõik kohustused, mis teil on, nagu rahastusallika poolt või töölepingus esitatud litsentseerimisnõuded või <a href="https://creativecommons.org/faq/#can-i-use-a-creative-commons-license-if-i-am-a-member-of-a-collecting-society">autorite ühingu poolt kehtestatud</a> piirangud teie poolsele CC litsentsi kasutamisele, mis dikteerivad, millist (kui üldse) kuuest CC litsentsist te rakendada saate.</p>
+
+<p><strong>Lisasätted</strong></p>
+
+<p>Kaaluge garantii pakkumist.</p>
+
+<p>Kui olete kindel, et olete välja selgitanud kõik õigused materjalile, siis võite otsustada anda garantii, et teos ei riku mingeid kolmandate isikute õigusi.</p>
+
+<p>Soovi korral määrake täiendavad load.</p>
+
+<p>Teil on võimalus <a href="https://creativecommons.org/faq/#can-i-waive-license-terms-or-conditions">anda lube</a>, mis on litsentsiga lubatavast väiksema või suurema ulatusega; näiteks lubada litsentsisaajatel ND-litsentsi alust materjali tõlkida. Kui nii, siis kaaluge <a href="https://wiki.creativecommons.org/wiki/CCPlus">CC+ litsentsi</a> kasutamist, et märkida ära, milliseid lisalube pakutakse.</p>
+
+<p><strong>Erieelistused</strong></p>
+
+<p>Määrake omistamise teave, kui soovite.</p>
+
+<p>Võite määrata konkreetsed isikud seoses omistamisega, materjali URI ja muud omistamisega seonduvad andmed, mille litsentsisaajad peavad säilitama.</p>
+
+<p>Märkige ära kõik mittesiduvad palved.</p>
+
+<p>Võite paluda litsentsisaajatel järgida teie erisoove, näiteks teie materjalis tehtavate muudatuste märgistamine või kirjeldamine.</p>
+
+<h2 id="mida-peaksid-kaaluma-litsentsisaajad">Mida peaksid kaaluma litsentsisaajad</h2>
+
+<p><strong>Tehke litsents endale selgeks</strong></p>
+
+<p>Lugege läbi kogu juriidiline tekst, mitte ainult õiguste andmise osa.</p>
+
+<p>Lihtsasti loetav õiguste andmise osa on kokkuvõte <a href="https://wiki.creativecommons.org/wiki/Legal_code">juriidilisest tekstist</a>, kuid mitte selle asendus. See ei selgita kõike, mida te peate teadma, enne kui hakkate litsentseeritud materjali kasutama.</p>
+
+<p>Veenduge, et litsents annab loa teha seda, mida te tahate teha.</p>
+
+<p>On olemas kuus erinevat CC litsentsi. Kaks neist keelavad kohanduste jagamise (BY-ND, BY-NC-ND); kolm keelavad ärilise kasutuse (BY-NC, BY-NC-ND, BY-NC-SA) ja kaks nõuavad, et kohandused litsentseeritaks sama litsentsi alusel (BY-SA, BY-NC-SA).</p>
+
+<p>Pange tähele litsentsi konkreetset versiooni.</p>
+
+<p>Praegune versioon (4.0) <a href="https://wiki.creativecommons.org/wiki/License_Versions">erineb varasematest versioonidest olulises osas</a>. Sarnaselt võivad teatavatel tingimustel erinevad olla ka <a href="https://creativecommons.org/faq/#what-are-the-international-unported-creative-commons-licenses-and-why-does-cc-offer-ported-licenses">jurisdiktsiooni ületoomised</a>, nagu näiteks vaidluste lahendamisel ja kohalduva õiguse valimisel.</p>
+
+<p><strong>Litsentsi ulatus</strong></p>
+
+<p>Pöörake tähelepanu sellele, mida täpselt litsentseeritakse.</p>
+
+<p>Litsentsiandja peab olema <a href="https://wiki.creativecommons.org/wiki/Marking_your_work_with_a_CC_license">ära märkinud</a>, millised teose elemendid on litsentsiga hõlmatud ja millised mitte. Litsentsiga hõlmamata elementide jaoks võite vajada eriluba.</p>
+
+<p>Kaaluge kolmandate isikute õiguste väljaselgitamist, kui see teid puudutab.</p>
+
+<p>Litsents ei sisalda garantiid, seega kui arvate, et kolmandatel isikutel võib olla materjalile õigusi, siis võiksite need õigused juba ette välja selgitada.</p>
+
+<p>Mõned litsentseeritud materjali kasutusviisid ei nõua litsentsi alusel lube.</p>
+
+<p>Kui teose teie poolt soovitud kasutusviis on hõlmatud autoriõiguste või sarnaste õiguste <a href="https://creativecommons.org/faq/#do-i-always-have-to-comply-with-the-license-terms-if-not-what-are-the-exceptions">erandi või piiranguga</a>, siis võite teost nii kasutada. Neid kasutusviise litsents ei reguleeri.</p>
+
+<p><strong>Teadke oma kohustusi</strong></p>
+
+<p>Tagage omistamine.</p>
+
+<p>Kõik CC litsentsid nõuavad autorile <a href="https://creativecommons.org/faq/#how-do-i-properly-attribute-material-offered-under-a-creative-commons-license">omistamist</a> ja <a href="https://wiki.creativecommons.org/wiki/Marking/Users">materjali märgistamist</a>, kui jagate seda avalikult. Konkreetsed nõuded on <a href="https://wiki.creativecommons.org/wiki/License_Versions#Attribution-specific_elements">eri versioonides veidi erinevad</a>.</p>
+
+<p>Ärge piirake selle litsentsi all teiste isikute õiguste kasutamist.</p>
+
+<p>Kõik CC litsentsid keelavad <a href="https://creativecommons.org/faq/#what-do-i-do-if-someone-tries-to-place-effective-technological-measures-such-as-drm-on-my-cc-licensed-material">toimivate tehnoloogiliste mooduste rakendamise</a> ja õiguslike tingimuste kehtestamise, mis takistaks teistel tegemast seda, mida litsents lubab.</p>
+
+<p>Tehke kindlaks, mida, kui üldse, te tohite enda loodavate kohandustega teha.</p>
+
+<p>Sõltuvat rakendatavast litsentsist eksisteerivad piirangud sellele, <a href="https://creativecommons.org/faq/#can-i-combine-material-under-different-creative-commons-licenses-in-my-work">kas te tohite oma kohandusi jagada</a> ja kui jah, siis <a href="https://creativecommons.org/faq/#if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-licenses-can-i-use">millist litsentsi te tohite oma panusele rakendada</a>.</p>
+
+<p>Lõppemine on automaatne.</p>
+
+<p>Kõik CC litsentsid <a href="https://creativecommons.org/faq/#how-can-i-lose-my-rights-under-a-creative-commons-license-if-that-happens-how-do-i-get-them-back">lõpevad automaatselt</a>, kui te nende tingimusi ei täida. Kui materjal on hõlmatud 4.0 litsentsiga, siis peate probleemi lahendama 30 päeva jooksul pärast probleemi avastamist, kui tahate, et teie õigused automaatselt taastuksid.</p>
+
+<p><strong>Arvestage litsentsiandja eelistustega</strong></p>
+
+<p>Kaaluge litsentsiandja mittesiduvate palvete täitmist.</p>
+
+<p>Litsentsiandja võib esitada materjali kasutamisel eripalveid. Soovitame neid järgida, kuid see on teile valikuline ja mitte kohustus.</p>
+:ET
