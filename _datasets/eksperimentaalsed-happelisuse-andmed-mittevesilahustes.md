@@ -1,5 +1,4 @@
 ---
-_id: e1a3e040-82e0-11ea-b392-f39bd790c098
 title: Eksperimentaalsed happelisuse andmed mittevesilahustes
 title_en: Experimental acidity data in non-aqueous media
 notes: >-
@@ -22,19 +21,21 @@ notes_en: >-
   (https://dx.doi.org/10.1039/c7sc01424d). For pKip(DCE) values the pKip of
   picric acid is arbitrarily set to 0.0 and other pKip values are given in
   reference to the value of picric acid.
-category: Teadus ja tehnoloogia
-category_en: Science and Technology
-name: 'https://analytical.chem.ut.ee/databases/pka-values-acids/'
-url: 'https://analytical.chem.ut.ee/databases/pka-values-acids/'
-format: HTML
-interactive: 'FALSE'
+category: 
+  - Teadus ja tehnoloogia
+category_en: 
+  - Science and Technology
+resources:
+  - name: 'https://analytical.chem.ut.ee/databases/pka-values-acids/'
+    url: 'https://analytical.chem.ut.ee/databases/pka-values-acids/'
+    format: HTML
+    interactive: 'FALSE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: 'University of Tartu, Institute of Chemistry'
 maintainer_name: Ivo Leito
 maintainer_email: ivo.leito@ut.ee
 maintainer_phone: '+3725184176'
-date_issued: '2020-04-20T08:28:16.094Z'
-date_modified: '2020-04-20T08:28:16.094Z'
+date_issued: '20/04/2020'
+date_modified: '20/04/2020'
 ---
-undefined
