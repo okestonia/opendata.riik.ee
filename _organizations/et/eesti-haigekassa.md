@@ -1,6 +1,6 @@
 ---
-title: Haigekassa
-title_en: Health Insurance Fund
+title: Eesti Haigekassa
+title_en: Estonian Health Insurance Fund
 maintainer_name: Haigekassa
 maintainer_email:
 description: ''
