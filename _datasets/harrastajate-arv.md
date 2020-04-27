@@ -22,5 +22,5 @@ maintainer_name: Spordikoolituse ja -Teabe SA
 maintainer_email: esr@spordiinfo.ee
 maintainer_phone: ''
 date_issued: '2020/03/10'
-date_modified: 2020/04/10
+date_modified: 2020/04/28
 ---
