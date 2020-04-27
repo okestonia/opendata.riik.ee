@@ -1,7 +1,6 @@
 ---
-_id: e979fb30-845a-11ea-bbfd-ff2c70675866
 app_name: Rohemeeter
-app_name_english: ''
+app_name_english: 'Map of Biodiversity'
 app_description: >-
   Rohemeeter on Tartu Ülikooli ökoloogia ja maateaduste instituudi
   makroökoloogia töörühma ning maastike elurikkuse töörühma välja töötatud
@@ -10,7 +9,7 @@ app_description: >-
 app_description_english: ''
 app_url: 'https://shiny.botany.ut.ee/rohemeeter/'
 developed_by: Tartu Ülikooli ökoloogia ja maateaduste instituudi makroökoloogia töörühm
-date_issued: '2020-04-22T05:34:19.042Z'
-date_modified: '2020-04-22T05:34:19.042Z'
+submitted: '22/04/2020'
+img: rohemeeter.PNG
+app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/rohemeeter.PNG'
 ---
-undefined
