@@ -38,7 +38,7 @@ def validate_urls(urls, source):
         except requests.exceptions.RequestException as ex:
             print("{0}: {1}".format(source, ex))
             ret.append({"url": url, "source": source, "Exception": {"type": type(ex).__name__, "message": str(ex)}})
-
+    print(ret)
     return ret
 
 

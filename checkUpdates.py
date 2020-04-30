@@ -67,8 +67,7 @@ if __name__ == "__main__":
             # The separators in files can result in empty YAML documents to be returned
             if d is not None:
                 # Iterate over all resources getting all the hashes
-                for r in d['resources']:
-                   
+                for r in d['resources']: 
 		# Leave APIs and HTML interfaces alone
                     if r.get('interactive', 'True') != 'True':
                         url = r.get('url', '')
