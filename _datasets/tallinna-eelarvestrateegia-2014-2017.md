@@ -23,7 +23,7 @@ resources:
     format: RTF
     interactive: 'True'
   - name: Eelnõu menetluskäik
-    url: 'hhttps://aktal.tallinnlv.ee/static/Eelnoud/en8148.html'
+    url: 'https://aktal.tallinnlv.ee/static/Eelnoud/en8148.html'
     format: HTML
     interactive: 'True'
   - name: Õigusakti algtekst
