@@ -1,7 +1,6 @@
 ---
-_id: fc487680-89fd-11ea-82a2-8b131ecfb475
 app_name: Sideteenuste veebikaart
-app_name_english: ''
+app_name_english: 'Communication services map'
 app_description: >-
   Tarbijakaitse ja Tehnilise Järelevalve Ameti poolt loodud kaardirakendus
   sisaldab ajakohaseid andmeid interneti kättesaadavuse ja kiiruste kohta üle
@@ -14,7 +13,7 @@ app_description: >-
 app_description_english: ''
 app_url: 'https://www.netikaart.ee/tsaApp/'
 developed_by: Tarbijakaitse ja Tehnilise Järelevalve Amet
-date_issued: '2020-04-29T09:44:14.586Z'
-date_modified: '2020-04-29T09:44:14.586Z'
+submitted: '29/04/2020'
+app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/sideteenused.PNG'
+img: sideteenused.PNG
 ---
-undefined
