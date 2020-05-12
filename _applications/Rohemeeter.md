@@ -9,7 +9,7 @@ app_description: >-
 app_description_english: ''
 app_url: 'https://shiny.botany.ut.ee/rohemeeter/'
 developed_by: Tartu Ülikooli ökoloogia ja maateaduste instituudi makroökoloogia töörühm
-submitted: '22/04/2020'
+submitted: '2020/04/22'
 img: rohemeeter.PNG
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/rohemeeter.PNG'
 ---
