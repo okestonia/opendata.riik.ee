@@ -13,7 +13,7 @@ app_description: >-
 app_description_english: ''
 app_url: 'https://www.netikaart.ee/tsaApp/'
 developed_by: Tarbijakaitse ja Tehnilise Järelevalve Amet
-submitted: '29/04/2020'
+submitted: '2020/04/29'
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/sideteenused.PNG'
 img: sideteenused.PNG
 ---

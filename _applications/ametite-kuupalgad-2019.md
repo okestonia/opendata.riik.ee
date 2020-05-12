@@ -9,6 +9,6 @@ app_description_english: ''
 app_url: 'https://andmestikud.stat.ee/ametipalk/'
 developed_by: Statistikaamet
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/ametite-kuupalgad.PNG'
-submitted: '23/04/2020'
+submitted: '2020/04/23'
 img: ametite-kuupalgad.PNG
 ---

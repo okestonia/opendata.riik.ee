@@ -7,5 +7,5 @@ app_description_english: ''
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/tartuportal.PNG'
 app_url: 'https://tarktartu.telia.ee/et/'
 img: tartuportal.PNG
-submitted: 2020/15/04
+submitted: 2020/04/15
 ---

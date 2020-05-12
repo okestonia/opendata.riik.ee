@@ -7,7 +7,7 @@ app_description: >-
 app_description_english: ''
 app_url: 'https://service.eomap.ee/kuusaluvald/#'
 developed_by: Kuusalu vald
-submitted: '29/04/2020'
+submitted: '2020/04/29'
 app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/kuusalu.PNG'
 img: kuusalu.PNG
 ---
