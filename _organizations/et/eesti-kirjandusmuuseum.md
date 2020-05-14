@@ -11,6 +11,6 @@ description: |-
      <p>AVALIK TEAVE: <a href="https://www.kirmus.ee/et/info/avalik-teave" target="_blank" rel="noopener">https://www.kirmus.ee/et/info/avalik-teave</a></p>
 maintainer_name: Siiri Pärkson
 maintainer_email: siiri.parkson@kirmus.ee
-logo: kirmus.png
+logo: kirmus_logo.png
 twitter: ''
 ---
