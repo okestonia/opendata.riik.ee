@@ -44,6 +44,12 @@ Esimene avaandmete foorum tõi avaliku sektori, erasektori jt sidusrühmade esin
 
 # Avaandmete avaliku sektori töörühma materjalid
 
+## Töörühm 23.03.2020
+- [Kohtumise kokkuvõte](https://docs.google.com/document/d/1yY1ydJKV56wZk3Dm1xRwnDqjE14fdtsRz8L9FJBeL8s)
+- [Päevakava slaidid](https://github.com/okestonia/opendata.riik.ee/files/4599078/Avaandmete.toogrupp.23032020.1.pptx)
+- [Avatud teaduse raamistik Eestis ja PSI](https://github.com/okestonia/opendata.riik.ee/files/4599080/Avatud.teaduse.raamistik.Eestis.ja.PSI.23.marts.2020.Martin.Eessalu.1.1.pdf)
+- [Avaandmete ja avaliku sektori teabe direktiivist (ODPSI)](https://github.com/okestonia/opendata.riik.ee/files/4599082/ODPSI_23.03_ST.1.pptx)
+
 ## Töörühm 25.11.2019  
 - [Kohtumise kokkuvõte](https://docs.google.com/document/d/18ymXTDj2TEiiZCupuM_svfmhbpUvtAgsGc4ibepzJrg)
 - [Päevakava slaidid](https://docs.google.com/presentation/d/11E9nFeIJ6Mxj-Q7ryhZVBLWJQQPR2FYdChjABFJ9XWY)
