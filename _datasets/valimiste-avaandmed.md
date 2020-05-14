@@ -11,7 +11,7 @@ category_en:
   - International Issues
 resources:
   - name: Toimunud valimised
-    url: 'https://www.valimised.ee/et/valimiste-arhiiv/toimunud-valimiste-arhiiv'
+    url: 'https://www.valimised.ee/et/toimunud-valimiste-arhiiv'
     format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
