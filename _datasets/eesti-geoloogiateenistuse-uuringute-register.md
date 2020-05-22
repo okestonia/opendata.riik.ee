@@ -16,6 +16,10 @@ resources:
     url: 'https://fond.egt.ee/fond/openapi.json'
     format: JSON
     interactive: 'TRUE'
+  - name: Eesti Geoloogiateenistuse uuringute register
+    url: 'https://fond.egt.ee/geoserver/egf/ows'
+    format: WFS
+    interactive: 'TRUE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Geoloogiateenistus
