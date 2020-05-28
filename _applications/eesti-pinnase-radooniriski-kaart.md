@@ -1,7 +1,6 @@
 ---
-_id: f1ff3350-9bf8-11ea-8b61-8dcb0c22c8c3
 app_name: Eesti pinnase radooniriski kaart
-app_name_english: ''
+app_name_english: 'Map of radon content in Estonia'
 app_description: >-
   Käesoleva radooniriski kaardi koostamisel on kasutatud veidi enam kui 3000
   väliuuringupunkti andmeid üle Eesti. Need uuringutulemused on kogunenud
@@ -14,7 +13,7 @@ app_description_english: ''
 app_url: >-
   https://gis.egt.ee/portal/apps/MapJournal/index.html?appid=638ac8a1e69940eea7a26138ca8f6dcd#detail
 developed_by: Eesti Geoloogiateenistus
-date_issued: '2020-05-22T06:53:30.576Z'
-date_modified: '2020-05-22T06:53:30.576Z'
+submitted: '2020/05/22'
+img: radoonirisk.PNG
+app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/radoonirisk.PNG'
 ---
-undefined
