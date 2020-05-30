@@ -10,12 +10,12 @@ category_en:
   - Health
 resources:
   - name: Ravimiregistri päring
-    url: 'http://ravimiregister.ravimiamet.ee/?pv=HumRavimid.Otsing'
-    format: CSV
+    url: 'https://www.ravimiregister.ee/?pv=HumRavimid.Otsing'
+    format: HTML
     interactive: 'True'
-  - name: Ravimiregistri andmed failidena
-    url: 'http://ravimiregister.ravimiamet.ee/default.aspx?pv=Andmed.Ravimid'
-    format: CSV
+  - name: Ravimiregistri andmed failidena (CSV)
+    url: 'https://www.ravimiregister.ee/?pv=Andmed.Ravimid'
+    format: HTML
     interactive: 'FALSE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
