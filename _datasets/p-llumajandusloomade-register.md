@@ -49,7 +49,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/01/30
-date_modified: 2020/05/31
+date_modified: 2020/06/01
 organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
 maintainer_name: Kiido Levin
 maintainer_email: kiido.levin@pria.ee
