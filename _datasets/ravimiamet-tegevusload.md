@@ -10,9 +10,9 @@ category:
 category_en:
   - Health
 resources:
-  - name: Ravimite käitlemise ja vahendamise tegevuslubade registri päring
+  - name: Ravimite käitlemise ja vahendamise tegevuslubade registri päring (CSV,XML,Excel)
     url: 'http://rkav.sm.ee/rkav/faces/pages/tegevuslubaForm/tegevuslubaOtsing.jspx'
-    format: CSV,XML,Excel
+    format: HTML
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
