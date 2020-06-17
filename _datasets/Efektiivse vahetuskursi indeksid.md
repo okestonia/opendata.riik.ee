@@ -7,7 +7,7 @@ category:
   - Majandus ja rahandus
 category_en: 
   - Economy and Finance
-reosurces:
+resources:
   - name: Efektiivse vahetuskursi indeksid
     url: 'https://statistika.eestipank.ee/#/en/p/MAKSEBIL_JA_INVPOS/727'
     format: html
