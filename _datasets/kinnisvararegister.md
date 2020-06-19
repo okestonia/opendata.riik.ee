@@ -14,10 +14,6 @@ resources:
     url: 'https://riigivara.fin.ee/kvr/'
     format: HTML
     interactive: 'True'
-  - name: Riigi kinnisvararegistri otsingutulemused
-    url: 'https://riigivara.fin.ee/kvr/'
-    format: csv
-    interactive: 'False'
   - name: Riigi kinnisvararegistri avaandmete schema
     url: 'https://riigivara.fin.ee/kvr/avaandmed/schema'
     format: xsd
