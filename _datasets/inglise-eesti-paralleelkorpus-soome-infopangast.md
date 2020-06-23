@@ -19,5 +19,5 @@ maintainer_name: ''
 maintainer_email: infopankki@hel.fi
 maintainer_phone: ''
 date_issued: '21/03/2020'
-date_modified: 2020/06/23
+date_modified: 2020/06/24
 ---
