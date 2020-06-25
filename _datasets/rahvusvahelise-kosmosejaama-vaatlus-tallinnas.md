@@ -1,8 +1,8 @@
 ---
 title: Rahvusvahelise kosmosejaama vaatlus Tallinnas
 title_en: International Space Station sightings in Tallinn
-notes: "Rahvusvahelise kosmosejaama vaatluse info Tallinnas\r\nRohkem infot: https://spotthestation.nasa.gov/sightings/view.cfm?country=Estonia&region=None&city=Tallinn#.XvUBCi2w2uo"
-notes_en: "International Space Station sightings in Tallinn\r\nMore information: https://spotthestation.nasa.gov/sightings/view.cfm?country=Estonia&region=None&city=Tallinn#.XvUBCi2w2uo"
+notes: "Rahvusvahelise kosmosejaama vaatluse info Tallinnas\r\nRohkem infot: https://spotthestation.nasa.gov/sightings/view.cfm?country=Estonia&region=None&city=Tallinn#"
+notes_en: "International Space Station sightings in Tallinn\r\nMore information: https://spotthestation.nasa.gov/sightings/view.cfm?country=Estonia&region=None&city=Tallinn#"
 category: Teadus ja tehnoloogia
 category_en: Science and Technology
 resources:
