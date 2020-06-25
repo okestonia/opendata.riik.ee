@@ -10,7 +10,11 @@ category:
 category_en:
   - Education, Culture and Sport
 resources:
-  - name: Piletimaailm API
+  - name: Ürituste nimekiri
+    url: 'https://www.piletimaailm.com/performances/feed.json'
+    format: JSON
+    interactive: 'True'
+  - name: 'Piletimaailm API - juhend'
     url: '/downloads/yrituste_voog_api.pdf'
     format: PDF
     interactive: 'False'
@@ -22,5 +26,4 @@ organization: Piletimaailm
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
-
 ---
