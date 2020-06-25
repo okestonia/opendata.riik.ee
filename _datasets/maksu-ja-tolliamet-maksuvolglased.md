@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/03/18
-date_modified: 2020/06/25
+date_modified: 2020/06/26
 organization: Maksu- ja Tolliamet
 maintainer_name: EMTA
 maintainer_email: emta@emta.ee
