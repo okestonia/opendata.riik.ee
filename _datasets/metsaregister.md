@@ -11,7 +11,7 @@ category_en:
 resources:
   - name: Avaandmed
     url: 'https://register.metsad.ee/'
-    format: ZIP
+    format: HTML
     interactive: 'False'
   - name: Metsaressursi arvestuse riiklik register - Metsaportaali avalike teenuste kasutusjuhend
     url: 'https://register.metsad.ee/api/rest/baas/juhend?juhendName=Metsaportaali%20avalike%20teenuste%20kasutusjuhend.pdf'
