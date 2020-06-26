@@ -16,6 +16,10 @@ resources:
     url: 'http://pub.e-tervis.ee/classifications'
     format: CSV,XLS
     interactive: 'False'
+  - name: RSS infovoog
+    url: 'http://pub.e-tervis.ee/news.xml'
+    format: XML
+    interactive: 'TRUE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/14

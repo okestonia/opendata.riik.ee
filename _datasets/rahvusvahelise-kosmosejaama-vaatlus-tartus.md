@@ -1,8 +1,8 @@
 ---
 title: Rahvusvahelise kosmosejaama vaatlus Tartus
 title_en: International Space Station sightings in Tartu
-notes: "Rahvusvahelise kosmosejaama vaatluse info Tartus\r\nRohkem infot: https://spotthestation.nasa.gov/sightings/view.cfm?country=Estonia&region=None&city=Tartu#"
-notes_en: "International Space Station sightings in Tartu\r\nMore information: https://spotthestation.nasa.gov/sightings/view.cfm?country=Estonia&region=None&city=Tartu#"
+notes: "Rahvusvahelise kosmosejaama vaatluse info Tartus\r\nRohkem infot: https://spotthestation.nasa.gov/sightings/view.cfm?country=Estonia&region=None&city=Tartu#.XvUCty2w2uo"
+notes_en: "International Space Station sightings in Tartu\r\nMore information: https://spotthestation.nasa.gov/sightings/view.cfm?country=Estonia&region=None&city=Tartu#.XvUCty2w2uo"
 category: Teadus ja tehnoloogia
 category_en: Science and Technology
 resources:
