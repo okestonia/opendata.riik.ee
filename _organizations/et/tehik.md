@@ -5,5 +5,5 @@ maintainer_name: Tehik
 maintainer_email: info@tehik.ee
 description: ''
 twitter: ''
-logo: org_icon.png
+logo: tehik_logo.png
 ---
