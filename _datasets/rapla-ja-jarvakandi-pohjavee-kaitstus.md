@@ -8,7 +8,7 @@ category:
 category_en:
   - Environment
 resources:
-    name: Rapla ja Järvakandi põhjavee kaitstus Esri Shape
+  - name: Rapla ja Järvakandi põhjavee kaitstus Esri Shape
     url: 'https://www.egt.ee/sites/default/files/download/gis/rapla_jarvakandi_pohjavee_kaitstus.zip'
     format: 'zip (cpg, dpf, prj, shp, shx)'
     interactive: 'True'
@@ -21,3 +21,4 @@ maintainer_phone: ''
 date_issued: '22/05/2020'
 date_modified: '22/05/2020'
 ---
+

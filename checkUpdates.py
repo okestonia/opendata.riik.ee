@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#!/usr/bin/env python3
 import sys
 import yaml
 import json
@@ -64,6 +65,7 @@ if __name__ == "__main__":
         new_date = ""
 
         for d in yaml.load_all(file):
+            print(d)
             # The separators in files can result in empty YAML documents to be returned
             if d is not None:
                 # Iterate over all resources getting all the hashes
@@ -93,3 +95,4 @@ if __name__ == "__main__":
         if new_date:
             change_date(line_rstrip, new_date)
     dump_hashes(hashes, filename)
+
