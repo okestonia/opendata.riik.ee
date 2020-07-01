@@ -9,7 +9,7 @@ resources:
   - name: metsa- ja puidutoostuse sonaraamat
     url: 'https://www.eurotermbank.com/collections/265'
     format: HTML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: OÜ Metsatark

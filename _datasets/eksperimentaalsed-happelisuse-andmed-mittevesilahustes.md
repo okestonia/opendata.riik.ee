@@ -29,7 +29,7 @@ resources:
   - name: 'https://analytical.chem.ut.ee/databases/pka-values-acids/'
     url: 'https://analytical.chem.ut.ee/databases/pka-values-acids/'
     format: HTML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: 'University of Tartu, Institute of Chemistry'

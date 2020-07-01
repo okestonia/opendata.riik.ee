@@ -9,7 +9,7 @@ resources:
   - name: opikud
     url: 'https://korp.keeleressursid.ee/kuus/?mode=coursebookall#?lang=et'
     format: XML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut

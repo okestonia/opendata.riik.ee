@@ -9,7 +9,7 @@ resources:
   - name: Avaliku sektori asutused liikide lõikes
     url: https://www.rahandusministeerium.ee/sites/default/files/riigihaldus/avaliku_sektori_asutused_asutuse_liikide_loikes.xlsx
     format: XLSX
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Rahandusministeerium

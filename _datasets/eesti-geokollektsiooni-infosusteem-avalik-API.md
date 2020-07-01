@@ -11,7 +11,7 @@ resources:
   - name: API
     url: 'https://api.geocollections.info/'
     format: json
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tallinna Tehnikaülikooli Geoloogia Instituut

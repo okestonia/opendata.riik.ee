@@ -21,7 +21,7 @@ resources:
   - name: Andmete struktuuri kirjeldus
     url: 'https://takis.ttja.ee/opendata/struktuur.pdf'
     format: PDF
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 01/02/2019

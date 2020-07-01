@@ -14,7 +14,7 @@ resources:
   - name: rahvatervise ja statistika seletussonaraamat
     url: 'https://www.eurotermbank.com/collections/43'
     format: HTML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu ülikool

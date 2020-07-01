@@ -13,7 +13,7 @@ resources:
   - name: Ravijärjekorrad eriarstiabis
     url: 'https://www.haigekassa.ee/partnerile/raviasutusele/ravijarjekorra-info-partnerile'
     format: html
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 organization: Eesti Haigekassa

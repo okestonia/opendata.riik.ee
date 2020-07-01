@@ -23,7 +23,7 @@ resources:
   - name: laste
     url: https://metashare.ut.ee/repository/browse/1001-lastemangu-aastast-1935/096d94c8317611e7a6e4005056b400241df1202cc85249a5be7f6b5c8ca67692/
     format: xht
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Kirjandusmuuseum

@@ -11,7 +11,7 @@ resources:
   - name: Majandustegevuse andmed
     url: 'https://www.envir.ee/sites/default/files/Vesi/uleujutused/kaardid/majandustegevuse_andmed_lisa5.xlsx'
     format: XLSX
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Keskkonnaministeerium

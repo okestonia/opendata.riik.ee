@@ -13,7 +13,7 @@ resources:
   - name: Tervishoiuteenuste (ravi) kasutus teenuse osutajate lõikes
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/eelarve/eelarve/THT08.px/?rxid=b9911bd7-5487-4855-9616-ba23bcdab9ea'
     format: px
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Haigekassa

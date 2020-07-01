@@ -17,7 +17,7 @@ resources:
     url: 'https://www.audiitortegevus.ee/atr/web/opendata/v1/audiitorkogu_liikmed'
     format: JSON
     interactive: 'True'
-interactive: 'TRUE'
+interactive: 'True'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-N'
 organization: Rahandusministeerium

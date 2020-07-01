@@ -9,7 +9,7 @@ resources:
   - name: kirjandus
     url:  https://metashare.ut.ee/repository/browse/vanema-eestikeelse-alguparase-ilukirjanduse-kogu/b1990c7c46d411e7a6e4005056b40024d7dd17a04b9848bd90f6b90b7d994481/
     format: txt
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Kirjandusmuuseum

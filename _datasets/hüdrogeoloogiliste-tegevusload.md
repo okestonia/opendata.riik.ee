@@ -14,7 +14,7 @@ resources:
   - name: Tegevusload
     url: 'https://veka.keskkonnainfo.ee/veka.aspx?type=artikkel&id=-323857927'
     format: 'HTML, CSV'
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Keskkonnaagentuur

@@ -14,7 +14,7 @@ resources:
   - name: teadusartikklid
     url: 'https://www.cl.ut.ee/korpused/segakorpus/teadusartiklid/'
     format: XML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool

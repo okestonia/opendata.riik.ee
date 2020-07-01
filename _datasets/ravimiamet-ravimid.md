@@ -16,7 +16,7 @@ resources:
   - name: Ravimiregistri andmed failidena (CSV)
     url: 'https://www.ravimiregister.ee/?pv=Andmed.Ravimid'
     format: HTML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/15

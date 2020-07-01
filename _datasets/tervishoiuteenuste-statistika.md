@@ -11,7 +11,7 @@ resources:
   - name: Tervishoiuteenuste statistika
     url: 'https://www.haigekassa.ee/haigekassa/finantsnaitajad/tervishoiuteenuste-statistika'
     format: html
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Haigekassa

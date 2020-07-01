@@ -11,7 +11,7 @@ resources:
   - name: Eesti Haigekassa eelarve aruandlus
     url: 'https://www.haigekassa.ee/haigekassa/finantsnaitajad'
     format: HTML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Haigekassa

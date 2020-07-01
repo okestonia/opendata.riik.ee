@@ -13,7 +13,7 @@ resources:
   - name: Raviteenuste summeeritud aruandlus
     url: 'https://statistika.haigekassa.ee/yldnaitajad.html'
     format: html
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Haigekassa

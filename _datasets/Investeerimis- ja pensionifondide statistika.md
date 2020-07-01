@@ -11,7 +11,7 @@ resources:
   - name: Investeerimis- ja pensionifondide statistika
     url: 'https://statistika.eestipank.ee/#/et/p/FINANTSSEKTOR/3370'
     format: html
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Q'
 organization: Eesti Pank

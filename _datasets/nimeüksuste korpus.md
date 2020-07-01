@@ -9,7 +9,7 @@ resources:
   - name: nime
     url: https://metashare.ut.ee/repository/browse/nimeuksuste-korpus/88d030c0acde11e2a6e4005056b40024f1def472ed254e77a8952e1003d9f81e/
     format: cnll
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool

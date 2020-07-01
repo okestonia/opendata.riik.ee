@@ -22,7 +22,7 @@ resources:
   - name: koll
     url: 'https://www.cl.ut.ee/ressursid/sagedased_kollokatsioonid/'
     format: txt
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool

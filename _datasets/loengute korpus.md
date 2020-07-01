@@ -9,7 +9,7 @@ resources:
   - name: loengud
     url:  http://bark.phon.ioc.ee/avalik/ekt2014/korpused_avalik/Loengusalvestused/Transkribeeritud/
     format: .trs ja .wav
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tallinna Tehnikaülikool

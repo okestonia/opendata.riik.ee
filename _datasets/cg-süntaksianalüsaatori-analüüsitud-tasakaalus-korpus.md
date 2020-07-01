@@ -11,7 +11,7 @@ resources:
   - name: teadus
     url:  https://entu.keeleressursid.ee/shared/7216/L6KO5y3jkck1gZ0qZzYxDMdUyHslZfqkp9tUkoIUMNuJEgTBLMiuQSpSgZzx27YC
     format: XML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool

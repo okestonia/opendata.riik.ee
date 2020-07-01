@@ -11,7 +11,7 @@ resources:
   - name: Eesti maapõue kirjandus
     url: 'https://api.geocollections.info/reference.json?is_estonian_reference=true'
     format: JSON
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by/4.0/'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-B'
 organization: Loodusteaduslikud arhiivid ja andmevõrgustik (NATARC)

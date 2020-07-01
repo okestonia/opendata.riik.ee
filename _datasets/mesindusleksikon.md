@@ -12,7 +12,7 @@ resources:
   - name: mesindus
     url: 'https://term.eki.ee/termbase/view/1980661'
     format: html
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Maaülikool

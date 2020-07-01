@@ -11,23 +11,23 @@ resources:
   - name: Ravikindlustatud inimeste jaotus ravikindlustuse liigi, vanusrühma, soo ja elukoha maakonna järgi
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/kindlustatu/kindlustatu__Kindlustus/KN05.px/?rxid=81520678-b3bd-4371-a1cc-edc30bb2a02d'
     format: HTML
-    interactive: 'TRUE'
+    interactive: 'True'
   - name: Ravikindlustatud inimeste jaotus kindlustusliigi ja soo järgi
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/kindlustatu/kindlustatu__Kindlustus/KN10.px/?rxid=81520678-b3bd-4371-a1cc-edc30bb2a02d'
     format: HTML
-    interactive: 'TRUE'
+    interactive: 'True'
   - name: Ravikindlustatud inimeste jaotus kindlustusliigi ja elukoha maakonna järgi
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/kindlustatu/kindlustatu__Kindlustus/KN15.px/?rxid=81520678-b3bd-4371-a1cc-edc30bb2a02d'
     format: HTML
-    interactive: 'TRUE'
+    interactive: 'True'
   - name: Ravikindlustatud inimeste jaotus elukoha maakonna ja soo järgi
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/kindlustatu/kindlustatu__Kindlustus/KN30.px/?rxid=81520678-b3bd-4371-a1cc-edc30bb2a02d'
     format: HTML
-    interactive: 'TRUE'
+    interactive: 'True'
   - name: Ravikindlustatud inimeste jaotus elukoha maakonna ja kohaliku omavalitsuse detailsuses
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/kindlustatu/kindlustatu__Kindlustus/KN40_2.px/?rxid=81520678-b3bd-4371-a1cc-edc30bb2a02d'
     format: HTML
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Haigekassa

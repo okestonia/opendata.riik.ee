@@ -9,7 +9,7 @@ resources:
   - name: pajatused
     url:   https://metashare.ut.ee/repository/browse/kodavere-pajatused/6232f2e4ff5a11e7a6e4005056b400247397ec9c28be49ffac7253c5d586dbec/
     format: 'txt, wav'
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Kirjandusmuuseum

@@ -11,7 +11,7 @@ resources:
   - name: kuritegevuse_ulevaade.xlsx
     url: 'https://www.kriminaalpoliitika.ee/kuritegevuse-statistika/uploads/kuritegevuse_ulevaade.xlsx'
     format: xlsx
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Justiitsministeerium

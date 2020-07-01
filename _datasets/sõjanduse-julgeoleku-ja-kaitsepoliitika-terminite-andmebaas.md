@@ -12,7 +12,7 @@ resources:
   - name: mil
     url: 'http://termin.eki.ee/militerm/'
     format: html
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut

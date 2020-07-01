@@ -9,7 +9,7 @@ resources:
   - name: tolked
     url: 'https://www.cl.ut.ee/korpused/paralleel/'
     format: PAR
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool

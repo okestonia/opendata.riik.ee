@@ -11,7 +11,7 @@ resources:
   - name: Eesti leibkondade varad ja kohustused
     url: 'https://statistika.eestipank.ee/#/et/p/LEIBKONDADE_VARAD_JA'
     format: html
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Pank

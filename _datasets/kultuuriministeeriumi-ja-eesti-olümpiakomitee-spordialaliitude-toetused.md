@@ -17,7 +17,7 @@ resources:
   - name: Eraldatud toetused
     url: 'https://www.spordiregister.ee/toetused/opendata/kumeoktoetused.xml'
     format: XML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 organization: Spordikoolituse ja -Teabe SA

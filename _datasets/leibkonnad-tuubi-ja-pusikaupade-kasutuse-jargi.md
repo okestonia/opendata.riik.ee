@@ -13,7 +13,7 @@ resources:
   - name: Leibkondade uuring
     url: 'http://andmebaas.stat.ee/Index.aspx?DataSetCode=LET209'
     format: HTML
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Statistikaamet

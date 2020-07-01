@@ -9,7 +9,7 @@ resources:
   - name: tootmistehnika
     url: 'https://term.eki.ee/termbase/view/5812536'
     format: html
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut

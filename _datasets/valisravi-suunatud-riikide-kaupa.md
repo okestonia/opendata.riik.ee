@@ -13,7 +13,7 @@ resources:
   - name: Välisravi suunatud riikide kaupa
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/kindlustatu/kindlustatu__Rahalised%20h%c3%bcvitised__Ravi%20v%c3%a4lisriigis/VR01.px/?rxid=81520678-b3bd-4371-a1cc-edc30bb2a02d'
     format: px
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Haigekassa

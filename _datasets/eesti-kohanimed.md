@@ -13,7 +13,7 @@ resources:
 - name: Eesti kohanimed
   url: 'https://www.eki.ee/knab/p_ee_et.htm'
   format: html
-  interactive: 'FALSE'
+  interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut

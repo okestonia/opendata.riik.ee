@@ -16,7 +16,7 @@ resources:
   - name: piibel
     url: 'http://www.eki.ee/piibel/'
     format: html
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut

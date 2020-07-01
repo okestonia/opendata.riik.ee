@@ -13,7 +13,7 @@ resources:
   - name: Jämesoolevähi sõeluuringud
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/lepingud/lepingud__1_ennetus__S%c3%b5eluuringud/EN45.px/?rxid=a325f15f-bcfa-4097-8d98-b937f087acca'
     format: HTML
-    interactive: 'TRUE'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Haigekassa

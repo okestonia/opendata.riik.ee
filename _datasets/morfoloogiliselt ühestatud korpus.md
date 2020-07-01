@@ -9,7 +9,7 @@ resources:
   - name: morfo
     url: https://entu.keeleressursid.ee/shared/7183/YVFWwBVBLYrUhDfd0AaqruNmur90zHRvqDRZwxddvXM8vPG2d3QcOwPrOlfz3se8
     format: .kym
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool

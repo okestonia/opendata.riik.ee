@@ -16,7 +16,7 @@ resources:
   - name: koomiks
     url: 'https://term.eki.ee/termbase/view/4005606'
     format: html
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tallinna Ülikool

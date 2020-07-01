@@ -9,7 +9,7 @@ resources:
   - name: ehitus
     url:   https://metashare.ut.ee/repository/browse/eesti-lati-ehitusalane-paralleelkorpus/fc09498858eb11e2a6e4005056b400248d8ea9f4242c4771b34cc6f65b97cc78/
     format: txt
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool

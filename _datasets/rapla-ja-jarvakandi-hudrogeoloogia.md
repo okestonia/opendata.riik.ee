@@ -11,7 +11,7 @@ resources:
   - name: Rapla ja Järvakandi hüdrogeoloogia Esri Shape
     url: 'https://www.egt.ee/sites/default/files/download/gis/rapla_jarvakandi_hudrogeoloogia.zip'
     format: 'zip (cpg, dpf, prj, shp, shx)'
-    interactive: 'False'
+    interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Geoloogiateenistus

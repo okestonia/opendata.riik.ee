@@ -9,7 +9,7 @@ resources:
   - name: Valisriikide kohanimed
     url: 'https://www.eki.ee/knab/p_mm_et.htm'
     format: HTML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Keele Instituut

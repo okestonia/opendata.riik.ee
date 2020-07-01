@@ -9,7 +9,7 @@ resources:
   - name: GEMET Tesaurus
     url: 'https://www.eurotermbank.com/collections/645'
     format: HTML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Keskkonnaagentuur

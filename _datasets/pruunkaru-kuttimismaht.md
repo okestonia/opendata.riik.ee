@@ -11,7 +11,7 @@ resources:
   - name: Pruunkaru küttimismaht
     url: 'https://www.keskkonnaamet.ee/sites/default/files/Jahindus/karujahi_limiit_2019.xlsx'
     format: XLSX
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Keskkonnaamet

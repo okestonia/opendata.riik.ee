@@ -13,7 +13,7 @@ resources:
   - name: Riigiteataja korpus
     url: https://www.elrc-share.eu/repository/browse/estonian-monolingual-corpus-from-the-estonian-legislation-web-site-wwwriigiteatajaee/24307a8cb81f11e9a7e100155d02670602f975fbf32e47aaa7257be1f26f952d/
     format: txt
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Justiitsministeerium

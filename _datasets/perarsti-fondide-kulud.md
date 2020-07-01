@@ -13,7 +13,7 @@ resources:
   - name: Perearstide fondide kasutuse aruandlus
     url: 'https://statistika.haigekassa.ee/PXWeb/pxweb/et/lepingud/lepingud__2_%c3%bcldarstiabi__Lepingud/LP80.px/?rxid=eb0eef7e-3de8-4b9d-819b-53707ebfe8b7'
     format: HTML
-interactive: 'TRUE'
+interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Haihekassa

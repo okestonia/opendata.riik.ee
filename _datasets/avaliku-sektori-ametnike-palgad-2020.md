@@ -11,7 +11,7 @@ resources:
   - name: Ametnike palgainfo 2020
     url: 'https://www.rahandusministeerium.ee/system/files_force/document_files/riik_-_pohipalgad_01.04.2020.xlsx?download=1'
     format: XLSX
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Rahandusministeerium

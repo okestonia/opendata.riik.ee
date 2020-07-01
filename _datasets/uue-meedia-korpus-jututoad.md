@@ -9,7 +9,7 @@ resources:
   - name: jututoad
     url: 'https://www.cl.ut.ee/korpused/segakorpus/uusmeedia/jututoad/'
     format: XML
-    interactive: 'FALSE'
+    interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Tartu Ülikool
