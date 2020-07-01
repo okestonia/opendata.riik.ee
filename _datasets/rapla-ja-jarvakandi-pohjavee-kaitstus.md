@@ -11,7 +11,7 @@ resources:
     name: Rapla ja Järvakandi põhjavee kaitstus Esri Shape
     url: 'https://www.egt.ee/sites/default/files/download/gis/rapla_jarvakandi_pohjavee_kaitstus.zip'
     format: 'zip (cpg, dpf, prj, shp, shx)'
-    interactive: 'FALSE'
+    interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Eesti Geoloogiateenistus
