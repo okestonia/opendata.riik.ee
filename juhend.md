@@ -12,7 +12,9 @@ lang: et
 Sellelt lehelt leiate juhendeid ja nõuandeid, mis võiksid olla abiks andmete avaldamisel opendata.riik.ee portaalis:
 - [Avaandmete lisamise juhend](#avaandmete-lisamise-ja-uuendamise-juhend)
 - [Teiseste andmete avaldamise juhend](#juhend-teiste-organisatsioonide-andmetel-põhinevate-andmehulkade-avaldamiseks-opendatariikee-portaalis)
-- [Andmetele litsentsi määramine](#andmetele-litsentsi-andmine)  
+- [Andmetele litsentsi määramine](#andmetele-litsentsi-andmine)
+- [Avaandmete loomise juhend](#avaandmete-loomise-juhend)
+- [Soovitused avaandmete mõju hindamiseks organisatsioonis](#soovitused-avaandmete-mõju-hindamiseks-organisatsioonis) 
 
 ---
 
@@ -336,3 +338,184 @@ Kõik CC litsentsid [lõpevad automaatselt](https://creativecommons.org/faq/#how
 Kaaluge litsentsiandja mittesiduvate palvete täitmist.
 
 Litsentsiandja võib esitada materjali kasutamisel eripalveid. Soovitame neid järgida, kuid see on teile valikuline ja mitte kohustus.
+
+# Avaandmete loomise juhend
+
+## Kuidas andmeid mõistlikult tuumsüsteemidest kätte saada?
+
+**Põhisoovitused:**
+
+* Andmete avaldajal peab olema kohustus andmete kättesaadavus tagada.
+* Tuum peaks olema eraldi:
+  * tee vahepuhver (mitte otse andmebaasist).
+  * tee protsess tuuma ja avaldamise vahele.
+* Töötada lahendus välja juba andmekogu loomisel või olemasoleva muutumisel.
+* Tuumas indeksid != avaandmetes indeksid.
+* Kui vaja pärida tuumast, siis tükelda, limiteeri küsimine, et mitte häirida tuuma.
+* Automatiseerida:
+  * päringud kellaajaliselt hajutatud.
+  * mõistlik filtreering, päringud detailsemalt.
+  * piisavalt hea koormusjaotur.
+* Alternatiivne/täiendav variant: eraldi organisatsioon andmete väljavõtmiseks (kompetents).
+ 
+## Kuidas andmeid mõistlikult internetis avaldada?
+
+**Avaldatavad andmed peaksid olema:**
+
+* Värsked:
+  * dünaamilisi andmeid (näiteks ilmastiku, ühistranspordi või parkimise andmestikud) peab ajakohastama sageli või reaalajas eelkõige seetõttu, et nad muutuvad pidevalt või aeguvad kiiresti.
+  * andurite abil saadud andmeid loetakse tavaliselt dünaamilisteks andmeteks.
+* Inim-mõistetavad.
+* Masintöödeldavad: JSON, CSV, XML + semantika, metaandmed.
+* Struktureeritud! 
+* Leitavad, otsimootori-sõbralikud.
+* Kooskõlas seadusega.
+* Kooskõlas avatud standarditega.
+* Masintõlgitavad (et ka välismaalased saaksid andmeid kasutada).
+ 
+## Kuidas seda tagada?
+
+* Andmete avaldamine ja uuendamine **automatiseerida** (vii käsitöö miinimumini) & **teha regulaarseks**: 
+  * aitab tagada andmete usaldusväärsuse.
+  * kui andmete avaldamine on ühekordne tegevus, ei ole võimalik tagada, et andmete avaldamine on seadusega kooskõlas. Auditeeritavuse ning kontrollitavuse huvides on hea, kui on koodis kirjas.
+* Dokumenteeri, lisa readme fail.
+* API on eelistatuim andmestike avaldamiseks ning jagamiseks.
+* Lisa näidiseid, too välja võimalikud kasutusotstarve.
+* Mõtle läbi URL, hoia see stabiilne.
+* Lisa CORS-võimekus (muudatustega või infoga andmete muutmise aja kohta).
+* Pane alati juurde metaandmed:
+* kasuta laialt kasutatud sõnavara, nt Google Markup.
+* Mõtle läbi üksikelemendid, nimekirja päring, muudatuste päring.
+* Loo aegrea säilimise võimalus.
+* Masintõlgitavus: jälgi eestikeelseid termineid valides, et näiteks Google Translate suudaks termineid üheselt tõlkida.
+* Visualiseeri kaardid ning graafikud.
+* Laialt kasutatud andmed avalda lingituna/linkandmetena.
+* Anna võimalus tagasisideks, lisaküsimusteks:
+  * tea, kes on su kasutajad.
+ 
+**Muud tugitegevused:**
+
+* Pressiteated, info avaldamine avaandmete pealt loodud edulugude kohta.
+* Avaandmete promo ja andmevaldajate survestamine, et andmeid avaldataks.
+ 
+## Kuidas korraldada andmete puhastamine/anonümiseerimine enne avaldamist?
+
+**Kes peaks tegelema?**
+
+* Töötlemine peaks toimuma IT ja äripoole koostöös - äripool teab, milleks andmed vajalikud, IT peaks sellest juhinduma.
+* Kooskõlastada avaldamise protsess infoturbe, tehnoloogia jt asjassepuutuvatega.
+* Määra vastutaja, DPO, andmete omanik.
+ 
+**Kes ütleb, mis andmed on vajalikud?**
+
+* Organisatsiooni äripool.
+* Kasutaja.
+* Andmed võiks üle vaadata teise valdkonna isik ja veenduda nendest arusaamises ning nende vajalikkuses.
+ 
+**Õiguslik alus:**
+
+* Alusta sellest, mis on andmete avaldamise seaduslik alus – AvTS ja seonduvad seadused.
+* Taga isikuandmete, riigi- ja finantssaladuse kaitse.
+ 
+**Kuidas tagada andmete turvalisus?**
+
+* Eemalda mittevajalik, eemalda avalikustamisele mittekuuluv.
+* Vajadusel anonümiseeri, pseudonümiseeri ning agregeeri.
+* Andmete haavatavus - kui selgub, et keegi suudab sinu andmete toel teha midagi ebaeetilist, kuritegelikku vms, muuda protsessi.
+ 
+**Üldine protsess:**
+
+* **Pane püsti pidev protsess**, ära avalda ainult üks kord - korratavus vajalik ka seadusega kooskõla tagamiseks.
+* Mitte tegeleda andmete korrastamisega - see peaks toimuma tuumsüsteemis.
+* Automatiseerida andmete avaldamine, et alati oleks värsked andmed. Ei tohiks olla käsitöö.
+* Automaatne kontroll, mis juhib tähelepanu muredele andmetes.
+* Mõelda läbi, milline on parim formaat andmete esitamiseks.
+* Mõõda andmete kvaliteeti.
+  * Statistikaamet tegeleb kvaliteedi mõõtmise metoodika väljaarendamisega.
+ 
+**Kui läheb avalikustamiseks:**
+
+* Kirjelda andmed, mis sul on:
+  * RIHA.
+* Kirjelda metaandmed ja vorming.
+* Vii masintöödeldavale kujule.
+* Andmetega lähtekood kaasa – s.o kuidas andmed on töödeldud.
+* Versioneerimine:
+  * V1 jääb endiselt uuenema (protsess!), V2 tuleb kõrvale (nt eemaldasime duplikaadid).
+ 
+## Kas ja kuidas toimub metaandmestiku avaldamine ning uuendamine?
+
+**Kõige olulisem:**
+
+* Metaandmed on väga olulised kirjeldamaks, andmete sisu, uuenemiskiirust jms.
+* Avaandmete kirjeldused ei tule veebiotsingutest välja:
+  * tuleb lahendada metaandmete avaldamine – metaandmed peaksid olema avaldatud andmetega koos ja tekkima automaatselt.
+* Eraldiseisva dokumentatsiooni asemel inimhoomatav ja masintöödeldav kirjeldus.
+* Lisaks andmetele hoolitseda ka metaandmete ajakohasena hoidmise eest.
+* Kõige alus: vajalik saada andmete elutsükkel organisatsioonis kontrolli alla! Andmed kui “organisatsiooni vereringe” - oleks vaja teada, kust kuhu mis jookseb.
+ 
+**Kuidas metaandmeid luua?**
+
+* Vajalik tekitada kirjeldusstandard - Statistikaamet tegeleb
+* Asutustes peab tekkima andmekataloog, kus on andmed kirjeldatud. Ei kirjutata ette, milline see peab olema, aga siis tekib vähemalt koht, kust andmeid avalikustada.
+* Metaandmed YAML, sama kasutada avaldamisprotsessis, et tagada asjakohasus, ühekordsus.
+* Kirjelda teadaoleva andmevead!
+* Tekita tagasiside looja ja kasutaja vahel: anna metaandmetes ka kontaktpunkt (lisaküsimused, tagasiside andmetele).
+ 
+**Statistikaameti pakutav lahendus:**
+* Avaldatav kirjeldus peab olema semantiliselt seotud algse kirjeldusega.
+* Metaandmed peavad olema ühtlustatud (kirjeldusstandard) – Statistikaamet teeb standardi! Statistikaameti standardid: DDI, SDMX. Transformation: SDMX → VTL = validation and transportation language.
+ 
+## Kas ja kuidas piirata ligipääsu andmetele?
+
+* Põhimõtteline küsimus: kas üldse piirata? 
+* Piirata (ainult) süsteemi tervise huvides.
+* Tehniline võimekus süsteemi hooldustööde aegadeks.
+* Käsitleda andmeid kui ressurssi (nagu Ülemiste järve vesi – järvel on tara ümber, aga kraanist vett saavad kõik).
+ 
+**Millistele andmetele ligipääsu piirata/mitte piirata?**
+
+* Ligipääsu piirang vaid üksikandmetele (isikuandmed) → pseudonümiseerimine või anonümiseerimine, et saaks avaldada.
+* Suurandmetele ligipääs kokkuleppel.
+* Ligipääs pärast autentimist.
+ 
+**Mille alusel otsustada, kas/kui palju piirata?**
+
+Andmed võib jagada kategooriatesse:
+* personaalsed andmed, mida ainult asutus töötleb.
+* andmed, mis kõigile arusaadavalt avalikud.
+* muud andmed:
+  * statistika – äriline väärtus. Riik müüb ka andmeid (äriregister, kinnistusregister). Kas saaks võtta siit ärilise kasu maha ja teha need avaandmeteks?
+  * Mikroandmed, näiteks leibkondade uuringute ankeedid (isikustamata, seega sobilikud avaldamiseks).
+ 
+**Kasutuslitsentsid:**
+* Litsentsi on vaja! On üldlevinud arusaam, et Eesti seadusandluse kohaselt ei ole litsentsi vaja, aga sellele on mitu vastuargumenti:
+  * juristid ei ole sugugi ühel meelel, et ei ole vaja – parem litsents juurde panna.
+  * kasutajad tahavad teada, mis alusel võib andmeid kasutada.
+  * oluline määratleda, mida võib andmetega teha. Pahatahtlikku kasutajat litsents ei takista, aga võimaldab vastutusele võtta. Heatahtlik kasutaja saab suunised ja reeglid.
+  * litsents oluline välisriikide kasutajate jaoks, kes ei jõua süveneda Eesti seadusandluse eripäradesse.
+* Kasutuslitsentsi juures täpsusta allika mainimise nõuet, töötluse tulemi eest raha küsimise luba ning töötlemata andmete eest tasu küsimist.
+
+# Soovitused avaandmete mõju hindamiseks organisatsioonis
+
+„Enne teabe avaandmeteks andmist peab teabevaldaja tegema avaandmete mõjuhinnangu.“[1] Andmekaitse Inspektsioon peab eelkõige silmas andmekaitsealast mõjuhinnangut ning pakub selleks ka [näidisdokumendi](https://www.aki.ee/sites/default/files/inspektsioon/naidis/andmekaitsealane_mojuhinnang_naidis_1.pdf).
+
+Lisaks andmekaitsealasaele mõjuhinnangule on soovituslik läbi viia ka üleüldine avaandmete mõju mõõtmine. Avaandmete mõju võib olla näiteks majanduslik, sotsiaalne, poliitiline ja/või keskkondlik ning eristada tuleks andmete avaldamisega kaasnevat mõju ja taaskasutusest tekkivast mõjust. Avaldamisega kaasnev mõju liik sõltub eelkõige organisatsiooni tegevusvaldkonnast, kuna avaandmed tekivad tööprotsesside täitmise käigus. Avaandmete mõju on enim seotud andmete taaskasutusega ja sõltub konkreetsetest kasutusjuhtudest.
+
+Avaandmete mõju mõõtmine peab olema iga organisatsiooni jaoks loomulik tööprotsessi osa ning mõju hindamise mõõdikud peavad olema nii efektiivsed kui ka lihtsasti tuletavad, et mõju hindamiseks ei kuluks organisatsioonisiseselt lisaressurssi. Mõju mõõtmine võib esmapilgul näida lisakohustusena, kuid aitab lõpuks paremini hinnata seni tehtut, planeerida edasisi tegevusi ja seada tuleviku eesmärke.
+
+Kuigi mõõdikute seadmisel tuleks arvestada asutuse enda eripärade ja eesmärkidega, siis toome välja mõningad mõõdikud, mida võiks kaaluda:
+
+1. Andmestiku allalaadimise arv – kui andmestik tundub teoreetiliselt kasulik, kuid allalaadimiste arv seda ei kajasta, siis tuleb uurida selle põhjuseid. Kas andmestiku vorming on sobiv, kas avaldatud andmed on kasutajatele piisavalt arusaadavad, kas andmed on piisavalt hästi leitavad?
+2. Andmestiku allalaadimise sagedus – s.o kui on märgata andmestiku allalaadimise langust, tuleb uurida selle põhjuseid. Kas andmestiku kvaliteet on halvenenud või pole teema lihtsalt enam nii aktuaalne?
+3. Organisatsioonile esitatavate teabenõuete valdkondade/teemade analüüs – kas ilmneb kindel teema, mille kohta võiks teabenõuete mitmekordsetele rahuldamiste asemel avaldada teemakohased andmed avaandmetena?
+  * Teabenõuetele vastamise võimalik asendamine avaandmete avaldamisega toob endaga kaasa ka avaliku sektori kokkuhoiu ning tootlikkuse ja tõhususe kasvu avalikus sektoris, kuna töötajad saavad enam keskenduda sisutööle. Lisaks sellele saab avaliku sektori kokkuhoidu mõõta rahalises vääringus, mis on omakorda mõju mõõdik.
+4. Kasutajate rahulolu mõõtmine – rahulolu mõõtmine ei pea olema keeruline protsess, sobilik on ka etteantud skaalal kasutajatelt numbrilise tagasiside küsimine (näiteks 10-palli likert skaalal), mis toimub allalaadimisega samal ajal. Lisaks on mõistlik kasutajatelt tagasiside ja kasutusjuhu küsimine ning vajadusel viia sisse muudatused vastavalt kasutajate tagasisidele.
+
+Sellised mõõdikud on esmaseks mõjuhinnanguks piisavad ja sobilikud, andes nii teabevaldajale tagasiside avaldatud andmestiku kohta kui ka kasutajatele, kes saavad tarbida andmeid omale optimaalsel kujul. Mõju liigitamine majanduslikuks, poliitiliseks, sotsiaalseks või keskkondlikuks tuleneb andmetest. Majanduslik mõju ilmneb eriti geograafiliste, meteoroloogiliste ning majandusalaste andmestike avaldamisel. Poliitiline mõju ilmneb selliste andmestike avaldamisest, mis muudavad riigivalitsemist läbipaistvamaks ning andmestike, mis sisaldavat teavet vastutusest erinevate ressursside kasutamise kohta. Andmestikud, millel on sotsiaalne mõju, on kõikvõimalikud hüvitiste ja toetuste andmestikud ning erinevate inimgruppide kohta käivad andmed ning keskkondlik mõju on suurim keskkondlikel andmestikel. [2]
+ 
+–––
+
+[1] [Avaandmetest Andmekaitse Inspektsioon](https://www.aki.ee/et/teabe-avalikkus/avaandmetest)
+
+[2] [Creating Value through Open Data](https://www.europeandataportal.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf)
