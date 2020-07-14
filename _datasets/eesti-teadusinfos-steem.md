@@ -72,7 +72,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/04/16
-date_modified: 2020/07/01
+date_modified: 2020/07/15
 organization: Haridus- ja Teadusministeerium
 maintainer_name: ETIS kasutajatugi
 maintainer_email: etis@etag.ee
