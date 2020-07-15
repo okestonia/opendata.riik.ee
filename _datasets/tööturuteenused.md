@@ -10,19 +10,19 @@ category_en:
   - Population and Society
 resources:
   - name: Aktiivsed tööturumeetmed
-    url: ‘https://www.tootukassa.ee/sites/tootukassa.ee/files/almp.xlsx’ 
+    url: 'https://www.tootukassa.ee/sites/tootukassa.ee/files/almp.xlsx'
     format: xlsx
-    interactive: ‘False’
+    interactive: 'False'
   - name: Aktiivsed tööturumeetmed (vähenenud töövõimega inimesed)
-    url: ‘https://www.tootukassa.ee/sites/tootukassa.ee/files/almp_vah_toovoime.xlsx 
+    url: 'https://www.tootukassa.ee/sites/tootukassa.ee/files/almp_vah_toovoime.xlsx' 
     format: xlsx
-    interactive: ‘False’    
-license: ‘https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode’
-update_freq: ‘http://purl.org/linked-data/sdmx/2009/code#freq-M’
+    interactive: 'False'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 13/06/2019 
 date_modified: 13/06/2019 
 organization: Eesti Töötukassa
 maintainer_name: Eesti Töötukassa
 maintainer_email: github@tootukassa.ee
-maintainer_phone: ‘614 7386’
+maintainer_phone: '614 7386'
 ---
