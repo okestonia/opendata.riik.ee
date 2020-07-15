@@ -1,5 +1,4 @@
 ---
-_id: 18f6ad10-c4dc-11ea-b6a9-69d1ae55a285
 app_name: Loodusvaatluste andmebaasi kaardirakendus
 app_name_english: ''
 app_description: >-
@@ -11,7 +10,7 @@ app_description: >-
 app_description_english: ''
 app_url: 'http://loodus.keskkonnainfo.ee/lva_kaart/'
 developed_by: Keskkonnaagentuur
-date_issued: '2020-07-13T07:40:18.182Z'
-date_modified: '2020-07-13T07:40:18.182Z'
+img: loodusvaatluste-andmebaas.PNG
+app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/loodusvaatluste-andmebaas.PNG'
+submitted: '2020/07/13'
 ---
-undefined
