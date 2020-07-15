@@ -1,5 +1,4 @@
 ---
-_id: c266dd80-c28d-11ea-b191-b5e3990c357e
 app_name: Päästestatistika kohalikele omavalitsustele
 app_name_english: Rescue statistics by municipalities
 app_description: >-
@@ -15,7 +14,7 @@ app_description_english: >-
 app_url: >-
   https://public.tableau.com/profile/ron1622#!/vizhome/Omavalitsusteldnitajad/Omavalitsusteldnitajad
 developed_by: Päästeamet
-date_issued: '2020-07-10T09:14:29.893Z'
-date_modified: '2020-07-10T09:14:29.893Z'
+img: paastestatistika.PNG
+app_preview: 'https://raw.githubusercontent.com/okestonia/jkan/master/img/paastestatistika.PNG'
+submitted: '2020/07/10'
 ---
-undefined
