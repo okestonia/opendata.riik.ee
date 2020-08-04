@@ -33,7 +33,7 @@ resources:
 license: 'https://opensource.org/licenses/MIT'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2018/05/14
-date_modified: 2020/08/04
+date_modified: 2020/08/05
 organization: Riigi Infosüsteemi Amet (RIA)
 maintainer_name: Toomas Mölder
 maintainer_email: toomas.molder@ria.ee
