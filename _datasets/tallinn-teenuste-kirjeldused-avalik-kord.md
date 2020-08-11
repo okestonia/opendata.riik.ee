@@ -17,7 +17,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''
-date_modified: 2020/07/17
+date_modified: 2020/08/12
 organization: Tallinna Linnavalitsus
 maintainer_name: Liina Karjane
 maintainer_email: liina.karjane@tallinnlv.ee
