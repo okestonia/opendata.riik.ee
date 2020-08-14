@@ -53,7 +53,7 @@ resources:
 license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
 update_freq: ''
 date_issued: 2019/05/31
-date_modified: 2020/08/12
+date_modified: 2020/08/15
 organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: maaamet@maaamet.ee
