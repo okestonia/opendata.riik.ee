@@ -1,5 +1,5 @@
 ---
-title: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
+title: Põllumajanduse Registrite ja Informatsiooni Amet
 title_en: Agricultural Registers and Information Board
 maintainer_name: Tarmo Pihlik
 maintainer_email: Tarmo.Pihlik@pria.ee
