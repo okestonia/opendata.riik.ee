@@ -16,7 +16,7 @@ resources:
 interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
-organization: Eesti Haihekassa
+organization: Eesti Haigekassa
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
