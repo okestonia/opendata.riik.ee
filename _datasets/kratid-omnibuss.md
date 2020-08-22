@@ -30,9 +30,8 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2020/02/03
 date_modified: ''
-organization: 'Majandus -ja Kommunikatsiooniministeerium (MKM)'
+organization: 'Majandus -ja Kommunikatsiooniministeerium'
 maintainer_name: 'Ott Velsberg'
 maintainer_email: 'ott.velsberg@mkm.ee'
 maintainer_phone: '+372 56 61 4194'
-
 ---
