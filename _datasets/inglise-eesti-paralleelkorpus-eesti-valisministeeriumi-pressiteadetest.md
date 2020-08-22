@@ -14,10 +14,10 @@ resources:
     interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
-organization: Valisministeerium
+organization: Välisministeerium
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
 date_issued: '21/03/2020'
-date_modified: 2020/08/22
+date_modified: '2020/08/19'
 ---
