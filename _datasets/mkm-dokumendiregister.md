@@ -18,7 +18,7 @@ resources:
     interactive: 'True'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-B'
-organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
+organization: Majandus -ja Kommunikatsiooniministeerium
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''

@@ -18,8 +18,8 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 date_issued: 2015/03/26
 date_modified: 2015/03/26
-organization: Aegviidu Vallavalitsus
+organization: Anija Vallavalitsus
 maintainer_name: Lilja Piibeleht-Tarassov
-maintainer_email: lilja@aegviidu.ee
-maintainer_phone: '6051770'
+maintainer_email: lilja.piibeleht-tarassov@anija.ee
+maintainer_phone: '619 9000'
 ---

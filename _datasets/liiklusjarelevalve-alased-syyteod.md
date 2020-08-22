@@ -45,7 +45,7 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2017/11/09
 date_modified: 2020/08/14
-organization: Politsei- ja Piirivalveamet (PPA)
+organization: Politsei- ja Piirivalveamet
 maintainer_name: Krista Rebane
 maintainer_email: avaandmed@list.politsei.ee
 maintainer_phone:
