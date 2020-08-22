@@ -102,7 +102,7 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Q'
 date_issued: 07/05/2018
 date_modified: 2020/04/01
-organization: Majandus -ja Kommunikatsiooniministeerium (MKM)
+organization: Majandus -ja Kommunikatsiooniministeerium
 maintainer_name: Kristjan Kaiklem
 maintainer_email: kristjan.kaiklem@mkm.ee
 maintainer_phone: ''
