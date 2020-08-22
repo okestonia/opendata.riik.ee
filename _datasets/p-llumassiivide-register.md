@@ -30,7 +30,7 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/05/13
 date_modified: 2019/04/01
-organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
+organization: Põllumajanduse Registrite ja Informatsiooni Amet
 maintainer_name: Kadri Pärnpuu
 maintainer_email: Kadri.Parnpuu@pria.ee
 maintainer_phone: '7371319'

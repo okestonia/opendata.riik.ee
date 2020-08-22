@@ -23,7 +23,7 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/21
 date_modified: 2019/02/21
-organization: Põllumajanduse Registrite ja Informatsiooni Amet (PRIA)
+organization: Põllumajanduse Registrite ja Informatsiooni Amet
 maintainer_name: Kai Raudvere
 maintainer_email: Kai.Raudvere@pria.ee
 maintainer_phone: '7371257'
