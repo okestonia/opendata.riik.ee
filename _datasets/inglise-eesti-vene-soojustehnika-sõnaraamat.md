@@ -12,7 +12,7 @@ resources:
     interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
-organization: Eesti Energia
+organization: Eesti Energia AS (grupp)
 maintainer_name: Heinrich Suik
 maintainer_email: ''
 maintainer_phone: ''
