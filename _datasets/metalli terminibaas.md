@@ -12,7 +12,7 @@ resources:
     interactive: 'False'
 license: OTHER
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
-organization: TALLINNA LASNAMÄE MEHAANIKAKOOL
+organization: Tallinna Lasnamäe Mehaanikakool
 maintainer_name: ''
 maintainer_email: ''
 maintainer_phone: ''
