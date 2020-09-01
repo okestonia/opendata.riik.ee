@@ -15,7 +15,7 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D' 
 date_issued: 31/08/2019 
 date_modified: 25/11/2019 
-organization: Hariduse Infotehnoloogia Sihtasutus
+organization: Haridus- ja Noorteamet
 maintainer_name: Peep Küngas
 maintainer_email: info@hitsa.ee
 maintainer_phone: '' 
