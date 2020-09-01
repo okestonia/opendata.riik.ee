@@ -16,7 +16,7 @@ license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D' 
 date_issued: 05/07/2019 
 date_modified: 05/07/2019 
-organization: Hariduse Infotehnoloogia Sihtasutus
+organization: Haridus- ja Noorteamet
 maintainer_name: Tahvel kasutajatugi
 maintainer_email: tahvel@hitsa.ee
 maintainer_phone: '' 
