@@ -17,7 +17,7 @@ resources:
 license: 'http://creativecommons.org/about/cc0'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2017/04/10
-date_modified: 2020/09/04
+date_modified: 2020/09/05
 organization: Eesti Rahvusraamatukogu
 maintainer_name: Urmas Sinisalu
 maintainer_email: urmas@nlib.ee
