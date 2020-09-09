@@ -11,7 +11,7 @@ category_en:
   - Economy and Finance
 resources:
   - name: Statistikaameti statistika andmebaas
-    url: 'http://www.stat.ee/andmebaas'
+    url: 'http://pub.stat.ee/px-web.2001/dialog/statfile2.asp'
     format: HTML
     interactive: 'True'
   - name: Avaandmed API
