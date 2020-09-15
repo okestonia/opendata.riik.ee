@@ -26,12 +26,20 @@ resources:
     url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/puugiandmed.xsd'
     format: xsd
     interactive: 'False'
+  - name: Püügiandmed Traal
+    url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/puugiandmed_traal.xml'
+    format: XML
+    interactive: 'False'
+  - name: Püügiandmed Traal XSD
+    url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/puugiandmed_traal.xsd'
+    format: xsd
+    interactive: 'False'
   - name: Kalalaevaregister
     url: 'https://www.agri.ee/et/eesmargid-tegevused/kalamajandus-ja-kutseline-kalapuuk/kalalaevaregister'
     format: HTML
     interactive: 'True'
   - name: Kalapüügiandmed
-    url: 'https://www.agri.ee/et/eesmargid-tegevused/kalamajandus-ja-kutseline-kalapuuk/puugiandmed'
+    url: 'https://vet.agri.ee/et/kalandus-toiduturg/puugistatistika-lossimiskohad-ja-kala-esmakokkuostukohad/puugiandmed'
     format: HTML
     interactive: 'True'
   - name: Maaeluministeeriumi avaandmed
