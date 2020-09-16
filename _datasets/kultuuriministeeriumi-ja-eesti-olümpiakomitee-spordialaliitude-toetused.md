@@ -25,5 +25,5 @@ maintainer_name: Spordikoolituse ja -Teabe SA
 maintainer_email: veiko@spordiinfo.ee
 maintainer_phone: '7303407'
 date_issued: '21/05/2020'
-date_modified: '21/05/2020'
+date_modified: 2020/09/17
 ---
