@@ -31,6 +31,6 @@ maintainer_name: Risto Järv
 maintainer_email: risto.jarv@folklore.ee
 maintainer_phone: ''
 date_issued: '2020/03/28'
-date_modified: 2020/09/27
+date_modified: 2020/09/28
 ---
 
