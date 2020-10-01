@@ -30,7 +30,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 09/04/2020 
-date_modified: 2020/10/01
+date_modified: 2020/10/02
 organization: Eesti Töötukassa
 maintainer_name: Eesti Töötukassa
 maintainer_email: github@tootukassa.ee
