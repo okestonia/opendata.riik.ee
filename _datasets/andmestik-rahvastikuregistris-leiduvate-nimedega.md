@@ -10,17 +10,25 @@ category:
 category_en:
   - Population and Society
 resources:
-  - name: Andmestik rahvastikuregistri nimedest
+  - name: Andmestik rahvastikuregistri nimedest 2019.aasta seisuga
     url: 'https://www.siseministeerium.ee/sites/default/files/dokumendid/Rahvastiku-statistika/20190325_rahvastikuregistri_koik_nimed.xlsx'
-    format: XML
+    format: xlsx
+    interactive: 'False'
+  - name: Andmestik rahvastikuregistri nimedest 2020.aasta seisuga
+    url: 'https://www.siseministeerium.ee/sites/default/files/dokumendid/Rahvastiku-statistika/2020_05_19_rahvastikuregistri_koik_nimed.xlsx'
+    format: xlsx
+    interactive: 'False'
+  - name: Rahvastikustatistika
+    url: 'https://www.siseministeerium.ee/et/eesmark-tegevused/rahvastikutoimingud/rahvastikustatistika'
+    format: HTML/PDF
     interactive: 'False'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/02/01
-date_modified: 2019/03/25
+date_modified: 2020/10/08
 organization: Siseministeerium
-maintainer_name: Merle Reitalu
-maintainer_email: Merle.Reitalu@siseministeerium.ee
+maintainer_name: Rahvastiku toimingute osakond
+maintainer_email: info@siseministeerium.ee
 maintainer_phone: ''
 
 ---
