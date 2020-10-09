@@ -26,12 +26,20 @@ resources:
     url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/puugiandmed.xsd'
     format: xsd
     interactive: 'False'
+  - name: Püügiandmed Traal
+    url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/puugiandmed_traal.xml'
+    format: XML
+    interactive: 'False'
+  - name: Püügiandmed Traal XSD
+    url: 'https://www.agri.ee/sites/default/files/opendata/kalandus/puugiandmed_traal.xsd'
+    format: xsd
+    interactive: 'False'
   - name: Kalalaevaregister
     url: 'https://www.agri.ee/et/eesmargid-tegevused/kalamajandus-ja-kutseline-kalapuuk/kalalaevaregister'
     format: HTML
     interactive: 'True'
   - name: Kalapüügiandmed
-    url: 'https://www.agri.ee/et/eesmargid-tegevused/kalamajandus-ja-kutseline-kalapuuk/puugiandmed'
+    url: 'https://vet.agri.ee/et/kalandus-toiduturg/puugistatistika-lossimiskohad-ja-kala-esmakokkuostukohad/puugiandmed'
     format: HTML
     interactive: 'True'
   - name: Maaeluministeeriumi avaandmed
@@ -41,7 +49,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Q'
 date_issued: 2018/05/04
-date_modified: 2020/09/09
+date_modified: 2020/09/16
 organization: Maaeluministeerium
 maintainer_name: Jüri Tali
 maintainer_email: jyri.tali@agri.ee
