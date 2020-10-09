@@ -29,7 +29,7 @@ resources:
 license: 'https://opendatacommons.org/licenses/by/3.0/'
 update_freq: ''
 date_issued: 2018/05/29
-date_modified: 2020/10/09
+date_modified: 2020/10/10
 organization: Maanteeamet
 maintainer_name: Maanteeamet
 maintainer_email: opendata@mnt.ee
