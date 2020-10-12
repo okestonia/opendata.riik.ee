@@ -19,5 +19,5 @@ maintainer_name: Eesti Töötukassa
 maintainer_email: github@tootukassa.ee
 maintainer_phone: 614 7386
 date_issued: '14/07/2020'
-date_modified: 2020/09/11
+date_modified: 2020/10/13
 ---
