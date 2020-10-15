@@ -17,6 +17,6 @@ maintainer_name: Kadri Muischnek
 maintainer_email: korpus.info@ut.ee
 maintainer_phone: ''
 date_issued: '2020-03-28T17:11:56.984Z'
-date_modified: 2020/10/13
+date_modified: 2020/10/16
 ---
 
