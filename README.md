@@ -1,4 +1,5 @@
-# Mis on riigii avaandmete portaal?
+# Mis on riigi avaandmete portaal?
+
 Riigi avaandmete portaal on mõeldud Eesti avaliku sektori asutuste kogutavate andmete avalikustamise hõlbustamiseks ja nende leidmise kergendamiseks potentsiaalsete kasutajate jaoks.
 
 Avaandmete portaalis saab:
