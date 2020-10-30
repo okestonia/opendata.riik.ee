@@ -1,0 +1,29 @@
+---
+_id: 0172a700-1aa1-11eb-b6b7-ebf85b40109b
+title: Isikut tõendavate dokumentide taotlused
+title_en: ''
+notes: >-
+  Isikut tõendavate dokumentide taotluste allikaks on isikut tõendavate
+  dokumentide andmekogu. Isikut tõendavate dokumentide seaduse § 2 lg 1 järgi on
+  isikut tõendav dokument riigiasutuse poolt välja antud dokument, kuhu on
+  kantud kasutaja nimi ja sünniaeg või isikukood ning foto või näokujutis ja
+  allkiri või allkirjakujutis, kui seadus või selle alusel kehtestatud õigusakt
+  ei sätesta teisiti.
+notes_en: ''
+category: Valitsus ja avalik sektor
+category_en: Regions and Cities
+name: 'https://opendata.smit.ee/ppa/csv/isik_dokud_taotlused'
+url: >-
+  https://www.politsei.ee/et/juhend/politseitoeoega-seotud-avaandmed/isikut-toendavate-dokumentide-taotlused
+format: csv
+interactive: 'FALSE'
+license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
+organization: Politsei- ja Piirivalveamet
+maintainer_name: ''
+maintainer_email: avaandmed@list.politsei.ee
+maintainer_phone: ''
+date_issued: '2020-10-30T11:13:58.442Z'
+date_modified: '2020-10-30T11:13:58.442Z'
+---
+undefined
