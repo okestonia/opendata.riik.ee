@@ -1,7 +1,6 @@
 ---
-_id: 0172a700-1aa1-11eb-b6b7-ebf85b40109b
 title: Isikut tõendavate dokumentide taotlused
-title_en: ''
+title_en: 'Applications for identification documents'
 notes: >-
   Isikut tõendavate dokumentide taotluste allikaks on isikut tõendavate
   dokumentide andmekogu. Isikut tõendavate dokumentide seaduse § 2 lg 1 järgi on
@@ -10,20 +9,29 @@ notes: >-
   allkiri või allkirjakujutis, kui seadus või selle alusel kehtestatud õigusakt
   ei sätesta teisiti.
 notes_en: ''
-category: Valitsus ja avalik sektor
-category_en: Regions and Cities
-name: 'https://opendata.smit.ee/ppa/csv/isik_dokud_taotlused'
-url: >-
-  https://www.politsei.ee/et/juhend/politseitoeoega-seotud-avaandmed/isikut-toendavate-dokumentide-taotlused
-format: csv
-interactive: 'FALSE'
+category: 
+  - Valitsus ja avalik sektor
+category_en: 
+  - Regions and Cities
+resources:
+  - name: 'Kirjeldus ja seletuskiri'
+    url: 'https://www.politsei.ee/et/juhend/politseitoeoega-seotud-avaandmed/isikut-toendavate-dokumentide-taotlused'
+    format: html
+    interactive: 'FALSE'
+  - name: 'https://opendata.smit.ee/ppa/csv/isik_dokud_taotlused.csv'
+    url: 'https://opendata.smit.ee/ppa/csv/isik_dokud_taotlused.csv'
+    format: csv
+    interactive: 'FALSE'
+  - name: 'https://opendata.smit.ee/ppa/csv/isik_dokud_taotlused.zip'
+    url: 'https://opendata.smit.ee/ppa/files/isik_dokud_taotlused.zip'
+    format: zip
+    interactive: 'FALSE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 organization: Politsei- ja Piirivalveamet
 maintainer_name: ''
 maintainer_email: avaandmed@list.politsei.ee
 maintainer_phone: ''
-date_issued: '2020-10-30T11:13:58.442Z'
-date_modified: '2020-10-30T11:13:58.442Z'
+date_issued: '30/10/2020'
+date_modified: '30/10/2020'
 ---
-undefined
