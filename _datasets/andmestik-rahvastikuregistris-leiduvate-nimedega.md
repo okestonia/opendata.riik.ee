@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2018/02/01
-date_modified: 2020/11/10
+date_modified: 2020/11/11
 organization: Siseministeerium
 maintainer_name: Rahvastiku toimingute osakond
 maintainer_email: info@siseministeerium.ee
