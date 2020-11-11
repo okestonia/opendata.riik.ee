@@ -21,6 +21,7 @@ resources:
   - name: 'https://opendata.smit.ee/ppa/csv/isik_dokud_taotlused.csv'
     url: 'https://opendata.smit.ee/ppa/csv/isik_dokud_taotlused.csv'
     format: csv
+    delim: -t
     interactive: 'FALSE'
   - name: 'https://opendata.smit.ee/ppa/csv/isik_dokud_taotlused.zip'
     url: 'https://opendata.smit.ee/ppa/files/isik_dokud_taotlused.zip'

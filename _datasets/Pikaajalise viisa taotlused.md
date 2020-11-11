@@ -20,6 +20,7 @@ resources:
   - name: 'https://opendata.smit.ee/ppa/csv/viisaregister_d_viisad.csv'
     url: 'https://opendata.smit.ee/ppa/csv/viisaregister_d_viisad.csv'
     format: csv
+    delim: -t
     interactive: 'FALSE'
   - name: 'https://opendata.smit.ee/ppa/files/viisaregister_d_viisad.zip'
     url: 'https://opendata.smit.ee/ppa/files/viisaregister_d_viisad.zip'

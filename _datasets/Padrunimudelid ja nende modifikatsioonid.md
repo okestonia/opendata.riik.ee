@@ -21,6 +21,7 @@ resources:
   - name: 'https://opendata.smit.ee/ppa/csv/relvreg_padrunid.csv'
     url: 'https://opendata.smit.ee/ppa/csv/relvreg_padrunid.csv'
     format: csv
+    delim: -t
     interactive: 'FALSE'
   - name: 'https://opendata.smit.ee/ppa/files/relvreg_padrunid.zip'
     url: 'https://opendata.smit.ee/ppa/files/relvreg_padrunid.zip'
