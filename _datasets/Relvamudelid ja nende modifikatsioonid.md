@@ -10,7 +10,7 @@ notes: >-
   lubatavus ja määratakse kasutusvaldkond. Tüübikinnituse tulemusena
   tsiviilrelvaks tunnistatud relvamudeli andmed kantakse registri
   tüübikinnituste loetelusse tsiviilkäibesse lubatud tsiviilrelva mudelina.
-notes_en:''
+notes_en: ''
 category: 
   - Õigusemõistmine, õigussüsteem ja avalik turvalisus
 category_en: 
