@@ -23,6 +23,7 @@ resources:
   - name: 'Relvamudelid ja nende modifikatsioonid'
     url: 'https://opendata.smit.ee/ppa/csv/relvreg_relvamudelid.csv'
     format: csv
+    delim: -t
     interactive: 'FALSE'
   - name: 'Relvamudelid ja nende modifikatsioonid'
     url: 'https://opendata.smit.ee/ppa/files/relvreg_relvamudelid.zip'
