@@ -10,11 +10,11 @@ notes: >-
   lubatavus ja määratakse kasutusvaldkond. Tüübikinnituse tulemusena
   tsiviilrelvaks tunnistatud relvamudeli andmed kantakse registri
   tüübikinnituste loetelusse tsiviilkäibesse lubatud tsiviilrelva mudelina.
-notes_en:''
+notes_en: ''
 category: 
-  - Õigusemõistmine, õigussüsteem ja avalik turvalisus
+  - Valitsus ja avalik sektor
 category_en: 
-- Justice, Legal System, and Public Safety
+  - Regions and Cities
 resources:
   - name: 'Kirjeldus ja seletuskiri'
     url: 'https://www.politsei.ee/et/juhend/politseitoeoega-seotud-avaandmed/relvamudelid-ja-nende-modifikatsioonid'
@@ -29,9 +29,9 @@ resources:
     format: zip
     interactive: 'FALSE'
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
-update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
+update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-A'
 organization: Politsei- ja Piirivalveamet
-maintainer_name: 'Krista Rebane'
+maintainer_name: ''
 maintainer_email: avaandmed@list.politsei.ee
 maintainer_phone: ''
 date_issued: '30/10/2020'
