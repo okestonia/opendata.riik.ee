@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-M'
 date_issued: 05/01/2020
-date_modified: 2020/11/27
+date_modified: 2020/11/28
 organization: Kaitsevägi
 maintainer_name: Teo Niklus
 maintainer_email: teo.niklus@mil.ee
