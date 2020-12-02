@@ -21,7 +21,7 @@ resources:
 license: 'http://creativecommons.org/about/cc0'
 update_freq: ''
 date_issued: 2020/01/13
-date_modified: 2020/11/30
+date_modified: 2020/12/02
 organization: Rahandusministeerium
 maintainer_name: 
 maintainer_email: 
