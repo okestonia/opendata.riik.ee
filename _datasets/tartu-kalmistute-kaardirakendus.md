@@ -17,7 +17,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: ''
-date_modified: 2020/07/12
+date_modified: 2020/12/03
 organization: Tartu Linnavalitsus
 maintainer_name: ''
 maintainer_email: gis@tartulv.ee
