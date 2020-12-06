@@ -15,7 +15,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'  
 update_freq: ''
 date_issued: 13/12/2019 (avaandmete portaali lisamise kuupäev)
-date_modified: 2020/07/12
+date_modified: 2020/12/06
 
 organization: Tartu Linnavalitsus
 maintainer_name: ''
