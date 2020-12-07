@@ -22,7 +22,7 @@ update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 
 date_issued: 2019/04/02
 
-date_modified: 2020/12/06
+date_modified: 2020/12/07
 
 organization: Spordikoolituse ja -Teabe SA
 
