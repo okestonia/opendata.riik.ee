@@ -41,7 +41,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-D'
 date_issued: 2019/07/22
-date_modified: 2020/10/15
+date_modified: 2020/12/29
 organization: Riigikogu Kantselei
 maintainer_name: Riigikogu Kantselei
 maintainer_email: riigikogu@riigikogu.ee
