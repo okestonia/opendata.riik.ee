@@ -33,5 +33,5 @@ maintainer_name: 'Krista Rebane'
 maintainer_email: avaandmed@list.politsei.ee
 maintainer_phone: ''
 date_issued: '30/10/2020'
-date_modified: 2020/12/31
+date_modified: 2021/01/01
 ---
