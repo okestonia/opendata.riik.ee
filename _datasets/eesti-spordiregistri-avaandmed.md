@@ -48,7 +48,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2015/02/26
-date_modified: 2021/01/04
+date_modified: 2021/01/05
 organization: Kultuuriministeerium
 maintainer_name: Spordikoolituse ja -Teabe SA
 maintainer_email: ' esr@spordiinfo.ee'
