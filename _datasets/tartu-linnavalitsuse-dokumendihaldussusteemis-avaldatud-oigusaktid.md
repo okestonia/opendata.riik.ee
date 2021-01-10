@@ -25,7 +25,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: ''
-date_modified: 2021/01/10
+date_modified: 2021/01/11
 organization: Tartu Linnavalitsus
 maintainer_name: ''
 maintainer_email: lv@tartulv.ee
