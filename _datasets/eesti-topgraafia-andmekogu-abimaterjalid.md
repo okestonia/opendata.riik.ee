@@ -33,7 +33,7 @@ resources:
 license: 'https://geoportaal.maaamet.ee/avaandmete-litsents'
 update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-W'
 date_issued: 2019/05/31
-date_modified: 2021/01/18
+date_modified: 2021/01/19
 organization: Maa-amet
 maintainer_name: Maa-amet
 maintainer_email: avaandmed@maaamet.ee
