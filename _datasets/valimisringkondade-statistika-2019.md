@@ -17,7 +17,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/02/27
-date_modified: 2019/02/27
+date_modified: 2021/01/22
 organization: Statistikaamet
 maintainer_name:
 maintainer_email: stat@stat.ee
