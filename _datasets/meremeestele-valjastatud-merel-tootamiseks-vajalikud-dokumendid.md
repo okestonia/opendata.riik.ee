@@ -17,7 +17,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2017/09/27
-date_modified: 2021/01/23
+date_modified: 2021/02/05
 organization: Veeteede Amet
 maintainer_name: Alar Siht
 maintainer_email: alar.siht@vta.ee

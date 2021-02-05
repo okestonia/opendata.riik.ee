@@ -22,7 +22,7 @@ resources:
 license: 'https://creativecommons.org/licenses/by-sa/3.0/ee/legalcode'
 update_freq: ''
 date_issued: 2019/12/22
-date_modified: 2021/01/23
+date_modified: 2021/02/05
 organization: Ravimiamet
 maintainer_name: ''
 maintainer_email: ''

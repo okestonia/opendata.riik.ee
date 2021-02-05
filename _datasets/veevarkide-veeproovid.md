@@ -25,7 +25,7 @@ resources:
 license: 'http://vtiav.sm.ee/index.php/opendata/veevargi_veeproovid.pdf'
 update_freq: ''
 date_issued: 2015/02/18
-date_modified: 2021/02/04
+date_modified: 2021/02/05
 organization: Terviseamet
 maintainer_name: ''
 maintainer_email: kesk@terviseamet.ee
