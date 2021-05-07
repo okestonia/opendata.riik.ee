@@ -41,7 +41,7 @@
     "jquery-serializejson": "^2.9.0",
     "js-cookie": "^2.2.1",
     "js-yaml": "^3.13.1",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "notie": "github:timwis/notie#string-types",
     "parcel-bundler": "^1.12.4",
     "popper.js": "^1.16.0",
