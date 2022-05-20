@@ -19,8 +19,8 @@ update_freq: ''
 date_issued: 2017/07/17
 date_modified: 2019/02/13
 organization: Maaeluministeerium
-maintainer_name: 'Jüri Tali'
-maintainer_email: jyri.tali@agri.ee
+maintainer_name: Infosüsteemide haldus
+maintainer_email: ishaldus@agri.ee
 maintainer_phone: ''
 
 ---
