@@ -39,8 +39,8 @@ update_freq: 'http://purl.org/linked-data/sdmx/2009/code#freq-Q'
 date_issued: 2018/05/04
 date_modified: 2019/03/01
 organization: Maaeluministeerium
-maintainer_name: Jüri Tali
-maintainer_email: jyri.tali@agri.ee
+maintainer_name: Infosüsteemide haldus
+maintainer_email: ishaldus@agri.ee
 maintainer_phone: ''
 
 ---
